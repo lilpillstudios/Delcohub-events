@@ -1,0 +1,8 @@
+{
+  "_comment": "Venues whose events are dropped entirely. Use this when a venue posts its internal calendar to the Delco Times feed (school chapel services, staff meetings, dismissal times) instead of public events. Matching ignores case and punctuation, and applies to the venue name as it appears in the feed. Add a line, re-run, done — no code change needed.",
+  "_example": "Class of '44 Chapel",
+  "venues": [
+    "Class of '44 Chapel",
+    "LS Lobby-Green Level"
+  ]
+}

@@ -1,0 +1,85 @@
+# DelcoHub Event Scraper — nightly run
+# Lil Pill Studios (c) 2026
+#
+# Reads the Delco Times events calendar, keeps what's inside Delaware County,
+# and commits events.json. The app fetches that file at its raw URL, so new
+# events reach installed phones without a store release.
+
+name: Scrape DelcoHub Events
+
+on:
+  schedule:
+    # 5:20 AM Eastern (09:20 UTC). Off the hour on purpose — GitHub queues
+    # scheduled jobs heavily at :00 and they can be delayed by 20+ minutes.
+    - cron: '20 9 * * *'
+  workflow_dispatch:
+    inputs:
+      horizon_days:
+        description: 'How many days ahead to scrape'
+        required: false
+        default: '180'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape-events
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # No third-party packages: the scraper uses only the standard library,
+      # so there is nothing to install and nothing to keep patched.
+
+      - name: Run scraper
+        run: |
+          python scrape_events.py \
+            --horizon-days "${{ github.event.inputs.horizon_days || 180 }}" \
+            --listings "" \
+            --output events.json
+
+      - name: Sanity check the output
+        # Never commit an empty or truncated feed over a good one. The app
+        # falls back to bundled events if the file is bad, but a bad file
+        # that parses would quietly empty the Events tab.
+        run: |
+          python - <<'PY'
+          import json, sys
+          d = json.load(open("events.json", encoding="utf-8"))
+          n = len(d.get("listings", []))
+          print(f"event_count={n}")
+          if n < 40:
+              sys.exit(f"Refusing to publish: only {n} events (expected 40+). "
+                       "Upstream calendar may be down.")
+          bad = [l for l in d["listings"]
+                 if not l.get("id") or not l.get("name")
+                 or l.get("category") != "events"
+                 or not isinstance(l.get("lat"), (int, float))]
+          if bad:
+              sys.exit(f"Refusing to publish: {len(bad)} malformed records.")
+          print("OK")
+          PY
+
+      - name: Commit and push
+        run: |
+          git config user.name "DelcoHub Bot"
+          git config user.email "lilpillstudios@gmail.com"
+          git add events.json
+          if git diff --cached --quiet; then
+            echo "No change."
+          else
+            git commit -m "chore: update events.json [$(date -u +%Y-%m-%d)]"
+            git push
+          fi
