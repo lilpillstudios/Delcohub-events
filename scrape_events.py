@@ -460,6 +460,10 @@ def build_listing(group, today, venue_index):
         "needsVerify": False,
         "schedule": schedule,
         "nextDate": upcoming[0].isoformat(),
+        # Every remaining date this event runs, so the app's calendar can mark
+        # the right days instead of guessing a span from start/end. Capped —
+        # a daily attraction running all year would otherwise bloat the feed.
+        "dates": [d.isoformat() for d in upcoming[:120]],
         "occurrences": len(dates),
     }
 
@@ -522,6 +526,9 @@ def load_manual(today, verbose=False):
         ev.setdefault("venueId", "")
         ev.setdefault("imageUrl", "")
         ev.setdefault("occurrences", 1)
+        # Curated entries describe a pattern ("Saturdays, June-October") rather
+        # than a date list, so the calendar only knows their next occurrence.
+        ev.setdefault("dates", [ev["nextDate"]] if ev.get("nextDate") else [])
         ev["protected"] = True
         out.append(ev)
     if verbose:

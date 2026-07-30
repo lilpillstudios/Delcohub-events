@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "scraped_at": "2026-07-30T04:33:35.228307-04:00",
+  "scraped_at": "2026-07-30T04:57:03.351213-04:00",
   "horizon_days": 180,
   "event_count": 293,
   "listings": [
@@ -38,6 +38,102 @@
       "needsVerify": false,
       "schedule": "Daily, Jul 30 - Oct 31",
       "nextDate": "2026-07-30",
+      "dates": [
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-01",
+        "2026-08-02",
+        "2026-08-03",
+        "2026-08-04",
+        "2026-08-05",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-08",
+        "2026-08-09",
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-15",
+        "2026-08-16",
+        "2026-08-17",
+        "2026-08-18",
+        "2026-08-19",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-22",
+        "2026-08-23",
+        "2026-08-24",
+        "2026-08-25",
+        "2026-08-26",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-29",
+        "2026-08-30",
+        "2026-08-31",
+        "2026-09-01",
+        "2026-09-02",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-05",
+        "2026-09-06",
+        "2026-09-07",
+        "2026-09-08",
+        "2026-09-09",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-12",
+        "2026-09-13",
+        "2026-09-14",
+        "2026-09-15",
+        "2026-09-16",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-21",
+        "2026-09-22",
+        "2026-09-23",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-27",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31"
+      ],
       "occurrences": 94
     },
     {
@@ -76,6 +172,15 @@
       "needsVerify": false,
       "schedule": "Thursdays, Jul 30 - Sep 10",
       "nextDate": "2026-07-30",
+      "dates": [
+        "2026-07-30",
+        "2026-08-06",
+        "2026-08-13",
+        "2026-08-20",
+        "2026-08-27",
+        "2026-09-03",
+        "2026-09-10"
+      ],
       "occurrences": 7
     },
     {
@@ -110,6 +215,9 @@
       "needsVerify": false,
       "schedule": "Thu, Jul 30",
       "nextDate": "2026-07-30",
+      "dates": [
+        "2026-07-30"
+      ],
       "occurrences": 1
     },
     {
@@ -146,6 +254,9 @@
       "needsVerify": false,
       "schedule": "Thu, Jul 30",
       "nextDate": "2026-07-30",
+      "dates": [
+        "2026-07-30"
+      ],
       "occurrences": 1
     },
     {
@@ -181,6 +292,44 @@
       "needsVerify": false,
       "schedule": "Select dates, Jul 30 - Sep 27",
       "nextDate": "2026-07-30",
+      "dates": [
+        "2026-07-30",
+        "2026-07-31",
+        "2026-08-01",
+        "2026-08-02",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-08",
+        "2026-08-09",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-15",
+        "2026-08-16",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-22",
+        "2026-08-23",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-29",
+        "2026-08-30",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-05",
+        "2026-09-06",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-12",
+        "2026-09-13",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-27"
+      ],
       "occurrences": 36
     },
     {
@@ -218,6 +367,9 @@
       "needsVerify": false,
       "schedule": "Thu, Jul 30",
       "nextDate": "2026-07-30",
+      "dates": [
+        "2026-07-30"
+      ],
       "occurrences": 1
     },
     {
@@ -253,6 +405,10 @@
       "needsVerify": false,
       "schedule": "Daily, Jul 30 - Jul 31",
       "nextDate": "2026-07-30",
+      "dates": [
+        "2026-07-30",
+        "2026-07-31"
+      ],
       "occurrences": 2
     },
     {
@@ -288,6 +444,10 @@
       "needsVerify": false,
       "schedule": "Daily, Jul 30 - Jul 31",
       "nextDate": "2026-07-30",
+      "dates": [
+        "2026-07-30",
+        "2026-07-31"
+      ],
       "occurrences": 2
     },
     {
@@ -325,6 +485,34 @@
       "needsVerify": false,
       "schedule": "Thursdays, Jul 30 - Jan 21",
       "nextDate": "2026-07-30",
+      "dates": [
+        "2026-07-30",
+        "2026-08-06",
+        "2026-08-13",
+        "2026-08-20",
+        "2026-08-27",
+        "2026-09-03",
+        "2026-09-10",
+        "2026-09-17",
+        "2026-09-24",
+        "2026-10-01",
+        "2026-10-08",
+        "2026-10-15",
+        "2026-10-22",
+        "2026-10-29",
+        "2026-11-05",
+        "2026-11-12",
+        "2026-11-19",
+        "2026-11-26",
+        "2026-12-03",
+        "2026-12-10",
+        "2026-12-17",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07",
+        "2027-01-14",
+        "2027-01-21"
+      ],
       "occurrences": 26
     },
     {
@@ -356,6 +544,9 @@
       "needsVerify": false,
       "schedule": "Thu, Jul 30",
       "nextDate": "2026-07-30",
+      "dates": [
+        "2026-07-30"
+      ],
       "occurrences": 1
     },
     {
@@ -393,6 +584,9 @@
       "needsVerify": false,
       "schedule": "Fri, Jul 31",
       "nextDate": "2026-07-31",
+      "dates": [
+        "2026-07-31"
+      ],
       "occurrences": 1
     },
     {
@@ -430,6 +624,17 @@
       "needsVerify": false,
       "schedule": "Select dates, Jul 31 - Sep 25",
       "nextDate": "2026-07-31",
+      "dates": [
+        "2026-07-31",
+        "2026-08-07",
+        "2026-08-14",
+        "2026-08-22",
+        "2026-08-28",
+        "2026-09-04",
+        "2026-09-11",
+        "2026-09-18",
+        "2026-09-25"
+      ],
       "occurrences": 9
     },
     {
@@ -463,6 +668,9 @@
       "needsVerify": false,
       "schedule": "Sat, Aug 1",
       "nextDate": "2026-08-01",
+      "dates": [
+        "2026-08-01"
+      ],
       "occurrences": 1
     },
     {
@@ -497,6 +705,9 @@
       "needsVerify": false,
       "schedule": "Sat, Aug 1",
       "nextDate": "2026-08-01",
+      "dates": [
+        "2026-08-01"
+      ],
       "occurrences": 1
     },
     {
@@ -531,6 +742,9 @@
       "needsVerify": false,
       "schedule": "Sat, Aug 1",
       "nextDate": "2026-08-01",
+      "dates": [
+        "2026-08-01"
+      ],
       "occurrences": 1
     },
     {
@@ -568,6 +782,9 @@
       "needsVerify": false,
       "schedule": "Sat, Aug 1",
       "nextDate": "2026-08-01",
+      "dates": [
+        "2026-08-01"
+      ],
       "occurrences": 1
     },
     {
@@ -606,6 +823,11 @@
       "needsVerify": false,
       "schedule": "3 dates, Aug 1 - Sep 12",
       "nextDate": "2026-08-01",
+      "dates": [
+        "2026-08-01",
+        "2026-09-11",
+        "2026-09-12"
+      ],
       "occurrences": 3
     },
     {
@@ -641,7 +863,10 @@
       "images": [],
       "venueId": "",
       "imageUrl": "",
-      "occurrences": 1
+      "occurrences": 1,
+      "dates": [
+        "2026-08-01"
+      ]
     },
     {
       "id": "lansdowne-farmers-market-lansdowne",
@@ -676,7 +901,10 @@
       "nextDate": "2026-08-01",
       "venueId": "",
       "imageUrl": "",
-      "occurrences": 1
+      "occurrences": 1,
+      "dates": [
+        "2026-08-01"
+      ]
     },
     {
       "id": "ev-media-make-a-splash-this-august-at-linvilla-orch-4c2869",
@@ -715,6 +943,9 @@
       "needsVerify": false,
       "schedule": "Sat, Aug 1",
       "nextDate": "2026-08-01",
+      "dates": [
+        "2026-08-01"
+      ],
       "occurrences": 1
     },
     {
@@ -754,6 +985,9 @@
       "needsVerify": false,
       "schedule": "Sat, Aug 1",
       "nextDate": "2026-08-01",
+      "dates": [
+        "2026-08-01"
+      ],
       "occurrences": 1
     },
     {
@@ -789,6 +1023,10 @@
       "needsVerify": false,
       "schedule": "Daily, Aug 1 - Aug 2",
       "nextDate": "2026-08-01",
+      "dates": [
+        "2026-08-01",
+        "2026-08-02"
+      ],
       "occurrences": 2
     },
     {
@@ -826,6 +1064,9 @@
       "needsVerify": false,
       "schedule": "Sat, Aug 1",
       "nextDate": "2026-08-01",
+      "dates": [
+        "2026-08-01"
+      ],
       "occurrences": 1
     },
     {
@@ -861,7 +1102,10 @@
       "images": [],
       "venueId": "",
       "imageUrl": "",
-      "occurrences": 1
+      "occurrences": 1,
+      "dates": [
+        "2026-08-01"
+      ]
     },
     {
       "id": "springfield-farmers-market",
@@ -896,7 +1140,10 @@
       "images": [],
       "venueId": "",
       "imageUrl": "",
-      "occurrences": 1
+      "occurrences": 1,
+      "dates": [
+        "2026-08-01"
+      ]
     },
     {
       "id": "swarthmore-farmers-market-swarthmore",
@@ -931,7 +1178,10 @@
       "nextDate": "2026-08-01",
       "venueId": "",
       "imageUrl": "",
-      "occurrences": 1
+      "occurrences": 1,
+      "dates": [
+        "2026-08-01"
+      ]
     },
     {
       "id": "ev-glen-mills-chris-despo-8f1a51",
@@ -968,6 +1218,10 @@
       "needsVerify": false,
       "schedule": "Sat, Sun, Aug 2 - Aug 8",
       "nextDate": "2026-08-02",
+      "dates": [
+        "2026-08-02",
+        "2026-08-08"
+      ],
       "occurrences": 2
     },
     {
@@ -1005,6 +1259,10 @@
       "needsVerify": false,
       "schedule": "Sundays, Aug 2 - Aug 16",
       "nextDate": "2026-08-02",
+      "dates": [
+        "2026-08-02",
+        "2026-08-16"
+      ],
       "occurrences": 2
     },
     {
@@ -1040,6 +1298,9 @@
       "needsVerify": false,
       "schedule": "Sun, Aug 2",
       "nextDate": "2026-08-02",
+      "dates": [
+        "2026-08-02"
+      ],
       "occurrences": 1
     },
     {
@@ -1077,6 +1338,9 @@
       "needsVerify": false,
       "schedule": "Sun, Aug 2",
       "nextDate": "2026-08-02",
+      "dates": [
+        "2026-08-02"
+      ],
       "occurrences": 1
     },
     {
@@ -1114,6 +1378,30 @@
       "needsVerify": false,
       "schedule": "Mondays, Aug 3 - Dec 28",
       "nextDate": "2026-08-03",
+      "dates": [
+        "2026-08-03",
+        "2026-08-10",
+        "2026-08-17",
+        "2026-08-24",
+        "2026-08-31",
+        "2026-09-07",
+        "2026-09-14",
+        "2026-09-21",
+        "2026-09-28",
+        "2026-10-05",
+        "2026-10-12",
+        "2026-10-19",
+        "2026-10-26",
+        "2026-11-02",
+        "2026-11-09",
+        "2026-11-16",
+        "2026-11-23",
+        "2026-11-30",
+        "2026-12-07",
+        "2026-12-14",
+        "2026-12-21",
+        "2026-12-28"
+      ],
       "occurrences": 22
     },
     {
@@ -1149,6 +1437,9 @@
       "needsVerify": false,
       "schedule": "Mon, Aug 3",
       "nextDate": "2026-08-03",
+      "dates": [
+        "2026-08-03"
+      ],
       "occurrences": 1
     },
     {
@@ -1186,6 +1477,17 @@
       "needsVerify": false,
       "schedule": "Mondays, Aug 3 - Sep 28",
       "nextDate": "2026-08-03",
+      "dates": [
+        "2026-08-03",
+        "2026-08-10",
+        "2026-08-17",
+        "2026-08-24",
+        "2026-08-31",
+        "2026-09-07",
+        "2026-09-14",
+        "2026-09-21",
+        "2026-09-28"
+      ],
       "occurrences": 9
     },
     {
@@ -1218,6 +1520,9 @@
       "needsVerify": false,
       "schedule": "Tue, Aug 4",
       "nextDate": "2026-08-04",
+      "dates": [
+        "2026-08-04"
+      ],
       "occurrences": 1
     },
     {
@@ -1250,6 +1555,18 @@
       "needsVerify": false,
       "schedule": "Tuesdays, Aug 4 - Oct 6",
       "nextDate": "2026-08-04",
+      "dates": [
+        "2026-08-04",
+        "2026-08-11",
+        "2026-08-18",
+        "2026-08-25",
+        "2026-09-01",
+        "2026-09-08",
+        "2026-09-15",
+        "2026-09-22",
+        "2026-09-29",
+        "2026-10-06"
+      ],
       "occurrences": 10
     },
     {
@@ -1285,6 +1602,33 @@
       "needsVerify": false,
       "schedule": "Tuesdays, Aug 4 - Jan 19",
       "nextDate": "2026-08-04",
+      "dates": [
+        "2026-08-04",
+        "2026-08-11",
+        "2026-08-18",
+        "2026-08-25",
+        "2026-09-01",
+        "2026-09-08",
+        "2026-09-15",
+        "2026-09-22",
+        "2026-09-29",
+        "2026-10-06",
+        "2026-10-13",
+        "2026-10-20",
+        "2026-10-27",
+        "2026-11-03",
+        "2026-11-10",
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05",
+        "2027-01-12",
+        "2027-01-19"
+      ],
       "occurrences": 25
     },
     {
@@ -1322,7 +1666,10 @@
       "schedule": "Wednesdays, June-August",
       "nextDate": "2026-08-05",
       "imageUrl": "",
-      "occurrences": 1
+      "occurrences": 1,
+      "dates": [
+        "2026-08-05"
+      ]
     },
     {
       "id": "ev-chester-double-dutch-06367d",
@@ -1354,6 +1701,9 @@
       "needsVerify": false,
       "schedule": "Wed, Aug 5",
       "nextDate": "2026-08-05",
+      "dates": [
+        "2026-08-05"
+      ],
       "occurrences": 1
     },
     {
@@ -1390,6 +1740,9 @@
       "needsVerify": false,
       "schedule": "Wed, Aug 5",
       "nextDate": "2026-08-05",
+      "dates": [
+        "2026-08-05"
+      ],
       "occurrences": 1
     },
     {
@@ -1424,6 +1777,9 @@
       "needsVerify": false,
       "schedule": "Thu, Aug 6",
       "nextDate": "2026-08-06",
+      "dates": [
+        "2026-08-06"
+      ],
       "occurrences": 1
     },
     {
@@ -1459,6 +1815,9 @@
       "needsVerify": false,
       "schedule": "Thu, Aug 6",
       "nextDate": "2026-08-06",
+      "dates": [
+        "2026-08-06"
+      ],
       "occurrences": 1
     },
     {
@@ -1496,6 +1855,9 @@
       "needsVerify": false,
       "schedule": "Thu, Aug 6",
       "nextDate": "2026-08-06",
+      "dates": [
+        "2026-08-06"
+      ],
       "occurrences": 1
     },
     {
@@ -1533,6 +1895,12 @@
       "needsVerify": false,
       "schedule": "Thursdays, Aug 6 - Aug 27",
       "nextDate": "2026-08-06",
+      "dates": [
+        "2026-08-06",
+        "2026-08-13",
+        "2026-08-20",
+        "2026-08-27"
+      ],
       "occurrences": 4
     },
     {
@@ -1570,6 +1938,9 @@
       "needsVerify": false,
       "schedule": "Fri, Aug 7",
       "nextDate": "2026-08-07",
+      "dates": [
+        "2026-08-07"
+      ],
       "occurrences": 1
     },
     {
@@ -1607,6 +1978,12 @@
       "needsVerify": false,
       "schedule": "Fridays, Aug 7 - Sep 25",
       "nextDate": "2026-08-07",
+      "dates": [
+        "2026-08-07",
+        "2026-08-21",
+        "2026-09-11",
+        "2026-09-25"
+      ],
       "occurrences": 4
     },
     {
@@ -1643,6 +2020,9 @@
       "needsVerify": false,
       "schedule": "Fri, Aug 7",
       "nextDate": "2026-08-07",
+      "dates": [
+        "2026-08-07"
+      ],
       "occurrences": 1
     },
     {
@@ -1679,6 +2059,15 @@
       "needsVerify": false,
       "schedule": "Saturdays, Aug 8 - Nov 14",
       "nextDate": "2026-08-08",
+      "dates": [
+        "2026-08-08",
+        "2026-08-22",
+        "2026-09-19",
+        "2026-10-03",
+        "2026-10-24",
+        "2026-11-07",
+        "2026-11-14"
+      ],
       "occurrences": 7
     },
     {
@@ -1710,6 +2099,9 @@
       "needsVerify": false,
       "schedule": "Sat, Aug 8",
       "nextDate": "2026-08-08",
+      "dates": [
+        "2026-08-08"
+      ],
       "occurrences": 1
     },
     {
@@ -1744,6 +2136,10 @@
       "needsVerify": false,
       "schedule": "2 dates, Aug 8 - Aug 23",
       "nextDate": "2026-08-08",
+      "dates": [
+        "2026-08-08",
+        "2026-08-23"
+      ],
       "occurrences": 2
     },
     {
@@ -1780,6 +2176,9 @@
       "needsVerify": false,
       "schedule": "Sat, Aug 8",
       "nextDate": "2026-08-08",
+      "dates": [
+        "2026-08-08"
+      ],
       "occurrences": 1
     },
     {
@@ -1814,6 +2213,9 @@
       "needsVerify": false,
       "schedule": "Sat, Aug 8",
       "nextDate": "2026-08-08",
+      "dates": [
+        "2026-08-08"
+      ],
       "occurrences": 1
     },
     {
@@ -1849,6 +2251,9 @@
       "needsVerify": false,
       "schedule": "Sun, Aug 9",
       "nextDate": "2026-08-09",
+      "dates": [
+        "2026-08-09"
+      ],
       "occurrences": 1
     },
     {
@@ -1883,6 +2288,13 @@
       "needsVerify": false,
       "schedule": "Mondays, Aug 10 - Dec 14",
       "nextDate": "2026-08-10",
+      "dates": [
+        "2026-08-10",
+        "2026-09-14",
+        "2026-10-12",
+        "2026-11-09",
+        "2026-12-14"
+      ],
       "occurrences": 5
     },
     {
@@ -1916,6 +2328,9 @@
       "needsVerify": false,
       "schedule": "Mon, Aug 10",
       "nextDate": "2026-08-10",
+      "dates": [
+        "2026-08-10"
+      ],
       "occurrences": 1
     },
     {
@@ -1939,7 +2354,7 @@
       "startDate": "2026-08-10",
       "endDate": "2026-08-16",
       "recurring": "none",
-      "venueId": "",
+      "venueId": "haverford-merion-golf-club",
       "phone": "",
       "website": "",
       "images": [],
@@ -1950,6 +2365,13 @@
       "needsVerify": false,
       "schedule": "5 dates, Aug 10 - Aug 16",
       "nextDate": "2026-08-10",
+      "dates": [
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-14",
+        "2026-08-15",
+        "2026-08-16"
+      ],
       "occurrences": 5
     },
     {
@@ -1984,6 +2406,9 @@
       "needsVerify": false,
       "schedule": "Mon, Aug 10",
       "nextDate": "2026-08-10",
+      "dates": [
+        "2026-08-10"
+      ],
       "occurrences": 1
     },
     {
@@ -2016,6 +2441,9 @@
       "needsVerify": false,
       "schedule": "Tue, Aug 11",
       "nextDate": "2026-08-11",
+      "dates": [
+        "2026-08-11"
+      ],
       "occurrences": 1
     },
     {
@@ -2049,6 +2477,10 @@
       "needsVerify": false,
       "schedule": "2 dates, Aug 12 - Aug 23",
       "nextDate": "2026-08-12",
+      "dates": [
+        "2026-08-12",
+        "2026-08-23"
+      ],
       "occurrences": 2
     },
     {
@@ -2087,6 +2519,9 @@
       "needsVerify": false,
       "schedule": "Wed, Aug 12",
       "nextDate": "2026-08-12",
+      "dates": [
+        "2026-08-12"
+      ],
       "occurrences": 1
     },
     {
@@ -2123,6 +2558,9 @@
       "needsVerify": false,
       "schedule": "Thu, Aug 13",
       "nextDate": "2026-08-13",
+      "dates": [
+        "2026-08-13"
+      ],
       "occurrences": 1
     },
     {
@@ -2157,6 +2595,13 @@
       "needsVerify": false,
       "schedule": "Thursdays, Aug 13 - Dec 10",
       "nextDate": "2026-08-13",
+      "dates": [
+        "2026-08-13",
+        "2026-09-10",
+        "2026-10-08",
+        "2026-11-12",
+        "2026-12-10"
+      ],
       "occurrences": 5
     },
     {
@@ -2192,6 +2637,9 @@
       "needsVerify": false,
       "schedule": "Thu, Aug 13",
       "nextDate": "2026-08-13",
+      "dates": [
+        "2026-08-13"
+      ],
       "occurrences": 1
     },
     {
@@ -2226,6 +2674,10 @@
       "needsVerify": false,
       "schedule": "Daily, Aug 13 - Aug 14",
       "nextDate": "2026-08-13",
+      "dates": [
+        "2026-08-13",
+        "2026-08-14"
+      ],
       "occurrences": 2
     },
     {
@@ -2264,6 +2716,9 @@
       "needsVerify": false,
       "schedule": "Fri, Aug 14",
       "nextDate": "2026-08-14",
+      "dates": [
+        "2026-08-14"
+      ],
       "occurrences": 1
     },
     {
@@ -2299,6 +2754,9 @@
       "needsVerify": false,
       "schedule": "Fri, Aug 14",
       "nextDate": "2026-08-14",
+      "dates": [
+        "2026-08-14"
+      ],
       "occurrences": 1
     },
     {
@@ -2334,6 +2792,9 @@
       "needsVerify": false,
       "schedule": "Fri, Aug 14",
       "nextDate": "2026-08-14",
+      "dates": [
+        "2026-08-14"
+      ],
       "occurrences": 1
     },
     {
@@ -2368,6 +2829,9 @@
       "needsVerify": false,
       "schedule": "Sat, Aug 15",
       "nextDate": "2026-08-15",
+      "dates": [
+        "2026-08-15"
+      ],
       "occurrences": 1
     },
     {
@@ -2402,6 +2866,9 @@
       "needsVerify": false,
       "schedule": "Sat, Aug 15",
       "nextDate": "2026-08-15",
+      "dates": [
+        "2026-08-15"
+      ],
       "occurrences": 1
     },
     {
@@ -2439,6 +2906,9 @@
       "needsVerify": false,
       "schedule": "Sat, Aug 15",
       "nextDate": "2026-08-15",
+      "dates": [
+        "2026-08-15"
+      ],
       "occurrences": 1
     },
     {
@@ -2475,6 +2945,10 @@
       "needsVerify": false,
       "schedule": "Daily, Aug 15 - Aug 16",
       "nextDate": "2026-08-15",
+      "dates": [
+        "2026-08-15",
+        "2026-08-16"
+      ],
       "occurrences": 2
     },
     {
@@ -2510,6 +2984,9 @@
       "needsVerify": false,
       "schedule": "Sat, Aug 15",
       "nextDate": "2026-08-15",
+      "dates": [
+        "2026-08-15"
+      ],
       "occurrences": 1
     },
     {
@@ -2547,6 +3024,9 @@
       "needsVerify": false,
       "schedule": "Sat, Aug 15",
       "nextDate": "2026-08-15",
+      "dates": [
+        "2026-08-15"
+      ],
       "occurrences": 1
     },
     {
@@ -2582,6 +3062,9 @@
       "needsVerify": false,
       "schedule": "Sat, Aug 15",
       "nextDate": "2026-08-15",
+      "dates": [
+        "2026-08-15"
+      ],
       "occurrences": 1
     },
     {
@@ -2618,6 +3101,9 @@
       "needsVerify": false,
       "schedule": "Sun, Aug 16",
       "nextDate": "2026-08-16",
+      "dates": [
+        "2026-08-16"
+      ],
       "occurrences": 1
     },
     {
@@ -2653,6 +3139,9 @@
       "needsVerify": false,
       "schedule": "Sun, Aug 16",
       "nextDate": "2026-08-16",
+      "dates": [
+        "2026-08-16"
+      ],
       "occurrences": 1
     },
     {
@@ -2684,6 +3173,9 @@
       "needsVerify": false,
       "schedule": "Wed, Aug 19",
       "nextDate": "2026-08-19",
+      "dates": [
+        "2026-08-19"
+      ],
       "occurrences": 1
     },
     {
@@ -2721,6 +3213,9 @@
       "needsVerify": false,
       "schedule": "Wed, Aug 19",
       "nextDate": "2026-08-19",
+      "dates": [
+        "2026-08-19"
+      ],
       "occurrences": 1
     },
     {
@@ -2755,6 +3250,10 @@
       "needsVerify": false,
       "schedule": "Wednesdays, Aug 19 - Sep 16",
       "nextDate": "2026-08-19",
+      "dates": [
+        "2026-08-19",
+        "2026-09-16"
+      ],
       "occurrences": 2
     },
     {
@@ -2792,6 +3291,9 @@
       "needsVerify": false,
       "schedule": "Thu, Aug 20",
       "nextDate": "2026-08-20",
+      "dates": [
+        "2026-08-20"
+      ],
       "occurrences": 1
     },
     {
@@ -2824,6 +3326,9 @@
       "needsVerify": false,
       "schedule": "Fri, Aug 21",
       "nextDate": "2026-08-21",
+      "dates": [
+        "2026-08-21"
+      ],
       "occurrences": 1
     },
     {
@@ -2858,6 +3363,9 @@
       "needsVerify": false,
       "schedule": "Sat, Aug 22",
       "nextDate": "2026-08-22",
+      "dates": [
+        "2026-08-22"
+      ],
       "occurrences": 1
     },
     {
@@ -2892,6 +3400,9 @@
       "needsVerify": false,
       "schedule": "Sat, Aug 22",
       "nextDate": "2026-08-22",
+      "dates": [
+        "2026-08-22"
+      ],
       "occurrences": 1
     },
     {
@@ -2927,6 +3438,9 @@
       "needsVerify": false,
       "schedule": "Sat, Aug 22",
       "nextDate": "2026-08-22",
+      "dates": [
+        "2026-08-22"
+      ],
       "occurrences": 1
     },
     {
@@ -2961,6 +3475,9 @@
       "needsVerify": false,
       "schedule": "Sat, Aug 22",
       "nextDate": "2026-08-22",
+      "dates": [
+        "2026-08-22"
+      ],
       "occurrences": 1
     },
     {
@@ -2996,6 +3513,9 @@
       "needsVerify": false,
       "schedule": "Mon, Aug 24",
       "nextDate": "2026-08-24",
+      "dates": [
+        "2026-08-24"
+      ],
       "occurrences": 1
     },
     {
@@ -3030,6 +3550,12 @@
       "needsVerify": false,
       "schedule": "Tuesdays, Aug 25 - Nov 24",
       "nextDate": "2026-08-25",
+      "dates": [
+        "2026-08-25",
+        "2026-09-29",
+        "2026-10-27",
+        "2026-11-24"
+      ],
       "occurrences": 4
     },
     {
@@ -3062,6 +3588,9 @@
       "needsVerify": false,
       "schedule": "Tue, Aug 25",
       "nextDate": "2026-08-25",
+      "dates": [
+        "2026-08-25"
+      ],
       "occurrences": 1
     },
     {
@@ -3094,6 +3623,9 @@
       "needsVerify": false,
       "schedule": "Thu, Aug 27",
       "nextDate": "2026-08-27",
+      "dates": [
+        "2026-08-27"
+      ],
       "occurrences": 1
     },
     {
@@ -3131,6 +3663,9 @@
       "needsVerify": false,
       "schedule": "Thu, Aug 27",
       "nextDate": "2026-08-27",
+      "dates": [
+        "2026-08-27"
+      ],
       "occurrences": 1
     },
     {
@@ -3166,6 +3701,9 @@
       "needsVerify": false,
       "schedule": "Fri, Aug 28",
       "nextDate": "2026-08-28",
+      "dates": [
+        "2026-08-28"
+      ],
       "occurrences": 1
     },
     {
@@ -3201,6 +3739,10 @@
       "needsVerify": false,
       "schedule": "Daily, Aug 28 - Aug 29",
       "nextDate": "2026-08-28",
+      "dates": [
+        "2026-08-28",
+        "2026-08-29"
+      ],
       "occurrences": 2
     },
     {
@@ -3238,6 +3780,13 @@
       "needsVerify": false,
       "schedule": "Saturdays, Aug 29 - Dec 19",
       "nextDate": "2026-08-29",
+      "dates": [
+        "2026-08-29",
+        "2026-09-26",
+        "2026-10-31",
+        "2026-11-28",
+        "2026-12-19"
+      ],
       "occurrences": 5
     },
     {
@@ -3272,6 +3821,9 @@
       "needsVerify": false,
       "schedule": "Sat, Aug 29",
       "nextDate": "2026-08-29",
+      "dates": [
+        "2026-08-29"
+      ],
       "occurrences": 1
     },
     {
@@ -3306,6 +3858,9 @@
       "needsVerify": false,
       "schedule": "Sat, Aug 29",
       "nextDate": "2026-08-29",
+      "dates": [
+        "2026-08-29"
+      ],
       "occurrences": 1
     },
     {
@@ -3337,6 +3892,9 @@
       "needsVerify": false,
       "schedule": "Sun, Aug 30",
       "nextDate": "2026-08-30",
+      "dates": [
+        "2026-08-30"
+      ],
       "occurrences": 1
     },
     {
@@ -3374,6 +3932,9 @@
       "needsVerify": false,
       "schedule": "Tue, Sep 1",
       "nextDate": "2026-09-01",
+      "dates": [
+        "2026-09-01"
+      ],
       "occurrences": 1
     },
     {
@@ -3408,6 +3969,10 @@
       "needsVerify": false,
       "schedule": "Daily, Sep 2 - Sep 3",
       "nextDate": "2026-09-02",
+      "dates": [
+        "2026-09-02",
+        "2026-09-03"
+      ],
       "occurrences": 2
     },
     {
@@ -3445,6 +4010,9 @@
       "needsVerify": false,
       "schedule": "Wed, Sep 2",
       "nextDate": "2026-09-02",
+      "dates": [
+        "2026-09-02"
+      ],
       "occurrences": 1
     },
     {
@@ -3482,6 +4050,9 @@
       "needsVerify": false,
       "schedule": "Fri, Sep 4",
       "nextDate": "2026-09-04",
+      "dates": [
+        "2026-09-04"
+      ],
       "occurrences": 1
     },
     {
@@ -3519,6 +4090,9 @@
       "needsVerify": false,
       "schedule": "Fri, Sep 4",
       "nextDate": "2026-09-04",
+      "dates": [
+        "2026-09-04"
+      ],
       "occurrences": 1
     },
     {
@@ -3556,6 +4130,9 @@
       "needsVerify": false,
       "schedule": "Fri, Sep 4",
       "nextDate": "2026-09-04",
+      "dates": [
+        "2026-09-04"
+      ],
       "occurrences": 1
     },
     {
@@ -3591,6 +4168,9 @@
       "needsVerify": false,
       "schedule": "Sat, Sep 5",
       "nextDate": "2026-09-05",
+      "dates": [
+        "2026-09-05"
+      ],
       "occurrences": 1
     },
     {
@@ -3628,6 +4208,9 @@
       "needsVerify": false,
       "schedule": "Sat, Sep 5",
       "nextDate": "2026-09-05",
+      "dates": [
+        "2026-09-05"
+      ],
       "occurrences": 1
     },
     {
@@ -3665,6 +4248,9 @@
       "needsVerify": false,
       "schedule": "Sat, Sep 5",
       "nextDate": "2026-09-05",
+      "dates": [
+        "2026-09-05"
+      ],
       "occurrences": 1
     },
     {
@@ -3702,6 +4288,9 @@
       "needsVerify": false,
       "schedule": "Sat, Sep 5",
       "nextDate": "2026-09-05",
+      "dates": [
+        "2026-09-05"
+      ],
       "occurrences": 1
     },
     {
@@ -3739,6 +4328,9 @@
       "needsVerify": false,
       "schedule": "Sun, Sep 6",
       "nextDate": "2026-09-06",
+      "dates": [
+        "2026-09-06"
+      ],
       "occurrences": 1
     },
     {
@@ -3776,6 +4368,9 @@
       "needsVerify": false,
       "schedule": "Tue, Sep 8",
       "nextDate": "2026-09-08",
+      "dates": [
+        "2026-09-08"
+      ],
       "occurrences": 1
     },
     {
@@ -3813,6 +4408,9 @@
       "needsVerify": false,
       "schedule": "Wed, Sep 9",
       "nextDate": "2026-09-09",
+      "dates": [
+        "2026-09-09"
+      ],
       "occurrences": 1
     },
     {
@@ -3850,6 +4448,9 @@
       "needsVerify": false,
       "schedule": "Wed, Sep 9",
       "nextDate": "2026-09-09",
+      "dates": [
+        "2026-09-09"
+      ],
       "occurrences": 1
     },
     {
@@ -3883,6 +4484,9 @@
       "needsVerify": false,
       "schedule": "Thu, Sep 10",
       "nextDate": "2026-09-10",
+      "dates": [
+        "2026-09-10"
+      ],
       "occurrences": 1
     },
     {
@@ -3920,6 +4524,9 @@
       "needsVerify": false,
       "schedule": "Thu, Sep 10",
       "nextDate": "2026-09-10",
+      "dates": [
+        "2026-09-10"
+      ],
       "occurrences": 1
     },
     {
@@ -3957,6 +4564,9 @@
       "needsVerify": false,
       "schedule": "Thu, Sep 10",
       "nextDate": "2026-09-10",
+      "dates": [
+        "2026-09-10"
+      ],
       "occurrences": 1
     },
     {
@@ -3994,6 +4604,9 @@
       "needsVerify": false,
       "schedule": "Fri, Sep 11",
       "nextDate": "2026-09-11",
+      "dates": [
+        "2026-09-11"
+      ],
       "occurrences": 1
     },
     {
@@ -4031,6 +4644,9 @@
       "needsVerify": false,
       "schedule": "Fri, Sep 11",
       "nextDate": "2026-09-11",
+      "dates": [
+        "2026-09-11"
+      ],
       "occurrences": 1
     },
     {
@@ -4068,7 +4684,10 @@
       "schedule": "Early September",
       "nextDate": "2026-09-12",
       "imageUrl": "",
-      "occurrences": 1
+      "occurrences": 1,
+      "dates": [
+        "2026-09-12"
+      ]
     },
     {
       "id": "ev-media-mac-twilight-series-the-sermon-organ-drive-9b6ea3",
@@ -4105,6 +4724,9 @@
       "needsVerify": false,
       "schedule": "Sat, Sep 12",
       "nextDate": "2026-09-12",
+      "dates": [
+        "2026-09-12"
+      ],
       "occurrences": 1
     },
     {
@@ -4142,6 +4764,9 @@
       "needsVerify": false,
       "schedule": "Sat, Sep 12",
       "nextDate": "2026-09-12",
+      "dates": [
+        "2026-09-12"
+      ],
       "occurrences": 1
     },
     {
@@ -4179,6 +4804,9 @@
       "needsVerify": false,
       "schedule": "Sat, Sep 12",
       "nextDate": "2026-09-12",
+      "dates": [
+        "2026-09-12"
+      ],
       "occurrences": 1
     },
     {
@@ -4216,6 +4844,10 @@
       "needsVerify": false,
       "schedule": "2 dates, Sep 12 - Sep 25",
       "nextDate": "2026-09-12",
+      "dates": [
+        "2026-09-12",
+        "2026-09-25"
+      ],
       "occurrences": 2
     },
     {
@@ -4254,6 +4886,9 @@
       "needsVerify": false,
       "schedule": "Sun, Sep 13",
       "nextDate": "2026-09-13",
+      "dates": [
+        "2026-09-13"
+      ],
       "occurrences": 1
     },
     {
@@ -4289,6 +4924,9 @@
       "needsVerify": false,
       "schedule": "Mon, Sep 14",
       "nextDate": "2026-09-14",
+      "dates": [
+        "2026-09-14"
+      ],
       "occurrences": 1
     },
     {
@@ -4325,6 +4963,10 @@
       "needsVerify": false,
       "schedule": "Daily, Sep 14 - Sep 15",
       "nextDate": "2026-09-14",
+      "dates": [
+        "2026-09-14",
+        "2026-09-15"
+      ],
       "occurrences": 2
     },
     {
@@ -4360,6 +5002,9 @@
       "needsVerify": false,
       "schedule": "Tue, Sep 15",
       "nextDate": "2026-09-15",
+      "dates": [
+        "2026-09-15"
+      ],
       "occurrences": 1
     },
     {
@@ -4397,6 +5042,9 @@
       "needsVerify": false,
       "schedule": "Tue, Sep 15",
       "nextDate": "2026-09-15",
+      "dates": [
+        "2026-09-15"
+      ],
       "occurrences": 1
     },
     {
@@ -4434,6 +5082,9 @@
       "needsVerify": false,
       "schedule": "Wed, Sep 16",
       "nextDate": "2026-09-16",
+      "dates": [
+        "2026-09-16"
+      ],
       "occurrences": 1
     },
     {
@@ -4467,6 +5118,9 @@
       "needsVerify": false,
       "schedule": "Thu, Sep 17",
       "nextDate": "2026-09-17",
+      "dates": [
+        "2026-09-17"
+      ],
       "occurrences": 1
     },
     {
@@ -4501,6 +5155,9 @@
       "needsVerify": false,
       "schedule": "Thu, Sep 17",
       "nextDate": "2026-09-17",
+      "dates": [
+        "2026-09-17"
+      ],
       "occurrences": 1
     },
     {
@@ -4538,6 +5195,9 @@
       "needsVerify": false,
       "schedule": "Thu, Sep 17",
       "nextDate": "2026-09-17",
+      "dates": [
+        "2026-09-17"
+      ],
       "occurrences": 1
     },
     {
@@ -4575,6 +5235,9 @@
       "needsVerify": false,
       "schedule": "Fri, Sep 18",
       "nextDate": "2026-09-18",
+      "dates": [
+        "2026-09-18"
+      ],
       "occurrences": 1
     },
     {
@@ -4612,6 +5275,9 @@
       "needsVerify": false,
       "schedule": "Fri, Sep 18",
       "nextDate": "2026-09-18",
+      "dates": [
+        "2026-09-18"
+      ],
       "occurrences": 1
     },
     {
@@ -4649,6 +5315,9 @@
       "needsVerify": false,
       "schedule": "Fri, Sep 18",
       "nextDate": "2026-09-18",
+      "dates": [
+        "2026-09-18"
+      ],
       "occurrences": 1
     },
     {
@@ -4685,6 +5354,9 @@
       "needsVerify": false,
       "schedule": "Sat, Sep 19",
       "nextDate": "2026-09-19",
+      "dates": [
+        "2026-09-19"
+      ],
       "occurrences": 1
     },
     {
@@ -4719,6 +5391,9 @@
       "needsVerify": false,
       "schedule": "Sat, Sep 19",
       "nextDate": "2026-09-19",
+      "dates": [
+        "2026-09-19"
+      ],
       "occurrences": 1
     },
     {
@@ -4753,6 +5428,9 @@
       "needsVerify": false,
       "schedule": "Sat, Sep 19",
       "nextDate": "2026-09-19",
+      "dates": [
+        "2026-09-19"
+      ],
       "occurrences": 1
     },
     {
@@ -4787,6 +5465,9 @@
       "needsVerify": false,
       "schedule": "Sat, Sep 19",
       "nextDate": "2026-09-19",
+      "dates": [
+        "2026-09-19"
+      ],
       "occurrences": 1
     },
     {
@@ -4822,7 +5503,10 @@
       "nextDate": "2026-09-19",
       "venueId": "",
       "imageUrl": "",
-      "occurrences": 1
+      "occurrences": 1,
+      "dates": [
+        "2026-09-19"
+      ]
     },
     {
       "id": "pints-in-the-square-newtown-square",
@@ -4856,7 +5540,10 @@
       "images": [],
       "venueId": "",
       "imageUrl": "",
-      "occurrences": 1
+      "occurrences": 1,
+      "dates": [
+        "2026-09-19"
+      ]
     },
     {
       "id": "ev-wayne-shibori-and-indigo-dyeing-for-beginners-wi-c47426",
@@ -4890,6 +5577,9 @@
       "needsVerify": false,
       "schedule": "Sat, Sep 19",
       "nextDate": "2026-09-19",
+      "dates": [
+        "2026-09-19"
+      ],
       "occurrences": 1
     },
     {
@@ -4925,6 +5615,9 @@
       "needsVerify": false,
       "schedule": "Sat, Sep 19",
       "nextDate": "2026-09-19",
+      "dates": [
+        "2026-09-19"
+      ],
       "occurrences": 1
     },
     {
@@ -4961,7 +5654,10 @@
       "images": [],
       "venueId": "",
       "imageUrl": "",
-      "occurrences": 1
+      "occurrences": 1,
+      "dates": [
+        "2026-09-19"
+      ]
     },
     {
       "id": "ev-chester-widener-pride-field-hockey-vs-swarthmore-a699d6",
@@ -4998,6 +5694,9 @@
       "needsVerify": false,
       "schedule": "Sat, Sep 19",
       "nextDate": "2026-09-19",
+      "dates": [
+        "2026-09-19"
+      ],
       "occurrences": 1
     },
     {
@@ -5035,6 +5734,9 @@
       "needsVerify": false,
       "schedule": "Sat, Sep 19",
       "nextDate": "2026-09-19",
+      "dates": [
+        "2026-09-19"
+      ],
       "occurrences": 1
     },
     {
@@ -5072,6 +5774,9 @@
       "needsVerify": false,
       "schedule": "Sat, Sep 19",
       "nextDate": "2026-09-19",
+      "dates": [
+        "2026-09-19"
+      ],
       "occurrences": 1
     },
     {
@@ -5109,6 +5814,9 @@
       "needsVerify": false,
       "schedule": "Sat, Sep 19",
       "nextDate": "2026-09-19",
+      "dates": [
+        "2026-09-19"
+      ],
       "occurrences": 1
     },
     {
@@ -5146,6 +5854,9 @@
       "needsVerify": false,
       "schedule": "Sat, Sep 19",
       "nextDate": "2026-09-19",
+      "dates": [
+        "2026-09-19"
+      ],
       "occurrences": 1
     },
     {
@@ -5183,6 +5894,9 @@
       "needsVerify": false,
       "schedule": "Sat, Sep 19",
       "nextDate": "2026-09-19",
+      "dates": [
+        "2026-09-19"
+      ],
       "occurrences": 1
     },
     {
@@ -5218,6 +5932,9 @@
       "needsVerify": false,
       "schedule": "Sun, Sep 20",
       "nextDate": "2026-09-20",
+      "dates": [
+        "2026-09-20"
+      ],
       "occurrences": 1
     },
     {
@@ -5255,6 +5972,9 @@
       "needsVerify": false,
       "schedule": "Sun, Sep 20",
       "nextDate": "2026-09-20",
+      "dates": [
+        "2026-09-20"
+      ],
       "occurrences": 1
     },
     {
@@ -5290,6 +6010,9 @@
       "needsVerify": false,
       "schedule": "Sun, Sep 20",
       "nextDate": "2026-09-20",
+      "dates": [
+        "2026-09-20"
+      ],
       "occurrences": 1
     },
     {
@@ -5328,6 +6051,10 @@
       "needsVerify": false,
       "schedule": "Daily, Sep 22 - Sep 23",
       "nextDate": "2026-09-22",
+      "dates": [
+        "2026-09-22",
+        "2026-09-23"
+      ],
       "occurrences": 2
     },
     {
@@ -5360,6 +6087,9 @@
       "needsVerify": false,
       "schedule": "Tue, Sep 22",
       "nextDate": "2026-09-22",
+      "dates": [
+        "2026-09-22"
+      ],
       "occurrences": 1
     },
     {
@@ -5397,6 +6127,9 @@
       "needsVerify": false,
       "schedule": "Tue, Sep 22",
       "nextDate": "2026-09-22",
+      "dates": [
+        "2026-09-22"
+      ],
       "occurrences": 1
     },
     {
@@ -5431,6 +6164,9 @@
       "needsVerify": false,
       "schedule": "Wed, Sep 23",
       "nextDate": "2026-09-23",
+      "dates": [
+        "2026-09-23"
+      ],
       "occurrences": 1
     },
     {
@@ -5468,6 +6204,9 @@
       "needsVerify": false,
       "schedule": "Wed, Sep 23",
       "nextDate": "2026-09-23",
+      "dates": [
+        "2026-09-23"
+      ],
       "occurrences": 1
     },
     {
@@ -5505,6 +6244,9 @@
       "needsVerify": false,
       "schedule": "Thu, Sep 24",
       "nextDate": "2026-09-24",
+      "dates": [
+        "2026-09-24"
+      ],
       "occurrences": 1
     },
     {
@@ -5542,6 +6284,9 @@
       "needsVerify": false,
       "schedule": "Thu, Sep 24",
       "nextDate": "2026-09-24",
+      "dates": [
+        "2026-09-24"
+      ],
       "occurrences": 1
     },
     {
@@ -5577,6 +6322,9 @@
       "needsVerify": false,
       "schedule": "Thu, Sep 24",
       "nextDate": "2026-09-24",
+      "dates": [
+        "2026-09-24"
+      ],
       "occurrences": 1
     },
     {
@@ -5613,6 +6361,9 @@
       "needsVerify": false,
       "schedule": "Thu, Sep 24",
       "nextDate": "2026-09-24",
+      "dates": [
+        "2026-09-24"
+      ],
       "occurrences": 1
     },
     {
@@ -5649,6 +6400,9 @@
       "needsVerify": false,
       "schedule": "Fri, Sep 25",
       "nextDate": "2026-09-25",
+      "dates": [
+        "2026-09-25"
+      ],
       "occurrences": 1
     },
     {
@@ -5685,6 +6439,17 @@
       "needsVerify": false,
       "schedule": "Fri, Sat, Sun, Sep 25 - Oct 11",
       "nextDate": "2026-09-25",
+      "dates": [
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-27",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11"
+      ],
       "occurrences": 9
     },
     {
@@ -5723,6 +6488,9 @@
       "needsVerify": false,
       "schedule": "Sat, Sep 26",
       "nextDate": "2026-09-26",
+      "dates": [
+        "2026-09-26"
+      ],
       "occurrences": 1
     },
     {
@@ -5760,6 +6528,12 @@
       "needsVerify": false,
       "schedule": "Saturdays, Sep 26 - Dec 12",
       "nextDate": "2026-09-26",
+      "dates": [
+        "2026-09-26",
+        "2026-10-31",
+        "2026-11-28",
+        "2026-12-12"
+      ],
       "occurrences": 4
     },
     {
@@ -5797,6 +6571,9 @@
       "needsVerify": false,
       "schedule": "Sat, Sep 26",
       "nextDate": "2026-09-26",
+      "dates": [
+        "2026-09-26"
+      ],
       "occurrences": 1
     },
     {
@@ -5833,6 +6610,9 @@
       "needsVerify": false,
       "schedule": "Sat, Sep 26",
       "nextDate": "2026-09-26",
+      "dates": [
+        "2026-09-26"
+      ],
       "occurrences": 1
     },
     {
@@ -5870,6 +6650,9 @@
       "needsVerify": false,
       "schedule": "Sat, Sep 26",
       "nextDate": "2026-09-26",
+      "dates": [
+        "2026-09-26"
+      ],
       "occurrences": 1
     },
     {
@@ -5907,6 +6690,9 @@
       "needsVerify": false,
       "schedule": "Sat, Sep 26",
       "nextDate": "2026-09-26",
+      "dates": [
+        "2026-09-26"
+      ],
       "occurrences": 1
     },
     {
@@ -5944,6 +6730,9 @@
       "needsVerify": false,
       "schedule": "Sat, Sep 26",
       "nextDate": "2026-09-26",
+      "dates": [
+        "2026-09-26"
+      ],
       "occurrences": 1
     },
     {
@@ -5981,6 +6770,9 @@
       "needsVerify": false,
       "schedule": "Sat, Sep 26",
       "nextDate": "2026-09-26",
+      "dates": [
+        "2026-09-26"
+      ],
       "occurrences": 1
     },
     {
@@ -6018,6 +6810,9 @@
       "needsVerify": false,
       "schedule": "Sun, Sep 27",
       "nextDate": "2026-09-27",
+      "dates": [
+        "2026-09-27"
+      ],
       "occurrences": 1
     },
     {
@@ -6053,6 +6848,9 @@
       "needsVerify": false,
       "schedule": "Sun, Sep 27",
       "nextDate": "2026-09-27",
+      "dates": [
+        "2026-09-27"
+      ],
       "occurrences": 1
     },
     {
@@ -6084,6 +6882,9 @@
       "needsVerify": false,
       "schedule": "Sun, Sep 27",
       "nextDate": "2026-09-27",
+      "dates": [
+        "2026-09-27"
+      ],
       "occurrences": 1
     },
     {
@@ -6119,6 +6920,9 @@
       "needsVerify": false,
       "schedule": "Sun, Sep 27",
       "nextDate": "2026-09-27",
+      "dates": [
+        "2026-09-27"
+      ],
       "occurrences": 1
     },
     {
@@ -6155,6 +6959,9 @@
       "needsVerify": false,
       "schedule": "Sun, Sep 27",
       "nextDate": "2026-09-27",
+      "dates": [
+        "2026-09-27"
+      ],
       "occurrences": 1
     },
     {
@@ -6188,6 +6995,9 @@
       "needsVerify": false,
       "schedule": "Mon, Sep 28",
       "nextDate": "2026-09-28",
+      "dates": [
+        "2026-09-28"
+      ],
       "occurrences": 1
     },
     {
@@ -6225,6 +7035,9 @@
       "needsVerify": false,
       "schedule": "Tue, Sep 29",
       "nextDate": "2026-09-29",
+      "dates": [
+        "2026-09-29"
+      ],
       "occurrences": 1
     },
     {
@@ -6260,6 +7073,9 @@
       "needsVerify": false,
       "schedule": "Wed, Sep 30",
       "nextDate": "2026-09-30",
+      "dates": [
+        "2026-09-30"
+      ],
       "occurrences": 1
     },
     {
@@ -6291,6 +7107,9 @@
       "needsVerify": false,
       "schedule": "Wed, Sep 30",
       "nextDate": "2026-09-30",
+      "dates": [
+        "2026-09-30"
+      ],
       "occurrences": 1
     },
     {
@@ -6328,6 +7147,9 @@
       "needsVerify": false,
       "schedule": "Wed, Sep 30",
       "nextDate": "2026-09-30",
+      "dates": [
+        "2026-09-30"
+      ],
       "occurrences": 1
     },
     {
@@ -6365,6 +7187,9 @@
       "needsVerify": false,
       "schedule": "Wed, Sep 30",
       "nextDate": "2026-09-30",
+      "dates": [
+        "2026-09-30"
+      ],
       "occurrences": 1
     },
     {
@@ -6402,6 +7227,9 @@
       "needsVerify": false,
       "schedule": "Thu, Oct 1",
       "nextDate": "2026-10-01",
+      "dates": [
+        "2026-10-01"
+      ],
       "occurrences": 1
     },
     {
@@ -6437,6 +7265,10 @@
       "needsVerify": false,
       "schedule": "Fridays, Oct 2 - Dec 4",
       "nextDate": "2026-10-02",
+      "dates": [
+        "2026-10-02",
+        "2026-12-04"
+      ],
       "occurrences": 2
     },
     {
@@ -6472,6 +7304,9 @@
       "needsVerify": false,
       "schedule": "Fri, Oct 2",
       "nextDate": "2026-10-02",
+      "dates": [
+        "2026-10-02"
+      ],
       "occurrences": 1
     },
     {
@@ -6505,6 +7340,9 @@
       "needsVerify": false,
       "schedule": "Sat, Oct 3",
       "nextDate": "2026-10-03",
+      "dates": [
+        "2026-10-03"
+      ],
       "occurrences": 1
     },
     {
@@ -6540,6 +7378,9 @@
       "needsVerify": false,
       "schedule": "Sat, Oct 3",
       "nextDate": "2026-10-03",
+      "dates": [
+        "2026-10-03"
+      ],
       "occurrences": 1
     },
     {
@@ -6577,6 +7418,9 @@
       "needsVerify": false,
       "schedule": "Sat, Oct 3",
       "nextDate": "2026-10-03",
+      "dates": [
+        "2026-10-03"
+      ],
       "occurrences": 1
     },
     {
@@ -6609,6 +7453,9 @@
       "needsVerify": false,
       "schedule": "Sun, Oct 4",
       "nextDate": "2026-10-04",
+      "dates": [
+        "2026-10-04"
+      ],
       "occurrences": 1
     },
     {
@@ -6642,6 +7489,9 @@
       "needsVerify": false,
       "schedule": "Sun, Oct 4",
       "nextDate": "2026-10-04",
+      "dates": [
+        "2026-10-04"
+      ],
       "occurrences": 1
     },
     {
@@ -6679,6 +7529,9 @@
       "needsVerify": false,
       "schedule": "Tue, Oct 6",
       "nextDate": "2026-10-06",
+      "dates": [
+        "2026-10-06"
+      ],
       "occurrences": 1
     },
     {
@@ -6714,6 +7567,9 @@
       "needsVerify": false,
       "schedule": "Tue, Oct 6",
       "nextDate": "2026-10-06",
+      "dates": [
+        "2026-10-06"
+      ],
       "occurrences": 1
     },
     {
@@ -6745,6 +7601,9 @@
       "needsVerify": false,
       "schedule": "Thu, Oct 8",
       "nextDate": "2026-10-08",
+      "dates": [
+        "2026-10-08"
+      ],
       "occurrences": 1
     },
     {
@@ -6779,6 +7638,10 @@
       "needsVerify": false,
       "schedule": "Daily, Oct 9 - Oct 10",
       "nextDate": "2026-10-09",
+      "dates": [
+        "2026-10-09",
+        "2026-10-10"
+      ],
       "occurrences": 2
     },
     {
@@ -6816,6 +7679,9 @@
       "needsVerify": false,
       "schedule": "Fri, Oct 9",
       "nextDate": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
       "occurrences": 1
     },
     {
@@ -6851,6 +7717,9 @@
       "needsVerify": false,
       "schedule": "Sat, Oct 10",
       "nextDate": "2026-10-10",
+      "dates": [
+        "2026-10-10"
+      ],
       "occurrences": 1
     },
     {
@@ -6882,6 +7751,9 @@
       "needsVerify": false,
       "schedule": "Sat, Oct 10",
       "nextDate": "2026-10-10",
+      "dates": [
+        "2026-10-10"
+      ],
       "occurrences": 1
     },
     {
@@ -6918,6 +7790,9 @@
       "needsVerify": false,
       "schedule": "Sat, Oct 10",
       "nextDate": "2026-10-10",
+      "dates": [
+        "2026-10-10"
+      ],
       "occurrences": 1
     },
     {
@@ -6955,6 +7830,9 @@
       "needsVerify": false,
       "schedule": "Sat, Oct 10",
       "nextDate": "2026-10-10",
+      "dates": [
+        "2026-10-10"
+      ],
       "occurrences": 1
     },
     {
@@ -6992,6 +7870,9 @@
       "needsVerify": false,
       "schedule": "Sat, Oct 10",
       "nextDate": "2026-10-10",
+      "dates": [
+        "2026-10-10"
+      ],
       "occurrences": 1
     },
     {
@@ -7030,6 +7911,9 @@
       "needsVerify": false,
       "schedule": "Sat, Oct 10",
       "nextDate": "2026-10-10",
+      "dates": [
+        "2026-10-10"
+      ],
       "occurrences": 1
     },
     {
@@ -7067,6 +7951,9 @@
       "needsVerify": false,
       "schedule": "Sat, Oct 10",
       "nextDate": "2026-10-10",
+      "dates": [
+        "2026-10-10"
+      ],
       "occurrences": 1
     },
     {
@@ -7104,6 +7991,9 @@
       "needsVerify": false,
       "schedule": "Tue, Oct 13",
       "nextDate": "2026-10-13",
+      "dates": [
+        "2026-10-13"
+      ],
       "occurrences": 1
     },
     {
@@ -7141,6 +8031,9 @@
       "needsVerify": false,
       "schedule": "Tue, Oct 13",
       "nextDate": "2026-10-13",
+      "dates": [
+        "2026-10-13"
+      ],
       "occurrences": 1
     },
     {
@@ -7178,6 +8071,9 @@
       "needsVerify": false,
       "schedule": "Wed, Oct 14",
       "nextDate": "2026-10-14",
+      "dates": [
+        "2026-10-14"
+      ],
       "occurrences": 1
     },
     {
@@ -7215,6 +8111,9 @@
       "needsVerify": false,
       "schedule": "Wed, Oct 14",
       "nextDate": "2026-10-14",
+      "dates": [
+        "2026-10-14"
+      ],
       "occurrences": 1
     },
     {
@@ -7252,6 +8151,9 @@
       "needsVerify": false,
       "schedule": "Wed, Oct 14",
       "nextDate": "2026-10-14",
+      "dates": [
+        "2026-10-14"
+      ],
       "occurrences": 1
     },
     {
@@ -7288,6 +8190,9 @@
       "needsVerify": false,
       "schedule": "Thu, Oct 15",
       "nextDate": "2026-10-15",
+      "dates": [
+        "2026-10-15"
+      ],
       "occurrences": 1
     },
     {
@@ -7325,6 +8230,9 @@
       "needsVerify": false,
       "schedule": "Fri, Oct 16",
       "nextDate": "2026-10-16",
+      "dates": [
+        "2026-10-16"
+      ],
       "occurrences": 1
     },
     {
@@ -7357,6 +8265,9 @@
       "needsVerify": false,
       "schedule": "Sat, Oct 17",
       "nextDate": "2026-10-17",
+      "dates": [
+        "2026-10-17"
+      ],
       "occurrences": 1
     },
     {
@@ -7395,6 +8306,9 @@
       "needsVerify": false,
       "schedule": "Sat, Oct 17",
       "nextDate": "2026-10-17",
+      "dates": [
+        "2026-10-17"
+      ],
       "occurrences": 1
     },
     {
@@ -7432,6 +8346,9 @@
       "needsVerify": false,
       "schedule": "Sat, Oct 17",
       "nextDate": "2026-10-17",
+      "dates": [
+        "2026-10-17"
+      ],
       "occurrences": 1
     },
     {
@@ -7467,7 +8384,10 @@
       "images": [],
       "venueId": "",
       "imageUrl": "",
-      "occurrences": 1
+      "occurrences": 1,
+      "dates": [
+        "2026-10-17"
+      ]
     },
     {
       "id": "ev-chester-widener-pride-field-hockey-vs-hood-b1975b",
@@ -7504,6 +8424,9 @@
       "needsVerify": false,
       "schedule": "Sat, Oct 17",
       "nextDate": "2026-10-17",
+      "dates": [
+        "2026-10-17"
+      ],
       "occurrences": 1
     },
     {
@@ -7541,6 +8464,9 @@
       "needsVerify": false,
       "schedule": "Sun, Oct 18",
       "nextDate": "2026-10-18",
+      "dates": [
+        "2026-10-18"
+      ],
       "occurrences": 1
     },
     {
@@ -7572,6 +8498,9 @@
       "needsVerify": false,
       "schedule": "Sun, Oct 18",
       "nextDate": "2026-10-18",
+      "dates": [
+        "2026-10-18"
+      ],
       "occurrences": 1
     },
     {
@@ -7608,6 +8537,9 @@
       "needsVerify": false,
       "schedule": "Mon, Oct 19",
       "nextDate": "2026-10-19",
+      "dates": [
+        "2026-10-19"
+      ],
       "occurrences": 1
     },
     {
@@ -7645,6 +8577,9 @@
       "needsVerify": false,
       "schedule": "Mon, Oct 19",
       "nextDate": "2026-10-19",
+      "dates": [
+        "2026-10-19"
+      ],
       "occurrences": 1
     },
     {
@@ -7682,6 +8617,9 @@
       "needsVerify": false,
       "schedule": "Thu, Oct 22",
       "nextDate": "2026-10-22",
+      "dates": [
+        "2026-10-22"
+      ],
       "occurrences": 1
     },
     {
@@ -7719,6 +8657,9 @@
       "needsVerify": false,
       "schedule": "Thu, Oct 22",
       "nextDate": "2026-10-22",
+      "dates": [
+        "2026-10-22"
+      ],
       "occurrences": 1
     },
     {
@@ -7754,6 +8695,9 @@
       "needsVerify": false,
       "schedule": "Thu, Oct 22",
       "nextDate": "2026-10-22",
+      "dates": [
+        "2026-10-22"
+      ],
       "occurrences": 1
     },
     {
@@ -7791,6 +8735,9 @@
       "needsVerify": false,
       "schedule": "Fri, Oct 23",
       "nextDate": "2026-10-23",
+      "dates": [
+        "2026-10-23"
+      ],
       "occurrences": 1
     },
     {
@@ -7826,6 +8773,9 @@
       "needsVerify": false,
       "schedule": "Sat, Oct 24",
       "nextDate": "2026-10-24",
+      "dates": [
+        "2026-10-24"
+      ],
       "occurrences": 1
     },
     {
@@ -7862,6 +8812,9 @@
       "needsVerify": false,
       "schedule": "Sat, Oct 24",
       "nextDate": "2026-10-24",
+      "dates": [
+        "2026-10-24"
+      ],
       "occurrences": 1
     },
     {
@@ -7900,6 +8853,9 @@
       "needsVerify": false,
       "schedule": "Sat, Oct 24",
       "nextDate": "2026-10-24",
+      "dates": [
+        "2026-10-24"
+      ],
       "occurrences": 1
     },
     {
@@ -7936,7 +8892,10 @@
       "images": [],
       "venueId": "",
       "imageUrl": "",
-      "occurrences": 1
+      "occurrences": 1,
+      "dates": [
+        "2026-10-24"
+      ]
     },
     {
       "id": "ev-chester-philadelphia-union-vs-new-england-revolu-e6f658",
@@ -7973,6 +8932,9 @@
       "needsVerify": false,
       "schedule": "Sat, Oct 24",
       "nextDate": "2026-10-24",
+      "dates": [
+        "2026-10-24"
+      ],
       "occurrences": 1
     },
     {
@@ -8010,6 +8972,9 @@
       "needsVerify": false,
       "schedule": "Sat, Oct 24",
       "nextDate": "2026-10-24",
+      "dates": [
+        "2026-10-24"
+      ],
       "occurrences": 1
     },
     {
@@ -8047,6 +9012,9 @@
       "needsVerify": false,
       "schedule": "Sat, Oct 24",
       "nextDate": "2026-10-24",
+      "dates": [
+        "2026-10-24"
+      ],
       "occurrences": 1
     },
     {
@@ -8084,6 +9052,9 @@
       "needsVerify": false,
       "schedule": "Sat, Oct 24",
       "nextDate": "2026-10-24",
+      "dates": [
+        "2026-10-24"
+      ],
       "occurrences": 1
     },
     {
@@ -8121,6 +9092,9 @@
       "needsVerify": false,
       "schedule": "Sat, Oct 24",
       "nextDate": "2026-10-24",
+      "dates": [
+        "2026-10-24"
+      ],
       "occurrences": 1
     },
     {
@@ -8158,7 +9132,10 @@
       "schedule": "Late October",
       "nextDate": "2026-10-25",
       "imageUrl": "",
-      "occurrences": 1
+      "occurrences": 1,
+      "dates": [
+        "2026-10-25"
+      ]
     },
     {
       "id": "ev-wayne-painting-mood-with-mark-vander-vinne-45e5b4",
@@ -8192,6 +9169,9 @@
       "needsVerify": false,
       "schedule": "Sun, Oct 25",
       "nextDate": "2026-10-25",
+      "dates": [
+        "2026-10-25"
+      ],
       "occurrences": 1
     },
     {
@@ -8227,6 +9207,9 @@
       "needsVerify": false,
       "schedule": "Sun, Oct 25",
       "nextDate": "2026-10-25",
+      "dates": [
+        "2026-10-25"
+      ],
       "occurrences": 1
     },
     {
@@ -8264,6 +9247,9 @@
       "needsVerify": false,
       "schedule": "Tue, Oct 27",
       "nextDate": "2026-10-27",
+      "dates": [
+        "2026-10-27"
+      ],
       "occurrences": 1
     },
     {
@@ -8301,6 +9287,9 @@
       "needsVerify": false,
       "schedule": "Wed, Oct 28",
       "nextDate": "2026-10-28",
+      "dates": [
+        "2026-10-28"
+      ],
       "occurrences": 1
     },
     {
@@ -8338,6 +9327,9 @@
       "needsVerify": false,
       "schedule": "Wed, Oct 28",
       "nextDate": "2026-10-28",
+      "dates": [
+        "2026-10-28"
+      ],
       "occurrences": 1
     },
     {
@@ -8374,6 +9366,9 @@
       "needsVerify": false,
       "schedule": "Thu, Oct 29",
       "nextDate": "2026-10-29",
+      "dates": [
+        "2026-10-29"
+      ],
       "occurrences": 1
     },
     {
@@ -8409,6 +9404,9 @@
       "needsVerify": false,
       "schedule": "Fri, Oct 30",
       "nextDate": "2026-10-30",
+      "dates": [
+        "2026-10-30"
+      ],
       "occurrences": 1
     },
     {
@@ -8444,6 +9442,9 @@
       "needsVerify": false,
       "schedule": "Fri, Oct 30",
       "nextDate": "2026-10-30",
+      "dates": [
+        "2026-10-30"
+      ],
       "occurrences": 1
     },
     {
@@ -8479,6 +9480,9 @@
       "needsVerify": false,
       "schedule": "Sat, Oct 31",
       "nextDate": "2026-10-31",
+      "dates": [
+        "2026-10-31"
+      ],
       "occurrences": 1
     },
     {
@@ -8516,6 +9520,9 @@
       "needsVerify": false,
       "schedule": "Sat, Oct 31",
       "nextDate": "2026-10-31",
+      "dates": [
+        "2026-10-31"
+      ],
       "occurrences": 1
     },
     {
@@ -8553,6 +9560,9 @@
       "needsVerify": false,
       "schedule": "Sun, Nov 1",
       "nextDate": "2026-11-01",
+      "dates": [
+        "2026-11-01"
+      ],
       "occurrences": 1
     },
     {
@@ -8586,6 +9596,9 @@
       "needsVerify": false,
       "schedule": "Sun, Nov 1",
       "nextDate": "2026-11-01",
+      "dates": [
+        "2026-11-01"
+      ],
       "occurrences": 1
     },
     {
@@ -8621,6 +9634,9 @@
       "needsVerify": false,
       "schedule": "Sun, Nov 1",
       "nextDate": "2026-11-01",
+      "dates": [
+        "2026-11-01"
+      ],
       "occurrences": 1
     },
     {
@@ -8658,6 +9674,9 @@
       "needsVerify": false,
       "schedule": "Wed, Nov 4",
       "nextDate": "2026-11-04",
+      "dates": [
+        "2026-11-04"
+      ],
       "occurrences": 1
     },
     {
@@ -8693,6 +9712,11 @@
       "needsVerify": false,
       "schedule": "Daily, Nov 5 - Nov 7",
       "nextDate": "2026-11-05",
+      "dates": [
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-07"
+      ],
       "occurrences": 3
     },
     {
@@ -8726,6 +9750,9 @@
       "needsVerify": false,
       "schedule": "Fri, Nov 6",
       "nextDate": "2026-11-06",
+      "dates": [
+        "2026-11-06"
+      ],
       "occurrences": 1
     },
     {
@@ -8761,6 +9788,9 @@
       "needsVerify": false,
       "schedule": "Fri, Nov 6",
       "nextDate": "2026-11-06",
+      "dates": [
+        "2026-11-06"
+      ],
       "occurrences": 1
     },
     {
@@ -8795,6 +9825,9 @@
       "needsVerify": false,
       "schedule": "Fri, Nov 6",
       "nextDate": "2026-11-06",
+      "dates": [
+        "2026-11-06"
+      ],
       "occurrences": 1
     },
     {
@@ -8832,6 +9865,9 @@
       "needsVerify": false,
       "schedule": "Sat, Nov 7",
       "nextDate": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
       "occurrences": 1
     },
     {
@@ -8865,6 +9901,9 @@
       "needsVerify": false,
       "schedule": "Sat, Nov 7",
       "nextDate": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
       "occurrences": 1
     },
     {
@@ -8902,6 +9941,9 @@
       "needsVerify": false,
       "schedule": "Sat, Nov 7",
       "nextDate": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
       "occurrences": 1
     },
     {
@@ -8933,6 +9975,9 @@
       "needsVerify": false,
       "schedule": "Sun, Nov 8",
       "nextDate": "2026-11-08",
+      "dates": [
+        "2026-11-08"
+      ],
       "occurrences": 1
     },
     {
@@ -8969,6 +10014,9 @@
       "needsVerify": false,
       "schedule": "Thu, Nov 12",
       "nextDate": "2026-11-12",
+      "dates": [
+        "2026-11-12"
+      ],
       "occurrences": 1
     },
     {
@@ -9005,6 +10053,9 @@
       "needsVerify": false,
       "schedule": "Thu, Nov 12",
       "nextDate": "2026-11-12",
+      "dates": [
+        "2026-11-12"
+      ],
       "occurrences": 1
     },
     {
@@ -9037,6 +10088,9 @@
       "needsVerify": false,
       "schedule": "Thu, Nov 12",
       "nextDate": "2026-11-12",
+      "dates": [
+        "2026-11-12"
+      ],
       "occurrences": 1
     },
     {
@@ -9071,6 +10125,9 @@
       "needsVerify": false,
       "schedule": "Fri, Nov 13",
       "nextDate": "2026-11-13",
+      "dates": [
+        "2026-11-13"
+      ],
       "occurrences": 1
     },
     {
@@ -9106,6 +10163,9 @@
       "needsVerify": false,
       "schedule": "Sat, Nov 14",
       "nextDate": "2026-11-14",
+      "dates": [
+        "2026-11-14"
+      ],
       "occurrences": 1
     },
     {
@@ -9143,6 +10203,9 @@
       "needsVerify": false,
       "schedule": "Sat, Nov 14",
       "nextDate": "2026-11-14",
+      "dates": [
+        "2026-11-14"
+      ],
       "occurrences": 1
     },
     {
@@ -9180,6 +10243,9 @@
       "needsVerify": false,
       "schedule": "Sat, Nov 14",
       "nextDate": "2026-11-14",
+      "dates": [
+        "2026-11-14"
+      ],
       "occurrences": 1
     },
     {
@@ -9213,6 +10279,9 @@
       "needsVerify": false,
       "schedule": "Sun, Nov 15",
       "nextDate": "2026-11-15",
+      "dates": [
+        "2026-11-15"
+      ],
       "occurrences": 1
     },
     {
@@ -9249,6 +10318,9 @@
       "needsVerify": false,
       "schedule": "Sun, Nov 15",
       "nextDate": "2026-11-15",
+      "dates": [
+        "2026-11-15"
+      ],
       "occurrences": 1
     },
     {
@@ -9283,6 +10355,9 @@
       "needsVerify": false,
       "schedule": "Thu, Nov 19",
       "nextDate": "2026-11-19",
+      "dates": [
+        "2026-11-19"
+      ],
       "occurrences": 1
     },
     {
@@ -9319,6 +10394,9 @@
       "needsVerify": false,
       "schedule": "Thu, Nov 19",
       "nextDate": "2026-11-19",
+      "dates": [
+        "2026-11-19"
+      ],
       "occurrences": 1
     },
     {
@@ -9354,7 +10432,10 @@
       "images": [],
       "venueId": "",
       "imageUrl": "",
-      "occurrences": 1
+      "occurrences": 1,
+      "dates": [
+        "2026-11-20"
+      ]
     },
     {
       "id": "ev-newtown-square-eagles-autism-skate-at-flight-on-ba1e3f",
@@ -9392,6 +10473,9 @@
       "needsVerify": false,
       "schedule": "Sat, Nov 21",
       "nextDate": "2026-11-21",
+      "dates": [
+        "2026-11-21"
+      ],
       "occurrences": 1
     },
     {
@@ -9427,6 +10511,9 @@
       "needsVerify": false,
       "schedule": "Sat, Nov 21",
       "nextDate": "2026-11-21",
+      "dates": [
+        "2026-11-21"
+      ],
       "occurrences": 1
     },
     {
@@ -9461,6 +10548,9 @@
       "needsVerify": false,
       "schedule": "Sun, Nov 22",
       "nextDate": "2026-11-22",
+      "dates": [
+        "2026-11-22"
+      ],
       "occurrences": 1
     },
     {
@@ -9497,6 +10587,10 @@
       "needsVerify": false,
       "schedule": "Daily, Nov 27 - Nov 28",
       "nextDate": "2026-11-27",
+      "dates": [
+        "2026-11-27",
+        "2026-11-28"
+      ],
       "occurrences": 2
     },
     {
@@ -9533,7 +10627,10 @@
       "images": [],
       "venueId": "",
       "imageUrl": "",
-      "occurrences": 1
+      "occurrences": 1,
+      "dates": [
+        "2026-11-28"
+      ]
     },
     {
       "id": "ev-lansdowne-david-jacobs-strain-and-bob-beach-at-l-1ae628",
@@ -9567,6 +10664,9 @@
       "needsVerify": false,
       "schedule": "Thu, Dec 3",
       "nextDate": "2026-12-03",
+      "dates": [
+        "2026-12-03"
+      ],
       "occurrences": 1
     },
     {
@@ -9602,6 +10702,9 @@
       "needsVerify": false,
       "schedule": "Fri, Dec 4",
       "nextDate": "2026-12-04",
+      "dates": [
+        "2026-12-04"
+      ],
       "occurrences": 1
     },
     {
@@ -9640,6 +10743,9 @@
       "needsVerify": false,
       "schedule": "Sun, Dec 6",
       "nextDate": "2026-12-06",
+      "dates": [
+        "2026-12-06"
+      ],
       "occurrences": 1
     },
     {
@@ -9674,6 +10780,9 @@
       "needsVerify": false,
       "schedule": "Sun, Dec 6",
       "nextDate": "2026-12-06",
+      "dates": [
+        "2026-12-06"
+      ],
       "occurrences": 1
     },
     {
@@ -9710,6 +10819,9 @@
       "needsVerify": false,
       "schedule": "Thu, Dec 10",
       "nextDate": "2026-12-10",
+      "dates": [
+        "2026-12-10"
+      ],
       "occurrences": 1
     },
     {
@@ -9742,6 +10854,9 @@
       "needsVerify": false,
       "schedule": "Thu, Dec 10",
       "nextDate": "2026-12-10",
+      "dates": [
+        "2026-12-10"
+      ],
       "occurrences": 1
     },
     {
@@ -9778,6 +10893,9 @@
       "needsVerify": false,
       "schedule": "Sat, Dec 12",
       "nextDate": "2026-12-12",
+      "dates": [
+        "2026-12-12"
+      ],
       "occurrences": 1
     },
     {
@@ -9812,6 +10930,9 @@
       "needsVerify": false,
       "schedule": "Sun, Dec 13",
       "nextDate": "2026-12-13",
+      "dates": [
+        "2026-12-13"
+      ],
       "occurrences": 1
     },
     {
@@ -9849,6 +10970,9 @@
       "needsVerify": false,
       "schedule": "Mon, Dec 21",
       "nextDate": "2026-12-21",
+      "dates": [
+        "2026-12-21"
+      ],
       "occurrences": 1
     },
     {
@@ -9883,6 +11007,9 @@
       "needsVerify": false,
       "schedule": "Sat, Jan 16",
       "nextDate": "2027-01-16",
+      "dates": [
+        "2027-01-16"
+      ],
       "occurrences": 1
     },
     {
@@ -9915,6 +11042,11 @@
       "needsVerify": false,
       "schedule": "Daily, Jan 22 - Jan 24",
       "nextDate": "2027-01-22",
+      "dates": [
+        "2027-01-22",
+        "2027-01-23",
+        "2027-01-24"
+      ],
       "occurrences": 3
     },
     {
@@ -9949,6 +11081,9 @@
       "needsVerify": false,
       "schedule": "Fri, Jan 22",
       "nextDate": "2027-01-22",
+      "dates": [
+        "2027-01-22"
+      ],
       "occurrences": 1
     },
     {
@@ -9982,7 +11117,10 @@
       "images": [],
       "venueId": "",
       "imageUrl": "",
-      "occurrences": 1
+      "occurrences": 1,
+      "dates": [
+        "2027-03-16"
+      ]
     },
     {
       "id": "media-film-festival",
@@ -10016,7 +11154,10 @@
       "images": [],
       "venueId": "",
       "imageUrl": "",
-      "occurrences": 1
+      "occurrences": 1,
+      "dates": [
+        "2027-03-27"
+      ]
     },
     {
       "id": "swarthmore-rotary-fun-fair",
@@ -10051,7 +11192,10 @@
       "images": [],
       "venueId": "",
       "imageUrl": "",
-      "occurrences": 1
+      "occurrences": 1,
+      "dates": [
+        "2027-05-16"
+      ]
     },
     {
       "id": "lansdowne-arts-on-the-avenue",
@@ -10087,7 +11231,10 @@
       "images": [],
       "venueId": "",
       "imageUrl": "",
-      "occurrences": 1
+      "occurrences": 1,
+      "dates": [
+        "2027-05-17"
+      ]
     },
     {
       "id": "havertown-irish-festival",
@@ -10123,7 +11270,10 @@
       "images": [],
       "venueId": "",
       "imageUrl": "",
-      "occurrences": 1
+      "occurrences": 1,
+      "dates": [
+        "2027-06-06"
+      ]
     },
     {
       "id": "delaware-county-pride-festival-upper-darby",
@@ -10158,7 +11308,10 @@
       "images": [],
       "venueId": "",
       "imageUrl": "",
-      "occurrences": 1
+      "occurrences": 1,
+      "dates": [
+        "2027-06-13"
+      ]
     },
     {
       "id": "wayne-music-festival",
@@ -10193,7 +11346,10 @@
       "images": [],
       "venueId": "",
       "imageUrl": "",
-      "occurrences": 1
+      "occurrences": 1,
+      "dates": [
+        "2027-06-13"
+      ]
     },
     {
       "id": "media-rose-tree-summer-festival",
@@ -10230,7 +11386,10 @@
       "schedule": "Summer evenings, June-August",
       "nextDate": "2027-06-19",
       "imageUrl": "",
-      "occurrences": 1
+      "occurrences": 1,
+      "dates": [
+        "2027-06-19"
+      ]
     },
     {
       "id": "chester-juneteenth-festival",
@@ -10266,7 +11425,10 @@
       "images": [],
       "venueId": "",
       "imageUrl": "",
-      "occurrences": 1
+      "occurrences": 1,
+      "dates": [
+        "2027-06-20"
+      ]
     },
     {
       "id": "aston-independence-day",
@@ -10302,7 +11464,10 @@
       "images": [],
       "venueId": "",
       "imageUrl": "",
-      "occurrences": 1
+      "occurrences": 1,
+      "dates": [
+        "2027-07-04"
+      ]
     },
     {
       "id": "prospect-park-fourth-of-july",
@@ -10338,7 +11503,10 @@
       "images": [],
       "venueId": "",
       "imageUrl": "",
-      "occurrences": 1
+      "occurrences": 1,
+      "dates": [
+        "2027-07-04"
+      ]
     },
     {
       "id": "delco-chalk-fest-chester",
@@ -10373,7 +11541,8 @@
       "nextDate": "",
       "venueId": "",
       "imageUrl": "",
-      "occurrences": 1
+      "occurrences": 1,
+      "dates": []
     },
     {
       "id": "upper-darby-international-festival-upper-darby",
@@ -10408,7 +11577,8 @@
       "nextDate": "",
       "venueId": "",
       "imageUrl": "",
-      "occurrences": 1
+      "occurrences": 1,
+      "dates": []
     }
   ]
 }
