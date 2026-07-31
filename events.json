@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-07-30T11:24:10.339536+00:00",
+  "scraped_at": "2026-07-31T11:36:56.212460+00:00",
   "horizon_days": 180,
-  "event_count": 293,
+  "event_count": 299,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-07-30",
+      "startDate": "2026-07-31",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Jul 30 - Oct 31",
-      "nextDate": "2026-07-30",
+      "schedule": "Daily, Jul 31 - Oct 31",
+      "nextDate": "2026-07-31",
       "dates": [
-        "2026-07-30",
         "2026-07-31",
         "2026-08-01",
         "2026-08-02",
@@ -134,128 +133,165 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 94
+      "occurrences": 93
     },
     {
-      "id": "ev-bryn-mawr-7-week-kids-course-27dc07",
-      "name": "7-Week Kids Course",
+      "id": "ev-wayne-almost-there-6fe634",
+      "name": "Almost There",
       "category": "events",
       "subcategories": [
-        "classes",
-        "kids",
-        "learning",
-        "special-audience"
-      ],
-      "shortDescription": "Our multi-week children’s courses meet once a week for 1.5 hours.",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "family",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-07-30",
-      "endDate": "2026-09-10",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154446/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/zSssqPcxuU-Jf1jIH8s0uA.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thursdays, Jul 30 - Sep 10",
-      "nextDate": "2026-07-30",
-      "dates": [
-        "2026-07-30",
-        "2026-08-06",
-        "2026-08-13",
-        "2026-08-20",
-        "2026-08-27",
-        "2026-09-03",
-        "2026-09-10"
-      ],
-      "occurrences": 7
-    },
-    {
-      "id": "ev-lansdowne-bruce-hornsby-the-noisemakers-43854a",
-      "name": "Bruce Hornsby & The Noisemakers",
-      "category": "events",
-      "subcategories": [
+        "concert",
+        "live-music",
         "music",
         "performing-arts"
       ],
-      "shortDescription": "WXPN Welcomes Indigo Park Tour Based out of Williamsburg, VA, Hornsby first rose to national prominence with The Way It Is, his 1986 Grammy-winning debut album with The...",
-      "address": "Lansdowne Theater, Lansdowne, PA",
-      "town": "Lansdowne",
-      "lat": 39.939389,
-      "lng": -75.27231,
-      "priceTier": 3,
+      "shortDescription": "\"We are a group of guys that just appreciate music and the art of performing it.",
+      "address": "118 North, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
       "tags": [
+        "free",
         "group"
       ],
       "hours": {},
-      "startDate": "2026-07-30",
+      "startDate": "2026-07-31",
       "endDate": "",
       "recurring": "none",
       "venueId": "",
       "phone": "",
-      "website": "https://brepresents.com/event/bruce-hornsby-the-noisemakers-lansdowne-2026-07-30/",
+      "website": "https://www.bandsintown.com/e/1038990394?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/FU9F2or07k23gVpQyHJhGg.medium.jpg",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/hrunJuyAcUytxsZBVd0jiA.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Thu, Jul 30",
-      "nextDate": "2026-07-30",
+      "schedule": "Fri, Jul 31",
+      "nextDate": "2026-07-31",
       "dates": [
-        "2026-07-30"
+        "2026-07-31"
       ],
       "occurrences": 1
     },
     {
-      "id": "ev-upper-darby-joy-jazz-class-b7f1ee",
-      "name": "Joy Jazz Class",
+      "id": "ev-ridley-park-demitri-grivas-323fed",
+      "name": "Demitri Grivas",
       "category": "events",
       "subcategories": [
-        "classes",
-        "dance",
-        "learning",
-        "music"
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
       ],
-      "shortDescription": "Then come join me for my Jazz Dance Class! Whether you're looking to improve your technique, learn fun choreography, or just enjoy dancing i",
-      "address": "C.C.'s School of Dance Arts, Upper Darby, PA",
-      "town": "Upper Darby",
-      "lat": 39.918718,
-      "lng": -75.302042,
-      "priceTier": 1,
+      "shortDescription": "Demitri Grivas at R. Park Tavern in Ridley Park.",
+      "address": "R. Park Tavern, Ridley Park, PA",
+      "town": "Ridley Park",
+      "lat": 39.878875,
+      "lng": -75.32214,
+      "priceTier": 0,
       "tags": [
+        "free",
         "group"
       ],
       "hours": {},
-      "startDate": "2026-07-30",
+      "startDate": "2026-07-31",
       "endDate": "",
       "recurring": "none",
       "venueId": "",
       "phone": "",
-      "website": "https://www.eventbrite.com/e/joy-jazz-class-tickets-1993505609943",
+      "website": "https://www.bandsintown.com/e/108128521?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3daabe8d-d2cb-4474-a82c-528726480300.medium.PNG",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c-HycUOJfU6kde6Yi1nB6w.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Thu, Jul 30",
-      "nextDate": "2026-07-30",
+      "schedule": "Fri, Jul 31",
+      "nextDate": "2026-07-31",
       "dates": [
-        "2026-07-30"
+        "2026-07-31"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-media-hurricane-melissa-relief-benefit-steppin-r-389cc1",
+      "name": "Hurricane Melissa Relief Benefit / Steppin' Razor - Roots /Rock /Reggae",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "fundraiser",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Steppin Razor brings original, conscious roots-rock-reggae",
+      "address": "Shere-E-Punjab Indian Restaurant, Media, PA",
+      "town": "Media",
+      "lat": 39.918127,
+      "lng": -75.392515,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-07-31",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/hurricane-melissa-relief-benefit-steppin-razor-roots-rock-reggae-tickets-1994108380847",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/jjJFsFRDtUidihUJ2bz-sA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Jul 31",
+      "nextDate": "2026-07-31",
+      "dates": [
+        "2026-07-31"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-media-james-clark-2caff8",
+      "name": "James Clark",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "James Clark is a singer-songwriter from Philadelphia shaped by a lifelong connection to music, with roots in country, folk, and pop.",
+      "address": "Martinique Deux, Media, PA",
+      "town": "Media",
+      "lat": 39.918415,
+      "lng": -75.391665,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-07-31",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108607331?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0FY-teIrlki9g2iFhckUGQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Jul 31",
+      "nextDate": "2026-07-31",
+      "dates": [
+        "2026-07-31"
       ],
       "occurrences": 1
     },
@@ -278,7 +314,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-07-30",
+      "startDate": "2026-07-31",
       "endDate": "2026-09-27",
       "recurring": "seasonal",
       "venueId": "",
@@ -290,10 +326,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Select dates, Jul 30 - Sep 27",
-      "nextDate": "2026-07-30",
+      "schedule": "Select dates, Jul 31 - Sep 27",
+      "nextDate": "2026-07-31",
       "dates": [
-        "2026-07-30",
         "2026-07-31",
         "2026-08-01",
         "2026-08-02",
@@ -330,11 +365,48 @@
         "2026-09-26",
         "2026-09-27"
       ],
-      "occurrences": 36
+      "occurrences": 35
     },
     {
-      "id": "ev-wayne-rk-tdy-92ba58",
-      "name": "RK$TDY",
+      "id": "ev-chester-roots-rock-reggae-a9b501",
+      "name": "ROOTS ROCK REGGAE",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "JAMAICA'S LEGENDARY & WORLD RENOWNED DAWN PENN, last performance in Pennsylvania, with SISTER NANCY & SHINE HEAD, YOU DON'T WANT TO MISS IT",
+      "address": "Harrah's Philadelphia Casino and Racetrack - A Caesars Rewards Destination, Chester, PA",
+      "town": "Chester",
+      "lat": 39.849962,
+      "lng": -75.34766,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-07-31",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/roots-rock-reggae-tickets-1992773791053",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/CMH24b1PoEyXiGVYkiyb6w.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Jul 31",
+      "nextDate": "2026-07-31",
+      "dates": [
+        "2026-07-31"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-ardmore-rebecca-zimmerman-b28146",
+      "name": "Rebecca Zimmerman",
       "category": "events",
       "subcategories": [
         "concert",
@@ -342,33 +414,73 @@
         "music",
         "performing-arts"
       ],
-      "shortDescription": "RK$TDY at 118 NORTH in Wayne.",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
+      "shortDescription": "Rebecca Zimmerman (Philadelphia, PA) blends elements of rock, folk, and blues to produce a style that is genuinely raw.",
+      "address": "The Nail, Ardmore, PA",
+      "town": "Ardmore",
+      "lat": 39.995764,
+      "lng": -75.301587,
       "priceTier": 0,
       "tags": [
         "free",
         "group"
       ],
       "hours": {},
-      "startDate": "2026-07-30",
+      "startDate": "2026-07-31",
       "endDate": "",
       "recurring": "none",
       "venueId": "",
       "phone": "",
-      "website": "https://www.bandsintown.com/e/1038584202?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "website": "https://www.bandsintown.com/e/108631429?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9a01b316-1378-4c7e-a527-3917c04eb7ad.medium.png",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mn53zHvlA0GCXvhA03ek8Q.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Thu, Jul 30",
-      "nextDate": "2026-07-30",
+      "schedule": "Fri, Jul 31",
+      "nextDate": "2026-07-31",
       "dates": [
-        "2026-07-30"
+        "2026-07-31"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-sahara-moon-music-e3fd54",
+      "name": "Sahara Moon Music",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Sahara Moon performs at 118 North on Friday, July 31st at 4pm!",
+      "address": "118 North, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-07-31",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108516285?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/nXa-2WZ30k6eoiAtg9hYgQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Jul 31",
+      "nextDate": "2026-07-31",
+      "dates": [
+        "2026-07-31"
       ],
       "occurrences": 1
     },
@@ -391,8 +503,8 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-07-30",
-      "endDate": "2026-07-31",
+      "startDate": "2026-07-31",
+      "endDate": "",
       "recurring": "none",
       "venueId": "",
       "phone": "",
@@ -403,13 +515,12 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Jul 30 - Jul 31",
-      "nextDate": "2026-07-30",
+      "schedule": "Fri, Jul 31",
+      "nextDate": "2026-07-31",
       "dates": [
-        "2026-07-30",
         "2026-07-31"
       ],
-      "occurrences": 2
+      "occurrences": 1
     },
     {
       "id": "ev-media-tennis-camp-week-2-ages-7-10-e1f46b",
@@ -430,154 +541,14 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-07-30",
-      "endDate": "2026-07-31",
+      "startDate": "2026-07-31",
+      "endDate": "",
       "recurring": "none",
       "venueId": "",
       "phone": "",
       "website": "https://www.mediaborough.com/calendar.aspx?EID=2784",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/02c0fa5b-6877-4ac3-902d-d8531b975a10.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Jul 30 - Jul 31",
-      "nextDate": "2026-07-30",
-      "dates": [
-        "2026-07-30",
-        "2026-07-31"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-drexel-hill-thursday-karaoke-at-casey-s-restaura-4579c1",
-      "name": "Thursday Karaoke at Casey's Restaurant (Drexel Hill - Delaware County",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink",
-        "open-mic",
-        "performing-arts"
-      ],
-      "shortDescription": "Sing your heart out at Casey's Restaurant every Thursday night with some karaoke fun in Drexel Hill, Delaware County, PA! Starts at 8pm.",
-      "address": "Casey's Saloon & Restaurant, Drexel Hill, PA",
-      "town": "Drexel Hill",
-      "lat": 39.960126,
-      "lng": -75.288562,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-07-30",
-      "endDate": "2027-01-21",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/thursday-karaoke-at-caseys-restaurant-drexel-hill-delaware-county-pa-tickets-1061653848239",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pgpVzPSpoUaADfBllel6lw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thursdays, Jul 30 - Jan 21",
-      "nextDate": "2026-07-30",
-      "dates": [
-        "2026-07-30",
-        "2026-08-06",
-        "2026-08-13",
-        "2026-08-20",
-        "2026-08-27",
-        "2026-09-03",
-        "2026-09-10",
-        "2026-09-17",
-        "2026-09-24",
-        "2026-10-01",
-        "2026-10-08",
-        "2026-10-15",
-        "2026-10-22",
-        "2026-10-29",
-        "2026-11-05",
-        "2026-11-12",
-        "2026-11-19",
-        "2026-11-26",
-        "2026-12-03",
-        "2026-12-10",
-        "2026-12-17",
-        "2026-12-24",
-        "2026-12-31",
-        "2027-01-07",
-        "2027-01-14",
-        "2027-01-21"
-      ],
-      "occurrences": 26
-    },
-    {
-      "id": "ev-glen-mills-understanding-ai-a-clear-introduction-ef4239",
-      "name": "Understanding AI: A Clear Introduction for Curious Minds",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "A friendly, jargon-free intro to AI for curious adults: how it works, what tools like ChatGPT and Claude can do, and why it matters.",
-      "address": "Glen Mills, PA",
-      "town": "Glen Mills",
-      "lat": 39.866843,
-      "lng": -75.508477,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-07-30",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/understanding-ai-a-clear-introduction-for-curious-minds-tickets-1991424808209",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/FOYg9Vl7OEi8__M9SfSjrQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Jul 30",
-      "nextDate": "2026-07-30",
-      "dates": [
-        "2026-07-30"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-ridley-park-demitri-grivas-323fed",
-      "name": "Demitri Grivas",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Demitri Grivas at R. Park Tavern in Ridley Park.",
-      "address": "R. Park Tavern, Ridley Park, PA",
-      "town": "Ridley Park",
-      "lat": 39.878875,
-      "lng": -75.32214,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-07-31",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/108128521?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c-HycUOJfU6kde6Yi1nB6w.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -638,6 +609,47 @@
       "occurrences": 9
     },
     {
+      "id": "ev-folsom-am-radio-tribute-band-e2ae3d",
+      "name": "AM Radio Tribute Band",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "nightlife"
+      ],
+      "shortDescription": "Go-Go Sixties Dance Party with AM Radio Tribute Band.",
+      "address": "Tom N Jerry's, Folsom, PA",
+      "town": "Folsom",
+      "lat": 39.880547,
+      "lng": -75.340887,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "open-late"
+      ],
+      "hours": {},
+      "startDate": "2026-08-01",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108684123?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/nEWInIX2GECiv3-idrSSdw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Aug 1",
+      "nextDate": "2026-08-01",
+      "dates": [
+        "2026-08-01"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-upper-darby-anne-of-green-gable-s-tea-b5caeb",
       "name": "Anne of Green Gable's Tea",
       "category": "events",
@@ -662,6 +674,46 @@
       "website": "https://www.eventbrite.com/e/anne-of-green-gables-tea-tickets-1987763288505",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/BoDKSnx2yUCPdt7SrONn3Q.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Aug 1",
+      "nextDate": "2026-08-01",
+      "dates": [
+        "2026-08-01"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-ari-kohn-0b3727",
+      "name": "Ari Kohn",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Ari Kohn at 118 North in Wayne.",
+      "address": "118 North, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-01",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108643726?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-mE7ZzVC1EeRMS3U__uA6A.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -1589,7 +1641,7 @@
       ],
       "hours": {},
       "startDate": "2026-08-04",
-      "endDate": "2027-01-19",
+      "endDate": "2027-01-26",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -1600,7 +1652,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Tuesdays, Aug 4 - Jan 19",
+      "schedule": "Tuesdays, Aug 4 - Jan 26",
       "nextDate": "2026-08-04",
       "dates": [
         "2026-08-04",
@@ -1627,9 +1679,10 @@
         "2026-12-29",
         "2027-01-05",
         "2027-01-12",
-        "2027-01-19"
+        "2027-01-19",
+        "2027-01-26"
       ],
-      "occurrences": 25
+      "occurrences": 26
     },
     {
       "id": "media-dining-under-the-stars",
@@ -1783,6 +1836,52 @@
       "occurrences": 1
     },
     {
+      "id": "ev-bryn-mawr-7-week-kids-course-27dc07",
+      "name": "7-Week Kids Course",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "kids",
+        "learning",
+        "special-audience"
+      ],
+      "shortDescription": "Our multi-week children’s courses meet once a week for 1.5 hours.",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-08-06",
+      "endDate": "2026-09-10",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154446/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/zSssqPcxuU-Jf1jIH8s0uA.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thursdays, Aug 6 - Sep 10",
+      "nextDate": "2026-08-06",
+      "dates": [
+        "2026-08-06",
+        "2026-08-13",
+        "2026-08-20",
+        "2026-08-27",
+        "2026-09-03",
+        "2026-09-10"
+      ],
+      "occurrences": 6
+    },
+    {
       "id": "ev-chester-philadelphia-union-vs-cruz-azul-7c0fd8",
       "name": "Philadelphia Union vs. Cruz Azul",
       "category": "events",
@@ -1859,6 +1958,70 @@
         "2026-08-06"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-drexel-hill-thursday-karaoke-at-casey-s-restaura-4579c1",
+      "name": "Thursday Karaoke at Casey's Restaurant (Drexel Hill - Delaware County",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink",
+        "open-mic",
+        "performing-arts"
+      ],
+      "shortDescription": "Sing your heart out at Casey's Restaurant every Thursday night with some karaoke fun in Drexel Hill, Delaware County, PA! Starts at 8pm.",
+      "address": "Casey's Saloon & Restaurant, Drexel Hill, PA",
+      "town": "Drexel Hill",
+      "lat": 39.960126,
+      "lng": -75.288562,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-06",
+      "endDate": "2027-01-21",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/thursday-karaoke-at-caseys-restaurant-drexel-hill-delaware-county-pa-tickets-1061653848239",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pgpVzPSpoUaADfBllel6lw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thursdays, Aug 6 - Jan 21",
+      "nextDate": "2026-08-06",
+      "dates": [
+        "2026-08-06",
+        "2026-08-13",
+        "2026-08-20",
+        "2026-08-27",
+        "2026-09-03",
+        "2026-09-10",
+        "2026-09-17",
+        "2026-09-24",
+        "2026-10-01",
+        "2026-10-08",
+        "2026-10-15",
+        "2026-10-22",
+        "2026-10-29",
+        "2026-11-05",
+        "2026-11-12",
+        "2026-11-19",
+        "2026-11-26",
+        "2026-12-03",
+        "2026-12-10",
+        "2026-12-17",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07",
+        "2027-01-14",
+        "2027-01-21"
+      ],
+      "occurrences": 25
     },
     {
       "id": "ev-chester-walk-run-connect-5b69f3",
@@ -3339,10 +3502,10 @@
         "comedy",
         "performing-arts"
       ],
-      "shortDescription": "Laff Out Loud Entertainment presents Earthquake, Kym Whitley, Junior, Guy Torry, & Darren Fleet 2 Show Times: 7PM & 10PM",
+      "shortDescription": "Laff Out Loud Entertainment presents Earthquake, Kym Whitley, Junior, Guy Torry, & Darren Fleet",
       "address": "Lansdowne Theater, Lansdowne, PA",
       "town": "Lansdowne",
-      "lat": 39.939409,
+      "lat": 39.939419,
       "lng": -75.272179,
       "priceTier": 3,
       "tags": [
@@ -7459,6 +7622,48 @@
       "occurrences": 1
     },
     {
+      "id": "ev-springfield-springfield-twp-presents-springfield-94fae4",
+      "name": "Springfield Twp. Presents - Springfield ROCKS!",
+      "category": "events",
+      "subcategories": [
+        "family",
+        "nature",
+        "outdoor-recreation",
+        "performing-arts"
+      ],
+      "shortDescription": "Join us for our annual Family Fun Day – Springfield ROCKS!",
+      "address": "Township Building, Springfield, PA",
+      "town": "Springfield",
+      "lat": 39.931567,
+      "lng": -75.328436,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-10-04",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.springfielddelco.org/event/springfield-twp-presents-springfield-rocks/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dKLKN9YN1EqM2zZBBAQ6lw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Oct 4",
+      "nextDate": "2026-10-04",
+      "dates": [
+        "2026-10-04"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-the-nude-portrait-with-scott-noel-91d119",
       "name": "The Nude Portrait with Scott Noel",
       "category": "events",
@@ -7953,6 +8158,45 @@
       "nextDate": "2026-10-10",
       "dates": [
         "2026-10-10"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-springfield-delco-run-for-heroes-d9c4e8",
+      "name": "Delco Run for Heroes",
+      "category": "events",
+      "subcategories": [
+        "fitness",
+        "running",
+        "sports-outdoors"
+      ],
+      "shortDescription": "The annual Delco Run for Heroes takes place on Sunday, October 11th.",
+      "address": "Township Building, Springfield, PA",
+      "town": "Springfield",
+      "lat": 39.931567,
+      "lng": -75.328436,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-11",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.springfielddelco.org/event/delco-run-for-heroes/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dKLKN9YN1EqM2zZBBAQ6lw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Oct 11",
+      "nextDate": "2026-10-11",
+      "dates": [
+        "2026-10-11"
       ],
       "occurrences": 1
     },
