@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-08-01T10:52:49.198989+00:00",
+  "scraped_at": "2026-08-02T10:54:09.704843+00:00",
   "horizon_days": 180,
-  "event_count": 292,
+  "event_count": 283,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-08-01",
+      "startDate": "2026-08-02",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Aug 1 - Oct 31",
-      "nextDate": "2026-08-01",
+      "schedule": "Daily, Aug 2 - Oct 31",
+      "nextDate": "2026-08-02",
       "dates": [
-        "2026-08-01",
         "2026-08-02",
         "2026-08-03",
         "2026-08-04",
@@ -132,705 +131,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 92
-    },
-    {
-      "id": "ev-folsom-am-radio-tribute-band-e2ae3d",
-      "name": "AM Radio Tribute Band",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "nightlife"
-      ],
-      "shortDescription": "Go-Go Sixties Dance Party with AM Radio Tribute Band.",
-      "address": "Tom N Jerry's, Folsom, PA",
-      "town": "Folsom",
-      "lat": 39.880547,
-      "lng": -75.340887,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "open-late"
-      ],
-      "hours": {},
-      "startDate": "2026-08-01",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/108684123?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/nEWInIX2GECiv3-idrSSdw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Aug 1",
-      "nextDate": "2026-08-01",
-      "dates": [
-        "2026-08-01"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-upper-darby-anne-of-green-gable-s-tea-b5caeb",
-      "name": "Anne of Green Gable's Tea",
-      "category": "events",
-      "subcategories": [
-        "food-drink"
-      ],
-      "shortDescription": "Join us for an Anne of Green Gables themed tea!",
-      "address": "Painted Tea Cup, Upper Darby, PA",
-      "town": "Upper Darby",
-      "lat": 39.96122,
-      "lng": -75.27917,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-01",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/anne-of-green-gables-tea-tickets-1987763288505",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/BoDKSnx2yUCPdt7SrONn3Q.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Aug 1",
-      "nextDate": "2026-08-01",
-      "dates": [
-        "2026-08-01"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-ari-kohn-0b3727",
-      "name": "Ari Kohn",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Ari Kohn at 118 North in Wayne.",
-      "address": "118 North, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-01",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/108643726?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-mE7ZzVC1EeRMS3U__uA6A.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Aug 1",
-      "nextDate": "2026-08-01",
-      "dates": [
-        "2026-08-01"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-glen-mills-bevisionary-singles-social-55-edition-7e25ac",
-      "name": "BeVisionary Singles Social: 55+ Edition | 55+",
-      "category": "events",
-      "subcategories": [
-        "special-audience"
-      ],
-      "shortDescription": "Join fellow singles (55+) for a night of dancing, mingling, and delicious vibes.",
-      "address": "Taste & Sea 55+, Glen Mills, PA",
-      "town": "Glen Mills",
-      "lat": 39.868901,
-      "lng": -75.544993,
-      "priceTier": 2,
-      "tags": [
-        "family",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-01",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/bevisionary-singles-social-55-edition-55-tickets-1992309117201",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c3DV-ZgRrUKTvaIj0BhbgA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Aug 1",
-      "nextDate": "2026-08-01",
-      "dates": [
-        "2026-08-01"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-lansdowne-bees-deluxe-brings-steely-dan-meets-ch-7c561a",
-      "name": "Bees Deluxe brings Steely Dan-meets-Chicago Blues Energy to Jamey's House",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "WHO: Bees Deluxe: Two-Time Blues Award Winners WHAT: Return to Jamey's House of Music WHEN: Saturday August 1, 8pm WHERE: 32 S.",
-      "address": "Jamey's House of Music, Lansdowne, PA",
-      "town": "Lansdowne",
-      "lat": 39.937344,
-      "lng": -75.274493,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-01",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://jameyshouseofmusic.com/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IuqE6VHXVUCgYohXk454DQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Aug 1",
-      "nextDate": "2026-08-01",
-      "dates": [
-        "2026-08-01"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-lansdowne-bread-and-salt-5c6fae",
-      "name": "Bread and Salt",
-      "category": "events",
-      "subcategories": [
-        "arts",
-        "food",
-        "food-drink",
-        "visual-arts"
-      ],
-      "shortDescription": "The Lansdowne Arts Committee invites regional artists to submit work for consideration for Bread & Salt to explore the role of food in human relationships.",
-      "address": "2020 House Gallery, Lansdowne, PA",
-      "town": "Lansdowne",
-      "lat": 39.93547,
-      "lng": -75.2724,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-01",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://bit.ly/BreadAndSalt",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gGom7EGQR0OFoasEyxASQA.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Aug 1",
-      "nextDate": "2026-08-01",
-      "dates": [
-        "2026-08-01"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-breakaway-philadelphia-2026-467446",
-      "name": "Breakaway Philadelphia 2026",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "destinations",
-        "festival",
-        "music"
-      ],
-      "shortDescription": "Welcome to Breakaway Philadelphia 2026, presented by CELSIUS!",
-      "address": "Subaru Park Festival Grounds, Chester, PA",
-      "town": "Chester",
-      "lat": 39.828921,
-      "lng": -75.383492,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-08-01",
-      "endDate": "2026-09-12",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/CtlLKQZld0q2g7_xO6M96A.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "3 dates, Aug 1 - Sep 12",
-      "nextDate": "2026-08-01",
-      "dates": [
-        "2026-08-01",
-        "2026-09-11",
-        "2026-09-12"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "folsom-fire-company-community-night",
-      "name": "Folsom Fire Company Community Night",
-      "category": "events",
-      "subcategories": [
-        "community",
-        "seasonal"
-      ],
-      "shortDescription": "The Folsom fire company hosts a summer community night with food, games, and family activities each year.",
-      "schedule": "Summer, annually",
-      "recurring": "annual",
-      "nextDate": "2026-08-01",
-      "address": "Folsom Fire Company, Folsom, PA 19033",
-      "town": "Folsom",
-      "lat": 39.8912,
-      "lng": -75.3268,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "kid-friendly"
-      ],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-08-01"
-      ]
-    },
-    {
-      "id": "lansdowne-farmers-market-lansdowne",
-      "name": "Lansdowne Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "farmers market",
-        "seasonal"
-      ],
-      "shortDescription": "Seasonal Saturday farmers market in Lansdowne selling local produce, baked goods, and handmade items.",
-      "address": "N Lansdowne Ave, Lansdowne, PA 19050",
-      "town": "Lansdowne",
-      "lat": 39.9385,
-      "lng": -75.2725,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "group"
-      ],
-      "featured": true,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "schedule": "Saturdays, summer-fall",
-      "recurring": "weekly",
-      "nextDate": "2026-08-01",
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-08-01"
-      ]
-    },
-    {
-      "id": "ev-media-make-a-splash-this-august-at-linvilla-orch-4c2869",
-      "name": "Make a Splash this August at Linvilla Orchards Swim Clubs!",
-      "category": "events",
-      "subcategories": [
-        "family",
-        "kids",
-        "outdoor-recreation",
-        "special-audience"
-      ],
-      "shortDescription": "Looking for one last summer adventure? Join Linvilla for the month of August with an August ONLY Membership at Hidden Hollow and Knowlton Swim Clubs—both located at...",
-      "address": "Linvilla Orchards, Media, PA",
-      "town": "Media",
-      "lat": 39.883801,
-      "lng": -75.413551,
-      "priceTier": 3,
-      "tags": [
-        "family",
-        "group",
-        "kid-friendly",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-08-01",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "610-876-7116",
-      "website": "https://knowltonhiddenhollow.com/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/D0be8NxiUkeXXSDn4PZdMA.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Aug 1",
-      "nextDate": "2026-08-01",
-      "dates": [
-        "2026-08-01"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-movie-night-karate-kid-2aed62",
-      "name": "Movie Night - Karate Kid",
-      "category": "events",
-      "subcategories": [
-        "film",
-        "kids",
-        "special-audience",
-        "sports"
-      ],
-      "shortDescription": "Movie Night - Karate Kid at Borough Hall Lawn in Media.",
-      "address": "Borough Hall Lawn, Media, PA",
-      "town": "Media",
-      "lat": 39.91678,
-      "lng": -75.38769,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-08-01",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.mediaborough.com/calendar.aspx?EID=2820",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ec6e3608-251a-48ae-afed-7180df77e619.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Aug 1",
-      "nextDate": "2026-08-01",
-      "dates": [
-        "2026-08-01"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-no-longer-bound-the-musical-1e4fe2",
-      "name": "No Longer Bound The Musical",
-      "category": "events",
-      "subcategories": [
-        "musical",
-        "performing-arts",
-        "theater"
-      ],
-      "shortDescription": "Audiences will experience the depth & breadth of the contributions of arts & culture made to the world via the African American experience.",
-      "address": "Media Theatre For The Performing Arts, Media, PA",
-      "town": "Media",
-      "lat": 39.917514,
-      "lng": -75.389443,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-01",
-      "endDate": "2026-08-02",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/no-longer-bound-the-musical-tickets-1991576077660",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/CC5WflCx9kWsA7kt3_FPNQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Aug 1 - Aug 2",
-      "nextDate": "2026-08-01",
-      "dates": [
-        "2026-08-01",
-        "2026-08-02"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
-      "name": "One Time Adult Wheel Class",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "visual-arts"
-      ],
-      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-01",
-      "endDate": "2026-09-27",
-      "recurring": "seasonal",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154443/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Select dates, Aug 1 - Sep 27",
-      "nextDate": "2026-08-01",
-      "dates": [
-        "2026-08-01",
-        "2026-08-02",
-        "2026-08-06",
-        "2026-08-07",
-        "2026-08-08",
-        "2026-08-09",
-        "2026-08-13",
-        "2026-08-14",
-        "2026-08-15",
-        "2026-08-16",
-        "2026-08-20",
-        "2026-08-21",
-        "2026-08-22",
-        "2026-08-23",
-        "2026-08-27",
-        "2026-08-28",
-        "2026-08-29",
-        "2026-08-30",
-        "2026-09-03",
-        "2026-09-04",
-        "2026-09-05",
-        "2026-09-06",
-        "2026-09-10",
-        "2026-09-11",
-        "2026-09-12",
-        "2026-09-13",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-19",
-        "2026-09-20",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-26",
-        "2026-09-27"
-      ],
-      "occurrences": 34
-    },
-    {
-      "id": "ev-chester-philadelphia-union-vs-atlanta-united-fc-662205",
-      "name": "Philadelphia Union vs. Atlanta United FC",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Philadelphia Union vs. Atlanta United FC at Subaru Park in Chester.",
-      "address": "Subaru Park, Chester, PA",
-      "town": "Chester",
-      "lat": 39.828772,
-      "lng": -75.383517,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-01",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OWjG7SacvE6RIbI5tnNHCA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Aug 1",
-      "nextDate": "2026-08-01",
-      "dates": [
-        "2026-08-01"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ridley-park-farmers-market",
-      "name": "Ridley Park Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "market",
-        "seasonal"
-      ],
-      "shortDescription": "Seasonal Saturday market in Ridley Park selling produce, baked goods, and local products through the warmer months.",
-      "schedule": "Saturdays, June-October",
-      "recurring": "weekly",
-      "nextDate": "2026-08-01",
-      "address": "105 E Ward St, Ridley Park, PA 19078",
-      "town": "Ridley Park",
-      "lat": 39.8815,
-      "lng": -75.3238,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "kid-friendly"
-      ],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-08-01"
-      ]
-    },
-    {
-      "id": "springfield-farmers-market",
-      "name": "Springfield Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "market",
-        "seasonal"
-      ],
-      "shortDescription": "Springfield's seasonal outdoor market offers fresh produce, flowers, and local goods on weekends through summer and fall.",
-      "schedule": "Weekends, summer-fall",
-      "recurring": "weekly",
-      "nextDate": "2026-08-01",
-      "address": "Springfield, PA 19064",
-      "town": "Springfield",
-      "lat": 39.9312,
-      "lng": -75.3479,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "kid-friendly"
-      ],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-08-01"
-      ]
-    },
-    {
-      "id": "swarthmore-farmers-market-swarthmore",
-      "name": "Swarthmore Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "farmers market",
-        "seasonal"
-      ],
-      "shortDescription": "Weekly warm-season market in Swarthmore featuring regional farmers, food vendors, and live music.",
-      "address": "Swarthmore Town Center, Swarthmore, PA 19081",
-      "town": "Swarthmore",
-      "lat": 39.903,
-      "lng": -75.349,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "group"
-      ],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "schedule": "Saturdays, warm season",
-      "recurring": "weekly",
-      "nextDate": "2026-08-01",
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-08-01"
-      ]
+      "occurrences": 91
     },
     {
       "id": "ev-glen-mills-chris-despo-8f1a51",
@@ -951,6 +252,114 @@
         "2026-08-02"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-media-no-longer-bound-the-musical-1e4fe2",
+      "name": "No Longer Bound The Musical",
+      "category": "events",
+      "subcategories": [
+        "musical",
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "Audiences will experience the depth & breadth of the contributions of arts & culture made to the world via the African American experience.",
+      "address": "Media Theatre For The Performing Arts, Media, PA",
+      "town": "Media",
+      "lat": 39.917514,
+      "lng": -75.389443,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-02",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/no-longer-bound-the-musical-tickets-1991576077660",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/CC5WflCx9kWsA7kt3_FPNQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Aug 2",
+      "nextDate": "2026-08-02",
+      "dates": [
+        "2026-08-02"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
+      "name": "One Time Adult Wheel Class",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "visual-arts"
+      ],
+      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-02",
+      "endDate": "2026-09-27",
+      "recurring": "seasonal",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154443/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Select dates, Aug 2 - Sep 27",
+      "nextDate": "2026-08-02",
+      "dates": [
+        "2026-08-02",
+        "2026-08-06",
+        "2026-08-07",
+        "2026-08-08",
+        "2026-08-09",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-15",
+        "2026-08-16",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-22",
+        "2026-08-23",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-29",
+        "2026-08-30",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-05",
+        "2026-09-06",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-12",
+        "2026-09-13",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-27"
+      ],
+      "occurrences": 33
     },
     {
       "id": "ev-wayne-philly-joel-07633c",
@@ -1618,7 +1027,7 @@
       ],
       "hours": {},
       "startDate": "2026-08-06",
-      "endDate": "2027-01-21",
+      "endDate": "2027-01-28",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -1629,7 +1038,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Thursdays, Aug 6 - Jan 21",
+      "schedule": "Thursdays, Aug 6 - Jan 28",
       "nextDate": "2026-08-06",
       "dates": [
         "2026-08-06",
@@ -1656,9 +1065,10 @@
         "2026-12-31",
         "2027-01-07",
         "2027-01-14",
-        "2027-01-21"
+        "2027-01-21",
+        "2027-01-28"
       ],
-      "occurrences": 25
+      "occurrences": 26
     },
     {
       "id": "ev-chester-walk-run-connect-5b69f3",
@@ -1918,6 +1328,82 @@
       "occurrences": 7
     },
     {
+      "id": "lansdowne-farmers-market-lansdowne",
+      "name": "Lansdowne Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "farmers market",
+        "seasonal"
+      ],
+      "shortDescription": "Seasonal Saturday farmers market in Lansdowne selling local produce, baked goods, and handmade items.",
+      "address": "N Lansdowne Ave, Lansdowne, PA 19050",
+      "town": "Lansdowne",
+      "lat": 39.9385,
+      "lng": -75.2725,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "group"
+      ],
+      "featured": true,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "schedule": "Saturdays, summer-fall",
+      "recurring": "weekly",
+      "nextDate": "2026-08-08",
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-08-08"
+      ]
+    },
+    {
+      "id": "ridley-park-farmers-market",
+      "name": "Ridley Park Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "market",
+        "seasonal"
+      ],
+      "shortDescription": "Seasonal Saturday market in Ridley Park selling produce, baked goods, and local products through the warmer months.",
+      "schedule": "Saturdays, June-October",
+      "recurring": "weekly",
+      "nextDate": "2026-08-08",
+      "address": "105 E Ward St, Ridley Park, PA 19078",
+      "town": "Ridley Park",
+      "lat": 39.8815,
+      "lng": -75.3238,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "kid-friendly"
+      ],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-08-08"
+      ]
+    },
+    {
       "id": "ev-chester-rumble-ready-2-plus-teefy-bey-s-knockout-32f06c",
       "name": "Rumble Ready 2\" Plus \"Teefy Bey's Knockout Night",
       "category": "events",
@@ -1990,6 +1476,44 @@
       "occurrences": 2
     },
     {
+      "id": "springfield-farmers-market",
+      "name": "Springfield Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "market",
+        "seasonal"
+      ],
+      "shortDescription": "Springfield's seasonal outdoor market offers fresh produce, flowers, and local goods on weekends through summer and fall.",
+      "schedule": "Weekends, summer-fall",
+      "recurring": "weekly",
+      "nextDate": "2026-08-08",
+      "address": "Springfield, PA 19064",
+      "town": "Springfield",
+      "lat": 39.9312,
+      "lng": -75.3479,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "kid-friendly"
+      ],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-08-08"
+      ]
+    },
+    {
       "id": "ev-wayne-still-life-with-water-mixable-oils-with-be-c010cc",
       "name": "Still Life with Water Mixable Oils with Beth Bathe",
       "category": "events",
@@ -2027,6 +1551,44 @@
         "2026-08-08"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "swarthmore-farmers-market-swarthmore",
+      "name": "Swarthmore Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "farmers market",
+        "seasonal"
+      ],
+      "shortDescription": "Weekly warm-season market in Swarthmore featuring regional farmers, food vendors, and live music.",
+      "address": "Swarthmore Town Center, Swarthmore, PA 19081",
+      "town": "Swarthmore",
+      "lat": 39.903,
+      "lng": -75.349,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "group"
+      ],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "schedule": "Saturdays, warm season",
+      "recurring": "weekly",
+      "nextDate": "2026-08-08",
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-08-08"
+      ]
     },
     {
       "id": "ev-boothwyn-women-from-your-neighborhood-435888",
@@ -4415,6 +3977,48 @@
         "2026-09-10"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-chester-breakaway-philadelphia-2026-467446",
+      "name": "Breakaway Philadelphia 2026",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "destinations",
+        "festival",
+        "music"
+      ],
+      "shortDescription": "Welcome to Breakaway Philadelphia 2026, presented by CELSIUS!",
+      "address": "Subaru Park Festival Grounds, Chester, PA",
+      "town": "Chester",
+      "lat": 39.828921,
+      "lng": -75.383492,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-09-11",
+      "endDate": "2026-09-12",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/CtlLKQZld0q2g7_xO6M96A.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Sep 11 - Sep 12",
+      "nextDate": "2026-09-11",
+      "dates": [
+        "2026-09-11",
+        "2026-09-12"
+      ],
+      "occurrences": 2
     },
     {
       "id": "ev-lansdowne-ibc-fundraiser-for-slim-and-the-south-283c61",
@@ -11480,6 +11084,44 @@
       "occurrences": 1,
       "dates": [
         "2027-07-04"
+      ]
+    },
+    {
+      "id": "folsom-fire-company-community-night",
+      "name": "Folsom Fire Company Community Night",
+      "category": "events",
+      "subcategories": [
+        "community",
+        "seasonal"
+      ],
+      "shortDescription": "The Folsom fire company hosts a summer community night with food, games, and family activities each year.",
+      "schedule": "Summer, annually",
+      "recurring": "annual",
+      "nextDate": "2027-08-01",
+      "address": "Folsom Fire Company, Folsom, PA 19033",
+      "town": "Folsom",
+      "lat": 39.8912,
+      "lng": -75.3268,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "kid-friendly"
+      ],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2027-08-01"
       ]
     },
     {
