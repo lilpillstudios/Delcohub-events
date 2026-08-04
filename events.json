@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-08-03T12:39:10.948317+00:00",
+  "scraped_at": "2026-08-04T11:35:59.296225+00:00",
   "horizon_days": 180,
-  "event_count": 279,
+  "event_count": 294,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-08-03",
+      "startDate": "2026-08-04",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Aug 3 - Oct 31",
-      "nextDate": "2026-08-03",
+      "schedule": "Daily, Aug 4 - Oct 31",
+      "nextDate": "2026-08-04",
       "dates": [
-        "2026-08-03",
         "2026-08-04",
         "2026-08-05",
         "2026-08-06",
@@ -130,154 +129,89 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 90
+      "occurrences": 89
     },
     {
-      "id": "ev-glenolden-monday-trivia-night-at-the-fainting-go-c68d01",
-      "name": "Monday Trivia Night at The Fainting Goat (Glenolden - Delaware County",
+      "id": "ev-wayne-gsk-science-in-the-summer-be-a-chemist-273709",
+      "name": "GSK Science in the Summer™: Be a Chemist!",
       "category": "events",
       "subcategories": [
-        "animals",
-        "destinations",
-        "farms",
-        "games"
+        "kids",
+        "special-audience"
       ],
-      "shortDescription": "Monday Night Trivia Starts at 7pm at the Fainting Goat in Glenolden, PA. $50 gift card for 1st Place team and $25 for 2nd Place.",
-      "address": "The Fainting Goat Bar and Restaurant, Glenolden, PA",
-      "town": "Glenolden",
-      "lat": 39.903658,
-      "lng": -75.29411,
+      "shortDescription": "GSK Science in the Summer™ - In collaboration with The Franklin Institute - For children entering 2nd-6th grades SESSION 2: August 3 & 4 Please register each child in...",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
       "priceTier": 0,
       "tags": [
+        "family",
         "free",
-        "group"
+        "group",
+        "kid-friendly"
       ],
       "hours": {},
-      "startDate": "2026-08-03",
-      "endDate": "2026-12-28",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/monday-trivia-night-at-the-fainting-goat-glenolden-delaware-county-pa-tickets-1106985927709",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QD52Na3--EGn6QKh_-aT8g.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mondays, Aug 3 - Dec 28",
-      "nextDate": "2026-08-03",
-      "dates": [
-        "2026-08-03",
-        "2026-08-10",
-        "2026-08-17",
-        "2026-08-24",
-        "2026-08-31",
-        "2026-09-07",
-        "2026-09-14",
-        "2026-09-21",
-        "2026-09-28",
-        "2026-10-05",
-        "2026-10-12",
-        "2026-10-19",
-        "2026-10-26",
-        "2026-11-02",
-        "2026-11-09",
-        "2026-11-16",
-        "2026-11-23",
-        "2026-11-30",
-        "2026-12-07",
-        "2026-12-14",
-        "2026-12-21",
-        "2026-12-28"
-      ],
-      "occurrences": 22
-    },
-    {
-      "id": "ev-chester-movie-night-279803",
-      "name": "Movie Night",
-      "category": "events",
-      "subcategories": [
-        "film",
-        "visual-arts"
-      ],
-      "shortDescription": "Movie Night at Memorial Park in Chester.",
-      "address": "Memorial Park, Chester, PA",
-      "town": "Chester",
-      "lat": 39.835743,
-      "lng": -75.393058,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-03",
+      "startDate": "2026-08-04",
       "endDate": "",
       "recurring": "none",
       "venueId": "",
-      "phone": "",
-      "website": "https://www.chestercity.com/event/movie-night-3/",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/16974284",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/iUWrtM8CS0GwgtWki4Im4Q.medium.png",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/152b4182-74c7-43ee-8af3-09a492a2d76b.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Mon, Aug 3",
-      "nextDate": "2026-08-03",
+      "schedule": "Tue, Aug 4",
+      "nextDate": "2026-08-04",
       "dates": [
-        "2026-08-03"
+        "2026-08-04"
       ],
       "occurrences": 1
     },
     {
-      "id": "ev-bryn-mawr-one-time-classes-for-students-with-dis-c24cd1",
-      "name": "One Time Classes For Students With Disabilities",
+      "id": "ev-wayne-mother-goose-on-the-loose-ages-birth-24-mo-94f84e",
+      "name": "Mother Goose on the Loose (Ages Birth - 24 months)",
       "category": "events",
       "subcategories": [
-        "classes",
-        "learning",
-        "special-audience",
-        "visual-arts"
+        "kids",
+        "literary-arts",
+        "music",
+        "performing-arts"
       ],
-      "shortDescription": "This class for students with disabilities will be flexible depending on the students' desires, sensory preferences, and interest levels.",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
+      "shortDescription": "Winsor Room - Registration required Birth - Age 24 months Stories, songs, and movement activities to help your young child build early literacy skills in a safe, social...",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
       "tags": [
         "family",
-        "group"
+        "free",
+        "group",
+        "kid-friendly"
       ],
       "hours": {},
-      "startDate": "2026-08-03",
-      "endDate": "2026-09-28",
-      "recurring": "weekly",
+      "startDate": "2026-08-04",
+      "endDate": "",
+      "recurring": "none",
       "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154447/t/tickets",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/16896297",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IK04RSbO2UapiFtqzK6Oyw.medium.jpg",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/90554c9b-e4e9-4ddd-baa0-4b4ee7f02adc.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Mondays, Aug 3 - Sep 28",
-      "nextDate": "2026-08-03",
+      "schedule": "Tue, Aug 4",
+      "nextDate": "2026-08-04",
       "dates": [
-        "2026-08-03",
-        "2026-08-10",
-        "2026-08-17",
-        "2026-08-24",
-        "2026-08-31",
-        "2026-09-07",
-        "2026-09-14",
-        "2026-09-21",
-        "2026-09-28"
+        "2026-08-04"
       ],
-      "occurrences": 9
+      "occurrences": 1
     },
     {
       "id": "ev-media-national-night-out-8a3d95",
@@ -359,6 +293,47 @@
       "occurrences": 10
     },
     {
+      "id": "ev-wayne-summer-reading-buddies-5f87a4",
+      "name": "Summer Reading Buddies",
+      "category": "events",
+      "subcategories": [
+        "literary-arts",
+        "special-audience"
+      ],
+      "shortDescription": "Come to the library and read your book with a teen buddy! Each time slot is 20 minutes. For rising 2nd, 3rd, and 4th graders. Registration required.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-04",
+      "endDate": "2026-08-18",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17029349",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/deb89334-f73a-4be5-8687-1be71dbee23e.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Aug 4 - Aug 18",
+      "nextDate": "2026-08-04",
+      "dates": [
+        "2026-08-04",
+        "2026-08-11",
+        "2026-08-18"
+      ],
+      "occurrences": 3
+    },
+    {
       "id": "ev-holmes-tuesday-karaoke-at-haggertys-in-holmes-pa-3b255e",
       "name": "Tuesday Karaoke at Haggertys in Holmes, PA (Delaware County",
       "category": "events",
@@ -420,6 +395,59 @@
         "2027-01-26"
       ],
       "occurrences": 26
+    },
+    {
+      "id": "ev-wayne-chess-club-634d75",
+      "name": "Chess Club",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "games",
+        "health-wellness",
+        "learning"
+      ],
+      "shortDescription": "Chess Club at Radnor Memorial Library Wednesdays, 9/2/26 through 12/30/26 (10/14 and 10/21 Chess Club moves upstairs, Rms.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-05",
+      "endDate": "2026-11-18",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/16988198",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eea63be5-c4d3-46d5-9632-af64e5f10861.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wednesdays, Aug 5 - Nov 18",
+      "nextDate": "2026-08-05",
+      "dates": [
+        "2026-08-05",
+        "2026-08-12",
+        "2026-08-19",
+        "2026-08-26",
+        "2026-09-02",
+        "2026-09-09",
+        "2026-09-16",
+        "2026-09-23",
+        "2026-09-30",
+        "2026-10-07",
+        "2026-10-28",
+        "2026-11-04",
+        "2026-11-11",
+        "2026-11-18"
+      ],
+      "occurrences": 14
     },
     {
       "id": "media-dining-under-the-stars",
@@ -1043,6 +1071,45 @@
       "occurrences": 8
     },
     {
+      "id": "ev-chester-back-to-school-bash-0704d6",
+      "name": "Back to School Bash",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "destinations",
+        "learning"
+      ],
+      "shortDescription": "Back to School Bash at Delaware County Health Department (DCHD) Wellness Center in Chester.",
+      "address": "Delaware County Health Department (DCHD) Wellness Center, Chester, PA",
+      "town": "Chester",
+      "lat": 39.846075,
+      "lng": -75.362788,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-08",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.chestercity.com/event/back-to-school-bash-3/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/xDiwGTH4DUSL-5Z7FmHbGA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Aug 8",
+      "nextDate": "2026-08-08",
+      "dates": [
+        "2026-08-08"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-glen-mills-chris-despo-8f1a51",
       "name": "Chris Despo",
       "category": "events",
@@ -1507,6 +1574,113 @@
       "occurrences": 5
     },
     {
+      "id": "ev-glenolden-monday-trivia-night-at-the-fainting-go-c68d01",
+      "name": "Monday Trivia Night at The Fainting Goat (Glenolden - Delaware County",
+      "category": "events",
+      "subcategories": [
+        "animals",
+        "destinations",
+        "farms",
+        "games"
+      ],
+      "shortDescription": "Monday Night Trivia Starts at 7pm at the Fainting Goat in Glenolden, PA. $50 gift card for 1st Place team and $25 for 2nd Place.",
+      "address": "The Fainting Goat Bar and Restaurant, Glenolden, PA",
+      "town": "Glenolden",
+      "lat": 39.903658,
+      "lng": -75.29411,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-10",
+      "endDate": "2026-12-28",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/monday-trivia-night-at-the-fainting-goat-glenolden-delaware-county-pa-tickets-1106985927709",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QD52Na3--EGn6QKh_-aT8g.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mondays, Aug 10 - Dec 28",
+      "nextDate": "2026-08-10",
+      "dates": [
+        "2026-08-10",
+        "2026-08-17",
+        "2026-08-24",
+        "2026-08-31",
+        "2026-09-07",
+        "2026-09-14",
+        "2026-09-21",
+        "2026-09-28",
+        "2026-10-05",
+        "2026-10-12",
+        "2026-10-19",
+        "2026-10-26",
+        "2026-11-02",
+        "2026-11-09",
+        "2026-11-16",
+        "2026-11-23",
+        "2026-11-30",
+        "2026-12-07",
+        "2026-12-14",
+        "2026-12-21",
+        "2026-12-28"
+      ],
+      "occurrences": 21
+    },
+    {
+      "id": "ev-bryn-mawr-one-time-classes-for-students-with-dis-c24cd1",
+      "name": "One Time Classes For Students With Disabilities",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "special-audience",
+        "visual-arts"
+      ],
+      "shortDescription": "This class for students with disabilities will be flexible depending on the students' desires, sensory preferences, and interest levels.",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-10",
+      "endDate": "2026-09-28",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154447/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IK04RSbO2UapiFtqzK6Oyw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mondays, Aug 10 - Sep 28",
+      "nextDate": "2026-08-10",
+      "dates": [
+        "2026-08-10",
+        "2026-08-17",
+        "2026-08-24",
+        "2026-08-31",
+        "2026-09-07",
+        "2026-09-14",
+        "2026-09-21",
+        "2026-09-28"
+      ],
+      "occurrences": 8
+    },
+    {
       "id": "ev-aston-plant-bingo-at-2sp-brewing-company-2d1ec7",
       "name": "Plant Bingo at 2SP Brewing Company",
       "category": "events",
@@ -1531,6 +1705,41 @@
       "website": "https://www.eventbrite.com/e/plant-bingo-at-2sp-brewing-company-tickets-1989793748666",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/X1bpsSNKj0Cu0-q2fu7q1w.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mon, Aug 10",
+      "nextDate": "2026-08-10",
+      "dates": [
+        "2026-08-10"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-the-empty-chair-f2b7a3",
+      "name": "The Empty Chair",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "The Empty Chair at St. Luke Community Christian Church in Chester.",
+      "address": "St. Luke Community Christian Church, Chester, PA",
+      "town": "Chester",
+      "lat": 39.839459,
+      "lng": -75.378225,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-10",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.chestercity.com/event/the-empty-chair/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gPCU1BdgEUemgc4m6lJ6LQ.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -2468,6 +2677,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-drexel-hill-r-b-bingo-at-casey-s-7af481",
+      "name": "R&B Bingo at Casey's",
+      "category": "events",
+      "subcategories": [
+        "games",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "The hottest R&B Bingo in the tristate is making its way to Delco! Come sing, play, vibe and win prizes with Lala & Dj Dez Davis!",
+      "address": "Casey's Drexel Hill, Drexel Hill, PA",
+      "town": "Drexel Hill",
+      "lat": 39.960126,
+      "lng": -75.288562,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-19",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/rb-bingo-at-caseys-tickets-1995789638534",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8GeOMhqGdE67I98cFnEjsA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Aug 19",
+      "nextDate": "2026-08-19",
+      "dates": [
+        "2026-08-19"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-springfield-yard-waste-collection-0a939e",
       "name": "Yard Waste Collection",
       "category": "events",
@@ -2577,6 +2824,47 @@
       "nextDate": "2026-08-21",
       "dates": [
         "2026-08-21"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-back-to-school-resource-fair-713210",
+      "name": "Back to School Resource Fair",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "destinations",
+        "festival",
+        "learning"
+      ],
+      "shortDescription": "Back to School Resource Fair at Chester High School in Chester.",
+      "address": "Chester High School, Chester, PA",
+      "town": "Chester",
+      "lat": 39.849322,
+      "lng": -75.368409,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-08-22",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.chestercity.com/event/back-to-school-resource-fair/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/com4MP9lgUm3oZG-3skK1g.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Aug 22",
+      "nextDate": "2026-08-22",
+      "dates": [
+        "2026-08-22"
       ],
       "occurrences": 1
     },
@@ -2726,6 +3014,81 @@
       "nextDate": "2026-08-22",
       "dates": [
         "2026-08-22"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-blood-drive-0fc10d",
+      "name": "Blood Drive",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "volunteering"
+      ],
+      "shortDescription": "Blood Drive at WSFS Bank Sportsplex in Chester.",
+      "address": "WSFS Bank Sportsplex, Chester, PA",
+      "town": "Chester",
+      "lat": 39.831902,
+      "lng": -75.382535,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-23",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.chestercity.com/event/blood-drive-2/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3drgv4UZG0OrlgOZzMOKBg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Aug 23",
+      "nextDate": "2026-08-23",
+      "dates": [
+        "2026-08-23"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-hands-on-loc-workshop-for-beginners-f4e031",
+      "name": "Hands -On Loc Workshop for Beginners",
+      "category": "events",
+      "subcategories": [
+        "learning",
+        "workshop"
+      ],
+      "shortDescription": "$200 Loc Maintenance Workshop. Kit included. Refreshments will be provided.",
+      "address": "All-Starz Salon, Chester, PA",
+      "town": "Chester",
+      "lat": 39.835533,
+      "lng": -75.387374,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-23",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/hands-on-loc-workshop-for-beginners-registration-1995556880348",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mx-gBaU6uEu2bGBWiWVeIw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Aug 23",
+      "nextDate": "2026-08-23",
+      "dates": [
+        "2026-08-23"
       ],
       "occurrences": 1
     },
@@ -3037,6 +3400,80 @@
         "2026-12-19"
       ],
       "occurrences": 5
+    },
+    {
+      "id": "ev-glen-mills-core-and-restore-bbfe10",
+      "name": "Core and restore",
+      "category": "events",
+      "subcategories": [
+        "health-wellness",
+        "lifestyle"
+      ],
+      "shortDescription": "Join us for our very first wellness event — a morning designed to help you slow down, recharge, and prioritize YOU",
+      "address": "Glen Mills, PA",
+      "town": "Glen Mills",
+      "lat": 39.866806,
+      "lng": -75.543013,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-29",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/core-and-restore-tickets-1995856499517",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/qHBJnI1to0Cuelb5qOVnAg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Aug 29",
+      "nextDate": "2026-08-29",
+      "dates": [
+        "2026-08-29"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-drexel-hill-future-drake-night-c0d375",
+      "name": "Future & Drake Night",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "A blend of hip hop and r&b .. Come sing your hearts out .. Sip a lemon drop , eat and meet new people",
+      "address": "Casey's Drexel Hill, Drexel Hill, PA",
+      "town": "Drexel Hill",
+      "lat": 39.960126,
+      "lng": -75.288562,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-29",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/future-drake-night-tickets-1996043010376",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Eh1FL83BK0aphDt-dsT1Cw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Aug 29",
+      "nextDate": "2026-08-29",
+      "dates": [
+        "2026-08-29"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-lansdowne-porter-productions-presents-a-porter-p-98fc55",
@@ -3381,6 +3818,41 @@
       "nextDate": "2026-09-04",
       "dates": [
         "2026-09-04"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-let-us-be-the-change-156862",
+      "name": "Let Us Be The Change",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Let Us Be The Change at Memorial Park in Chester.",
+      "address": "Memorial Park, Chester, PA",
+      "town": "Chester",
+      "lat": 39.835743,
+      "lng": -75.393058,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-05",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.chestercity.com/event/let-us-be-the-change/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/YIXmzEC_8k-xqZdQpEdxQg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Sep 5",
+      "nextDate": "2026-09-05",
+      "dates": [
+        "2026-09-05"
       ],
       "occurrences": 1
     },
@@ -4021,6 +4493,47 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chester-peace-love-unity-festival-abb362",
+      "name": "Peace, Love, & Unity Festival",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "festival",
+        "lifestyle",
+        "markets"
+      ],
+      "shortDescription": "Vendors Vendors must register for a space by completing and submitting a Vendor Form: https://form.jotform.com/261935449021154 Payment in the form of a Money Order will...",
+      "address": "Chester City Hall, Chester, PA",
+      "town": "Chester",
+      "lat": 39.847305,
+      "lng": -75.35934,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-09-12",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.chestercity.com/event/peace-love-unity-festival/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/48d62f8d-8d8b-400a-889c-6d762b93e82a.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Sep 12",
+      "nextDate": "2026-09-12",
+      "dates": [
+        "2026-09-12"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-chester-widener-pride-football-vs-alvernia-1c6079",
       "name": "Widener Pride: Football vs Alvernia",
       "category": "events",
@@ -4449,6 +4962,43 @@
       "website": "https://www.eventbrite.com/e/an-evening-with-jodi-picoult-tickets-1991416252619",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gsslfvABjk2CTiXePYEhSw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Sep 17",
+      "nextDate": "2026-09-17",
+      "dates": [
+        "2026-09-17"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-primos-delco-singles-at-jt-brewskis-30-50-c7afb4",
+      "name": "Delco Singles at JT Brewskis | 30-50",
+      "category": "events",
+      "subcategories": [
+        "special-audience"
+      ],
+      "shortDescription": "Ready to meet singles your age? Then come hang at JT Brewskis on July 18th and be ready to laugh, dance and connect!",
+      "address": "JT Brewskis 30, Primos, PA",
+      "town": "Primos",
+      "lat": 39.920724,
+      "lng": -75.29879,
+      "priceTier": 2,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-17",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/delco-singles-at-jt-brewskis-30-50-tickets-1991699924088",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Bu-gAUqeEECVw_nNHvpYrA.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -6607,6 +7157,43 @@
         "2026-12-04"
       ],
       "occurrences": 2
+    },
+    {
+      "id": "ev-springfield-substitoothfairy-presents-a-night-to-4e6943",
+      "name": "SubstiToothFairy Presents: A Night To Remember- Celebration For A Cause",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "performing-arts"
+      ],
+      "shortDescription": "Join SubstiToothFairy and Dr. Brady Smith for dental comedy, community, a great cause, and a first look at our new technology!",
+      "address": "Springfield Country Club, Springfield, PA",
+      "town": "Springfield",
+      "lat": 39.925851,
+      "lng": -75.350892,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-02",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/substitoothfairy-presents-a-night-to-remember-celebration-for-a-cause-tickets-1994693472873",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3-2-zRz0jkSkMSery_Rs_g.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Oct 2",
+      "nextDate": "2026-10-02",
+      "dates": [
+        "2026-10-02"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-lansdowne-the-rocky-horror-picture-show-451dcd",
@@ -10447,7 +11034,7 @@
       ],
       "hours": {},
       "startDate": "2027-01-22",
-      "endDate": "2027-01-29",
+      "endDate": "2027-01-30",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -10458,15 +11045,16 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Fri, Sat, Sun, Jan 22 - Jan 29",
+      "schedule": "Fri, Sat, Sun, Jan 22 - Jan 30",
       "nextDate": "2027-01-22",
       "dates": [
         "2027-01-22",
         "2027-01-23",
         "2027-01-24",
-        "2027-01-29"
+        "2027-01-29",
+        "2027-01-30"
       ],
-      "occurrences": 4
+      "occurrences": 5
     },
     {
       "id": "ev-chester-anniversary-of-the-city-of-chester-s-inc-8a6d0c",
