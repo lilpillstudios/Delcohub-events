@@ -1,9 +1,49 @@
 {
   "version": 1,
-  "scraped_at": "2026-08-04T11:35:59.296225+00:00",
+  "scraped_at": "2026-08-05T11:33:43.121634+00:00",
   "horizon_days": 180,
-  "event_count": 294,
+  "event_count": 305,
   "listings": [
+    {
+      "id": "ev-wayne-remember-the-ladies-4-memorable-movies-cat-845660",
+      "name": "'Remember the Ladies' (4 memorable movies)--CATCHING SIGHT OF THELMA AND LOUISE (86 MIN.)",
+      "category": "events",
+      "subcategories": [
+        "film",
+        "special-audience",
+        "visual-arts"
+      ],
+      "shortDescription": "‘Remember the Ladies'-4 memorable movies In 1776, John Adams was in Philadelphia drafting America's Laws.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-05",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/16823607",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3e4fa9fd-f8b4-465e-8171-3308671027f2.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Aug 5",
+      "nextDate": "2026-08-05",
+      "dates": [
+        "2026-08-05"
+      ],
+      "occurrences": 1
+    },
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
       "name": "2026 Gene Capaldi Lens on Litter Photo Contest",
@@ -24,7 +64,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-08-04",
+      "startDate": "2026-08-05",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -36,10 +76,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Aug 4 - Oct 31",
-      "nextDate": "2026-08-04",
+      "schedule": "Daily, Aug 5 - Oct 31",
+      "nextDate": "2026-08-05",
       "dates": [
-        "2026-08-04",
         "2026-08-05",
         "2026-08-06",
         "2026-08-07",
@@ -129,17 +168,19 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 89
+      "occurrences": 88
     },
     {
-      "id": "ev-wayne-gsk-science-in-the-summer-be-a-chemist-273709",
-      "name": "GSK Science in the Summer™: Be a Chemist!",
+      "id": "ev-wayne-books-n-flix-storytime-with-a-twist-ages-2-b2f3af",
+      "name": "Books-n-Flix: Storytime with a Twist! (Ages 2-6)",
       "category": "events",
       "subcategories": [
+        "film",
         "kids",
+        "literary-arts",
         "special-audience"
       ],
-      "shortDescription": "GSK Science in the Summer™ - In collaboration with The Franklin Institute - For children entering 2nd-6th grades SESSION 2: August 3 & 4 Please register each child in...",
+      "shortDescription": "Mondays, Wednesdays, & Thursdays at 10:30 AM, except 7/29 - No registration necessary Please limit attendance to one day per week!",
       "address": "Radnor Memorial Library, Wayne, PA",
       "town": "Wayne",
       "lat": 40.042952,
@@ -152,249 +193,25 @@
         "kid-friendly"
       ],
       "hours": {},
-      "startDate": "2026-08-04",
-      "endDate": "",
+      "startDate": "2026-08-05",
+      "endDate": "2026-08-06",
       "recurring": "none",
       "venueId": "",
       "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/16974284",
+      "website": "https://delcolibraries.libcal.com/event/16896030",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/152b4182-74c7-43ee-8af3-09a492a2d76b.medium.png",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/llC0BEGruEG-Lp1-GLh-yg.medium.jpg",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Tue, Aug 4",
-      "nextDate": "2026-08-04",
+      "schedule": "Daily, Aug 5 - Aug 6",
+      "nextDate": "2026-08-05",
       "dates": [
-        "2026-08-04"
+        "2026-08-05",
+        "2026-08-06"
       ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-mother-goose-on-the-loose-ages-birth-24-mo-94f84e",
-      "name": "Mother Goose on the Loose (Ages Birth - 24 months)",
-      "category": "events",
-      "subcategories": [
-        "kids",
-        "literary-arts",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Winsor Room - Registration required Birth - Age 24 months Stories, songs, and movement activities to help your young child build early literacy skills in a safe, social...",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-08-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/16896297",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/90554c9b-e4e9-4ddd-baa0-4b4ee7f02adc.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Aug 4",
-      "nextDate": "2026-08-04",
-      "dates": [
-        "2026-08-04"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-national-night-out-8a3d95",
-      "name": "National Night Out",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "National Night Out at a Delco venue in Media.",
-      "address": "Media, PA",
-      "town": "Media",
-      "lat": 39.91678,
-      "lng": -75.38769,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.mediaborough.com/calendar.aspx?EID=2905",
-      "images": [],
-      "imageUrl": "",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Aug 4",
-      "nextDate": "2026-08-04",
-      "dates": [
-        "2026-08-04"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-oldies-in-the-hall-c752a9",
-      "name": "Oldies in the Hall",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Oldies in the Hall at Chester City Hall in Chester.",
-      "address": "Chester City Hall, Chester, PA",
-      "town": "Chester",
-      "lat": 39.847305,
-      "lng": -75.35934,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-04",
-      "endDate": "2026-10-06",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.chestercity.com/event/oldies-in-the-hall/2026-08-04/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/A9KZdailukOfcROaJcyKoA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Aug 4 - Oct 6",
-      "nextDate": "2026-08-04",
-      "dates": [
-        "2026-08-04",
-        "2026-08-11",
-        "2026-08-18",
-        "2026-08-25",
-        "2026-09-01",
-        "2026-09-08",
-        "2026-09-15",
-        "2026-09-22",
-        "2026-09-29",
-        "2026-10-06"
-      ],
-      "occurrences": 10
-    },
-    {
-      "id": "ev-wayne-summer-reading-buddies-5f87a4",
-      "name": "Summer Reading Buddies",
-      "category": "events",
-      "subcategories": [
-        "literary-arts",
-        "special-audience"
-      ],
-      "shortDescription": "Come to the library and read your book with a teen buddy! Each time slot is 20 minutes. For rising 2nd, 3rd, and 4th graders. Registration required.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-04",
-      "endDate": "2026-08-18",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17029349",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/deb89334-f73a-4be5-8687-1be71dbee23e.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Aug 4 - Aug 18",
-      "nextDate": "2026-08-04",
-      "dates": [
-        "2026-08-04",
-        "2026-08-11",
-        "2026-08-18"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-holmes-tuesday-karaoke-at-haggertys-in-holmes-pa-3b255e",
-      "name": "Tuesday Karaoke at Haggertys in Holmes, PA (Delaware County",
-      "category": "events",
-      "subcategories": [
-        "open-mic",
-        "performing-arts"
-      ],
-      "shortDescription": "Karaoke is Every Tuesday at Haggertys in Homes, PA (Delaware County, PA) Karaoke starts at 8pm.",
-      "address": "Haggerty's Cafe, Holmes, PA",
-      "town": "Holmes",
-      "lat": 39.899696,
-      "lng": -75.305652,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-04",
-      "endDate": "2027-01-26",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/tuesday-karaoke-at-haggertys-in-holmes-pa-delaware-county-pa-tickets-1225315845679",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/g_89wQtSp0Sz9smp4PcgxA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Aug 4 - Jan 26",
-      "nextDate": "2026-08-04",
-      "dates": [
-        "2026-08-04",
-        "2026-08-11",
-        "2026-08-18",
-        "2026-08-25",
-        "2026-09-01",
-        "2026-09-08",
-        "2026-09-15",
-        "2026-09-22",
-        "2026-09-29",
-        "2026-10-06",
-        "2026-10-13",
-        "2026-10-20",
-        "2026-10-27",
-        "2026-11-03",
-        "2026-11-10",
-        "2026-11-17",
-        "2026-11-24",
-        "2026-12-01",
-        "2026-12-08",
-        "2026-12-15",
-        "2026-12-22",
-        "2026-12-29",
-        "2027-01-05",
-        "2027-01-12",
-        "2027-01-19",
-        "2027-01-26"
-      ],
-      "occurrences": 26
+      "occurrences": 2
     },
     {
       "id": "ev-wayne-chess-club-634d75",
@@ -448,6 +265,44 @@
         "2026-11-18"
       ],
       "occurrences": 14
+    },
+    {
+      "id": "ev-wayne-dj-hurricane-larue-at-118-north-b51821",
+      "name": "DJ Hurricane LaRue at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "DJ Hurricane LaRue at 118 North Wednesday, August 5, 2026 Doors: 5:30 PM | Show: 7:30 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-05",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/2026982581220766/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/hpARWzmxiU2Ti9eHs3ZV5Q.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Aug 5",
+      "nextDate": "2026-08-05",
+      "dates": [
+        "2026-08-05"
+      ],
+      "occurrences": 1
     },
     {
       "id": "media-dining-under-the-stars",
@@ -552,6 +407,47 @@
       "website": "https://www.eventbrite.com/e/sip-cake-a-vintage-cake-class-tickets-1993577848009",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/qTdyplxZTE2Y04OI3Q7Ksg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Aug 5",
+      "nextDate": "2026-08-05",
+      "dates": [
+        "2026-08-05"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-media-weekday-bird-walk-at-tyler-arboretum-065d3c",
+      "name": "Weekday Bird Walk at Tyler Arboretum",
+      "category": "events",
+      "subcategories": [
+        "fitness",
+        "nature",
+        "outdoor-recreation",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Explore Tyler’s forests and meadows with birders, hear the calls, spot the birds and experience this Audubon-recognized Important Bird Area firsthand.",
+      "address": "Tyler Arboretum, Media, PA",
+      "town": "Media",
+      "lat": 39.935841,
+      "lng": -75.429977,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-08-05",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "(610) 566-9134",
+      "website": "https://countylinesmagazine.com/event/weekday-bird-walk-at-tyler-arboretum/2026-08-05/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d6c33134-2ec5-4e97-9314-5d356da81ca9.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -942,6 +838,45 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-karl-s-garcia-band-jgb-tribute-at-118-nort-ea09c7",
+      "name": "Karl's Garcia Band: JGB Tribute at 118 North",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Karl's Garcia Band: JGB Tribute at 118 North Friday, August 7, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-07",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1563937465158368/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/seeo-pOnNk--ED32-TL2jg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Aug 7",
+      "nextDate": "2026-08-07",
+      "dates": [
+        "2026-08-07"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-newtown-square-farmers-market-82ee6b",
       "name": "Newtown Square Farmers Market",
       "category": "events",
@@ -1193,6 +1128,43 @@
         "2026-11-14"
       ],
       "occurrences": 7
+    },
+    {
+      "id": "ev-media-free-collection-event-for-residents-electr-cfe4b9",
+      "name": "Free Collection Event for Residents: Electronics Waste and Paper Shredding",
+      "category": "events",
+      "subcategories": [
+        "civic"
+      ],
+      "shortDescription": "Representative Lisa Borowski and Senator John Kane are hosting a free electronics recycling and onsite paper shredding event in partnership with sustainable waste...",
+      "address": "Penn State Brandywine, Media, PA",
+      "town": "Media",
+      "lat": 39.926731,
+      "lng": -75.44931,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-08",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.signupgenius.com/go/10C0F4CA8A629ABF9C25-64748592-rep#/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/DAf0_4BIu0CA0au1wf-Ktg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Aug 8",
+      "nextDate": "2026-08-08",
+      "dates": [
+        "2026-08-08"
+      ],
+      "occurrences": 1
     },
     {
       "id": "lansdowne-farmers-market-lansdowne",
@@ -1865,6 +1837,151 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chester-oldies-in-the-hall-c752a9",
+      "name": "Oldies in the Hall",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Oldies in the Hall at Chester City Hall in Chester.",
+      "address": "Chester City Hall, Chester, PA",
+      "town": "Chester",
+      "lat": 39.847305,
+      "lng": -75.35934,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-11",
+      "endDate": "2026-10-06",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.chestercity.com/event/oldies-in-the-hall/2026-08-11/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/A9KZdailukOfcROaJcyKoA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Aug 11 - Oct 6",
+      "nextDate": "2026-08-11",
+      "dates": [
+        "2026-08-11",
+        "2026-08-18",
+        "2026-08-25",
+        "2026-09-01",
+        "2026-09-08",
+        "2026-09-15",
+        "2026-09-22",
+        "2026-09-29",
+        "2026-10-06"
+      ],
+      "occurrences": 9
+    },
+    {
+      "id": "ev-wayne-summer-reading-buddies-5f87a4",
+      "name": "Summer Reading Buddies",
+      "category": "events",
+      "subcategories": [
+        "literary-arts",
+        "special-audience"
+      ],
+      "shortDescription": "Come to the library and read your book with a teen buddy! Each time slot is 20 minutes. For rising 2nd, 3rd, and 4th graders. Registration required.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-11",
+      "endDate": "2026-08-18",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17029357",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/deb89334-f73a-4be5-8687-1be71dbee23e.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Aug 11 - Aug 18",
+      "nextDate": "2026-08-11",
+      "dates": [
+        "2026-08-11",
+        "2026-08-18"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "ev-holmes-tuesday-karaoke-at-haggertys-in-holmes-pa-3b255e",
+      "name": "Tuesday Karaoke at Haggertys in Holmes, PA (Delaware County",
+      "category": "events",
+      "subcategories": [
+        "open-mic",
+        "performing-arts"
+      ],
+      "shortDescription": "Karaoke is Every Tuesday at Haggertys in Homes, PA (Delaware County, PA) Karaoke starts at 8pm.",
+      "address": "Haggerty's Cafe, Holmes, PA",
+      "town": "Holmes",
+      "lat": 39.899696,
+      "lng": -75.305652,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-11",
+      "endDate": "2027-01-26",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/tuesday-karaoke-at-haggertys-in-holmes-pa-delaware-county-pa-tickets-1225315845679",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/g_89wQtSp0Sz9smp4PcgxA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Aug 11 - Jan 26",
+      "nextDate": "2026-08-11",
+      "dates": [
+        "2026-08-11",
+        "2026-08-18",
+        "2026-08-25",
+        "2026-09-01",
+        "2026-09-08",
+        "2026-09-15",
+        "2026-09-22",
+        "2026-09-29",
+        "2026-10-06",
+        "2026-10-13",
+        "2026-10-20",
+        "2026-10-27",
+        "2026-11-03",
+        "2026-11-10",
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05",
+        "2027-01-12",
+        "2027-01-19",
+        "2027-01-26"
+      ],
+      "occurrences": 25
+    },
+    {
       "id": "ev-st-davids-amada-s-annual-summer-cava-y-cochinill-4cf5db",
       "name": "Amada's Annual Summer Cava y Cochinillo Event",
       "category": "events",
@@ -2204,6 +2321,44 @@
       "website": "https://www.mediatheatre.org/shows-tickets/mean-girls",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SsRGfGV6eU2K-aaKFC2cMw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Aug 14",
+      "nextDate": "2026-08-14",
+      "dates": [
+        "2026-08-14"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-supernova-a-tribute-to-oasis-at-118-north-a64ce9",
+      "name": "Supernova - A Tribute to Oasis at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Supernova - A Tribute to Oasis at 118 North Friday, August 14 2026 Doors: 7:30 PM | Show: 8:30 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-14",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1029269969824477/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dh4iecr7jUulRMg_6VZ41g.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -2603,6 +2758,85 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-riot-nerd-80-s-music-video-bingo-at-118-no-91e73e",
+      "name": "Riot Nerd: 80's Music Video Bingo at 118 North",
+      "category": "events",
+      "subcategories": [
+        "games",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Riot Nerd: 80's Music Video Bingo at 118 North Sunday, August 16, 2026 Doors: 5:00 PM | Show: 7:00 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-16",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/2008745663338820/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OcJXxTaHeka-O4doW8TauQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Aug 16",
+      "nextDate": "2026-08-16",
+      "dates": [
+        "2026-08-16"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-comedy-night-benefit-show-davey-bo-at-118-7b0cad",
+      "name": "Comedy Night Benefit Show: Davey Bo at 118 North",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "comedy",
+        "fundraiser",
+        "lifestyle"
+      ],
+      "shortDescription": "Comedy Night: Davey Bo at 118 North Wednesday, August 19th, 2026 Doors: 5:30 PM | Show: 7:30 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-19",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1734453064238107/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ZALGedHwcEGNlCCE2O-aXQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Aug 19",
+      "nextDate": "2026-08-19",
+      "dates": [
+        "2026-08-19"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-drexel-hill-delco-meets-4-cigars-93beb8",
       "name": "Delco Meets 4 Cigars",
       "category": "events",
@@ -2753,6 +2987,45 @@
       "occurrences": 2
     },
     {
+      "id": "ev-wayne-cats-on-the-bus-grateful-dead-tribute-at-1-8711e5",
+      "name": "Cats on the Bus: Grateful Dead Tribute at 118 North",
+      "category": "events",
+      "subcategories": [
+        "lifestyle",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Cats on the Bus: Grateful Dead Tribute at 118 North Thursday, August 20, 2026 Doors: 6:00 PM | Show: 8:00 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-20",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1395462519126407/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SFQ8U5Y-90-T-qoAPJnnzw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Aug 20",
+      "nextDate": "2026-08-20",
+      "dates": [
+        "2026-08-20"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-villanova-villanova-university-men-s-soccer-vs-t-85d589",
       "name": "Villanova University Men's Soccer vs Temple University",
       "category": "events",
@@ -2816,6 +3089,44 @@
       "website": "https://www.chestercity.com/event/fusion-friday-9/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Pz93cRvJrE-s7aaV7ReoRw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Aug 21",
+      "nextDate": "2026-08-21",
+      "dates": [
+        "2026-08-21"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-stargazer-lily-the-peace-creeps-at-118-nor-0a2202",
+      "name": "Stargazer Lily + The Peace Creeps at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Stargazer Lily at 118 North With The Peace Creeps Friday, August 21, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-21",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1883828952313737/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/LUcdK8tIMk2Rwyd-P3mD9A.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -3018,6 +3329,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-mysterious-ways-u2-tribute-at-118-north-adfc24",
+      "name": "Mysterious Ways (U2 Tribute) at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Mysterious Ways (U2 Tribute) at 118 North Saturday, August 22, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-22",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1002916462711463/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/xDrjtgaRO0Km0PO8uLFAFQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Aug 22",
+      "nextDate": "2026-08-22",
+      "dates": [
+        "2026-08-22"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-chester-blood-drive-0fc10d",
       "name": "Blood Drive",
       "category": "events",
@@ -3081,6 +3430,44 @@
       "website": "https://www.eventbrite.com/e/hands-on-loc-workshop-for-beginners-registration-1995556880348",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mx-gBaU6uEu2bGBWiWVeIw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Aug 23",
+      "nextDate": "2026-08-23",
+      "dates": [
+        "2026-08-23"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-wally-smith-organ-trio-at-118-north-fee76e",
+      "name": "Wally Smith Organ Trio at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Wally Smith Organ Trio at 118 North Sunday, August 23, 2026 Doors & Show: 4:00 PM 21+ Tickets >> https://tixr.com/pr/social/198792",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-23",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1770750774346381/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cB7Pj-BHfU6dcvbFweIERw.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -4451,6 +4838,41 @@
       "dates": [
         "2026-09-12"
       ]
+    },
+    {
+      "id": "ev-media-dcswa-hhw-collection-event-rose-tree-park-a0a6a8",
+      "name": "DCSWA HHW Collection Event @ Rose Tree Park",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "DCSWA HHW Collection Event @ Rose Tree Park September 12th, 2026",
+      "address": "Rose Tree County Park, Media, PA",
+      "town": "Media",
+      "lat": 39.941785,
+      "lng": -75.394607,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-12",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/september-12th-2026-dcswa-hhw-collection-event-rose-tree-park-tickets-1995973146411",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4s5ghaJvNE-igz8vqO3lhg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Sep 12",
+      "nextDate": "2026-09-12",
+      "dates": [
+        "2026-09-12"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-media-mac-twilight-series-the-sermon-organ-drive-9b6ea3",
@@ -11034,7 +11456,7 @@
       ],
       "hours": {},
       "startDate": "2027-01-22",
-      "endDate": "2027-01-30",
+      "endDate": "2027-01-31",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -11045,16 +11467,17 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Fri, Sat, Sun, Jan 22 - Jan 30",
+      "schedule": "Fri, Sat, Sun, Jan 22 - Jan 31",
       "nextDate": "2027-01-22",
       "dates": [
         "2027-01-22",
         "2027-01-23",
         "2027-01-24",
         "2027-01-29",
-        "2027-01-30"
+        "2027-01-30",
+        "2027-01-31"
       ],
-      "occurrences": 5
+      "occurrences": 6
     },
     {
       "id": "ev-chester-anniversary-of-the-city-of-chester-s-inc-8a6d0c",
