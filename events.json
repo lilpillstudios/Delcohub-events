@@ -1,46 +1,43 @@
 {
   "version": 1,
-  "scraped_at": "2026-08-05T11:33:43.121634+00:00",
+  "scraped_at": "2026-08-06T11:37:17.582664+00:00",
   "horizon_days": 180,
-  "event_count": 305,
+  "event_count": 302,
   "listings": [
     {
-      "id": "ev-wayne-remember-the-ladies-4-memorable-movies-cat-845660",
-      "name": "'Remember the Ladies' (4 memorable movies)--CATCHING SIGHT OF THELMA AND LOUISE (86 MIN.)",
+      "id": "ev-wallingford-2026-august-artist-reception-77e8c0",
+      "name": "2026 August Artist Reception",
       "category": "events",
       "subcategories": [
-        "film",
-        "special-audience",
         "visual-arts"
       ],
-      "shortDescription": "‘Remember the Ladies'-4 memorable movies In 1776, John Adams was in Philadelphia drafting America's Laws.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
+      "shortDescription": "In our Duke Gallery: Annual Members Exhibiton In our Lounge Gallery: the work of artist, Tahirah Coleman",
+      "address": "Community Arts Center, Wallingford, PA",
+      "town": "Wallingford",
+      "lat": 39.908927,
+      "lng": -75.365674,
       "priceTier": 0,
       "tags": [
-        "family",
         "free",
         "group"
       ],
       "hours": {},
-      "startDate": "2026-08-05",
+      "startDate": "2026-08-06",
       "endDate": "",
       "recurring": "none",
       "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/16823607",
+      "phone": "",
+      "website": "https://communityartscenter.org/events/?pno=",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3e4fa9fd-f8b4-465e-8171-3308671027f2.medium.png",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/GTHtFjgPPEeie36P2utpKQ.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Wed, Aug 5",
-      "nextDate": "2026-08-05",
+      "schedule": "Thu, Aug 6",
+      "nextDate": "2026-08-06",
       "dates": [
-        "2026-08-05"
+        "2026-08-06"
       ],
       "occurrences": 1
     },
@@ -64,7 +61,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-08-05",
+      "startDate": "2026-08-06",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -76,10 +73,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Aug 5 - Oct 31",
-      "nextDate": "2026-08-05",
+      "schedule": "Daily, Aug 6 - Oct 31",
+      "nextDate": "2026-08-06",
       "dates": [
-        "2026-08-05",
         "2026-08-06",
         "2026-08-07",
         "2026-08-08",
@@ -168,333 +164,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 88
-    },
-    {
-      "id": "ev-wayne-books-n-flix-storytime-with-a-twist-ages-2-b2f3af",
-      "name": "Books-n-Flix: Storytime with a Twist! (Ages 2-6)",
-      "category": "events",
-      "subcategories": [
-        "film",
-        "kids",
-        "literary-arts",
-        "special-audience"
-      ],
-      "shortDescription": "Mondays, Wednesdays, & Thursdays at 10:30 AM, except 7/29 - No registration necessary Please limit attendance to one day per week!",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-08-05",
-      "endDate": "2026-08-06",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/16896030",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/llC0BEGruEG-Lp1-GLh-yg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Aug 5 - Aug 6",
-      "nextDate": "2026-08-05",
-      "dates": [
-        "2026-08-05",
-        "2026-08-06"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-wayne-chess-club-634d75",
-      "name": "Chess Club",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "games",
-        "health-wellness",
-        "learning"
-      ],
-      "shortDescription": "Chess Club at Radnor Memorial Library Wednesdays, 9/2/26 through 12/30/26 (10/14 and 10/21 Chess Club moves upstairs, Rms.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-05",
-      "endDate": "2026-11-18",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/16988198",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eea63be5-c4d3-46d5-9632-af64e5f10861.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wednesdays, Aug 5 - Nov 18",
-      "nextDate": "2026-08-05",
-      "dates": [
-        "2026-08-05",
-        "2026-08-12",
-        "2026-08-19",
-        "2026-08-26",
-        "2026-09-02",
-        "2026-09-09",
-        "2026-09-16",
-        "2026-09-23",
-        "2026-09-30",
-        "2026-10-07",
-        "2026-10-28",
-        "2026-11-04",
-        "2026-11-11",
-        "2026-11-18"
-      ],
-      "occurrences": 14
-    },
-    {
-      "id": "ev-wayne-dj-hurricane-larue-at-118-north-b51821",
-      "name": "DJ Hurricane LaRue at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "DJ Hurricane LaRue at 118 North Wednesday, August 5, 2026 Doors: 5:30 PM | Show: 7:30 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
-      "address": "Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-05",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/2026982581220766/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/hpARWzmxiU2Ti9eHs3ZV5Q.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Aug 5",
-      "nextDate": "2026-08-05",
-      "dates": [
-        "2026-08-05"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "media-dining-under-the-stars",
-      "name": "Dining Under the Stars",
-      "category": "events",
-      "subcategories": [
-        "food-festival",
-        "street-dining"
-      ],
-      "shortDescription": "Media's signature warm-weather event closing State Street so restaurants serve al fresco dinners under string lights.",
-      "address": "State St, Media, PA 19063",
-      "town": "Media",
-      "lat": 39.9166,
-      "lng": -75.388,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "date",
-        "group",
-        "family"
-      ],
-      "hours": {},
-      "startDate": "",
-      "endDate": "",
-      "recurring": "weekly",
-      "venueId": "media-state-street-district",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "schedule": "Wednesdays, June-August",
-      "nextDate": "2026-08-05",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-08-05"
-      ]
-    },
-    {
-      "id": "ev-chester-double-dutch-06367d",
-      "name": "Double Dutch",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Double Dutch at Memorial Park in Chester.",
-      "address": "Memorial Park, Chester, PA",
-      "town": "Chester",
-      "lat": 39.835743,
-      "lng": -75.393058,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-05",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.chestercity.com/event/double-dutch/2026-08-05/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/JI4rYjEiLUGaE4RlrF1sNQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Aug 5",
-      "nextDate": "2026-08-05",
-      "dates": [
-        "2026-08-05"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-sip-cake-a-vintage-cake-class-ba26f5",
-      "name": "Sip & Cake- A vintage cake class",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "drinks",
-        "food-drink",
-        "learning"
-      ],
-      "shortDescription": "Join your host, Jane Baked It for an evening of cake decorating with friends while sipping on your favorite beverage! All supplies included",
-      "address": "Towne House-The Colony Room, Media, PA",
-      "town": "Media",
-      "lat": 39.917323,
-      "lng": -75.391975,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-05",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/sip-cake-a-vintage-cake-class-tickets-1993577848009",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/qTdyplxZTE2Y04OI3Q7Ksg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Aug 5",
-      "nextDate": "2026-08-05",
-      "dates": [
-        "2026-08-05"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-weekday-bird-walk-at-tyler-arboretum-065d3c",
-      "name": "Weekday Bird Walk at Tyler Arboretum",
-      "category": "events",
-      "subcategories": [
-        "fitness",
-        "nature",
-        "outdoor-recreation",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Explore Tyler’s forests and meadows with birders, hear the calls, spot the birds and experience this Audubon-recognized Important Bird Area firsthand.",
-      "address": "Tyler Arboretum, Media, PA",
-      "town": "Media",
-      "lat": 39.935841,
-      "lng": -75.429977,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-08-05",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "(610) 566-9134",
-      "website": "https://countylinesmagazine.com/event/weekday-bird-walk-at-tyler-arboretum/2026-08-05/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d6c33134-2ec5-4e97-9314-5d356da81ca9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Aug 5",
-      "nextDate": "2026-08-05",
-      "dates": [
-        "2026-08-05"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wallingford-2026-august-artist-reception-77e8c0",
-      "name": "2026 August Artist Reception",
-      "category": "events",
-      "subcategories": [
-        "visual-arts"
-      ],
-      "shortDescription": "In our Duke Gallery: Annual Members Exhibiton In our Lounge Gallery: the work of artist, Tahirah Coleman",
-      "address": "Community Arts Center, Wallingford, PA",
-      "town": "Wallingford",
-      "lat": 39.908927,
-      "lng": -75.365674,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-06",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://communityartscenter.org/events/?pno=",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/GTHtFjgPPEeie36P2utpKQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Aug 6",
-      "nextDate": "2026-08-06",
-      "dates": [
-        "2026-08-06"
-      ],
-      "occurrences": 1
+      "occurrences": 87
     },
     {
       "id": "ev-bryn-mawr-7-week-kids-course-27dc07",
@@ -541,6 +211,48 @@
         "2026-09-10"
       ],
       "occurrences": 6
+    },
+    {
+      "id": "ev-wayne-books-n-flix-storytime-with-a-twist-ages-2-b2f3af",
+      "name": "Books-n-Flix: Storytime with a Twist! (Ages 2-6)",
+      "category": "events",
+      "subcategories": [
+        "film",
+        "kids",
+        "literary-arts",
+        "special-audience"
+      ],
+      "shortDescription": "Mondays, Wednesdays, & Thursdays at 10:30 AM, except 7/29 - No registration necessary Please limit attendance to one day per week!",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-08-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/16896031",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/llC0BEGruEG-Lp1-GLh-yg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Aug 6",
+      "nextDate": "2026-08-06",
+      "dates": [
+        "2026-08-06"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
@@ -1004,6 +716,46 @@
         "2026-09-25"
       ],
       "occurrences": 8
+    },
+    {
+      "id": "ev-media-a-cappella-concert-at-rose-tree-park-861143",
+      "name": "A Cappella Concert at Rose Tree Park",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "music",
+        "outdoor-concert",
+        "performing-arts"
+      ],
+      "shortDescription": "The first all-female gold medal quartet to win the Barbershop Harmony Society's International competition, GQ, will join local The Mainliners, Valley Forge Chorus, and...",
+      "address": "Rose Tree Park, Media, PA",
+      "town": "Media",
+      "lat": 39.941785,
+      "lng": -75.394607,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-08",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/share/1J66Kkdnkk/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1dSCVs1j006z2SH3afRjbA.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Aug 8",
+      "nextDate": "2026-08-08",
+      "dates": [
+        "2026-08-08"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-chester-back-to-school-bash-0704d6",
@@ -2019,6 +1771,98 @@
       "occurrences": 2
     },
     {
+      "id": "ev-wayne-chess-club-634d75",
+      "name": "Chess Club",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "games",
+        "health-wellness",
+        "learning"
+      ],
+      "shortDescription": "Chess Club at Radnor Memorial Library Wednesdays, 9/2/26 through 12/30/26 (10/14 and 10/21 Chess Club moves upstairs, Rms.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-12",
+      "endDate": "2026-11-18",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/16988207",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eea63be5-c4d3-46d5-9632-af64e5f10861.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wednesdays, Aug 12 - Nov 18",
+      "nextDate": "2026-08-12",
+      "dates": [
+        "2026-08-12",
+        "2026-08-19",
+        "2026-08-26",
+        "2026-09-02",
+        "2026-09-09",
+        "2026-09-16",
+        "2026-09-23",
+        "2026-09-30",
+        "2026-10-07",
+        "2026-10-28",
+        "2026-11-04",
+        "2026-11-11",
+        "2026-11-18"
+      ],
+      "occurrences": 13
+    },
+    {
+      "id": "media-dining-under-the-stars",
+      "name": "Dining Under the Stars",
+      "category": "events",
+      "subcategories": [
+        "food-festival",
+        "street-dining"
+      ],
+      "shortDescription": "Media's signature warm-weather event closing State Street so restaurants serve al fresco dinners under string lights.",
+      "address": "State St, Media, PA 19063",
+      "town": "Media",
+      "lat": 39.9166,
+      "lng": -75.388,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "date",
+        "group",
+        "family"
+      ],
+      "hours": {},
+      "startDate": "",
+      "endDate": "",
+      "recurring": "weekly",
+      "venueId": "media-state-street-district",
+      "phone": "",
+      "website": "",
+      "images": [],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "schedule": "Wednesdays, June-August",
+      "nextDate": "2026-08-12",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-08-12"
+      ]
+    },
+    {
       "id": "ev-springfield-springfield-twp-presents-food-truck-14325c",
       "name": "Springfield Twp. Presents - Food Truck Festival!",
       "category": "events",
@@ -2793,6 +2637,42 @@
       "nextDate": "2026-08-16",
       "dates": [
         "2026-08-16"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-media-how-ohio-won-the-civil-war-1b1b19",
+      "name": "HOW OHIO WON THE CIVIL WAR",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "HOW OHIO WON THE CIVIL WAR at Delaware County Historical Society in Media.",
+      "address": "Delaware County Historical Society, Media, PA",
+      "town": "Media",
+      "lat": 39.919238,
+      "lng": -75.389521,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "historic"
+      ],
+      "hours": {},
+      "startDate": "2026-08-18",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-750-0622",
+      "website": "https://www.delawareohiohistory.org/uncategorized/how-ohio-won-the-civil-war/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8ec62c1f-b2f7-4afa-bf41-823b73870a20.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Aug 18",
+      "nextDate": "2026-08-18",
+      "dates": [
+        "2026-08-18"
       ],
       "occurrences": 1
     },
