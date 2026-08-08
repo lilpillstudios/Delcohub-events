@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-08-07T10:15:10.675047+00:00",
+  "scraped_at": "2026-08-08T09:58:23.442059+00:00",
   "horizon_days": 180,
-  "event_count": 300,
+  "event_count": 304,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-08-07",
+      "startDate": "2026-08-08",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Aug 7 - Oct 31",
-      "nextDate": "2026-08-07",
+      "schedule": "Daily, Aug 8 - Oct 31",
+      "nextDate": "2026-08-08",
       "dates": [
-        "2026-08-07",
         "2026-08-08",
         "2026-08-09",
         "2026-08-10",
@@ -126,323 +125,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 86
-    },
-    {
-      "id": "ev-swarthmore-jersey-calling-4c72df",
-      "name": "Jersey Calling",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "You really need to see this venue. Like, we're cool I guess, but this venue is really awesome.",
-      "address": "WaR3House 3, Swarthmore, PA",
-      "town": "Swarthmore",
-      "lat": 39.901337,
-      "lng": -75.349723,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-07",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/108273240?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/LlEQ284yQUyXQjD5KUJJCg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Aug 7",
-      "nextDate": "2026-08-07",
-      "dates": [
-        "2026-08-07"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-karl-s-garcia-band-jgb-tribute-at-118-nort-ea09c7",
-      "name": "Karl's Garcia Band: JGB Tribute at 118 North",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Karl's Garcia Band: JGB Tribute at 118 North Friday, August 7, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-07",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1563937465158368/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/seeo-pOnNk--ED32-TL2jg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Aug 7",
-      "nextDate": "2026-08-07",
-      "dates": [
-        "2026-08-07"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-newtown-square-farmers-market-82ee6b",
-      "name": "Newtown Square Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "farmers-market",
-        "food-drink",
-        "live-music",
-        "markets"
-      ],
-      "shortDescription": "The Newtown Square Farmers Market is moving to a new location this year!",
-      "address": "Garrett Williamson, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.972995,
-      "lng": -75.418764,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-07",
-      "endDate": "2026-09-25",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "http://facebook.com/NewtownSquareFarmersMarket",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3z7dGbZ3hUq5SvVxMJxAvQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fridays, Aug 7 - Sep 25",
-      "nextDate": "2026-08-07",
-      "dates": [
-        "2026-08-07",
-        "2026-08-21",
-        "2026-09-11",
-        "2026-09-25"
-      ],
-      "occurrences": 4
-    },
-    {
-      "id": "ev-chester-nosduh-collective-presents-first-fridays-ac4796",
-      "name": "Nosduh Collective Presents: First Fridays The Art of Sound",
-      "category": "events",
-      "subcategories": [
-        "learning",
-        "literary-arts",
-        "performing-arts",
-        "visual-arts"
-      ],
-      "shortDescription": "Where visual art meets live sound. Experience art, poetry, music & community at The Art of Sound. August 7 at The Symposium",
-      "address": "The Symposium, Chester, PA",
-      "town": "Chester",
-      "lat": 39.83557,
-      "lng": -75.395387,
-      "priceTier": 1,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-07",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/nosduh-collective-presents-first-fridays-the-art-of-sound-tickets-1994571934348",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/jpYCB6lgsUm6LYm9KTF41Q.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Aug 7",
-      "nextDate": "2026-08-07",
-      "dates": [
-        "2026-08-07"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
-      "name": "One Time Adult Wheel Class",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "visual-arts"
-      ],
-      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-07",
-      "endDate": "2026-09-27",
-      "recurring": "seasonal",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154443/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Select dates, Aug 7 - Sep 27",
-      "nextDate": "2026-08-07",
-      "dates": [
-        "2026-08-07",
-        "2026-08-08",
-        "2026-08-09",
-        "2026-08-13",
-        "2026-08-14",
-        "2026-08-15",
-        "2026-08-16",
-        "2026-08-20",
-        "2026-08-21",
-        "2026-08-22",
-        "2026-08-23",
-        "2026-08-27",
-        "2026-08-28",
-        "2026-08-29",
-        "2026-08-30",
-        "2026-09-03",
-        "2026-09-04",
-        "2026-09-05",
-        "2026-09-06",
-        "2026-09-10",
-        "2026-09-11",
-        "2026-09-12",
-        "2026-09-13",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-19",
-        "2026-09-20",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-26",
-        "2026-09-27"
-      ],
-      "occurrences": 31
-    },
-    {
-      "id": "ev-wayne-tech-fun-with-the-meta-quest-vr-headset-3c07f7",
-      "name": "Tech Fun with the Meta Quest VR Headset",
-      "category": "events",
-      "subcategories": [
-        "games",
-        "special-audience"
-      ],
-      "shortDescription": "Drop in to try out the Quest virtual reality headset- play a game, create art, or travel to a virtual world! First come, first served. For rising grades 6-12. Teen Room",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-07",
-      "endDate": "2026-08-21",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17089872",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7662dcb0-b5cd-4ba5-a3a7-e3d72226f632.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fridays, Aug 7 - Aug 21",
-      "nextDate": "2026-08-07",
-      "dates": [
-        "2026-08-07",
-        "2026-08-21"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-bryn-mawr-youth-one-time-classes-90569b",
-      "name": "Youth One-Time Classes",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "crafts",
-        "learning",
-        "special-audience"
-      ],
-      "shortDescription": "Join our one time class to learn the basics of wheel throwing!",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "family",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-07",
-      "endDate": "2026-09-25",
-      "recurring": "seasonal",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154445/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/CFYwS4R8EEqpw_W5BDmLEw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Select dates, Aug 7 - Sep 25",
-      "nextDate": "2026-08-07",
-      "dates": [
-        "2026-08-07",
-        "2026-08-14",
-        "2026-08-22",
-        "2026-08-28",
-        "2026-09-04",
-        "2026-09-11",
-        "2026-09-18",
-        "2026-09-25"
-      ],
-      "occurrences": 8
+      "occurrences": 85
     },
     {
       "id": "ev-media-a-cappella-concert-at-rose-tree-park-861143",
@@ -646,6 +329,47 @@
       "occurrences": 1
     },
     {
+      "id": "ev-media-gentle-flow-yoga-6-week-series-3-saturdays-66068d",
+      "name": "Gentle Flow Yoga 6- Week Series 3 (Saturdays)",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "fitness",
+        "learning",
+        "outdoor-recreation"
+      ],
+      "shortDescription": "Saturdays, 9:15 – 10:15 am, Aug. 8 – Sept.",
+      "address": "Tyler Arboretum, Media, PA",
+      "town": "Media",
+      "lat": 39.935841,
+      "lng": -75.429977,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-08-08",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "(610) 566-9134",
+      "website": "https://tylerarboretum.org/calendar/gentle-flow-yoga-6-week-series-1-saturdays-2-2/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/V_Tjkd-NzEKsozyjySGjZg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Aug 8",
+      "nextDate": "2026-08-08",
+      "dates": [
+        "2026-08-08"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "lansdowne-farmers-market-lansdowne",
       "name": "Lansdowne Farmers Market",
       "category": "events",
@@ -682,6 +406,73 @@
       "dates": [
         "2026-08-08"
       ]
+    },
+    {
+      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
+      "name": "One Time Adult Wheel Class",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "visual-arts"
+      ],
+      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-08",
+      "endDate": "2026-09-27",
+      "recurring": "seasonal",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154443/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Select dates, Aug 8 - Sep 27",
+      "nextDate": "2026-08-08",
+      "dates": [
+        "2026-08-08",
+        "2026-08-09",
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-15",
+        "2026-08-16",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-22",
+        "2026-08-23",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-29",
+        "2026-08-30",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-05",
+        "2026-09-06",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-12",
+        "2026-09-13",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-27"
+      ],
+      "occurrences": 30
     },
     {
       "id": "ridley-park-farmers-market",
@@ -792,6 +583,94 @@
         "2026-08-23"
       ],
       "occurrences": 2
+    },
+    {
+      "id": "ev-media-saturday-wildflower-walk-7e71a5",
+      "name": "Saturday Wildflower Walk",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "fitness",
+        "museums-exhibits",
+        "nature"
+      ],
+      "shortDescription": "For Adults (18+) and Teens ages 12-17 Explore the Arboretum with wildflower expert Dick Cloud.",
+      "address": "Tyler Arboretum, Media, PA",
+      "town": "Media",
+      "lat": 39.935841,
+      "lng": -75.429977,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "historic",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-08-08",
+      "endDate": "2026-08-22",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "(610) 566-9134",
+      "website": "https://tylerarboretum.org/calendar/saturday-wildflower-walk-2-2-2-2-2-2-2-2-2-2-2-3-2-3-2-2/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a2GWgI_gMUK6rqkNKiq5qw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Saturdays, Aug 8 - Aug 22",
+      "nextDate": "2026-08-08",
+      "dates": [
+        "2026-08-08",
+        "2026-08-15",
+        "2026-08-22"
+      ],
+      "occurrences": 3
+    },
+    {
+      "id": "ev-media-secrets-of-the-pond-494b1d",
+      "name": "Secrets of the Pond",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "museums-exhibits",
+        "nature",
+        "outdoor-recreation"
+      ],
+      "shortDescription": "FOR ALL AGES Life at the pond is always changing.",
+      "address": "Tyler Arboretum, Media, PA",
+      "town": "Media",
+      "lat": 39.935841,
+      "lng": -75.429977,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "historic",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-08-08",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "(610) 566-9134",
+      "website": "https://tylerarboretum.org/calendar/secrets-of-the-pond-2-2/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/x77feKx8PEumWVxx7R4E1A.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Aug 8",
+      "nextDate": "2026-08-08",
+      "dates": [
+        "2026-08-08"
+      ],
+      "occurrences": 1
     },
     {
       "id": "springfield-farmers-market",
@@ -2058,6 +1937,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chester-community-shredding-e-waste-event-c8ba43",
+      "name": "Community Shredding & E-Waste Event",
+      "category": "events",
+      "subcategories": [
+        "civic"
+      ],
+      "shortDescription": "Community Shredding & E-Waste Event at Chester City Hall in Chester.",
+      "address": "Chester City Hall, Chester, PA",
+      "town": "Chester",
+      "lat": 39.847305,
+      "lng": -75.35934,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-14",
+      "endDate": "2026-08-15",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.chestercity.com/event/community-shredding-e-waste-event/2026-08-14/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4mKMGclsTkCxniUplKlQ0A.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Aug 14 - Aug 15",
+      "nextDate": "2026-08-14",
+      "dates": [
+        "2026-08-14",
+        "2026-08-15"
+      ],
+      "occurrences": 2
+    },
+    {
       "id": "ev-media-mean-girls-8d564d",
       "name": "Mean Girls",
       "category": "events",
@@ -2132,6 +2049,95 @@
         "2026-08-14"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-media-weekend-warm-up-hike-eb7eb4",
+      "name": "Weekend Warm-up Hike",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "fitness",
+        "nature",
+        "outdoor-recreation"
+      ],
+      "shortDescription": "FOR ADULTS 18+ Start your Friday on the right foot with an invigorating one-hour hike through Tyler’s gardens and into the wilder natural areas beyond the deer exclusion...",
+      "address": "Tyler Arboretum, Media, PA",
+      "town": "Media",
+      "lat": 39.935841,
+      "lng": -75.429977,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-08-14",
+      "endDate": "2026-08-28",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "(610) 566-9134",
+      "website": "https://tylerarboretum.org/calendar/weekend-warm-up-hike-12-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Xf2VS-1tbEKWFsGGFHIQAA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fridays, Aug 14 - Aug 28",
+      "nextDate": "2026-08-14",
+      "dates": [
+        "2026-08-14",
+        "2026-08-21",
+        "2026-08-28"
+      ],
+      "occurrences": 3
+    },
+    {
+      "id": "ev-bryn-mawr-youth-one-time-classes-90569b",
+      "name": "Youth One-Time Classes",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "crafts",
+        "learning",
+        "special-audience"
+      ],
+      "shortDescription": "Join our one time class to learn the basics of wheel throwing!",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-14",
+      "endDate": "2026-09-25",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154445/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/CFYwS4R8EEqpw_W5BDmLEw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "7 dates, Aug 14 - Sep 25",
+      "nextDate": "2026-08-14",
+      "dates": [
+        "2026-08-14",
+        "2026-08-22",
+        "2026-08-28",
+        "2026-09-04",
+        "2026-09-11",
+        "2026-09-18",
+        "2026-09-25"
+      ],
+      "occurrences": 7
     },
     {
       "id": "ev-brookhaven-fabric-sale-16ee59",
@@ -2825,6 +2831,43 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chester-community-lifesaver-day-173ff9",
+      "name": "Community Lifesaver Day",
+      "category": "events",
+      "subcategories": [
+        "civic"
+      ],
+      "shortDescription": "Community Lifesaver Day at Chester Fire Department Station 2 in Chester.",
+      "address": "Chester Fire Department Station 2, Chester, PA",
+      "town": "Chester",
+      "lat": 39.858496,
+      "lng": -75.361426,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-20",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.chestercity.com/event/community-lifesaver-day/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Reqo75ag3UCl78kjt2XrAw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Aug 20",
+      "nextDate": "2026-08-20",
+      "dates": [
+        "2026-08-20"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-villanova-villanova-university-men-s-soccer-vs-t-85d589",
       "name": "Villanova University Men's Soccer vs Temple University",
       "category": "events",
@@ -2900,6 +2943,48 @@
       "occurrences": 1
     },
     {
+      "id": "ev-newtown-square-newtown-square-farmers-market-82ee6b",
+      "name": "Newtown Square Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "farmers-market",
+        "food-drink",
+        "live-music",
+        "markets"
+      ],
+      "shortDescription": "The Newtown Square Farmers Market is moving to a new location this year!",
+      "address": "Garrett Williamson, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.972995,
+      "lng": -75.418764,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-21",
+      "endDate": "2026-09-25",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "http://facebook.com/NewtownSquareFarmersMarket",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3z7dGbZ3hUq5SvVxMJxAvQ.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fridays, Aug 21 - Sep 25",
+      "nextDate": "2026-08-21",
+      "dates": [
+        "2026-08-21",
+        "2026-09-11",
+        "2026-09-25"
+      ],
+      "occurrences": 3
+    },
+    {
       "id": "ev-wayne-stargazer-lily-the-peace-creeps-at-118-nor-0a2202",
       "name": "Stargazer Lily + The Peace Creeps at 118 North",
       "category": "events",
@@ -2926,6 +3011,45 @@
       "website": "https://www.facebook.com/events/1883828952313737/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/LUcdK8tIMk2Rwyd-P3mD9A.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Aug 21",
+      "nextDate": "2026-08-21",
+      "dates": [
+        "2026-08-21"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-tech-fun-with-the-meta-quest-vr-headset-3c07f7",
+      "name": "Tech Fun with the Meta Quest VR Headset",
+      "category": "events",
+      "subcategories": [
+        "games",
+        "special-audience"
+      ],
+      "shortDescription": "Drop in to try out the Quest virtual reality headset- play a game, create art, or travel to a virtual world! First come, first served. For rising grades 6-12. Teen Room",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-21",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17089874",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7662dcb0-b5cd-4ba5-a3a7-e3d72226f632.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -3846,6 +3970,43 @@
         "2026-09-03"
       ],
       "occurrences": 2
+    },
+    {
+      "id": "ev-wayne-late-30s-40s-happy-hour-115ba0",
+      "name": "Late 30s/40s Happy Hour",
+      "category": "events",
+      "subcategories": [
+        "drinks",
+        "food-drink"
+      ],
+      "shortDescription": "For more info and discounted pricing, visit: https://www.theshakaclub.com/event-details/late-30s-40s-happy-hour-wayne-singles",
+      "address": "Nature's Vin, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044117,
+      "lng": -75.384973,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-02",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/late-30s40s-happy-hour-wayne-tickets-1995735322072",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/564xiFmn50ij4K9MQvmtoA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Sep 2",
+      "nextDate": "2026-09-02",
+      "dates": [
+        "2026-09-02"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-chester-widener-pride-field-hockey-vs-elizabetht-daf3d7",
