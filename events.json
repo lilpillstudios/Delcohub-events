@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-08-08T09:58:23.442059+00:00",
+  "scraped_at": "2026-08-09T10:01:04.877021+00:00",
   "horizon_days": 180,
-  "event_count": 304,
+  "event_count": 298,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-08-08",
+      "startDate": "2026-08-09",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Aug 8 - Oct 31",
-      "nextDate": "2026-08-08",
+      "schedule": "Daily, Aug 9 - Oct 31",
+      "nextDate": "2026-08-09",
       "dates": [
-        "2026-08-08",
         "2026-08-09",
         "2026-08-10",
         "2026-08-11",
@@ -125,287 +124,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 85
-    },
-    {
-      "id": "ev-media-a-cappella-concert-at-rose-tree-park-861143",
-      "name": "A Cappella Concert at Rose Tree Park",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "music",
-        "outdoor-concert",
-        "performing-arts"
-      ],
-      "shortDescription": "The first all-female gold medal quartet to win the Barbershop Harmony Society's International competition, GQ, will join local The Mainliners, Valley Forge Chorus, and...",
-      "address": "Rose Tree Park, Media, PA",
-      "town": "Media",
-      "lat": 39.941785,
-      "lng": -75.394607,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/share/1J66Kkdnkk/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1dSCVs1j006z2SH3afRjbA.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Aug 8",
-      "nextDate": "2026-08-08",
-      "dates": [
-        "2026-08-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-back-to-school-bash-0704d6",
-      "name": "Back to School Bash",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "destinations",
-        "learning"
-      ],
-      "shortDescription": "Back to School Bash at Delaware County Health Department (DCHD) Wellness Center in Chester.",
-      "address": "Delaware County Health Department (DCHD) Wellness Center, Chester, PA",
-      "town": "Chester",
-      "lat": 39.846075,
-      "lng": -75.362788,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.chestercity.com/event/back-to-school-bash-3/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/xDiwGTH4DUSL-5Z7FmHbGA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Aug 8",
-      "nextDate": "2026-08-08",
-      "dates": [
-        "2026-08-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-glen-mills-chris-despo-8f1a51",
-      "name": "Chris Despo",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Live looping and singing from Chris. A mix of originals and covers that range from James Taylor and The Beatles, to Chris Stapleton and Dave Matthews Band.",
-      "address": "The Inn at Grace Winery, Glen Mills, PA",
-      "town": "Glen Mills",
-      "lat": 39.926173,
-      "lng": -75.478878,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/108137826?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/vhGCb-6YbEGy_qkiFL9vXw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Aug 8",
-      "nextDate": "2026-08-08",
-      "dates": [
-        "2026-08-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-environmental-youth-corps-b667f7",
-      "name": "Environmental Youth Corps",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "special-audience"
-      ],
-      "shortDescription": "Environmental Youth Corps at Eyre Park in Chester.",
-      "address": "Eyre Park, Chester, PA",
-      "town": "Chester",
-      "lat": 39.852008,
-      "lng": -75.364828,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-08",
-      "endDate": "2026-11-14",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.chestercity.com/event/environmental-youth-corps/2026-08-08/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/DcPEiMEnwUWZ74eRBLJN8w.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Saturdays, Aug 8 - Nov 14",
-      "nextDate": "2026-08-08",
-      "dates": [
-        "2026-08-08",
-        "2026-08-22",
-        "2026-09-19",
-        "2026-10-03",
-        "2026-10-24",
-        "2026-11-07",
-        "2026-11-14"
-      ],
-      "occurrences": 7
-    },
-    {
-      "id": "ev-media-free-collection-event-for-residents-electr-cfe4b9",
-      "name": "Free Collection Event for Residents: Electronics Waste and Paper Shredding",
-      "category": "events",
-      "subcategories": [
-        "civic"
-      ],
-      "shortDescription": "Representative Lisa Borowski and Senator John Kane are hosting a free electronics recycling and onsite paper shredding event in partnership with sustainable waste...",
-      "address": "Penn State Brandywine, Media, PA",
-      "town": "Media",
-      "lat": 39.926731,
-      "lng": -75.44931,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.signupgenius.com/go/10C0F4CA8A629ABF9C25-64748592-rep#/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/DAf0_4BIu0CA0au1wf-Ktg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Aug 8",
-      "nextDate": "2026-08-08",
-      "dates": [
-        "2026-08-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-gentle-flow-yoga-6-week-series-3-saturdays-66068d",
-      "name": "Gentle Flow Yoga 6- Week Series 3 (Saturdays)",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "fitness",
-        "learning",
-        "outdoor-recreation"
-      ],
-      "shortDescription": "Saturdays, 9:15 – 10:15 am, Aug. 8 – Sept.",
-      "address": "Tyler Arboretum, Media, PA",
-      "town": "Media",
-      "lat": 39.935841,
-      "lng": -75.429977,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-08-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "(610) 566-9134",
-      "website": "https://tylerarboretum.org/calendar/gentle-flow-yoga-6-week-series-1-saturdays-2-2/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/V_Tjkd-NzEKsozyjySGjZg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Aug 8",
-      "nextDate": "2026-08-08",
-      "dates": [
-        "2026-08-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "lansdowne-farmers-market-lansdowne",
-      "name": "Lansdowne Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "farmers market",
-        "seasonal"
-      ],
-      "shortDescription": "Seasonal Saturday farmers market in Lansdowne selling local produce, baked goods, and handmade items.",
-      "address": "N Lansdowne Ave, Lansdowne, PA 19050",
-      "town": "Lansdowne",
-      "lat": 39.9385,
-      "lng": -75.2725,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "group"
-      ],
-      "featured": true,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "schedule": "Saturdays, summer-fall",
-      "recurring": "weekly",
-      "nextDate": "2026-08-08",
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-08-08"
-      ]
+      "occurrences": 84
     },
     {
       "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
@@ -426,7 +145,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-08-08",
+      "startDate": "2026-08-09",
       "endDate": "2026-09-27",
       "recurring": "seasonal",
       "venueId": "",
@@ -438,10 +157,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Select dates, Aug 8 - Sep 27",
-      "nextDate": "2026-08-08",
+      "schedule": "Select dates, Aug 9 - Sep 27",
+      "nextDate": "2026-08-09",
       "dates": [
-        "2026-08-08",
         "2026-08-09",
         "2026-08-13",
         "2026-08-14",
@@ -472,357 +190,7 @@
         "2026-09-26",
         "2026-09-27"
       ],
-      "occurrences": 30
-    },
-    {
-      "id": "ridley-park-farmers-market",
-      "name": "Ridley Park Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "market",
-        "seasonal"
-      ],
-      "shortDescription": "Seasonal Saturday market in Ridley Park selling produce, baked goods, and local products through the warmer months.",
-      "schedule": "Saturdays, June-October",
-      "recurring": "weekly",
-      "nextDate": "2026-08-08",
-      "address": "105 E Ward St, Ridley Park, PA 19078",
-      "town": "Ridley Park",
-      "lat": 39.8815,
-      "lng": -75.3238,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "kid-friendly"
-      ],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-08-08"
-      ]
-    },
-    {
-      "id": "ev-chester-rumble-ready-2-plus-teefy-bey-s-knockout-32f06c",
-      "name": "Rumble Ready 2\" Plus \"Teefy Bey's Knockout Night",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Get ready for a wild night of punches and party vibes with Rumble Ready 2 and Teefy Bey’s Knockout Night! Two shows, one night!!!",
-      "address": "Harrah's Philadelphia Casino & Racetrack, Chester, PA",
-      "town": "Chester",
-      "lat": 39.850841,
-      "lng": -75.348627,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/rumble-ready-2-plus-teefy-beys-knockout-night-tickets-1991879919459",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/idxKlL7ch0uSrlLndtZpFw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Aug 8",
-      "nextDate": "2026-08-08",
-      "dates": [
-        "2026-08-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-safe-summer-union-ii-game-df8866",
-      "name": "Safe Summer Union II Game",
-      "category": "events",
-      "subcategories": [
-        "games"
-      ],
-      "shortDescription": "Safe Summer Union II Game at Subaru Park in Chester.",
-      "address": "Subaru Park, Chester, PA",
-      "town": "Chester",
-      "lat": 39.828772,
-      "lng": -75.383517,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-08",
-      "endDate": "2026-08-23",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.chestercity.com/event/safe-summer-union-ii-game/2026-08-08/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/LvnDKKuiSEu1_Rf8pv1jow.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "2 dates, Aug 8 - Aug 23",
-      "nextDate": "2026-08-08",
-      "dates": [
-        "2026-08-08",
-        "2026-08-23"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-media-saturday-wildflower-walk-7e71a5",
-      "name": "Saturday Wildflower Walk",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "fitness",
-        "museums-exhibits",
-        "nature"
-      ],
-      "shortDescription": "For Adults (18+) and Teens ages 12-17 Explore the Arboretum with wildflower expert Dick Cloud.",
-      "address": "Tyler Arboretum, Media, PA",
-      "town": "Media",
-      "lat": 39.935841,
-      "lng": -75.429977,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "historic",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-08-08",
-      "endDate": "2026-08-22",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "(610) 566-9134",
-      "website": "https://tylerarboretum.org/calendar/saturday-wildflower-walk-2-2-2-2-2-2-2-2-2-2-2-3-2-3-2-2/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a2GWgI_gMUK6rqkNKiq5qw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Saturdays, Aug 8 - Aug 22",
-      "nextDate": "2026-08-08",
-      "dates": [
-        "2026-08-08",
-        "2026-08-15",
-        "2026-08-22"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-media-secrets-of-the-pond-494b1d",
-      "name": "Secrets of the Pond",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "museums-exhibits",
-        "nature",
-        "outdoor-recreation"
-      ],
-      "shortDescription": "FOR ALL AGES Life at the pond is always changing.",
-      "address": "Tyler Arboretum, Media, PA",
-      "town": "Media",
-      "lat": 39.935841,
-      "lng": -75.429977,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "historic",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-08-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "(610) 566-9134",
-      "website": "https://tylerarboretum.org/calendar/secrets-of-the-pond-2-2/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/x77feKx8PEumWVxx7R4E1A.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Aug 8",
-      "nextDate": "2026-08-08",
-      "dates": [
-        "2026-08-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "springfield-farmers-market",
-      "name": "Springfield Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "market",
-        "seasonal"
-      ],
-      "shortDescription": "Springfield's seasonal outdoor market offers fresh produce, flowers, and local goods on weekends through summer and fall.",
-      "schedule": "Weekends, summer-fall",
-      "recurring": "weekly",
-      "nextDate": "2026-08-08",
-      "address": "Springfield, PA 19064",
-      "town": "Springfield",
-      "lat": 39.9312,
-      "lng": -75.3479,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "kid-friendly"
-      ],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-08-08"
-      ]
-    },
-    {
-      "id": "ev-wayne-still-life-with-water-mixable-oils-with-be-c010cc",
-      "name": "Still Life with Water Mixable Oils with Beth Bathe",
-      "category": "events",
-      "subcategories": [
-        "outdoor-recreation",
-        "sports-outdoors",
-        "visual-arts"
-      ],
-      "shortDescription": "Wondering what Water Mixable Oil paints are all about?",
-      "address": "Wayne Art Center, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.03894,
-      "lng": -75.394446,
-      "priceTier": 3,
-      "tags": [
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-08-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://wayneart.org/events/2097/still-life-with-water-mixable-oils-with-beth-bathe",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ysW_DBn51ESvNAbQkj8N8Q.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Aug 8",
-      "nextDate": "2026-08-08",
-      "dates": [
-        "2026-08-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "swarthmore-farmers-market-swarthmore",
-      "name": "Swarthmore Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "farmers market",
-        "seasonal"
-      ],
-      "shortDescription": "Weekly warm-season market in Swarthmore featuring regional farmers, food vendors, and live music.",
-      "address": "Swarthmore Town Center, Swarthmore, PA 19081",
-      "town": "Swarthmore",
-      "lat": 39.903,
-      "lng": -75.349,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "group"
-      ],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "schedule": "Saturdays, warm season",
-      "recurring": "weekly",
-      "nextDate": "2026-08-08",
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-08-08"
-      ]
-    },
-    {
-      "id": "ev-boothwyn-women-from-your-neighborhood-435888",
-      "name": "Women From Your Neighborhood",
-      "category": "events",
-      "subcategories": [
-        "special-audience"
-      ],
-      "shortDescription": "Meet local women, share stories, and make new friends at Women From Your Neighborhood Honorarium!",
-      "address": "The Phoenix Ballroom, Boothwyn, PA",
-      "town": "Boothwyn",
-      "lat": 39.840342,
-      "lng": -75.440514,
-      "priceTier": 3,
-      "tags": [
-        "family",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/women-from-your-neighborhood-tickets-1990889392767",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/sJUyPjHG9U6nuhbblYXlGg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Aug 8",
-      "nextDate": "2026-08-08",
-      "dates": [
-        "2026-08-08"
-      ],
-      "occurrences": 1
+      "occurrences": 29
     },
     {
       "id": "ev-chester-philadelphia-union-vs-club-necaxa-2dbaf3",
@@ -861,6 +229,49 @@
         "2026-08-09"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-kindergarten-readiness-camp-7deded",
+      "name": "Kindergarten Readiness Camp",
+      "category": "events",
+      "subcategories": [
+        "kids",
+        "special-audience"
+      ],
+      "shortDescription": "Winsor Room - Registration required For children enrolled in Kindergarten for the 2026-2027 school year Gain confidence for starting Kindergarten with this four-day...",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-08-10",
+      "endDate": "2026-08-13",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/16896390",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dd66557a-b893-473f-b736-a8a5a338c1bc.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Aug 10 - Aug 13",
+      "nextDate": "2026-08-10",
+      "dates": [
+        "2026-08-10",
+        "2026-08-11",
+        "2026-08-12",
+        "2026-08-13"
+      ],
+      "occurrences": 4
     },
     {
       "id": "ev-media-maker-mondays-e4e42e",
@@ -1045,6 +456,48 @@
         "2026-08-10"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-sweet-reads-teens-3fa3ad",
+      "name": "Sweet Reads (Teens)",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink",
+        "literary-arts",
+        "special-audience"
+      ],
+      "shortDescription": "Bring your book and your sweet tooth! Make a fun dessert to enjoy while you read.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-10",
+      "endDate": "2026-08-24",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17063830",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2ed69edc-742c-437f-9653-e15465e4c53e.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mondays, Aug 10 - Aug 24",
+      "nextDate": "2026-08-10",
+      "dates": [
+        "2026-08-10",
+        "2026-08-24"
+      ],
+      "occurrences": 2
     },
     {
       "id": "ev-chester-the-empty-chair-f2b7a3",
@@ -1735,7 +1188,7 @@
       ],
       "hours": {},
       "startDate": "2026-08-13",
-      "endDate": "2027-01-28",
+      "endDate": "2027-02-04",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -1746,7 +1199,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Thursdays, Aug 13 - Jan 28",
+      "schedule": "Thursdays, Aug 13 - Feb 4",
       "nextDate": "2026-08-13",
       "dates": [
         "2026-08-13",
@@ -1773,9 +1226,10 @@
         "2027-01-07",
         "2027-01-14",
         "2027-01-21",
-        "2027-01-28"
+        "2027-01-28",
+        "2027-02-04"
       ],
-      "occurrences": 25
+      "occurrences": 26
     },
     {
       "id": "ev-newtown-square-us-fall-play-auditions-2c63a4",
@@ -2214,6 +1668,44 @@
       "occurrences": 1
     },
     {
+      "id": "lansdowne-farmers-market-lansdowne",
+      "name": "Lansdowne Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "farmers market",
+        "seasonal"
+      ],
+      "shortDescription": "Seasonal Saturday farmers market in Lansdowne selling local produce, baked goods, and handmade items.",
+      "address": "N Lansdowne Ave, Lansdowne, PA 19050",
+      "town": "Lansdowne",
+      "lat": 39.9385,
+      "lng": -75.2725,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "group"
+      ],
+      "featured": true,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "schedule": "Saturdays, summer-fall",
+      "recurring": "weekly",
+      "nextDate": "2026-08-15",
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-08-15"
+      ]
+    },
+    {
       "id": "ev-media-mac-twilight-series-red-means-run-american-595390",
       "name": "MAC Twilight Series: Red Means Run(Americana)",
       "category": "events",
@@ -2292,6 +1784,164 @@
         "2026-08-16"
       ],
       "occurrences": 2
+    },
+    {
+      "id": "ridley-park-farmers-market",
+      "name": "Ridley Park Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "market",
+        "seasonal"
+      ],
+      "shortDescription": "Seasonal Saturday market in Ridley Park selling produce, baked goods, and local products through the warmer months.",
+      "schedule": "Saturdays, June-October",
+      "recurring": "weekly",
+      "nextDate": "2026-08-15",
+      "address": "105 E Ward St, Ridley Park, PA 19078",
+      "town": "Ridley Park",
+      "lat": 39.8815,
+      "lng": -75.3238,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "kid-friendly"
+      ],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-08-15"
+      ]
+    },
+    {
+      "id": "ev-media-saturday-wildflower-walk-7e71a5",
+      "name": "Saturday Wildflower Walk",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "fitness",
+        "museums-exhibits",
+        "nature"
+      ],
+      "shortDescription": "For Adults (18+) and Teens ages 12-17 Explore the Arboretum with wildflower expert Dick Cloud.",
+      "address": "Tyler Arboretum, Media, PA",
+      "town": "Media",
+      "lat": 39.935841,
+      "lng": -75.429977,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "historic",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-08-15",
+      "endDate": "2026-08-22",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "(610) 566-9134",
+      "website": "https://tylerarboretum.org/calendar/saturday-wildflower-walk-2-2-2-2-2-2-2-2-2-2-2-3-2-2-2/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a2GWgI_gMUK6rqkNKiq5qw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Saturdays, Aug 15 - Aug 22",
+      "nextDate": "2026-08-15",
+      "dates": [
+        "2026-08-15",
+        "2026-08-22"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "springfield-farmers-market",
+      "name": "Springfield Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "market",
+        "seasonal"
+      ],
+      "shortDescription": "Springfield's seasonal outdoor market offers fresh produce, flowers, and local goods on weekends through summer and fall.",
+      "schedule": "Weekends, summer-fall",
+      "recurring": "weekly",
+      "nextDate": "2026-08-15",
+      "address": "Springfield, PA 19064",
+      "town": "Springfield",
+      "lat": 39.9312,
+      "lng": -75.3479,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "kid-friendly"
+      ],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-08-15"
+      ]
+    },
+    {
+      "id": "swarthmore-farmers-market-swarthmore",
+      "name": "Swarthmore Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "farmers market",
+        "seasonal"
+      ],
+      "shortDescription": "Weekly warm-season market in Swarthmore featuring regional farmers, food vendors, and live music.",
+      "address": "Swarthmore Town Center, Swarthmore, PA 19081",
+      "town": "Swarthmore",
+      "lat": 39.903,
+      "lng": -75.349,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "group"
+      ],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "schedule": "Saturdays, warm season",
+      "recurring": "weekly",
+      "nextDate": "2026-08-15",
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-08-15"
+      ]
     },
     {
       "id": "ev-villanova-take-advantage-of-early-bird-subscript-d89279",
@@ -3140,6 +2790,50 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chester-environmental-youth-corps-b667f7",
+      "name": "Environmental Youth Corps",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "special-audience"
+      ],
+      "shortDescription": "Environmental Youth Corps at Eyre Park in Chester.",
+      "address": "Eyre Park, Chester, PA",
+      "town": "Chester",
+      "lat": 39.852008,
+      "lng": -75.364828,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-22",
+      "endDate": "2026-11-14",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.chestercity.com/event/environmental-youth-corps/2026-08-22/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/DcPEiMEnwUWZ74eRBLJN8w.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Saturdays, Aug 22 - Nov 14",
+      "nextDate": "2026-08-22",
+      "dates": [
+        "2026-08-22",
+        "2026-09-19",
+        "2026-10-03",
+        "2026-10-24",
+        "2026-11-07",
+        "2026-11-14"
+      ],
+      "occurrences": 6
+    },
+    {
       "id": "ev-wayne-foiled-again-book-party-with-jo-piazza-and-58a7ec",
       "name": "Foiled Again! Book Party with Jo Piazza and Beyond the Bookends",
       "category": "events",
@@ -3365,6 +3059,43 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chester-safe-summer-union-ii-game-df8866",
+      "name": "Safe Summer Union II Game",
+      "category": "events",
+      "subcategories": [
+        "games"
+      ],
+      "shortDescription": "Safe Summer Union II Game at Subaru Park in Chester.",
+      "address": "Subaru Park, Chester, PA",
+      "town": "Chester",
+      "lat": 39.828772,
+      "lng": -75.383517,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-23",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.chestercity.com/event/safe-summer-union-ii-game/2026-08-23/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/LvnDKKuiSEu1_Rf8pv1jow.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Aug 23",
+      "nextDate": "2026-08-23",
+      "dates": [
+        "2026-08-23"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-wally-smith-organ-trio-at-118-north-fee76e",
       "name": "Wally Smith Organ Trio at 118 North",
       "category": "events",
@@ -3479,6 +3210,44 @@
         "2026-11-24"
       ],
       "occurrences": 4
+    },
+    {
+      "id": "ev-radnor-main-line-music-appreciation-soc-think-yo-6f1283",
+      "name": "Main Line Music Appreciation Soc: \"Think You Don't Know Country Music?\"",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "The Main Line Music Appreciation Society presents “You Think You Don’t Know Country Music”.",
+      "address": "Bryn Mawr Film Institute, Radnor, PA",
+      "town": "Radnor",
+      "lat": 40.061416,
+      "lng": -75.356005,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-25",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.mlmas.org/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/G5OiCsBevkiBlg2hKT1lYQ.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Aug 25",
+      "nextDate": "2026-08-25",
+      "dates": [
+        "2026-08-25"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-west-chester-pa-contracts-contracts-with-confide-70c446",
