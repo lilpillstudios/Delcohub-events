@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-08-09T10:01:04.877021+00:00",
+  "scraped_at": "2026-08-10T10:39:56.493788+00:00",
   "horizon_days": 180,
-  "event_count": 298,
+  "event_count": 299,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-08-09",
+      "startDate": "2026-08-10",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Aug 9 - Oct 31",
-      "nextDate": "2026-08-09",
+      "schedule": "Daily, Aug 10 - Oct 31",
+      "nextDate": "2026-08-10",
       "dates": [
-        "2026-08-09",
         "2026-08-10",
         "2026-08-11",
         "2026-08-12",
@@ -124,111 +123,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 84
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
-      "name": "One Time Adult Wheel Class",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "visual-arts"
-      ],
-      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-09",
-      "endDate": "2026-09-27",
-      "recurring": "seasonal",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154443/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Select dates, Aug 9 - Sep 27",
-      "nextDate": "2026-08-09",
-      "dates": [
-        "2026-08-09",
-        "2026-08-13",
-        "2026-08-14",
-        "2026-08-15",
-        "2026-08-16",
-        "2026-08-20",
-        "2026-08-21",
-        "2026-08-22",
-        "2026-08-23",
-        "2026-08-27",
-        "2026-08-28",
-        "2026-08-29",
-        "2026-08-30",
-        "2026-09-03",
-        "2026-09-04",
-        "2026-09-05",
-        "2026-09-06",
-        "2026-09-10",
-        "2026-09-11",
-        "2026-09-12",
-        "2026-09-13",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-19",
-        "2026-09-20",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-26",
-        "2026-09-27"
-      ],
-      "occurrences": 29
-    },
-    {
-      "id": "ev-chester-philadelphia-union-vs-club-necaxa-2dbaf3",
-      "name": "Philadelphia Union vs. Club Necaxa",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Philadelphia Union vs. Club Necaxa at Subaru Park in Chester.",
-      "address": "Subaru Park, Chester, PA",
-      "town": "Chester",
-      "lat": 39.828772,
-      "lng": -75.383517,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-09",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OWjG7SacvE6RIbI5tnNHCA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Aug 9",
-      "nextDate": "2026-08-09",
-      "dates": [
-        "2026-08-09"
-      ],
-      "occurrences": 1
+      "occurrences": 83
     },
     {
       "id": "ev-wayne-kindergarten-readiness-camp-7deded",
@@ -731,6 +626,45 @@
       "occurrences": 2
     },
     {
+      "id": "ev-wayne-teen-art-night-stencil-art-287c1c",
+      "name": "Teen Art Night: Stencil Art",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "visual-arts"
+      ],
+      "shortDescription": "Bring a friend and get creative! We will be using nature and dinosaur stencils to make a unique art piece. For grades 6-12. Registration required.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-11",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/16981962",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c8f0ab84-d044-481a-b921-f78d9accf11a.medium.PNG",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Aug 11",
+      "nextDate": "2026-08-11",
+      "dates": [
+        "2026-08-11"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-holmes-tuesday-karaoke-at-haggertys-in-holmes-pa-3b255e",
       "name": "Tuesday Karaoke at Haggertys in Holmes, PA (Delaware County",
       "category": "events",
@@ -1127,6 +1061,71 @@
         "2026-12-10"
       ],
       "occurrences": 5
+    },
+    {
+      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
+      "name": "One Time Adult Wheel Class",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "visual-arts"
+      ],
+      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-13",
+      "endDate": "2026-09-27",
+      "recurring": "seasonal",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154443/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Select dates, Aug 13 - Sep 27",
+      "nextDate": "2026-08-13",
+      "dates": [
+        "2026-08-13",
+        "2026-08-14",
+        "2026-08-15",
+        "2026-08-16",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-22",
+        "2026-08-23",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-29",
+        "2026-08-30",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-05",
+        "2026-09-06",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-12",
+        "2026-09-13",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-27"
+      ],
+      "occurrences": 28
     },
     {
       "id": "ev-chester-philadelphia-union-vs-santos-laguna-b91fa5",
@@ -3281,6 +3280,44 @@
       "nextDate": "2026-08-25",
       "dates": [
         "2026-08-25"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-media-park-clean-up-ca11e4",
+      "name": "Park Clean-up",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "volunteering"
+      ],
+      "shortDescription": "Park Clean-up at Heritage Park in Media.",
+      "address": "Heritage Park, Media, PA",
+      "town": "Media",
+      "lat": 39.922606,
+      "lng": -75.391064,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-26",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.mediaborough.com/calendar.aspx?EID=2962",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/6b5c3d4e-e238-4ad0-9c6e-283002e20f24.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Aug 26",
+      "nextDate": "2026-08-26",
+      "dates": [
+        "2026-08-26"
       ],
       "occurrences": 1
     },
@@ -11185,7 +11222,7 @@
       ],
       "hours": {},
       "startDate": "2027-01-22",
-      "endDate": "2027-01-31",
+      "endDate": "2027-02-05",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -11196,7 +11233,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Fri, Sat, Sun, Jan 22 - Jan 31",
+      "schedule": "Fri, Sat, Sun, Jan 22 - Feb 5",
       "nextDate": "2027-01-22",
       "dates": [
         "2027-01-22",
@@ -11204,9 +11241,10 @@
         "2027-01-24",
         "2027-01-29",
         "2027-01-30",
-        "2027-01-31"
+        "2027-01-31",
+        "2027-02-05"
       ],
-      "occurrences": 6
+      "occurrences": 7
     },
     {
       "id": "ev-chester-anniversary-of-the-city-of-chester-s-inc-8a6d0c",
