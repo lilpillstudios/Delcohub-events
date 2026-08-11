@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-08-10T10:39:56.493788+00:00",
+  "scraped_at": "2026-08-11T10:15:48.151884+00:00",
   "horizon_days": 180,
-  "event_count": 299,
+  "event_count": 301,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-08-10",
+      "startDate": "2026-08-11",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Aug 10 - Oct 31",
-      "nextDate": "2026-08-10",
+      "schedule": "Daily, Aug 11 - Oct 31",
+      "nextDate": "2026-08-11",
       "dates": [
-        "2026-08-10",
         "2026-08-11",
         "2026-08-12",
         "2026-08-13",
@@ -123,7 +122,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 83
+      "occurrences": 82
     },
     {
       "id": "ev-wayne-kindergarten-readiness-camp-7deded",
@@ -146,366 +145,26 @@
         "kid-friendly"
       ],
       "hours": {},
-      "startDate": "2026-08-10",
+      "startDate": "2026-08-11",
       "endDate": "2026-08-13",
       "recurring": "none",
       "venueId": "",
       "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/16896390",
+      "website": "https://delcolibraries.libcal.com/event/16896391",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dd66557a-b893-473f-b736-a8a5a338c1bc.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Aug 10 - Aug 13",
-      "nextDate": "2026-08-10",
+      "schedule": "Daily, Aug 11 - Aug 13",
+      "nextDate": "2026-08-11",
       "dates": [
-        "2026-08-10",
         "2026-08-11",
         "2026-08-12",
         "2026-08-13"
       ],
-      "occurrences": 4
-    },
-    {
-      "id": "ev-media-maker-mondays-e4e42e",
-      "name": "Maker Mondays",
-      "category": "events",
-      "subcategories": [
-        "crafts"
-      ],
-      "shortDescription": "Maker Mondays at Parlor (Mansion) Room in Media.",
-      "address": "Parlor (Mansion) Room, Media, PA",
-      "town": "Media",
-      "lat": 39.920906,
-      "lng": -75.38843,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-10",
-      "endDate": "2026-12-14",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.mediaborough.com/calendar.aspx?EID=2718",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bd3a038a-7c16-4116-8ffd-2a210530e12a.medium.PNG",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mondays, Aug 10 - Dec 14",
-      "nextDate": "2026-08-10",
-      "dates": [
-        "2026-08-10",
-        "2026-09-14",
-        "2026-10-12",
-        "2026-11-09",
-        "2026-12-14"
-      ],
-      "occurrences": 5
-    },
-    {
-      "id": "ev-glenolden-monday-trivia-night-at-the-fainting-go-c68d01",
-      "name": "Monday Trivia Night at The Fainting Goat (Glenolden - Delaware County",
-      "category": "events",
-      "subcategories": [
-        "animals",
-        "destinations",
-        "farms",
-        "games"
-      ],
-      "shortDescription": "Monday Night Trivia Starts at 7pm at the Fainting Goat in Glenolden, PA. $50 gift card for 1st Place team and $25 for 2nd Place.",
-      "address": "The Fainting Goat Bar and Restaurant, Glenolden, PA",
-      "town": "Glenolden",
-      "lat": 39.903658,
-      "lng": -75.29411,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-10",
-      "endDate": "2026-12-28",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/monday-trivia-night-at-the-fainting-goat-glenolden-delaware-county-pa-tickets-1106985927709",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QD52Na3--EGn6QKh_-aT8g.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mondays, Aug 10 - Dec 28",
-      "nextDate": "2026-08-10",
-      "dates": [
-        "2026-08-10",
-        "2026-08-17",
-        "2026-08-24",
-        "2026-08-31",
-        "2026-09-07",
-        "2026-09-14",
-        "2026-09-21",
-        "2026-09-28",
-        "2026-10-05",
-        "2026-10-12",
-        "2026-10-19",
-        "2026-10-26",
-        "2026-11-02",
-        "2026-11-09",
-        "2026-11-16",
-        "2026-11-23",
-        "2026-11-30",
-        "2026-12-07",
-        "2026-12-14",
-        "2026-12-21",
-        "2026-12-28"
-      ],
-      "occurrences": 21
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-classes-for-students-with-dis-c24cd1",
-      "name": "One Time Classes For Students With Disabilities",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "special-audience",
-        "visual-arts"
-      ],
-      "shortDescription": "This class for students with disabilities will be flexible depending on the students' desires, sensory preferences, and interest levels.",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "family",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-10",
-      "endDate": "2026-09-28",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154447/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IK04RSbO2UapiFtqzK6Oyw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mondays, Aug 10 - Sep 28",
-      "nextDate": "2026-08-10",
-      "dates": [
-        "2026-08-10",
-        "2026-08-17",
-        "2026-08-24",
-        "2026-08-31",
-        "2026-09-07",
-        "2026-09-14",
-        "2026-09-21",
-        "2026-09-28"
-      ],
-      "occurrences": 8
-    },
-    {
-      "id": "ev-aston-plant-bingo-at-2sp-brewing-company-2d1ec7",
-      "name": "Plant Bingo at 2SP Brewing Company",
-      "category": "events",
-      "subcategories": [
-        "games"
-      ],
-      "shortDescription": "Fun, friends, plants, and BINGO! What more do you need?",
-      "address": "2SP Brewing Company, Aston, PA",
-      "town": "Aston",
-      "lat": 39.856095,
-      "lng": -75.403905,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-10",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/plant-bingo-at-2sp-brewing-company-tickets-1989793748666",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/X1bpsSNKj0Cu0-q2fu7q1w.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Aug 10",
-      "nextDate": "2026-08-10",
-      "dates": [
-        "2026-08-10"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-sweet-reads-teens-3fa3ad",
-      "name": "Sweet Reads (Teens)",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink",
-        "literary-arts",
-        "special-audience"
-      ],
-      "shortDescription": "Bring your book and your sweet tooth! Make a fun dessert to enjoy while you read.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-10",
-      "endDate": "2026-08-24",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17063830",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2ed69edc-742c-437f-9653-e15465e4c53e.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mondays, Aug 10 - Aug 24",
-      "nextDate": "2026-08-10",
-      "dates": [
-        "2026-08-10",
-        "2026-08-24"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-chester-the-empty-chair-f2b7a3",
-      "name": "The Empty Chair",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "The Empty Chair at St. Luke Community Christian Church in Chester.",
-      "address": "St. Luke Community Christian Church, Chester, PA",
-      "town": "Chester",
-      "lat": 39.839459,
-      "lng": -75.378225,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-10",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.chestercity.com/event/the-empty-chair/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gPCU1BdgEUemgc4m6lJ6LQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Aug 10",
-      "nextDate": "2026-08-10",
-      "dates": [
-        "2026-08-10"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-ardmore-u-s-amateur-0a248c",
-      "name": "U.S. Amateur",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "U.S. Amateur at Merion Golf Club in Ardmore.",
-      "address": "Merion Golf Club, Ardmore, PA",
-      "town": "Ardmore",
-      "lat": 39.996848,
-      "lng": -75.313429,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-10",
-      "endDate": "2026-08-16",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4fe991e1-6aee-4eb7-b4fd-545cf702526d.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "5 dates, Aug 10 - Aug 16",
-      "nextDate": "2026-08-10",
-      "dates": [
-        "2026-08-10",
-        "2026-08-11",
-        "2026-08-14",
-        "2026-08-15",
-        "2026-08-16"
-      ],
-      "occurrences": 5
-    },
-    {
-      "id": "ev-boothwyn-wilmington-women-s-connection-luncheon-37f6e9",
-      "name": "Wilmington Women's Connection Luncheon",
-      "category": "events",
-      "subcategories": [
-        "special-audience"
-      ],
-      "shortDescription": "Our special guest will be GLORIA FERALIO of Cherry Hill, NJ.",
-      "address": "The Phoenix Ballroom, Boothwyn, PA",
-      "town": "Boothwyn",
-      "lat": 39.840342,
-      "lng": -75.440514,
-      "priceTier": 2,
-      "tags": [
-        "family",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-10",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://sites.google.com/view/wilmingtondewomensconnection/meetings",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/6c230cf7-0d16-48d9-a771-2a6ace096f9c.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Aug 10",
-      "nextDate": "2026-08-10",
-      "dates": [
-        "2026-08-10"
-      ],
-      "occurrences": 1
+      "occurrences": 3
     },
     {
       "id": "ev-chester-national-night-out-f945ab",
@@ -584,6 +243,71 @@
         "2026-10-06"
       ],
       "occurrences": 9
+    },
+    {
+      "id": "ev-chester-oldies-in-the-park-a0e86f",
+      "name": "Oldies in the Park",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "destinations",
+        "music",
+        "outdoor-concert"
+      ],
+      "shortDescription": "Oldies in the Park at Ethel Waters Park in Chester.",
+      "address": "Ethel Waters Park, Chester, PA",
+      "town": "Chester",
+      "lat": 39.846465,
+      "lng": -75.358842,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-08-11",
+      "endDate": "2027-02-02",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.chestercity.com/event/oldies-in-the-park-2/2026-08-11/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/o6XxL0PM3kaE6hDXOaFfuw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Aug 11 - Feb 2",
+      "nextDate": "2026-08-11",
+      "dates": [
+        "2026-08-11",
+        "2026-08-18",
+        "2026-09-01",
+        "2026-09-08",
+        "2026-09-15",
+        "2026-09-22",
+        "2026-09-29",
+        "2026-10-06",
+        "2026-10-13",
+        "2026-10-20",
+        "2026-10-27",
+        "2026-11-03",
+        "2026-11-10",
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05",
+        "2027-01-12",
+        "2027-01-19",
+        "2027-01-26",
+        "2027-02-02"
+      ],
+      "occurrences": 25
     },
     {
       "id": "ev-wayne-summer-reading-buddies-5f87a4",
@@ -726,6 +450,46 @@
         "2027-02-02"
       ],
       "occurrences": 26
+    },
+    {
+      "id": "ev-ardmore-u-s-amateur-0a248c",
+      "name": "U.S. Amateur",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "U.S. Amateur at Merion Golf Club in Ardmore.",
+      "address": "Merion Golf Club, Ardmore, PA",
+      "town": "Ardmore",
+      "lat": 39.996848,
+      "lng": -75.313429,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-11",
+      "endDate": "2026-08-16",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4fe991e1-6aee-4eb7-b4fd-545cf702526d.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "4 dates, Aug 11 - Aug 16",
+      "nextDate": "2026-08-11",
+      "dates": [
+        "2026-08-11",
+        "2026-08-14",
+        "2026-08-15",
+        "2026-08-16"
+      ],
+      "occurrences": 4
     },
     {
       "id": "ev-wayne-3d-printer-for-teens-b6e34c",
@@ -1630,6 +1394,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chadds-ford-ferragosto-731059",
+      "name": "Ferragosto",
+      "category": "events",
+      "subcategories": [
+        "health-wellness",
+        "lifestyle"
+      ],
+      "shortDescription": "Embrace the Italian summer holiday of leisure, recreation & relaxation! Sip on our refreshing Hugo Spritz – made with fresh lemon &...",
+      "address": "Penns Woods Winery, Chadds Ford, PA",
+      "town": "Chadds Ford",
+      "lat": 39.847562,
+      "lng": -75.546723,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-15",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.brandywinevalley.com/event/ferragosto/4590/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2oFMyYI8Hk-keVQPRCUvTw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Aug 15",
+      "nextDate": "2026-08-15",
+      "dates": [
+        "2026-08-15"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-collingdale-graceful-strides-gala-fashion-show-f-493252",
       "name": "Graceful Strides Gala Fashion Show For Epilepsy Awareness",
       "category": "events",
@@ -1847,7 +1649,7 @@
       ],
       "hours": {},
       "startDate": "2026-08-15",
-      "endDate": "2026-08-22",
+      "endDate": "2026-08-29",
       "recurring": "weekly",
       "venueId": "",
       "phone": "(610) 566-9134",
@@ -1858,13 +1660,14 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Saturdays, Aug 15 - Aug 22",
+      "schedule": "Saturdays, Aug 15 - Aug 29",
       "nextDate": "2026-08-15",
       "dates": [
         "2026-08-15",
-        "2026-08-22"
+        "2026-08-22",
+        "2026-08-29"
       ],
-      "occurrences": 2
+      "occurrences": 3
     },
     {
       "id": "springfield-farmers-market",
@@ -2213,6 +2016,111 @@
         "2026-08-16"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-glenolden-monday-trivia-night-at-the-fainting-go-c68d01",
+      "name": "Monday Trivia Night at The Fainting Goat (Glenolden - Delaware County",
+      "category": "events",
+      "subcategories": [
+        "animals",
+        "destinations",
+        "farms",
+        "games"
+      ],
+      "shortDescription": "Monday Night Trivia Starts at 7pm at the Fainting Goat in Glenolden, PA. $50 gift card for 1st Place team and $25 for 2nd Place.",
+      "address": "The Fainting Goat Bar and Restaurant, Glenolden, PA",
+      "town": "Glenolden",
+      "lat": 39.903658,
+      "lng": -75.29411,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-17",
+      "endDate": "2026-12-28",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/monday-trivia-night-at-the-fainting-goat-glenolden-delaware-county-pa-tickets-1106985927709",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QD52Na3--EGn6QKh_-aT8g.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mondays, Aug 17 - Dec 28",
+      "nextDate": "2026-08-17",
+      "dates": [
+        "2026-08-17",
+        "2026-08-24",
+        "2026-08-31",
+        "2026-09-07",
+        "2026-09-14",
+        "2026-09-21",
+        "2026-09-28",
+        "2026-10-05",
+        "2026-10-12",
+        "2026-10-19",
+        "2026-10-26",
+        "2026-11-02",
+        "2026-11-09",
+        "2026-11-16",
+        "2026-11-23",
+        "2026-11-30",
+        "2026-12-07",
+        "2026-12-14",
+        "2026-12-21",
+        "2026-12-28"
+      ],
+      "occurrences": 20
+    },
+    {
+      "id": "ev-bryn-mawr-one-time-classes-for-students-with-dis-c24cd1",
+      "name": "One Time Classes For Students With Disabilities",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "special-audience",
+        "visual-arts"
+      ],
+      "shortDescription": "This class for students with disabilities will be flexible depending on the students' desires, sensory preferences, and interest levels.",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-17",
+      "endDate": "2026-09-28",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154447/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IK04RSbO2UapiFtqzK6Oyw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mondays, Aug 17 - Sep 28",
+      "nextDate": "2026-08-17",
+      "dates": [
+        "2026-08-17",
+        "2026-08-24",
+        "2026-08-31",
+        "2026-09-07",
+        "2026-09-14",
+        "2026-09-21",
+        "2026-09-28"
+      ],
+      "occurrences": 7
     },
     {
       "id": "ev-media-how-ohio-won-the-civil-war-1b1b19",
@@ -3133,6 +3041,47 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-sweet-reads-teens-3fa3ad",
+      "name": "Sweet Reads (Teens)",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink",
+        "literary-arts",
+        "special-audience"
+      ],
+      "shortDescription": "Bring your book and your sweet tooth! Make a fun dessert to enjoy while you read.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-24",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17063856",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2ed69edc-742c-437f-9653-e15465e4c53e.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mon, Aug 24",
+      "nextDate": "2026-08-24",
+      "dates": [
+        "2026-08-24"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-villanova-villanova-university-men-s-soccer-vs-s-77af1b",
       "name": "Villanova University Men's Soccer vs Saint Peter's University",
       "category": "events",
@@ -3516,6 +3465,45 @@
         "2026-12-19"
       ],
       "occurrences": 5
+    },
+    {
+      "id": "ev-springfield-build-your-home-apothecary-preparing-1d6bba",
+      "name": "Build Your Home Apothecary: Preparing Your Family for Fall & Winter",
+      "category": "events",
+      "subcategories": [
+        "family",
+        "lifestyle",
+        "special-audience"
+      ],
+      "shortDescription": "Have you ever wished you knew which herbs to use when your family gets sick? Join Karité Naturals for an interactive Herbal 101 workshop",
+      "address": "Karite Naturals, LLC, Springfield, PA",
+      "town": "Springfield",
+      "lat": 39.92788,
+      "lng": -75.33614,
+      "priceTier": 2,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-29",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/build-your-home-apothecary-preparing-your-family-for-fall-winter-tickets-1996759950764",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/w_oEpHnN_E23Hy0LezO-fQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Aug 29",
+      "nextDate": "2026-08-29",
+      "dates": [
+        "2026-08-29"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-glen-mills-core-and-restore-bbfe10",
@@ -4248,6 +4236,45 @@
       "occurrences": 1
     },
     {
+      "id": "ev-thornbury-township-gong-meditation-at-strawflowe-deef13",
+      "name": "Gong Meditation at Strawflower Farm",
+      "category": "events",
+      "subcategories": [
+        "animals",
+        "destinations",
+        "faith",
+        "farms"
+      ],
+      "shortDescription": "Gong meditation in an open-air greenhouse. Stay after for optional flower picking. A quiet evening of rest and late summer air.",
+      "address": "Strawflower Farm, Thornbury Township, PA",
+      "town": "Thornbury Township",
+      "lat": 39.918548,
+      "lng": -75.51463,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-08",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/gong-meditation-at-strawflower-farm-tickets-1996655579587",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_YlhKUzfzUCdo4cky16fkQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Sep 8",
+      "nextDate": "2026-09-08",
+      "dates": [
+        "2026-09-08"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-chester-philadelphia-union-vs-fc-cincinnati-283fbb",
       "name": "Philadelphia Union vs. FC Cincinnati",
       "category": "events",
@@ -4960,6 +4987,46 @@
         "2026-09-15"
       ],
       "occurrences": 2
+    },
+    {
+      "id": "ev-media-maker-mondays-e4e42e",
+      "name": "Maker Mondays",
+      "category": "events",
+      "subcategories": [
+        "crafts"
+      ],
+      "shortDescription": "Maker Mondays at Parlor (Mansion) Room in Media.",
+      "address": "Parlor (Mansion) Room, Media, PA",
+      "town": "Media",
+      "lat": 39.920906,
+      "lng": -75.38843,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-14",
+      "endDate": "2026-12-14",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.mediaborough.com/calendar.aspx?EID=2719",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bd3a038a-7c16-4116-8ffd-2a210530e12a.medium.PNG",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mondays, Sep 14 - Dec 14",
+      "nextDate": "2026-09-14",
+      "dates": [
+        "2026-09-14",
+        "2026-10-12",
+        "2026-11-09",
+        "2026-12-14"
+      ],
+      "occurrences": 4
     },
     {
       "id": "ev-villanova-belly-dance-class-at-the-willows-mansi-606098",
@@ -11222,7 +11289,7 @@
       ],
       "hours": {},
       "startDate": "2027-01-22",
-      "endDate": "2027-02-05",
+      "endDate": "2027-02-06",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -11233,7 +11300,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Fri, Sat, Sun, Jan 22 - Feb 5",
+      "schedule": "Fri, Sat, Sun, Jan 22 - Feb 6",
       "nextDate": "2027-01-22",
       "dates": [
         "2027-01-22",
@@ -11242,9 +11309,10 @@
         "2027-01-29",
         "2027-01-30",
         "2027-01-31",
-        "2027-02-05"
+        "2027-02-05",
+        "2027-02-06"
       ],
-      "occurrences": 7
+      "occurrences": 8
     },
     {
       "id": "ev-chester-anniversary-of-the-city-of-chester-s-inc-8a6d0c",
@@ -11280,6 +11348,44 @@
       "nextDate": "2027-01-22",
       "dates": [
         "2027-01-22"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-lansdowne-marshall-charloff-purple-xperience-7497c7",
+      "name": "Marshall Charloff & Purple xPeRIeNCE",
+      "category": "events",
+      "subcategories": [
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Marshall Charloff & Purple xPeRIeNCE The World's 1 Tribute to Prince!",
+      "address": "Lansdowne Theater, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.939419,
+      "lng": -75.272179,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-02-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.etix.com/ticket/mvc/legacyOnlineSale/performance/sale/validateCaptchaAndGoSelectPage",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Y16XolpcK0Cg1V7nvYjviw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Feb 6",
+      "nextDate": "2027-02-06",
+      "dates": [
+        "2027-02-06"
       ],
       "occurrences": 1
     },
