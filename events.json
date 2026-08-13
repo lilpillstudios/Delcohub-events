@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-08-12T10:31:14.305759+00:00",
+  "scraped_at": "2026-08-13T10:32:08.003897+00:00",
   "horizon_days": 180,
-  "event_count": 304,
+  "event_count": 313,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-08-12",
+      "startDate": "2026-08-13",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Aug 12 - Oct 31",
-      "nextDate": "2026-08-12",
+      "schedule": "Daily, Aug 13 - Oct 31",
+      "nextDate": "2026-08-13",
       "dates": [
-        "2026-08-12",
         "2026-08-13",
         "2026-08-14",
         "2026-08-15",
@@ -121,7 +120,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 81
+      "occurrences": 80
     },
     {
       "id": "ev-wayne-3d-printer-for-teens-b6e34c",
@@ -142,360 +141,25 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-08-12",
+      "startDate": "2026-08-13",
       "endDate": "2026-08-19",
       "recurring": "weekly",
       "venueId": "",
       "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17089600",
+      "website": "https://delcolibraries.libcal.com/event/17089639",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c5524bb5-b9ec-4797-8e80-6d01a3ab7815.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Wed, Thu, Aug 12 - Aug 19",
-      "nextDate": "2026-08-12",
+      "schedule": "Wed, Thu, Aug 13 - Aug 19",
+      "nextDate": "2026-08-13",
       "dates": [
-        "2026-08-12",
         "2026-08-13",
         "2026-08-19"
       ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-st-davids-amada-s-annual-summer-cava-y-cochinill-4cf5db",
-      "name": "Amada's Annual Summer Cava y Cochinillo Event",
-      "category": "events",
-      "subcategories": [
-        "food-drink"
-      ],
-      "shortDescription": "Amada’s annual signature summer tradition, Cava y Cochinillo, returns August 12!",
-      "address": "Amada, St. Davids, PA",
-      "town": "St. Davids",
-      "lat": 40.043021,
-      "lng": -75.365357,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-12",
-      "endDate": "2026-08-23",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.oldcitydistrict.org/events/amadas-annual-summer-cava-y-cochinillo-event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/uip2FGW3aUymHUUeyujuhg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "2 dates, Aug 12 - Aug 23",
-      "nextDate": "2026-08-12",
-      "dates": [
-        "2026-08-12",
-        "2026-08-23"
-      ],
       "occurrences": 2
-    },
-    {
-      "id": "ev-wayne-chess-club-634d75",
-      "name": "Chess Club",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "games",
-        "health-wellness",
-        "learning"
-      ],
-      "shortDescription": "Chess Club at Radnor Memorial Library Wednesdays, 9/2/26 through 12/30/26 (10/14 and 10/21 Chess Club moves upstairs, Rms.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-12",
-      "endDate": "2026-11-18",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/16988207",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eea63be5-c4d3-46d5-9632-af64e5f10861.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wednesdays, Aug 12 - Nov 18",
-      "nextDate": "2026-08-12",
-      "dates": [
-        "2026-08-12",
-        "2026-08-19",
-        "2026-08-26",
-        "2026-09-02",
-        "2026-09-09",
-        "2026-09-16",
-        "2026-09-23",
-        "2026-09-30",
-        "2026-10-07",
-        "2026-10-28",
-        "2026-11-04",
-        "2026-11-11",
-        "2026-11-18"
-      ],
-      "occurrences": 13
-    },
-    {
-      "id": "media-dining-under-the-stars",
-      "name": "Dining Under the Stars",
-      "category": "events",
-      "subcategories": [
-        "food-festival",
-        "street-dining"
-      ],
-      "shortDescription": "Media's signature warm-weather event closing State Street so restaurants serve al fresco dinners under string lights.",
-      "address": "State St, Media, PA 19063",
-      "town": "Media",
-      "lat": 39.9166,
-      "lng": -75.388,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "date",
-        "group",
-        "family"
-      ],
-      "hours": {},
-      "startDate": "",
-      "endDate": "",
-      "recurring": "weekly",
-      "venueId": "media-state-street-district",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "schedule": "Wednesdays, June-August",
-      "nextDate": "2026-08-12",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-08-12"
-      ]
-    },
-    {
-      "id": "ev-wayne-kindergarten-readiness-camp-7deded",
-      "name": "Kindergarten Readiness Camp",
-      "category": "events",
-      "subcategories": [
-        "kids",
-        "special-audience"
-      ],
-      "shortDescription": "Winsor Room - Registration required For children enrolled in Kindergarten for the 2026-2027 school year Gain confidence for starting Kindergarten with this four-day...",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-08-12",
-      "endDate": "2026-08-13",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/16896392",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dd66557a-b893-473f-b736-a8a5a338c1bc.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Aug 12 - Aug 13",
-      "nextDate": "2026-08-12",
-      "dates": [
-        "2026-08-12",
-        "2026-08-13"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-wallingford-mad-poets-critique-circle-bed650",
-      "name": "Mad Poets Critique Circle",
-      "category": "events",
-      "subcategories": [
-        "literary-arts"
-      ],
-      "shortDescription": "Mad Poets Critique Circle at Community Arts Center in Wallingford.",
-      "address": "Community Arts Center, Wallingford, PA",
-      "town": "Wallingford",
-      "lat": 39.908927,
-      "lng": -75.365674,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-12",
-      "endDate": "2026-10-14",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://communityartscenter.org/events/?pno=",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0n1pAjScPESDTuVgQYzBGw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wednesdays, Aug 12 - Oct 14",
-      "nextDate": "2026-08-12",
-      "dates": [
-        "2026-08-12",
-        "2026-09-09",
-        "2026-10-14"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-wayne-remember-the-ladies-88cb6f",
-      "name": "Remember the Ladies",
-      "category": "events",
-      "subcategories": [
-        "comedy",
-        "film",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "‘Remember the Ladies'-4 memorable movies In 1776, John Adams was in Philadelphia drafting America's Laws.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-12",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/16823920",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e71dc217-6ff2-4a16-8b84-b1fd496f83e5.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Aug 12",
-      "nextDate": "2026-08-12",
-      "dates": [
-        "2026-08-12"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-springfield-springfield-twp-presents-food-truck-14325c",
-      "name": "Springfield Twp. Presents - Food Truck Festival!",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "festival",
-        "food-drink",
-        "food-trucks"
-      ],
-      "shortDescription": "Join us for the annual Food Truck Festival, featuring Shot of Southern!",
-      "address": "Township Building, Springfield, PA",
-      "town": "Springfield",
-      "lat": 39.931567,
-      "lng": -75.328436,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-08-12",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.springfielddelco.org/event/springfield-twp-presents-food-truck-festival/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dKLKN9YN1EqM2zZBBAQ6lw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Aug 12",
-      "nextDate": "2026-08-12",
-      "dates": [
-        "2026-08-12"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-weekday-bird-walk-f44c34",
-      "name": "Weekday Bird Walk",
-      "category": "events",
-      "subcategories": [
-        "fitness",
-        "nature",
-        "outdoor-recreation",
-        "sports-outdoors"
-      ],
-      "shortDescription": "FOR ADULTS 18+ Listen, watch, and discover the birds of Tyler Arboretum.",
-      "address": "Tyler Arboretum, Media, PA",
-      "town": "Media",
-      "lat": 39.935841,
-      "lng": -75.429977,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-08-12",
-      "endDate": "2026-08-26",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "(610) 566-9134",
-      "website": "https://tylerarboretum.org/calendar/weekday-bird-walk-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4TBi2jp31E-E1CnWHsax2A.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wednesdays, Aug 12 - Aug 26",
-      "nextDate": "2026-08-12",
-      "dates": [
-        "2026-08-12",
-        "2026-08-19",
-        "2026-08-26"
-      ],
-      "occurrences": 3
     },
     {
       "id": "ev-bryn-mawr-7-week-kids-course-27dc07",
@@ -582,6 +246,86 @@
       "occurrences": 1
     },
     {
+      "id": "ev-havertown-demitri-grivas-9cb025",
+      "name": "Demitri Grivas",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Demitri Grivas at Barnaby's Havertown in Havertown.",
+      "address": "Barnaby's Havertown, Havertown, PA",
+      "town": "Havertown",
+      "lat": 39.976545,
+      "lng": -75.334958,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-13",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108676689?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c-HycUOJfU6kde6Yi1nB6w.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Aug 13",
+      "nextDate": "2026-08-13",
+      "dates": [
+        "2026-08-13"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-lansdowne-derrick-dove-the-peacekeepers-691b4a",
+      "name": "Derrick Dove & the Peacekeepers",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Derrick Dove & The Peacekeepers are an award-winning Southern-fried blues rock band rooted in the South Georgia pines (Tifton area).",
+      "address": "Jamey's House of Music, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.937344,
+      "lng": -75.274493,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-13",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108677581?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/NpIt9zEI80Wk6JIYZj1vzw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Aug 13",
+      "nextDate": "2026-08-13",
+      "dates": [
+        "2026-08-13"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-media-game-night-cf0a5d",
       "name": "Game Night",
       "category": "events",
@@ -621,6 +365,86 @@
         "2026-12-10"
       ],
       "occurrences": 5
+    },
+    {
+      "id": "ev-wayne-kindergarten-readiness-camp-7deded",
+      "name": "Kindergarten Readiness Camp",
+      "category": "events",
+      "subcategories": [
+        "kids",
+        "special-audience"
+      ],
+      "shortDescription": "Winsor Room - Registration required For children enrolled in Kindergarten for the 2026-2027 school year Gain confidence for starting Kindergarten with this four-day...",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-08-13",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/16896393",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dd66557a-b893-473f-b736-a8a5a338c1bc.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Aug 13",
+      "nextDate": "2026-08-13",
+      "dates": [
+        "2026-08-13"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-media-mac-original-play-reading-series-armed-by-67f8a3",
+      "name": "MAC Original Play Reading Series: Armed by Dave Ebersole",
+      "category": "events",
+      "subcategories": [
+        "film",
+        "literary-arts",
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "MAC Original Play Reading Series: Armed by Dave Ebersole Directed by Bridget Dougherty",
+      "address": "Media Fellowship House, Media, PA",
+      "town": "Media",
+      "lat": 39.916227,
+      "lng": -75.390155,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-13",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.mediaartscouncil.org/calendar/mac-original-play-reading-series-armed-by-dave-ebersole",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_8MkT1uGaU6OzpYALmTdLQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Aug 13",
+      "nextDate": "2026-08-13",
+      "dates": [
+        "2026-08-13"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
@@ -724,6 +548,49 @@
         "2026-08-13"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-summer-explorers-unearth-a-story-a14ad1",
+      "name": "Summer Explorers: Unearth a Story",
+      "category": "events",
+      "subcategories": [
+        "family",
+        "kids",
+        "literary-arts",
+        "special-audience"
+      ],
+      "shortDescription": "Children's Area - Ages 3 & up - No registration necessary Family-friendly art and learning activities inspired by our Summer Reading theme: Unearth a Story!",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-08-13",
+      "endDate": "2026-08-14",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/16980681",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5c124d82-fff9-423f-8f03-697ddf5c0659.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Aug 13 - Aug 14",
+      "nextDate": "2026-08-13",
+      "dates": [
+        "2026-08-13",
+        "2026-08-14"
+      ],
+      "occurrences": 2
     },
     {
       "id": "ev-drexel-hill-thursday-karaoke-at-casey-s-restaura-4579c1",
@@ -871,6 +738,127 @@
       "occurrences": 3
     },
     {
+      "id": "ev-wayne-after-hours-rml-treasure-scavenger-hunt-hi-038312",
+      "name": "After Hours @RML: Treasure Scavenger Hunt & Hide N Seek",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink",
+        "games",
+        "outdoor-recreation"
+      ],
+      "shortDescription": "Go on a gem scavenger hunt for prizes! Bonus Hide N Seek game.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-08-14",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/16978505",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/62f4f486-565b-4d0e-ae20-eb1f5093a807.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Aug 14",
+      "nextDate": "2026-08-14",
+      "dates": [
+        "2026-08-14"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-lansdowne-barkley-cove-91516c",
+      "name": "Barkley Cove",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Come out to Lansdowne to spend a night with us at Jamey's! They've got great Asian fusion eats to enjoy while you're tuning in. Hope to see you there!",
+      "address": "Jamey's House of Music, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.937344,
+      "lng": -75.274493,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-14",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108427453?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/DZBcMAJuKUu72TVuDvgHUQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Aug 14",
+      "nextDate": "2026-08-14",
+      "dates": [
+        "2026-08-14"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-swarthmore-crop-friendship-commanders-new-dawn-f-a543c2",
+      "name": "CROP & Friendship Commanders & NEW DAWN FADES & Thunderbird Divine",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "CROP w/ Friendship Commanders",
+      "address": "WaR3House 3, Swarthmore, PA",
+      "town": "Swarthmore",
+      "lat": 39.901337,
+      "lng": -75.349723,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-14",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108488311?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Intul4m1qU60jFFBEYewPg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Aug 14",
+      "nextDate": "2026-08-14",
+      "dates": [
+        "2026-08-14"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-chester-chester-city-hall-hosts-free-recycling-a-6ba689",
       "name": "Chester City Hall Hosts Free Recycling and Onsite Paper Shredding Event",
       "category": "events",
@@ -907,6 +895,46 @@
         "2026-08-15"
       ],
       "occurrences": 2
+    },
+    {
+      "id": "ev-wayne-chris-day-rocks-f8d9f2",
+      "name": "Chris Day Rocks",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Chris Day Rocks at 118 North in Wayne.",
+      "address": "118 North, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-14",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108635329?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cMXd6-6BgkmgoMY9K_3GaQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Aug 14",
+      "nextDate": "2026-08-14",
+      "dates": [
+        "2026-08-14"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-media-cimarron-615-plus-craig-bickhardt-9f19b9",
@@ -1026,6 +1054,45 @@
       "occurrences": 2
     },
     {
+      "id": "ev-wayne-friday-film-project-hail-mary-2026-c144f3",
+      "name": "Friday Film: PROJECT HAIL MARY (2026)",
+      "category": "events",
+      "subcategories": [
+        "film",
+        "literary-arts",
+        "visual-arts"
+      ],
+      "shortDescription": "Science teacher Ryland Grace (Ryan Gosling) wakes up on a spaceship light years from home with no recollection of who he is or how he got there.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-14",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17216377",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/80829454-df53-47d3-acc4-9b3343ea2e78.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Aug 14",
+      "nextDate": "2026-08-14",
+      "dates": [
+        "2026-08-14"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-media-mean-girls-8d564d",
       "name": "Mean Girls",
       "category": "events",
@@ -1062,6 +1129,94 @@
         "2026-08-14"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-media-moth-night-99ceb2",
+      "name": "Moth Night",
+      "category": "events",
+      "subcategories": [
+        "nature",
+        "outdoor-recreation",
+        "special-audience",
+        "sports-outdoors"
+      ],
+      "shortDescription": "FOR ADULTS 18+ AND TEENS AGES 13-17 Step into the nighttime world and discover what’s flying after dark!",
+      "address": "Tyler Arboretum, Media, PA",
+      "town": "Media",
+      "lat": 39.935841,
+      "lng": -75.429977,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-08-14",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "(610) 566-9134",
+      "website": "https://tylerarboretum.org/calendar/moth-night-2/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/FHpCsFu59ku9-C7thkbBRg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Aug 14",
+      "nextDate": "2026-08-14",
+      "dates": [
+        "2026-08-14"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-reading-rocks-a-music-dance-and-comedy-sho-7179e6",
+      "name": "Reading Rocks!: A Music, Dance, and Comedy Show with Mr. Matt from Turtle Dance Music",
+      "category": "events",
+      "subcategories": [
+        "comedy",
+        "dance",
+        "health-wellness",
+        "kids"
+      ],
+      "shortDescription": "Winsor Room - No registration required - All Ages The Reading Rocks!",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-08-14",
+      "endDate": "2026-12-11",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/16033932",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dfbc8e82-cbbc-45df-b109-75d61c56c4ed.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fridays, Aug 14 - Dec 11",
+      "nextDate": "2026-08-14",
+      "dates": [
+        "2026-08-14",
+        "2026-09-11",
+        "2026-10-09",
+        "2026-11-13",
+        "2026-12-11"
+      ],
+      "occurrences": 5
     },
     {
       "id": "ev-wayne-supernova-a-tribute-to-oasis-at-118-north-a64ce9",
@@ -2239,6 +2394,57 @@
       "occurrences": 25
     },
     {
+      "id": "ev-wayne-chess-club-634d75",
+      "name": "Chess Club",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "games",
+        "health-wellness",
+        "learning"
+      ],
+      "shortDescription": "Chess Club at Radnor Memorial Library Wednesdays, 9/2/26 through 12/30/26 (10/14 and 10/21 Chess Club moves upstairs, Rms.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-19",
+      "endDate": "2026-11-18",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/16988212",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eea63be5-c4d3-46d5-9632-af64e5f10861.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wednesdays, Aug 19 - Nov 18",
+      "nextDate": "2026-08-19",
+      "dates": [
+        "2026-08-19",
+        "2026-08-26",
+        "2026-09-02",
+        "2026-09-09",
+        "2026-09-16",
+        "2026-09-23",
+        "2026-09-30",
+        "2026-10-07",
+        "2026-10-28",
+        "2026-11-04",
+        "2026-11-11",
+        "2026-11-18"
+      ],
+      "occurrences": 12
+    },
+    {
       "id": "ev-wayne-comedy-night-benefit-show-davey-bo-at-118-7b0cad",
       "name": "Comedy Night Benefit Show: Davey Bo at 118 North",
       "category": "events",
@@ -2311,6 +2517,46 @@
         "2026-08-19"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "media-dining-under-the-stars",
+      "name": "Dining Under the Stars",
+      "category": "events",
+      "subcategories": [
+        "food-festival",
+        "street-dining"
+      ],
+      "shortDescription": "Media's signature warm-weather event closing State Street so restaurants serve al fresco dinners under string lights.",
+      "address": "State St, Media, PA 19063",
+      "town": "Media",
+      "lat": 39.9166,
+      "lng": -75.388,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "date",
+        "group",
+        "family"
+      ],
+      "hours": {},
+      "startDate": "",
+      "endDate": "",
+      "recurring": "weekly",
+      "venueId": "media-state-street-district",
+      "phone": "",
+      "website": "",
+      "images": [],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "schedule": "Wednesdays, June-August",
+      "nextDate": "2026-08-19",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-08-19"
+      ]
     },
     {
       "id": "ev-chester-philadelphia-union-vs-inter-miami-cf-68fa4b",
@@ -2389,6 +2635,48 @@
         "2026-08-19"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-media-weekday-bird-walk-f44c34",
+      "name": "Weekday Bird Walk",
+      "category": "events",
+      "subcategories": [
+        "fitness",
+        "nature",
+        "outdoor-recreation",
+        "sports-outdoors"
+      ],
+      "shortDescription": "FOR ADULTS 18+ Listen, watch, and discover the birds of Tyler Arboretum.",
+      "address": "Tyler Arboretum, Media, PA",
+      "town": "Media",
+      "lat": 39.935841,
+      "lng": -75.429977,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-08-19",
+      "endDate": "2026-08-26",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "(610) 566-9134",
+      "website": "https://tylerarboretum.org/calendar/weekday-bird-walk-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4TBi2jp31E-E1CnWHsax2A.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wednesdays, Aug 19 - Aug 26",
+      "nextDate": "2026-08-19",
+      "dates": [
+        "2026-08-19",
+        "2026-08-26"
+      ],
+      "occurrences": 2
     },
     {
       "id": "ev-springfield-yard-waste-collection-0a939e",
@@ -2967,6 +3255,42 @@
       "nextDate": "2026-08-22",
       "dates": [
         "2026-08-22"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-st-davids-amada-s-annual-summer-cava-y-cochinill-4cf5db",
+      "name": "Amada's Annual Summer Cava y Cochinillo Event",
+      "category": "events",
+      "subcategories": [
+        "food-drink"
+      ],
+      "shortDescription": "Amada's Annual Summer Cava y Cochinillo Event at Amada in St. Davids.",
+      "address": "Amada, St. Davids, PA",
+      "town": "St. Davids",
+      "lat": 40.043021,
+      "lng": -75.365357,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-23",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.oldcitydistrict.org/events/amadas-annual-summer-cava-y-cochinillo-event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/uip2FGW3aUymHUUeyujuhg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Aug 23",
+      "nextDate": "2026-08-23",
+      "dates": [
+        "2026-08-23"
       ],
       "occurrences": 1
     },
@@ -4353,6 +4677,44 @@
         "2026-09-08"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-wallingford-mad-poets-critique-circle-bed650",
+      "name": "Mad Poets Critique Circle",
+      "category": "events",
+      "subcategories": [
+        "literary-arts"
+      ],
+      "shortDescription": "Mad Poets Critique Circle at Community Arts Center in Wallingford.",
+      "address": "Community Arts Center, Wallingford, PA",
+      "town": "Wallingford",
+      "lat": 39.908927,
+      "lng": -75.365674,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-09",
+      "endDate": "2026-10-14",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://communityartscenter.org/events/?pno=",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0n1pAjScPESDTuVgQYzBGw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wednesdays, Sep 9 - Oct 14",
+      "nextDate": "2026-09-09",
+      "dates": [
+        "2026-09-09",
+        "2026-10-14"
+      ],
+      "occurrences": 2
     },
     {
       "id": "ev-chester-philadelphia-union-vs-fc-cincinnati-283fbb",
