@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-08-14T10:28:16.356375+00:00",
+  "scraped_at": "2026-08-15T09:44:54.263838+00:00",
   "horizon_days": 180,
-  "event_count": 315,
+  "event_count": 303,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-08-14",
+      "startDate": "2026-08-15",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Aug 14 - Oct 31",
-      "nextDate": "2026-08-14",
+      "schedule": "Daily, Aug 15 - Oct 31",
+      "nextDate": "2026-08-15",
       "dates": [
-        "2026-08-14",
         "2026-08-15",
         "2026-08-16",
         "2026-08-17",
@@ -119,797 +118,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 79
-    },
-    {
-      "id": "ev-wayne-after-hours-rml-treasure-scavenger-hunt-hi-038312",
-      "name": "After Hours @RML: Treasure Scavenger Hunt & Hide N Seek",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink",
-        "games",
-        "outdoor-recreation"
-      ],
-      "shortDescription": "Go on a gem scavenger hunt for prizes! Bonus Hide N Seek game.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-08-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/16978505",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/62f4f486-565b-4d0e-ae20-eb1f5093a807.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Aug 14",
-      "nextDate": "2026-08-14",
-      "dates": [
-        "2026-08-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-lansdowne-barkley-cove-91516c",
-      "name": "Barkley Cove",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Come out to Lansdowne to spend a night with us at Jamey's! They've got great Asian fusion eats to enjoy while you're tuning in. Hope to see you there!",
-      "address": "Jamey's House of Music, Lansdowne, PA",
-      "town": "Lansdowne",
-      "lat": 39.937344,
-      "lng": -75.274493,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/108427453?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/DZBcMAJuKUu72TVuDvgHUQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Aug 14",
-      "nextDate": "2026-08-14",
-      "dates": [
-        "2026-08-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-swarthmore-crop-friendship-commanders-new-dawn-f-a543c2",
-      "name": "CROP & Friendship Commanders & NEW DAWN FADES & Thunderbird Divine",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "CROP w/ Friendship Commanders",
-      "address": "WaR3House 3, Swarthmore, PA",
-      "town": "Swarthmore",
-      "lat": 39.901337,
-      "lng": -75.349723,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/108488311?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Intul4m1qU60jFFBEYewPg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Aug 14",
-      "nextDate": "2026-08-14",
-      "dates": [
-        "2026-08-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-chester-city-hall-hosts-free-recycling-a-6ba689",
-      "name": "Chester City Hall Hosts Free Recycling and Onsite Paper Shredding Event",
-      "category": "events",
-      "subcategories": [
-        "civic"
-      ],
-      "shortDescription": "The City of Chester is hosting a free electronics recycling and onsite paper shredding event in partnership with sustainable waste solutions provider Reworld® and J&K...",
-      "address": "Chester City Hall Parking Lot, Chester, PA",
-      "town": "Chester",
-      "lat": 39.84735,
-      "lng": -75.359469,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-14",
-      "endDate": "2026-08-15",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8hJxu0BHLUq4mXccYvpUcg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Aug 14 - Aug 15",
-      "nextDate": "2026-08-14",
-      "dates": [
-        "2026-08-14",
-        "2026-08-15"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-wayne-chris-day-rocks-f8d9f2",
-      "name": "Chris Day Rocks",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Chris Day Rocks at 118 North in Wayne.",
-      "address": "118 North, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/108635329?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cMXd6-6BgkmgoMY9K_3GaQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Aug 14",
-      "nextDate": "2026-08-14",
-      "dates": [
-        "2026-08-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-cimarron-615-plus-craig-bickhardt-9f19b9",
-      "name": "Cimarron 615 plus Craig Bickhardt",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "destinations",
-        "festival",
-        "live-music"
-      ],
-      "shortDescription": "Rose Tree Summer Festival CIMARRON 615 special guest Craig Bickhardt Friday, August 14, 2026 - 7:30 pm Rose Tree Park 1671 N.",
-      "address": "Rose Tree Park, Media, PA",
-      "town": "Media",
-      "lat": 39.942602,
-      "lng": -75.393484,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-08-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/107885038?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/XYyy0E1zjEafK5GcHMJDug.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Aug 14",
-      "nextDate": "2026-08-14",
-      "dates": [
-        "2026-08-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-upper-chichester-comedy-night-at-riverlily-coffe-4b32c8",
-      "name": "Comedy Night at Riverlily Coffee Company",
-      "category": "events",
-      "subcategories": [
-        "comedy",
-        "food-drink",
-        "performing-arts"
-      ],
-      "shortDescription": "Comedy Night LIVE at Riverlily Coffee Company featuring some of the funniest comedians in the area!",
-      "address": "Riverlily Coffee Company, Upper Chichester, PA",
-      "town": "Upper Chichester",
-      "lat": 39.84291,
-      "lng": -75.42558,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/comedy-night-at-riverlily-coffee-company-tickets-1994510699192",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/rdl090XpYEOjabzlc4mL6A.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Aug 14",
-      "nextDate": "2026-08-14",
-      "dates": [
-        "2026-08-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-community-shredding-e-waste-event-c8ba43",
-      "name": "Community Shredding & E-Waste Event",
-      "category": "events",
-      "subcategories": [
-        "civic"
-      ],
-      "shortDescription": "Community Shredding & E-Waste Event at Chester City Hall in Chester.",
-      "address": "Chester City Hall, Chester, PA",
-      "town": "Chester",
-      "lat": 39.847305,
-      "lng": -75.35934,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-14",
-      "endDate": "2026-08-15",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.chestercity.com/event/community-shredding-e-waste-event/2026-08-14/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4mKMGclsTkCxniUplKlQ0A.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Aug 14 - Aug 15",
-      "nextDate": "2026-08-14",
-      "dates": [
-        "2026-08-14",
-        "2026-08-15"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-wayne-friday-film-project-hail-mary-2026-c144f3",
-      "name": "Friday Film: PROJECT HAIL MARY (2026)",
-      "category": "events",
-      "subcategories": [
-        "film",
-        "literary-arts",
-        "visual-arts"
-      ],
-      "shortDescription": "Science teacher Ryland Grace (Ryan Gosling) wakes up on a spaceship light years from home with no recollection of who he is or how he got there.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17216377",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/80829454-df53-47d3-acc4-9b3343ea2e78.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Aug 14",
-      "nextDate": "2026-08-14",
-      "dates": [
-        "2026-08-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-mean-girls-8d564d",
-      "name": "Mean Girls",
-      "category": "events",
-      "subcategories": [
-        "performing-arts",
-        "theater"
-      ],
-      "shortDescription": "Mean Girls at Media Theatre For The Performing Arts in Media.",
-      "address": "Media Theatre For The Performing Arts, Media, PA",
-      "town": "Media",
-      "lat": 39.917514,
-      "lng": -75.389443,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.mediatheatre.org/shows-tickets/mean-girls",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SsRGfGV6eU2K-aaKFC2cMw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Aug 14",
-      "nextDate": "2026-08-14",
-      "dates": [
-        "2026-08-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-moth-night-99ceb2",
-      "name": "Moth Night",
-      "category": "events",
-      "subcategories": [
-        "nature",
-        "outdoor-recreation",
-        "special-audience",
-        "sports-outdoors"
-      ],
-      "shortDescription": "FOR ADULTS 18+ AND TEENS AGES 13-17 Step into the nighttime world and discover what’s flying after dark!",
-      "address": "Tyler Arboretum, Media, PA",
-      "town": "Media",
-      "lat": 39.935841,
-      "lng": -75.429977,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-08-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "(610) 566-9134",
-      "website": "https://tylerarboretum.org/calendar/moth-night-2/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/FHpCsFu59ku9-C7thkbBRg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Aug 14",
-      "nextDate": "2026-08-14",
-      "dates": [
-        "2026-08-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
-      "name": "One Time Adult Wheel Class",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "visual-arts"
-      ],
-      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-14",
-      "endDate": "2026-09-27",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154443/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "27 dates, Aug 14 - Sep 27",
-      "nextDate": "2026-08-14",
-      "dates": [
-        "2026-08-14",
-        "2026-08-15",
-        "2026-08-16",
-        "2026-08-20",
-        "2026-08-21",
-        "2026-08-22",
-        "2026-08-23",
-        "2026-08-27",
-        "2026-08-28",
-        "2026-08-29",
-        "2026-08-30",
-        "2026-09-03",
-        "2026-09-04",
-        "2026-09-05",
-        "2026-09-06",
-        "2026-09-10",
-        "2026-09-11",
-        "2026-09-12",
-        "2026-09-13",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-19",
-        "2026-09-20",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-26",
-        "2026-09-27"
-      ],
-      "occurrences": 27
-    },
-    {
-      "id": "ev-wayne-reading-rocks-a-music-dance-and-comedy-sho-7179e6",
-      "name": "Reading Rocks!: A Music, Dance, and Comedy Show with Mr. Matt from Turtle Dance Music",
-      "category": "events",
-      "subcategories": [
-        "comedy",
-        "dance",
-        "health-wellness",
-        "kids"
-      ],
-      "shortDescription": "Winsor Room - No registration required - All Ages The Reading Rocks!",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-08-14",
-      "endDate": "2026-12-11",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/16033932",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dfbc8e82-cbbc-45df-b109-75d61c56c4ed.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fridays, Aug 14 - Dec 11",
-      "nextDate": "2026-08-14",
-      "dates": [
-        "2026-08-14",
-        "2026-09-11",
-        "2026-10-09",
-        "2026-11-13",
-        "2026-12-11"
-      ],
-      "occurrences": 5
-    },
-    {
-      "id": "ev-wayne-summer-explorers-unearth-a-story-a14ad1",
-      "name": "Summer Explorers: Unearth a Story",
-      "category": "events",
-      "subcategories": [
-        "family",
-        "kids",
-        "literary-arts",
-        "special-audience"
-      ],
-      "shortDescription": "Children's Area - Ages 3 & up - No registration necessary Family-friendly art and learning activities inspired by our Summer Reading theme: Unearth a Story!",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-08-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/16980682",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5c124d82-fff9-423f-8f03-697ddf5c0659.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Aug 14",
-      "nextDate": "2026-08-14",
-      "dates": [
-        "2026-08-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-supernova-a-tribute-to-oasis-at-118-north-a64ce9",
-      "name": "Supernova - A Tribute to Oasis at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Supernova - A Tribute to Oasis at 118 North Friday, August 14 2026 Doors: 7:30 PM | Show: 8:30 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1029269969824477/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dh4iecr7jUulRMg_6VZ41g.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Aug 14",
-      "nextDate": "2026-08-14",
-      "dates": [
-        "2026-08-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-ardmore-u-s-amateur-0a248c",
-      "name": "U.S. Amateur",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "U.S. Amateur at Merion Golf Club in Ardmore.",
-      "address": "Merion Golf Club, Ardmore, PA",
-      "town": "Ardmore",
-      "lat": 39.996848,
-      "lng": -75.313429,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-14",
-      "endDate": "2026-08-16",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4fe991e1-6aee-4eb7-b4fd-545cf702526d.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Aug 14 - Aug 16",
-      "nextDate": "2026-08-14",
-      "dates": [
-        "2026-08-14",
-        "2026-08-15",
-        "2026-08-16"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-newtown-square-us-fall-play-auditions-2c63a4",
-      "name": "US Fall Play Auditions",
-      "category": "events",
-      "subcategories": [
-        "performing-arts"
-      ],
-      "shortDescription": "US Fall Play Auditions at Theater - Carrafiell Theater in Newtown Square.",
-      "address": "Theater - Carrafiell Theater, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c9eaa0c7-0b65-4bfe-b89a-a3ed882e84ea.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Aug 14",
-      "nextDate": "2026-08-14",
-      "dates": [
-        "2026-08-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-weekend-warm-up-hike-eb7eb4",
-      "name": "Weekend Warm-up Hike",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "fitness",
-        "nature",
-        "outdoor-recreation"
-      ],
-      "shortDescription": "FOR ADULTS 18+ Start your Friday on the right foot with an invigorating one-hour hike through Tyler’s gardens and into the wilder natural areas beyond the deer exclusion...",
-      "address": "Tyler Arboretum, Media, PA",
-      "town": "Media",
-      "lat": 39.935841,
-      "lng": -75.429977,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-08-14",
-      "endDate": "2026-08-28",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "(610) 566-9134",
-      "website": "https://tylerarboretum.org/calendar/weekend-warm-up-hike-12-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Xf2VS-1tbEKWFsGGFHIQAA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fridays, Aug 14 - Aug 28",
-      "nextDate": "2026-08-14",
-      "dates": [
-        "2026-08-14",
-        "2026-08-21",
-        "2026-08-28"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-bryn-mawr-youth-one-time-classes-90569b",
-      "name": "Youth One-Time Classes",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "crafts",
-        "learning",
-        "special-audience"
-      ],
-      "shortDescription": "Join our one time class to learn the basics of wheel throwing!",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "family",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-14",
-      "endDate": "2026-09-25",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154445/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/CFYwS4R8EEqpw_W5BDmLEw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "7 dates, Aug 14 - Sep 25",
-      "nextDate": "2026-08-14",
-      "dates": [
-        "2026-08-14",
-        "2026-08-22",
-        "2026-08-28",
-        "2026-09-04",
-        "2026-09-11",
-        "2026-09-18",
-        "2026-09-25"
-      ],
-      "occurrences": 7
+      "occurrences": 78
     },
     {
       "id": "ev-drexel-hill-bright-kelly-7eccb7",
@@ -940,6 +149,80 @@
       "website": "https://www.bandsintown.com/e/108675128?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/YkUPgqJEbke8X0TJI4yCXA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Aug 15",
+      "nextDate": "2026-08-15",
+      "dates": [
+        "2026-08-15"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-chester-city-hall-hosts-free-recycling-a-6ba689",
+      "name": "Chester City Hall Hosts Free Recycling and Onsite Paper Shredding Event",
+      "category": "events",
+      "subcategories": [
+        "civic"
+      ],
+      "shortDescription": "The City of Chester is hosting a free electronics recycling and onsite paper shredding event in partnership with sustainable waste solutions provider Reworld® and J&K...",
+      "address": "Chester City Hall Parking Lot, Chester, PA",
+      "town": "Chester",
+      "lat": 39.84735,
+      "lng": -75.359469,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-15",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8hJxu0BHLUq4mXccYvpUcg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Aug 15",
+      "nextDate": "2026-08-15",
+      "dates": [
+        "2026-08-15"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-community-shredding-e-waste-event-c8ba43",
+      "name": "Community Shredding & E-Waste Event",
+      "category": "events",
+      "subcategories": [
+        "civic"
+      ],
+      "shortDescription": "Community Shredding & E-Waste Event at Chester City Hall in Chester.",
+      "address": "Chester City Hall, Chester, PA",
+      "town": "Chester",
+      "lat": 39.847305,
+      "lng": -75.35934,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-15",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.chestercity.com/event/community-shredding-e-waste-event/2026-08-15/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4mKMGclsTkCxniUplKlQ0A.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -1345,6 +628,69 @@
       "occurrences": 1
     },
     {
+      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
+      "name": "One Time Adult Wheel Class",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "visual-arts"
+      ],
+      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-15",
+      "endDate": "2026-09-27",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154443/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "26 dates, Aug 15 - Sep 27",
+      "nextDate": "2026-08-15",
+      "dates": [
+        "2026-08-15",
+        "2026-08-16",
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-22",
+        "2026-08-23",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-29",
+        "2026-08-30",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-05",
+        "2026-09-06",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-12",
+        "2026-09-13",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-27"
+      ],
+      "occurrences": 26
+    },
+    {
       "id": "ev-chester-premier-lacrosse-league-0f9440",
       "name": "Premier Lacrosse League",
       "category": "events",
@@ -1620,6 +966,44 @@
         "2026-08-15"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-ardmore-u-s-amateur-0a248c",
+      "name": "U.S. Amateur",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "U.S. Amateur at Merion Golf Club in Ardmore.",
+      "address": "Merion Golf Club, Ardmore, PA",
+      "town": "Ardmore",
+      "lat": 39.996848,
+      "lng": -75.313429,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-15",
+      "endDate": "2026-08-16",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4fe991e1-6aee-4eb7-b4fd-545cf702526d.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Aug 15 - Aug 16",
+      "nextDate": "2026-08-15",
+      "dates": [
+        "2026-08-15",
+        "2026-08-16"
+      ],
+      "occurrences": 2
     },
     {
       "id": "ev-villanova-villanova-university-men-s-soccer-vs-b-7102b5",
@@ -2946,6 +2330,48 @@
       "occurrences": 1
     },
     {
+      "id": "ev-media-weekend-warm-up-hike-eb7eb4",
+      "name": "Weekend Warm-up Hike",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "fitness",
+        "nature",
+        "outdoor-recreation"
+      ],
+      "shortDescription": "FOR ADULTS 18+ Start your Friday on the right foot with an invigorating one-hour hike through Tyler’s gardens and into the wilder natural areas beyond the deer exclusion...",
+      "address": "Tyler Arboretum, Media, PA",
+      "town": "Media",
+      "lat": 39.935841,
+      "lng": -75.429977,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-08-21",
+      "endDate": "2026-08-28",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "(610) 566-9134",
+      "website": "https://tylerarboretum.org/calendar/weekend-warm-up-hike-12-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Xf2VS-1tbEKWFsGGFHIQAA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fridays, Aug 21 - Aug 28",
+      "nextDate": "2026-08-21",
+      "dates": [
+        "2026-08-21",
+        "2026-08-28"
+      ],
+      "occurrences": 2
+    },
+    {
       "id": "ev-chester-back-to-school-resource-fair-713210",
       "name": "Back to School Resource Fair",
       "category": "events",
@@ -3216,6 +2642,51 @@
         "2026-08-22"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-bryn-mawr-youth-one-time-classes-90569b",
+      "name": "Youth One-Time Classes",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "crafts",
+        "learning",
+        "special-audience"
+      ],
+      "shortDescription": "Join our one time class to learn the basics of wheel throwing!",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-22",
+      "endDate": "2026-09-25",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154445/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/CFYwS4R8EEqpw_W5BDmLEw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Sat, Aug 22 - Sep 25",
+      "nextDate": "2026-08-22",
+      "dates": [
+        "2026-08-22",
+        "2026-08-28",
+        "2026-09-04",
+        "2026-09-11",
+        "2026-09-18",
+        "2026-09-25"
+      ],
+      "occurrences": 6
     },
     {
       "id": "ev-st-davids-amada-s-annual-summer-cava-y-cochinill-4cf5db",
@@ -5071,6 +4542,51 @@
         "2026-09-11"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-reading-rocks-a-music-dance-and-comedy-sho-7179e6",
+      "name": "Reading Rocks!: A Music, Dance, and Comedy Show with Mr. Matt from Turtle Dance Music",
+      "category": "events",
+      "subcategories": [
+        "comedy",
+        "dance",
+        "health-wellness",
+        "kids"
+      ],
+      "shortDescription": "Winsor Room - No registration required - All Ages The Reading Rocks!",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-09-11",
+      "endDate": "2026-12-11",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/16033933",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dfbc8e82-cbbc-45df-b109-75d61c56c4ed.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fridays, Sep 11 - Dec 11",
+      "nextDate": "2026-09-11",
+      "dates": [
+        "2026-09-11",
+        "2026-10-09",
+        "2026-11-13",
+        "2026-12-11"
+      ],
+      "occurrences": 4
     },
     {
       "id": "ev-essington-widener-pride-women-s-volleyball-vs-ro-acb9c3",
@@ -10544,10 +10060,10 @@
         "music",
         "performing-arts"
       ],
-      "shortDescription": "Black Violin THE BE FREE TOUR Friday, November 6, 2026 8:00pm / Doors at 7:00pm Lansdowne Theater 31 N.",
+      "shortDescription": "Black Violin THE BE FREE TOUR with support from Jon Muq.",
       "address": "Lansdowne Theater, Lansdowne, PA",
       "town": "Lansdowne",
-      "lat": 39.939409,
+      "lat": 39.939419,
       "lng": -75.272179,
       "priceTier": 3,
       "tags": [
