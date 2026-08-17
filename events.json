@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-08-16T09:47:27.157462+00:00",
+  "scraped_at": "2026-08-17T10:01:14.210527+00:00",
   "horizon_days": 180,
-  "event_count": 289,
+  "event_count": 290,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-08-16",
+      "startDate": "2026-08-17",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Aug 16 - Oct 31",
-      "nextDate": "2026-08-16",
+      "schedule": "Daily, Aug 17 - Oct 31",
+      "nextDate": "2026-08-17",
       "dates": [
-        "2026-08-16",
         "2026-08-17",
         "2026-08-18",
         "2026-08-19",
@@ -117,299 +116,47 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 77
+      "occurrences": 76
     },
     {
-      "id": "ev-media-hey-neighbor-9fca42",
-      "name": "Hey Neighbor!",
+      "id": "ev-wayne-book-bites-summer-book-club-4th-5th-grade-9a5c8f",
+      "name": "Book Bites: Summer Book Club - 4th & 5th Grade",
       "category": "events",
       "subcategories": [
-        "civic",
         "food",
-        "food-drink"
+        "food-drink",
+        "kids",
+        "literary-arts"
       ],
-      "shortDescription": "Join us on Sunday, August 16 from 4-6 PM for a potluck meal with a twist.",
-      "address": "Media Fellowship House, Media, PA",
-      "town": "Media",
-      "lat": 39.916227,
-      "lng": -75.390155,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-16",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://tinyurl.com/Potluck-Aug",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-Cx9_PZEYkySWk5qTZoing.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Aug 16",
-      "nextDate": "2026-08-16",
-      "dates": [
-        "2026-08-16"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-havertown-jexxa-5a992a",
-      "name": "JEXXA",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Your favorite songs, live and unplugged. JEXXA brings the fun in a stripped-back acoustic set — familiar hits and a great night out.",
-      "address": "Barnaby's Havertown, Havertown, PA",
-      "town": "Havertown",
-      "lat": 39.976545,
-      "lng": -75.334958,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-16",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/108042139?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/R_rLGDK0QkyGrBJagqvyAg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Aug 16",
-      "nextDate": "2026-08-16",
-      "dates": [
-        "2026-08-16"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
-      "name": "One Time Adult Wheel Class",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "visual-arts"
-      ],
-      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-16",
-      "endDate": "2026-09-27",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154443/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "25 dates, Aug 16 - Sep 27",
-      "nextDate": "2026-08-16",
-      "dates": [
-        "2026-08-16",
-        "2026-08-20",
-        "2026-08-21",
-        "2026-08-22",
-        "2026-08-23",
-        "2026-08-27",
-        "2026-08-28",
-        "2026-08-29",
-        "2026-08-30",
-        "2026-09-03",
-        "2026-09-04",
-        "2026-09-05",
-        "2026-09-06",
-        "2026-09-10",
-        "2026-09-11",
-        "2026-09-12",
-        "2026-09-13",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-19",
-        "2026-09-20",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-26",
-        "2026-09-27"
-      ],
-      "occurrences": 25
-    },
-    {
-      "id": "ev-media-philadelphia-pennsylvania-social-event-for-a5d069",
-      "name": "Philadelphia, Pennsylvania Social Event for Christians",
-      "category": "events",
-      "subcategories": [
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Pack your picnic blanket, grab your lawn chair, and join us for an evening of live music and fun with other local Christians!",
-      "address": "Rose Tree Park, Media, PA",
-      "town": "Media",
-      "lat": 39.942602,
-      "lng": -75.393484,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-16",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/philadelphia-pennsylvania-social-event-for-christians-tickets-1994075103313",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QQjgqtjWLEq8zIK0ATxtmg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Aug 16",
-      "nextDate": "2026-08-16",
-      "dates": [
-        "2026-08-16"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-premier-lacrosse-league-0f9440",
-      "name": "Premier Lacrosse League",
-      "category": "events",
-      "subcategories": [
-        "games",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "PLL doubleheader. One ticket, two games. Game 1 at 1:00 PM ?",
-      "address": "Subaru Park, Chester, PA",
-      "town": "Chester",
-      "lat": 39.828772,
-      "lng": -75.383517,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-16",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bOgH8Ahaj0OdjiwJjGI7fQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Aug 16",
-      "nextDate": "2026-08-16",
-      "dates": [
-        "2026-08-16"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-riot-nerd-80-s-music-video-bingo-at-118-no-91e73e",
-      "name": "Riot Nerd: 80's Music Video Bingo at 118 North",
-      "category": "events",
-      "subcategories": [
-        "games",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Riot Nerd: 80's Music Video Bingo at 118 North Sunday, August 16, 2026 Doors: 5:00 PM | Show: 7:00 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
-      "address": "Wayne, PA",
+      "shortDescription": "When registering, please list the grade your child will be going into this upcoming school year.",
+      "address": "Radnor Memorial Library, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.042952,
+      "lng": -75.389088,
       "priceTier": 0,
       "tags": [
+        "family",
         "free",
-        "group"
+        "group",
+        "kid-friendly"
       ],
       "hours": {},
-      "startDate": "2026-08-16",
+      "startDate": "2026-08-17",
       "endDate": "",
       "recurring": "none",
       "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/2008745663338820/",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/16896670",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OcJXxTaHeka-O4doW8TauQ.medium.png",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/96ba484b-518c-4f84-bbe4-8aeb802a4b66.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Sun, Aug 16",
-      "nextDate": "2026-08-16",
+      "schedule": "Mon, Aug 17",
+      "nextDate": "2026-08-17",
       "dates": [
-        "2026-08-16"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-ardmore-u-s-amateur-0a248c",
-      "name": "U.S. Amateur",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "U.S. Amateur at Merion Golf Club in Ardmore.",
-      "address": "Merion Golf Club, Ardmore, PA",
-      "town": "Ardmore",
-      "lat": 39.996848,
-      "lng": -75.313429,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-16",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4fe991e1-6aee-4eb7-b4fd-545cf702526d.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Aug 16",
-      "nextDate": "2026-08-16",
-      "dates": [
-        "2026-08-16"
+        "2026-08-17"
       ],
       "occurrences": 1
     },
@@ -519,6 +266,84 @@
       "occurrences": 7
     },
     {
+      "id": "ev-wayne-yoga-for-all-ages-10d418",
+      "name": "Yoga for all ages",
+      "category": "events",
+      "subcategories": [
+        "family",
+        "fitness",
+        "special-audience",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Yoga for all ages Mondays, 5/4, 6/15, 7/13, 8/17 7:00pm-8:00pm Winsor Room RML welcomes certified yoga instructor Carole McKeon, owner of Verge Yoga Center in Wayne.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-17",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/16728484",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0b91792c-5f13-4694-b58b-08c21817088c.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mon, Aug 17",
+      "nextDate": "2026-08-17",
+      "dates": [
+        "2026-08-17"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-first-draft-a-group-for-writers-ffd746",
+      "name": "First Draft: A Group for Writers",
+      "category": "events",
+      "subcategories": [
+        "literary-arts"
+      ],
+      "shortDescription": "First Draft: A Group for Writers Tuesdays, 8/18 7:00pm Study Room 3 Need inspiration or a boost of confidence when it comes to writing?",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-18",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/16846864",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d272002b-470e-4716-9652-8b95fbe53e67.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Aug 18",
+      "nextDate": "2026-08-18",
+      "dates": [
+        "2026-08-18"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-media-how-ohio-won-the-civil-war-1b1b19",
       "name": "HOW OHIO WON THE CIVIL WAR",
       "category": "events",
@@ -543,6 +368,128 @@
       "website": "https://www.delawareohiohistory.org/uncategorized/how-ohio-won-the-civil-war/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8ec62c1f-b2f7-4afa-bf41-823b73870a20.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Aug 18",
+      "nextDate": "2026-08-18",
+      "dates": [
+        "2026-08-18"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-introduction-to-dungeons-dragons-teens-02eeb1",
+      "name": "Introduction to Dungeons & Dragons (Teens)",
+      "category": "events",
+      "subcategories": [
+        "games",
+        "learning",
+        "special-audience"
+      ],
+      "shortDescription": "Curious about D&D? Learn how to play! Create a character and go on an adventure.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-18",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17033715",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e8a2318c-ba52-47cf-9ea2-50deafa7617d.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Aug 18",
+      "nextDate": "2026-08-18",
+      "dates": [
+        "2026-08-18"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-main-point-books-2985d8",
+      "name": "Main Point Books",
+      "category": "events",
+      "subcategories": [
+        "drinks",
+        "food-drink",
+        "lifestyle",
+        "literary-arts"
+      ],
+      "shortDescription": "Horror: Fiction: Aug. 18, “The Antidote” by Karen Russell. NonFiction: Aug. 27 “Is a River Alive?” by Robert Macfarlane. 116 N. Wayne Ave., Wayne. MainPointBooks.com",
+      "address": "Main Point Books, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04479,
+      "lng": -75.388152,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-18",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://countylinesmagazine.com/event/main-point-books-23/2026-08-18/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3b356b23-42e8-4871-8cd7-57ea3deb3c32.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Aug 18",
+      "nextDate": "2026-08-18",
+      "dates": [
+        "2026-08-18"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-media-nature-at-night-at-tyler-arboretum-3e92f4",
+      "name": "Nature at Night at Tyler Arboretum",
+      "category": "events",
+      "subcategories": [
+        "family",
+        "film",
+        "nature",
+        "outdoor-recreation"
+      ],
+      "shortDescription": "Experience Tyler Arboretum after hours through a series of family-friendly summer evenings, from fireflies and bats to owls and reptiles and movie nights.",
+      "address": "Tyler Arboretum, Media, PA",
+      "town": "Media",
+      "lat": 39.935841,
+      "lng": -75.429977,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-08-18",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "(610) 566-9134",
+      "website": "https://countylinesmagazine.com/event/nature-at-night-at-tyler-arboretum/2026-08-18/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/6caae32f-bd33-497c-a5e4-2231906fdccd.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -660,6 +607,49 @@
         "2027-02-09"
       ],
       "occurrences": 25
+    },
+    {
+      "id": "ev-wayne-radlit-book-club-4f7dca",
+      "name": "Radlit Book Club",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "literary-arts"
+      ],
+      "shortDescription": "Join us for a discussion of Smoke Gets In Your Eyes: And Other Lessons from the Crematory, by Caitlin Doughty.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-18",
+      "endDate": "2026-12-08",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/16741407",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/81b8ac86-9575-4bf0-a8e3-7382ef984a0f.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Aug 18 - Dec 8",
+      "nextDate": "2026-08-18",
+      "dates": [
+        "2026-08-18",
+        "2026-09-08",
+        "2026-10-13",
+        "2026-11-10",
+        "2026-12-08"
+      ],
+      "occurrences": 5
     },
     {
       "id": "ev-wayne-summer-reading-buddies-5f87a4",
@@ -1243,6 +1233,67 @@
         "2026-08-20"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
+      "name": "One Time Adult Wheel Class",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "visual-arts"
+      ],
+      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-20",
+      "endDate": "2026-09-27",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154443/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "24 dates, Aug 20 - Sep 27",
+      "nextDate": "2026-08-20",
+      "dates": [
+        "2026-08-20",
+        "2026-08-21",
+        "2026-08-22",
+        "2026-08-23",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-29",
+        "2026-08-30",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-05",
+        "2026-09-06",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-12",
+        "2026-09-13",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-27"
+      ],
+      "occurrences": 24
     },
     {
       "id": "ev-drexel-hill-thursday-karaoke-at-casey-s-restaura-4579c1",
