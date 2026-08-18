@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-08-17T10:01:14.210527+00:00",
+  "scraped_at": "2026-08-18T09:52:59.566416+00:00",
   "horizon_days": 180,
-  "event_count": 290,
+  "event_count": 295,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-08-17",
+      "startDate": "2026-08-18",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Aug 17 - Oct 31",
-      "nextDate": "2026-08-17",
+      "schedule": "Daily, Aug 18 - Oct 31",
+      "nextDate": "2026-08-18",
       "dates": [
-        "2026-08-17",
         "2026-08-18",
         "2026-08-19",
         "2026-08-20",
@@ -116,195 +115,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 76
-    },
-    {
-      "id": "ev-wayne-book-bites-summer-book-club-4th-5th-grade-9a5c8f",
-      "name": "Book Bites: Summer Book Club - 4th & 5th Grade",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink",
-        "kids",
-        "literary-arts"
-      ],
-      "shortDescription": "When registering, please list the grade your child will be going into this upcoming school year.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-08-17",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/16896670",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/96ba484b-518c-4f84-bbe4-8aeb802a4b66.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Aug 17",
-      "nextDate": "2026-08-17",
-      "dates": [
-        "2026-08-17"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-glenolden-monday-trivia-night-at-the-fainting-go-c68d01",
-      "name": "Monday Trivia Night at The Fainting Goat (Glenolden - Delaware County",
-      "category": "events",
-      "subcategories": [
-        "animals",
-        "destinations",
-        "farms",
-        "games"
-      ],
-      "shortDescription": "Monday Night Trivia Starts at 7pm at the Fainting Goat in Glenolden, PA. $50 gift card for 1st Place team and $25 for 2nd Place.",
-      "address": "The Fainting Goat Bar and Restaurant, Glenolden, PA",
-      "town": "Glenolden",
-      "lat": 39.903658,
-      "lng": -75.29411,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-17",
-      "endDate": "2026-12-28",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/monday-trivia-night-at-the-fainting-goat-glenolden-delaware-county-pa-tickets-1106985927709",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QD52Na3--EGn6QKh_-aT8g.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mondays, Aug 17 - Dec 28",
-      "nextDate": "2026-08-17",
-      "dates": [
-        "2026-08-17",
-        "2026-08-24",
-        "2026-08-31",
-        "2026-09-07",
-        "2026-09-14",
-        "2026-09-21",
-        "2026-09-28",
-        "2026-10-05",
-        "2026-10-12",
-        "2026-10-19",
-        "2026-10-26",
-        "2026-11-02",
-        "2026-11-09",
-        "2026-11-16",
-        "2026-11-23",
-        "2026-11-30",
-        "2026-12-07",
-        "2026-12-14",
-        "2026-12-21",
-        "2026-12-28"
-      ],
-      "occurrences": 20
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-classes-for-students-with-dis-c24cd1",
-      "name": "One Time Classes For Students With Disabilities",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "special-audience",
-        "visual-arts"
-      ],
-      "shortDescription": "This class for students with disabilities will be flexible depending on the students' desires, sensory preferences, and interest levels.",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "family",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-17",
-      "endDate": "2026-09-28",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154447/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IK04RSbO2UapiFtqzK6Oyw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mondays, Aug 17 - Sep 28",
-      "nextDate": "2026-08-17",
-      "dates": [
-        "2026-08-17",
-        "2026-08-24",
-        "2026-08-31",
-        "2026-09-07",
-        "2026-09-14",
-        "2026-09-21",
-        "2026-09-28"
-      ],
-      "occurrences": 7
-    },
-    {
-      "id": "ev-wayne-yoga-for-all-ages-10d418",
-      "name": "Yoga for all ages",
-      "category": "events",
-      "subcategories": [
-        "family",
-        "fitness",
-        "special-audience",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Yoga for all ages Mondays, 5/4, 6/15, 7/13, 8/17 7:00pm-8:00pm Winsor Room RML welcomes certified yoga instructor Carole McKeon, owner of Verge Yoga Center in Wayne.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-17",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/16728484",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0b91792c-5f13-4694-b58b-08c21817088c.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Aug 17",
-      "nextDate": "2026-08-17",
-      "dates": [
-        "2026-08-17"
-      ],
-      "occurrences": 1
+      "occurrences": 75
     },
     {
       "id": "ev-wayne-first-draft-a-group-for-writers-ffd746",
@@ -652,6 +463,40 @@
       "occurrences": 5
     },
     {
+      "id": "ev-media-sip-and-create-c2d8d8",
+      "name": "Sip and create",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Join us for a cozy and creative morning at Cafesphere! ☕✨ Learn how to create your own one-of-a-kind clay earrings while enjoying coffee",
+      "address": "Cafesphere, Media, PA",
+      "town": "Media",
+      "lat": 39.918067,
+      "lng": -75.388466,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-18",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/sip-and-create-tickets-1997526703141",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dTz0gfV69UKmOLc6zp5pOw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Aug 18",
+      "nextDate": "2026-08-18",
+      "dates": [
+        "2026-08-18"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-summer-reading-buddies-5f87a4",
       "name": "Summer Reading Buddies",
       "category": "events",
@@ -955,6 +800,87 @@
       "dates": [
         "2026-08-19"
       ]
+    },
+    {
+      "id": "ev-wayne-jim-segrave-daly-at-the-finley-house-the-c-37fdcc",
+      "name": "Jim Segrave-Daly at The Finley House: The Chew Family",
+      "category": "events",
+      "subcategories": [
+        "family",
+        "learning",
+        "lifestyle",
+        "special-audience"
+      ],
+      "shortDescription": "Jim Segrave-Daly at The Finley House The Chew Family Radnor Memorial Library in partnership with Radnor Historical Society Wednesday, August 19, 2026 6:30pm As we...",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "historic"
+      ],
+      "hours": {},
+      "startDate": "2026-08-19",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/16805467",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0518e99e-8e26-47a5-a287-87b7ccc3406d.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Aug 19",
+      "nextDate": "2026-08-19",
+      "dates": [
+        "2026-08-19"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-pageturners-book-club-131a40",
+      "name": "Pageturners Book Club",
+      "category": "events",
+      "subcategories": [
+        "literary-arts"
+      ],
+      "shortDescription": "Librarians at RML invite you to join in a lively discussion of this month's book selection, The Haunting of Hill House by Shirley Jackson.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-19",
+      "endDate": "2026-10-21",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/16741260",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/db613de4-0621-4422-a0e4-74ccf1a63a8b.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wednesdays, Aug 19 - Oct 21",
+      "nextDate": "2026-08-19",
+      "dates": [
+        "2026-08-19",
+        "2026-09-16",
+        "2026-10-21"
+      ],
+      "occurrences": 3
     },
     {
       "id": "ev-chester-philadelphia-union-vs-inter-miami-cf-68fa4b",
@@ -2337,6 +2263,109 @@
       "occurrences": 1
     },
     {
+      "id": "ev-glenolden-monday-trivia-night-at-the-fainting-go-c68d01",
+      "name": "Monday Trivia Night at The Fainting Goat (Glenolden - Delaware County",
+      "category": "events",
+      "subcategories": [
+        "animals",
+        "destinations",
+        "farms",
+        "games"
+      ],
+      "shortDescription": "Monday Night Trivia Starts at 7pm at the Fainting Goat in Glenolden, PA. $50 gift card for 1st Place team and $25 for 2nd Place.",
+      "address": "The Fainting Goat Bar and Restaurant, Glenolden, PA",
+      "town": "Glenolden",
+      "lat": 39.903658,
+      "lng": -75.29411,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-24",
+      "endDate": "2026-12-28",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/monday-trivia-night-at-the-fainting-goat-glenolden-delaware-county-pa-tickets-1106985927709",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QD52Na3--EGn6QKh_-aT8g.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mondays, Aug 24 - Dec 28",
+      "nextDate": "2026-08-24",
+      "dates": [
+        "2026-08-24",
+        "2026-08-31",
+        "2026-09-07",
+        "2026-09-14",
+        "2026-09-21",
+        "2026-09-28",
+        "2026-10-05",
+        "2026-10-12",
+        "2026-10-19",
+        "2026-10-26",
+        "2026-11-02",
+        "2026-11-09",
+        "2026-11-16",
+        "2026-11-23",
+        "2026-11-30",
+        "2026-12-07",
+        "2026-12-14",
+        "2026-12-21",
+        "2026-12-28"
+      ],
+      "occurrences": 19
+    },
+    {
+      "id": "ev-bryn-mawr-one-time-classes-for-students-with-dis-c24cd1",
+      "name": "One Time Classes For Students With Disabilities",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "special-audience",
+        "visual-arts"
+      ],
+      "shortDescription": "This class for students with disabilities will be flexible depending on the students' desires, sensory preferences, and interest levels.",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-24",
+      "endDate": "2026-09-28",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154447/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IK04RSbO2UapiFtqzK6Oyw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mondays, Aug 24 - Sep 28",
+      "nextDate": "2026-08-24",
+      "dates": [
+        "2026-08-24",
+        "2026-08-31",
+        "2026-09-07",
+        "2026-09-14",
+        "2026-09-21",
+        "2026-09-28"
+      ],
+      "occurrences": 6
+    },
+    {
       "id": "ev-wayne-sweet-reads-teens-3fa3ad",
       "name": "Sweet Reads (Teens)",
       "category": "events",
@@ -3176,6 +3205,47 @@
       "nextDate": "2026-09-02",
       "dates": [
         "2026-09-02"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-glen-mills-parks-for-pollinators-bioblitz-050cc7",
+      "name": "Parks for Pollinators BioBlitz",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "nature",
+        "outdoor-recreation",
+        "parks-gardens"
+      ],
+      "shortDescription": "Alongside their first Happy Hour of fall, held by the log cabin, Newlin Grist Mill is hosting a BioBlitz in partnership with Concord Township, PA!",
+      "address": "Newlin Grist Mill, Glen Mills, PA",
+      "town": "Glen Mills",
+      "lat": 39.890529,
+      "lng": -75.506043,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-09-03",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Rr3SdEgPlkaC6iBJ5yQk_A.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Sep 3",
+      "nextDate": "2026-09-03",
+      "dates": [
+        "2026-09-03"
       ],
       "occurrences": 1
     },
@@ -4368,6 +4438,47 @@
         "2026-09-25"
       ],
       "occurrences": 2
+    },
+    {
+      "id": "ev-glen-mills-restoration-walks-at-newlin-grist-mil-76d64c",
+      "name": "Restoration Walks at Newlin Grist Mill",
+      "category": "events",
+      "subcategories": [
+        "fitness",
+        "outdoor-recreation",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Select Sundays at 9:30 AM: September 13, October 11, and November 8, 2026 Join former Chester County Trails Club Vice President Dolores (Dee) McGrath for a three-mile...",
+      "address": "Newlin Grist Mill, Glen Mills, PA",
+      "town": "Glen Mills",
+      "lat": 39.890529,
+      "lng": -75.506043,
+      "priceTier": 1,
+      "tags": [
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-09-13",
+      "endDate": "2026-11-08",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/restoration-walks-at-newlin-grist-mill-tickets-1995933917075?aff=ebdsoporgprofile",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/uXaxnLx5ZUSX6GEKHLbopQ.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sundays, Sep 13 - Nov 8",
+      "nextDate": "2026-09-13",
+      "dates": [
+        "2026-09-13",
+        "2026-10-11",
+        "2026-11-08"
+      ],
+      "occurrences": 3
     },
     {
       "id": "ev-wayne-the-main-line-run-2026-3aebf9",
@@ -5997,6 +6108,45 @@
       "website": "https://wayneart.org/events/2145/regional-french-cuisine-and-wine-with-stony-run-with-karen-bentz",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/13Z3ET11Lk-Y1OoXMlqDQg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Sep 24",
+      "nextDate": "2026-09-24",
+      "dates": [
+        "2026-09-24"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-glen-mills-the-newlin-speaker-series-book-talk-w-050a41",
+      "name": "The Newlin Speaker Series: Book Talk with Dr. Paul Kahan",
+      "category": "events",
+      "subcategories": [
+        "learning",
+        "literary-arts",
+        "talks-lectures"
+      ],
+      "shortDescription": "Join us for a lively discussion of Philadelphia, a Narrative History, written by U.S.",
+      "address": "Newlin Grist Mill, Glen Mills, PA",
+      "town": "Glen Mills",
+      "lat": 39.890529,
+      "lng": -75.506043,
+      "priceTier": 1,
+      "tags": [
+        "group",
+        "historic"
+      ],
+      "hours": {},
+      "startDate": "2026-09-24",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/the-newlin-speaker-series-book-talk-with-dr-paul-kahan-tickets-1983282309777?aff=ebdsoporgprofile",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7ajAUA8QpkWinJ7VZLrXHQ.medium.jpg",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -9160,6 +9310,46 @@
       "website": "https://wayneart.org/events/2147/regional-italian-cuisine-with-stony-run-winery-wine-pairing-with-chef-karen-bentz",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/HPqUpVHS1EaxsdkqMvm_7w.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Oct 29",
+      "nextDate": "2026-10-29",
+      "dates": [
+        "2026-10-29"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-glen-mills-the-newlin-speaker-series-for-the-com-aef600",
+      "name": "The Newlin Speaker Series: \"For the Common Good\" Film Screening and Talk",
+      "category": "events",
+      "subcategories": [
+        "film",
+        "learning",
+        "talks-lectures",
+        "visual-arts"
+      ],
+      "shortDescription": "Writer and public historical Mickey Herr will share a curated selection of her favorite stories, along with two parts of a nine-part docu-series featuring women who made...",
+      "address": "Newlin Grist Mill, Glen Mills, PA",
+      "town": "Glen Mills",
+      "lat": 39.890529,
+      "lng": -75.506043,
+      "priceTier": 1,
+      "tags": [
+        "group",
+        "historic"
+      ],
+      "hours": {},
+      "startDate": "2026-10-29",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://newlingristmill.org/the-newlin-series/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/GCmz_8BIC0-B2FrIYYYZzQ.medium.jpg",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
