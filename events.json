@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-08-19T09:53:20.876127+00:00",
+  "scraped_at": "2026-08-20T09:54:18.707806+00:00",
   "horizon_days": 180,
-  "event_count": 290,
+  "event_count": 315,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-08-19",
+      "startDate": "2026-08-20",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Aug 19 - Oct 31",
-      "nextDate": "2026-08-19",
+      "schedule": "Daily, Aug 20 - Oct 31",
+      "nextDate": "2026-08-20",
       "dates": [
-        "2026-08-19",
         "2026-08-20",
         "2026-08-21",
         "2026-08-22",
@@ -114,449 +113,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 74
-    },
-    {
-      "id": "ev-wayne-3d-printer-for-teens-b6e34c",
-      "name": "3D Printer for Teens",
-      "category": "events",
-      "subcategories": [
-        "special-audience"
-      ],
-      "shortDescription": "Drop in to use the 3D printer. First come, first served. For rising grades 6-12. Teen Room",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-19",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17089601",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c5524bb5-b9ec-4797-8e80-6d01a3ab7815.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Aug 19",
-      "nextDate": "2026-08-19",
-      "dates": [
-        "2026-08-19"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-chess-club-634d75",
-      "name": "Chess Club",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "games",
-        "health-wellness",
-        "learning"
-      ],
-      "shortDescription": "Chess Club at Radnor Memorial Library Wednesdays, 9/2/26 through 12/30/26 (10/14 and 10/21 Chess Club moves upstairs, Rms.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-19",
-      "endDate": "2026-11-18",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/16988212",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eea63be5-c4d3-46d5-9632-af64e5f10861.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wednesdays, Aug 19 - Nov 18",
-      "nextDate": "2026-08-19",
-      "dates": [
-        "2026-08-19",
-        "2026-08-26",
-        "2026-09-02",
-        "2026-09-09",
-        "2026-09-16",
-        "2026-09-23",
-        "2026-09-30",
-        "2026-10-07",
-        "2026-10-28",
-        "2026-11-04",
-        "2026-11-11",
-        "2026-11-18"
-      ],
-      "occurrences": 12
-    },
-    {
-      "id": "ev-wayne-comedy-night-benefit-show-davey-bo-at-118-7b0cad",
-      "name": "Comedy Night Benefit Show: Davey Bo at 118 North",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "comedy",
-        "fundraiser",
-        "lifestyle"
-      ],
-      "shortDescription": "Comedy Night: Davey Bo at 118 North Wednesday, August 19th, 2026 Doors: 5:30 PM | Show: 7:30 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
-      "address": "Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-19",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1734453064238107/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ZALGedHwcEGNlCCE2O-aXQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Aug 19",
-      "nextDate": "2026-08-19",
-      "dates": [
-        "2026-08-19"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-drexel-hill-delco-meets-4-cigars-93beb8",
-      "name": "Delco Meets 4 Cigars",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Chill with fellow cigar lovers at Delco Meets 4 Cigars for good vibes, great smokes, and cool chats!",
-      "address": "Artillery Brewing, Drexel Hill, PA",
-      "town": "Drexel Hill",
-      "lat": 39.948548,
-      "lng": -75.306717,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-19",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/delco-meets-4-cigars-tickets-1994520938819",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SKythoCi1ECQMYDQexX4Qw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Aug 19",
-      "nextDate": "2026-08-19",
-      "dates": [
-        "2026-08-19"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "media-dining-under-the-stars",
-      "name": "Dining Under the Stars",
-      "category": "events",
-      "subcategories": [
-        "food-festival",
-        "street-dining"
-      ],
-      "shortDescription": "Media's signature warm-weather event closing State Street so restaurants serve al fresco dinners under string lights.",
-      "address": "State St, Media, PA 19063",
-      "town": "Media",
-      "lat": 39.9166,
-      "lng": -75.388,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "date",
-        "group",
-        "family"
-      ],
-      "hours": {},
-      "startDate": "",
-      "endDate": "",
-      "recurring": "weekly",
-      "venueId": "media-state-street-district",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "schedule": "Wednesdays, June-August",
-      "nextDate": "2026-08-19",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-08-19"
-      ]
-    },
-    {
-      "id": "ev-wayne-jim-segrave-daly-at-the-finley-house-the-c-37fdcc",
-      "name": "Jim Segrave-Daly at The Finley House: The Chew Family",
-      "category": "events",
-      "subcategories": [
-        "family",
-        "learning",
-        "lifestyle",
-        "special-audience"
-      ],
-      "shortDescription": "Jim Segrave-Daly at The Finley House The Chew Family Radnor Memorial Library in partnership with Radnor Historical Society Wednesday, August 19, 2026 6:30pm As we...",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "historic"
-      ],
-      "hours": {},
-      "startDate": "2026-08-19",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/16805467",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0518e99e-8e26-47a5-a287-87b7ccc3406d.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Aug 19",
-      "nextDate": "2026-08-19",
-      "dates": [
-        "2026-08-19"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-pageturners-book-club-131a40",
-      "name": "Pageturners Book Club",
-      "category": "events",
-      "subcategories": [
-        "literary-arts"
-      ],
-      "shortDescription": "Librarians at RML invite you to join in a lively discussion of this month's book selection, The Haunting of Hill House by Shirley Jackson.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-19",
-      "endDate": "2026-10-21",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/16741260",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/db613de4-0621-4422-a0e4-74ccf1a63a8b.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wednesdays, Aug 19 - Oct 21",
-      "nextDate": "2026-08-19",
-      "dates": [
-        "2026-08-19",
-        "2026-09-16",
-        "2026-10-21"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-chester-philadelphia-union-vs-inter-miami-cf-68fa4b",
-      "name": "Philadelphia Union vs. Inter Miami CF",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Philadelphia Union vs. Inter Miami CF at Subaru Park in Chester.",
-      "address": "Subaru Park, Chester, PA",
-      "town": "Chester",
-      "lat": 39.828772,
-      "lng": -75.383517,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-19",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OWjG7SacvE6RIbI5tnNHCA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Aug 19",
-      "nextDate": "2026-08-19",
-      "dates": [
-        "2026-08-19"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-drexel-hill-r-b-bingo-at-casey-s-7af481",
-      "name": "R&B Bingo at Casey's",
-      "category": "events",
-      "subcategories": [
-        "games",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "The hottest R&B Bingo in the tristate is making its way to Delco! Come sing, play, vibe and win prizes with Lala & Dj Dez Davis!",
-      "address": "Casey's Drexel Hill, Drexel Hill, PA",
-      "town": "Drexel Hill",
-      "lat": 39.960126,
-      "lng": -75.288562,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-19",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/rb-bingo-at-caseys-tickets-1995789638534",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8GeOMhqGdE67I98cFnEjsA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Aug 19",
-      "nextDate": "2026-08-19",
-      "dates": [
-        "2026-08-19"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-weekday-bird-walk-f44c34",
-      "name": "Weekday Bird Walk",
-      "category": "events",
-      "subcategories": [
-        "fitness",
-        "nature",
-        "outdoor-recreation",
-        "sports-outdoors"
-      ],
-      "shortDescription": "FOR ADULTS 18+ Listen, watch, and discover the birds of Tyler Arboretum.",
-      "address": "Tyler Arboretum, Media, PA",
-      "town": "Media",
-      "lat": 39.935841,
-      "lng": -75.429977,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-08-19",
-      "endDate": "2026-08-26",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "(610) 566-9134",
-      "website": "https://tylerarboretum.org/calendar/weekday-bird-walk-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4TBi2jp31E-E1CnWHsax2A.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wednesdays, Aug 19 - Aug 26",
-      "nextDate": "2026-08-19",
-      "dates": [
-        "2026-08-19",
-        "2026-08-26"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-springfield-yard-waste-collection-0a939e",
-      "name": "Yard Waste Collection",
-      "category": "events",
-      "subcategories": [
-        "civic"
-      ],
-      "shortDescription": "Yard Waste is collected on the 3rd Wednesday of each month, February through September.",
-      "address": "Springfield, PA",
-      "town": "Springfield",
-      "lat": 39.92788,
-      "lng": -75.33614,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-19",
-      "endDate": "2026-09-16",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.springfielddelco.org/event/yard-waste-collection-aug-2026/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/BM-KC_pfsE6q1VHPnsV9vw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wednesdays, Aug 19 - Sep 16",
-      "nextDate": "2026-08-19",
-      "dates": [
-        "2026-08-19",
-        "2026-09-16"
-      ],
-      "occurrences": 2
+      "occurrences": 73
     },
     {
       "id": "ev-bryn-mawr-7-week-kids-course-27dc07",
@@ -1280,6 +837,47 @@
       "occurrences": 6
     },
     {
+      "id": "ev-folcroft-family-film-screening-folcroft-public-l-778558",
+      "name": "Family Film Screening @ Folcroft Public Library",
+      "category": "events",
+      "subcategories": [
+        "family",
+        "film",
+        "lifestyle",
+        "literary-arts"
+      ],
+      "shortDescription": "Family Film Screening @ Folcroft Public Library",
+      "address": "Folcroft Public Library, Folcroft, PA",
+      "town": "Folcroft",
+      "lat": 39.89095,
+      "lng": -75.2838,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-22",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.mediaartscouncil.org/calendar/family-film-screening-folcroft-public-library",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3b6gzNxf502k_86-6QZCxQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Aug 22",
+      "nextDate": "2026-08-22",
+      "dates": [
+        "2026-08-22"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-foiled-again-book-party-with-jo-piazza-and-58a7ec",
       "name": "Foiled Again! Book Party with Jo Piazza and Beyond the Bookends",
       "category": "events",
@@ -1819,6 +1417,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-tim-easton-at-118-north-bdd23f",
+      "name": "Tim Easton at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Tim Easton at 118 North With Max Bartos Sunday, August 23, 2026 Doors: 5:30 PM | Show: 8:00 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-23",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/944380757926950/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/HB-jipTpdku-gYhRkJpj2A.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Aug 23",
+      "nextDate": "2026-08-23",
+      "dates": [
+        "2026-08-23"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-wally-smith-organ-trio-at-118-north-fee76e",
       "name": "Wally Smith Organ Trio at 118 North",
       "category": "events",
@@ -1855,6 +1491,48 @@
         "2026-08-23"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-family-open-play-under-the-sea-730685",
+      "name": "Family Open Play: Under the Sea",
+      "category": "events",
+      "subcategories": [
+        "family",
+        "games",
+        "performing-arts",
+        "special-audience"
+      ],
+      "shortDescription": "Winsor Room - Ages 2-6 - No registration necessary Explore ocean-themed activity stations, including games, crafts, building toys, sensory play, and music for kids of...",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-24",
+      "endDate": "2026-08-27",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17048647",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ce3b3f62-9dd7-4770-a363-c26c568c6816.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mon, Thu, Aug 24 - Aug 27",
+      "nextDate": "2026-08-24",
+      "dates": [
+        "2026-08-24",
+        "2026-08-27"
+      ],
+      "occurrences": 2
     },
     {
       "id": "ev-glenolden-monday-trivia-night-at-the-fainting-go-c68d01",
@@ -2035,6 +1713,45 @@
       "nextDate": "2026-08-24",
       "dates": [
         "2026-08-24"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-ancient-greece-workshop-3479e9",
+      "name": "Ancient Greece Workshop",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "workshop"
+      ],
+      "shortDescription": "Winsor Room - Grades K-5th - Registration required Learn the basics of Ancient Greek, the language and cultural background, and dive into the mythology of ancient Greece...",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-25",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17048556",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/695840dd-2b8f-4a30-817f-31e75c1d8810.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Aug 25",
+      "nextDate": "2026-08-25",
+      "dates": [
+        "2026-08-25"
       ],
       "occurrences": 1
     },
@@ -2255,6 +1972,135 @@
       "occurrences": 25
     },
     {
+      "id": "ev-wayne-chess-club-634d75",
+      "name": "Chess Club",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "games",
+        "health-wellness",
+        "learning"
+      ],
+      "shortDescription": "Chess Club at Radnor Memorial Library Wednesdays, 9/2/26 through 12/30/26 (10/14 and 10/21 Chess Club moves upstairs, Rms.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-26",
+      "endDate": "2026-11-18",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/16739975",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eea63be5-c4d3-46d5-9632-af64e5f10861.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wednesdays, Aug 26 - Nov 18",
+      "nextDate": "2026-08-26",
+      "dates": [
+        "2026-08-26",
+        "2026-09-02",
+        "2026-09-09",
+        "2026-09-16",
+        "2026-09-23",
+        "2026-09-30",
+        "2026-10-07",
+        "2026-10-28",
+        "2026-11-04",
+        "2026-11-11",
+        "2026-11-18"
+      ],
+      "occurrences": 11
+    },
+    {
+      "id": "media-dining-under-the-stars",
+      "name": "Dining Under the Stars",
+      "category": "events",
+      "subcategories": [
+        "food-festival",
+        "street-dining"
+      ],
+      "shortDescription": "Media's signature warm-weather event closing State Street so restaurants serve al fresco dinners under string lights.",
+      "address": "State St, Media, PA 19063",
+      "town": "Media",
+      "lat": 39.9166,
+      "lng": -75.388,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "date",
+        "group",
+        "family"
+      ],
+      "hours": {},
+      "startDate": "",
+      "endDate": "",
+      "recurring": "weekly",
+      "venueId": "media-state-street-district",
+      "phone": "",
+      "website": "",
+      "images": [],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "schedule": "Wednesdays, June-August",
+      "nextDate": "2026-08-26",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-08-26"
+      ]
+    },
+    {
+      "id": "ev-wayne-open-mic-w-hezekiah-jones-at-118-north-19aa93",
+      "name": "Open Mic w/ Hezekiah Jones at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "open-mic",
+        "performing-arts"
+      ],
+      "shortDescription": "Open Mic w/ Hezekiah Jones at 118 North With Special Guest Rev.",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-26",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/969283842837484/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Eaw2s39X_ESHrpGkE9jIlQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Aug 26",
+      "nextDate": "2026-08-26",
+      "dates": [
+        "2026-08-26"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-media-park-clean-up-ca11e4",
       "name": "Park Clean-up",
       "category": "events",
@@ -2281,6 +2127,89 @@
       "website": "https://www.mediaborough.com/calendar.aspx?EID=2962",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/6b5c3d4e-e238-4ad0-9c6e-283002e20f24.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Aug 26",
+      "nextDate": "2026-08-26",
+      "dates": [
+        "2026-08-26"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-tail-waggin-tutors-70c78c",
+      "name": "Tail Waggin' Tutors",
+      "category": "events",
+      "subcategories": [
+        "kids",
+        "lifestyle",
+        "literary-arts",
+        "special-audience"
+      ],
+      "shortDescription": "Back Lawn - Registration required - Grades 1st-5th Practice reading to therapy dogs Benny, Lola, and Chewy.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-08-26",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/16896429",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1aa72ac5-3b32-4120-aca0-32f98bbcb48f.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Aug 26",
+      "nextDate": "2026-08-26",
+      "dates": [
+        "2026-08-26"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-media-weekday-bird-walk-f44c34",
+      "name": "Weekday Bird Walk",
+      "category": "events",
+      "subcategories": [
+        "fitness",
+        "nature",
+        "outdoor-recreation",
+        "sports-outdoors"
+      ],
+      "shortDescription": "FOR ADULTS 18+ Listen, watch, and discover the birds of Tyler Arboretum.",
+      "address": "Tyler Arboretum, Media, PA",
+      "town": "Media",
+      "lat": 39.935841,
+      "lng": -75.429977,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-08-26",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "(610) 566-9134",
+      "website": "https://tylerarboretum.org/calendar/weekday-bird-walk-3-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4TBi2jp31E-E1CnWHsax2A.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -2356,6 +2285,44 @@
       "website": "https://www.bandsintown.com/e/108552891?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mm7gQkWQqE-feAAbqrUelw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Aug 27",
+      "nextDate": "2026-08-27",
+      "dates": [
+        "2026-08-27"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-media-mac-the-library-2026-act-3-opening-recepti-354d24",
+      "name": "MAC @ The Library 2026 Act 3 Opening Reception",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "literary-arts"
+      ],
+      "shortDescription": "MAC @ The Library 2026 Act 3 Opening Reception",
+      "address": "Upper Providence Free Library, Media, PA",
+      "town": "Media",
+      "lat": 39.91678,
+      "lng": -75.38769,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-27",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.mediaartscouncil.org/calendar/mac-the-library-2026-act-3-opening-reception",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ahjUhiGAikqLF2Adqn7l9Q.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -2680,6 +2647,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-street-beans-at-118-north-f5907c",
+      "name": "Street Beans at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Street Beans at 118 North Saturday, August 29, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-29",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1624209751975544/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/K12Xj677ZU6CijSkMq6cPg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Aug 29",
+      "nextDate": "2026-08-29",
+      "dates": [
+        "2026-08-29"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-lansdowne-the-mavericks-friends-ddb950",
       "name": "The Mavericks & Friends",
       "category": "events",
@@ -2893,6 +2898,44 @@
       "occurrences": 2
     },
     {
+      "id": "ev-wayne-kindred-valley-at-118-north-36aed9",
+      "name": "Kindred Valley at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Kindred Valley at 118 North Wednesday, September 2, 2026 Doors: 5:30 PM | Show: 7:30 PM 21+ Tickets >> https://tixr.com/pr/social/200827",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-02",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1002946275693461/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eLGLFClMPE6mQxk-Dm1VJQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Sep 2",
+      "nextDate": "2026-09-02",
+      "dates": [
+        "2026-09-02"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-late-30s-40s-happy-hour-115ba0",
       "name": "Late 30s/40s Happy Hour",
       "category": "events",
@@ -2928,6 +2971,44 @@
         "2026-09-02"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-wallingford-mad-poets-society-reading-e76ffe",
+      "name": "Mad Poets Society Reading",
+      "category": "events",
+      "subcategories": [
+        "literary-arts"
+      ],
+      "shortDescription": "For more information on who will be reading go to https://www.madpoetssociety.com",
+      "address": "Community Arts Center, Wallingford, PA",
+      "town": "Wallingford",
+      "lat": 39.908927,
+      "lng": -75.365674,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-02",
+      "endDate": "2026-10-07",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://communityartscenter.org/events/?pno=",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/I5hy8nk9Wk2ZscZnfII-qg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wednesdays, Sep 2 - Oct 7",
+      "nextDate": "2026-09-02",
+      "dates": [
+        "2026-09-02",
+        "2026-10-07"
+      ],
+      "occurrences": 2
     },
     {
       "id": "ev-chester-widener-pride-field-hockey-vs-elizabetht-daf3d7",
@@ -2966,6 +3047,44 @@
       "nextDate": "2026-09-02",
       "dates": [
         "2026-09-02"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-johnny-mullenax-bronwyn-at-118-north-514820",
+      "name": "Johnny Mullenax + Bronwyn at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Johnny Mullenax + Bronwyn at 118 North Thursday, September 3, 2026 Doors: 6:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-03",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1019413220598398/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gQG24KxMTkmKeDzX6RKMtA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Sep 3",
+      "nextDate": "2026-09-03",
+      "dates": [
+        "2026-09-03"
       ],
       "occurrences": 1
     },
@@ -3039,6 +3158,44 @@
       "website": "",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/432488c8-9874-4a5e-9175-7e2bbc2e65cf.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Sep 4",
+      "nextDate": "2026-09-04",
+      "dates": [
+        "2026-09-04"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-root-settaz-san-noche-at-118-north-cab928",
+      "name": "Root Settaz + San Noche at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Root Settaz + San Noche at 118 North Friday, September 4, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-04",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1309970144621030/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-ZhmBup-_kqGChMuEozdvA.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -3926,6 +4083,44 @@
       "occurrences": 4
     },
     {
+      "id": "ev-wayne-the-gathering-gloom-at-118-north-22f8b4",
+      "name": "The Gathering Gloom at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "The Gathering Gloom at 118 North Friday, September 11, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-11",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/2461551320977757/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/nnXQECbK40u8t-NRemEjGg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Sep 11",
+      "nextDate": "2026-09-11",
+      "dates": [
+        "2026-09-11"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-essington-widener-pride-women-s-volleyball-vs-ro-acb9c3",
       "name": "Widener Pride: Women's Volleyball vs Rowan",
       "category": "events",
@@ -3962,6 +4157,44 @@
       "nextDate": "2026-09-11",
       "dates": [
         "2026-09-11"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-best-imitation-of-myself-a-tribute-to-ben-15691c",
+      "name": "Best Imitation of Myself - A Tribute to Ben Folds at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Best Imitation of Myself - A Tribute to Ben Folds at 118 North with Philly Joel Saturday, September 12, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by a...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-12",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1704147397466577/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IKaOWysvoESuo1cFA3VTNA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Sep 12",
+      "nextDate": "2026-09-12",
+      "dates": [
+        "2026-09-12"
       ],
       "occurrences": 1
     },
@@ -4284,6 +4517,44 @@
       "occurrences": 3
     },
     {
+      "id": "ev-wallingford-september-2026-artists-receptions-e4a8fd",
+      "name": "September 2026 Artists Receptions",
+      "category": "events",
+      "subcategories": [
+        "crafts",
+        "visual-arts"
+      ],
+      "shortDescription": "Come and meet the artists! In the Duke Gallery: Along the Schuylkill: Patrick Connors and His Circle In the BeaDazzle Lounge Gallery: Art Quilts by [...]",
+      "address": "Community Arts Center, Wallingford, PA",
+      "town": "Wallingford",
+      "lat": 39.908927,
+      "lng": -75.365674,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-13",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://communityartscenter.org/events/?pno=",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_wIb-RUrSkSbk9_2-f6MXw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Sep 13",
+      "nextDate": "2026-09-13",
+      "dates": [
+        "2026-09-13"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-the-main-line-run-2026-3aebf9",
       "name": "The Main Line Run 2026",
       "category": "events",
@@ -4567,6 +4838,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-pageturners-book-club-131a40",
+      "name": "Pageturners Book Club",
+      "category": "events",
+      "subcategories": [
+        "literary-arts"
+      ],
+      "shortDescription": "Librarians at RML invite you to join in a lively discussion of this month's book selection, The Haunting of Hill House by Shirley Jackson.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-16",
+      "endDate": "2026-10-21",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17292882",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/db613de4-0621-4422-a0e4-74ccf1a63a8b.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wednesdays, Sep 16 - Oct 21",
+      "nextDate": "2026-09-16",
+      "dates": [
+        "2026-09-16",
+        "2026-10-21"
+      ],
+      "occurrences": 2
+    },
+    {
       "id": "ev-chester-widener-pride-women-s-soccer-vs-immacula-2df1bf",
       "name": "Widener Pride: Women's Soccer vs Immaculata",
       "category": "events",
@@ -4595,6 +4904,43 @@
       "website": "https://widenerpride.com/calendar.aspx?game_id=14480&amp;sport_id=11",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5245d79e-4890-4dba-8b48-8a1090c252b9.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Sep 16",
+      "nextDate": "2026-09-16",
+      "dates": [
+        "2026-09-16"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-springfield-yard-waste-collection-0a939e",
+      "name": "Yard Waste Collection",
+      "category": "events",
+      "subcategories": [
+        "civic"
+      ],
+      "shortDescription": "Yard Waste is collected on the 3rd Wednesday of each month, February through September.",
+      "address": "Springfield, PA",
+      "town": "Springfield",
+      "lat": 39.92788,
+      "lng": -75.33614,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-16",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.springfielddelco.org/event/yard-waste-collection-sept-2026/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/BM-KC_pfsE6q1VHPnsV9vw.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -4717,6 +5063,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-sidecar-the-modbeats-at-118-north-eca4f0",
+      "name": "Sidecar + The Modbeats at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Sidecar + The Modbeats at 118 North with Drew Lawrence (of Seetrees) Thursday, September 17, 2026 Doors: 6:00 PM | Show: 8:00 PM 21+ Unless Accompanied by a Parent or...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-17",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1340093084766058/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Qbi7KWwiFEKlxsuCg8AEAw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Sep 17",
+      "nextDate": "2026-09-17",
+      "dates": [
+        "2026-09-17"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-chester-widener-pride-women-s-volleyball-vs-muhl-724488",
       "name": "Widener Pride: Women's Volleyball vs Muhlenberg",
       "category": "events",
@@ -4753,6 +5137,41 @@
       "nextDate": "2026-09-17",
       "dates": [
         "2026-09-17"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-basic-cable-at-118-north-fb360f",
+      "name": "Basic Cable at 118 North",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Basic Cable at 118 North Friday, September 18, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-18",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1539888114556947/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Qwb-uiHEGkOVUp3a_oMFBQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Sep 18",
+      "nextDate": "2026-09-18",
+      "dates": [
+        "2026-09-18"
       ],
       "occurrences": 1
     },
@@ -4904,6 +5323,44 @@
       "website": "https://www.eventbrite.com/e/a-funny-night-of-celebration-tickets-1993406919758",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7B8zjYZsdEKk6_6s-YEOOA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Sep 19",
+      "nextDate": "2026-09-19",
+      "dates": [
+        "2026-09-19"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-brown-sugar-rolling-stones-tribute-at-118-81ca4b",
+      "name": "Brown Sugar (Rolling Stones Tribute) at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Brown Sugar (Rolling Stones Tribute) at 118 North Saturday, September 19, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-19",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1304203316100517/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/hlx-kF16zUyt-96ASIIplA.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -5726,6 +6183,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-fonville-x-fribush-at-118-north-54992b",
+      "name": "Fonville x Fribush at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Fonville x Fribush at 118 North Wednesday, September 23, 2026 Doors: 5:30 PM | Show: 7:30 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-23",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/2128451617937940/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/MiWbd2o_WkO30ml21lOCkQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Sep 23",
+      "nextDate": "2026-09-23",
+      "dates": [
+        "2026-09-23"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-chester-widener-pride-women-s-volleyball-vs-hood-a5f45f",
       "name": "Widener Pride: Women's Volleyball vs Hood",
       "category": "events",
@@ -6048,6 +6543,44 @@
       "occurrences": 9
     },
     {
+      "id": "ev-wayne-main-line-kef-night-at-118-north-737abf",
+      "name": "Main Line KEF Night at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Main Line KEF Night at 118 North Friday, September 25, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-25",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/2123931695134039/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IjtRj7LUUUeLyfBQnUe_zA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Sep 25",
+      "nextDate": "2026-09-25",
+      "dates": [
+        "2026-09-25"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-havertown-14th-annual-haverford-music-festival-e011ff",
       "name": "14th Annual Haverford Music Festival",
       "category": "events",
@@ -6132,6 +6665,44 @@
       "occurrences": 4
     },
     {
+      "id": "ev-wayne-jay-buchanan-at-118-north-b24d8e",
+      "name": "Jay Buchanan at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Jay Buchanan at 118 North Saturday, September 26, 2026 Doors: 7:30 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-26",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1587683539683424/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ag6z2qVV4ESvc3rJ28oksQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Sep 26",
+      "nextDate": "2026-09-26",
+      "dates": [
+        "2026-09-26"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-villanova-lara-herscovitch-4e6105",
       "name": "Lara Herscovitch",
       "category": "events",
@@ -6160,6 +6731,45 @@
       "website": "https://www.bandsintown.com/e/107179186?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/afmjqFHBtEeZSMTn19w1tQ.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Sep 26",
+      "nextDate": "2026-09-26",
+      "dates": [
+        "2026-09-26"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wallingford-patrick-connors-and-friends-gallery-12da16",
+      "name": "Patrick Connors and Friends Gallery Talk",
+      "category": "events",
+      "subcategories": [
+        "learning",
+        "talks-lectures",
+        "visual-arts"
+      ],
+      "shortDescription": "Learn about Patrick Connors: his life, his art, his legacy.",
+      "address": "Community Arts Center, Wallingford, PA",
+      "town": "Wallingford",
+      "lat": 39.908927,
+      "lng": -75.365674,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-26",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://communityartscenter.org/events/?pno=",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_wIb-RUrSkSbk9_2-f6MXw.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -6239,6 +6849,45 @@
       "website": "",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/EWkGz8meEEC_sHpwGWtexw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Sep 26",
+      "nextDate": "2026-09-26",
+      "dates": [
+        "2026-09-26"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-skeletor-karaoke-at-118-north-99f465",
+      "name": "Skeletor Karaoke at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "open-mic",
+        "performing-arts"
+      ],
+      "shortDescription": "Skeletor Karaoke at 118 North Saturday, September 26, 2026 Doors & Show: 10:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-26",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/2953938791619739/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/tRmytiFtikKwAGmdx04f6g.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -6867,6 +7516,44 @@
       "occurrences": 2
     },
     {
+      "id": "ev-wayne-speedball-the-nightclerks-tom-petty-tribut-17f375",
+      "name": "Speedball & the Nightclerks: Tom Petty Tribute at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Speedball & the Nightclerks: Tom Petty Tribute at 118 North Friday, October 2, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-02",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/2445225385924145/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OsIJpXlY7ESKBamGURs_Wg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Oct 2",
+      "nextDate": "2026-10-02",
+      "dates": [
+        "2026-10-02"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-springfield-substitoothfairy-presents-a-night-to-4e6943",
       "name": "SubstiToothFairy Presents: A Night To Remember- Celebration For A Cause",
       "category": "events",
@@ -7056,6 +7743,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-allison-eide-at-118-north-179471",
+      "name": "Allison Eide at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Allison Eide at 118 North Sunday, October 4, 2026 Doors: 6:00 PM | Show: 7:00 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-04",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1056396210664216/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/wsObqzjI-km5zDiGfL4Cuw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Oct 4",
+      "nextDate": "2026-10-04",
+      "dates": [
+        "2026-10-04"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-chester-delco-10-miler-0803e0",
       "name": "Delco 10-Miler",
       "category": "events",
@@ -7079,6 +7804,44 @@
       "website": "https://www.chestercity.com/event/delco-10-miler-2/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/y4i4jyKSoUCa5lNjYSZ1rA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Oct 4",
+      "nextDate": "2026-10-04",
+      "dates": [
+        "2026-10-04"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-mark-schultz-the-wayne-rangers-at-118-nort-0f24c8",
+      "name": "Mark Schultz & the Wayne Rangers at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Mark Schultz & the Wayne Rangers at 118 North Sunday, October 4, 2026 Doors: 2:00 PM | Show: 3:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-04",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1365792508996794/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/VBmzsnXa5EuwG8f3nuv79w.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -7247,6 +8010,82 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-ruthie-foster-at-118-north-02dd4b",
+      "name": "Ruthie Foster at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Ruthie Foster at 118 North Wednesday, October 7, 2026 Doors: 5:30 PM | Show: 7:30 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-07",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/2486280341849165/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/wDkrNnMlnE6nAnvgDYjAuQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Oct 7",
+      "nextDate": "2026-10-07",
+      "dates": [
+        "2026-10-07"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-morgan-treni-the-landscapes-at-118-north-44ccf9",
+      "name": "Morgan Treni & The Landscapes at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Morgan Treni & The Landscapes at 118 North with Emily Drinker Thursday, October 8, 2026 Doors: 6:00 PM | Show: 8:00 PM 21+ Tickets >> https://tixr.com/pr/social/199794",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-08",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1689864218907439/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/FAIca8ddiU6B8PmhF0yBXg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Oct 8",
+      "nextDate": "2026-10-08",
+      "dates": [
+        "2026-10-08"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-swarthmore-myles-bullen-everybody-s-worried-abou-09cb11",
       "name": "Myles Bullen & Everybody's Worried About Owen",
       "category": "events",
@@ -7317,6 +8156,44 @@
         "2026-10-10"
       ],
       "occurrences": 2
+    },
+    {
+      "id": "ev-wayne-the-e-street-shuffle-a-tribute-to-the-boss-0e1462",
+      "name": "The E Street Shuffle: A Tribute to The Boss at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "The E Street Shuffle: A Tribute to The Boss at 118 North Friday, October 9, 2026 Doors: 7:30 PM | Show: 8:30 PM 21+ Unless Accompanied by Parent or Legal Guardian...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-09",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1580193873847149/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/wCLDgY-NAkSmy_yH8_plmg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Oct 9",
+      "nextDate": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-chester-widener-pride-women-s-soccer-vs-messiah-30f64c",
@@ -7458,6 +8335,44 @@
       "website": "",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e19lqLEOpkOwMHFJUkk0dw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 10",
+      "nextDate": "2026-10-10",
+      "dates": [
+        "2026-10-10"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-ndichu-at-118-north-896e35",
+      "name": "Ndichu at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Ndichu at 118 North with Loose & Alright Saturday, October 10, 2026 Doors: 6:30 PM | Show: 7:30 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-10",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1753298566011606/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/sE5CefOKsEC7Piy77IlAVw.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -9612,6 +10527,44 @@
       "website": "https://wayneart.org/events/2126/exploring-the-magic-of-watercolor-with-mick-mcandrews",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/wjuCOjizl0aaru1ARbnEUA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Nov 6",
+      "nextDate": "2026-11-06",
+      "dates": [
+        "2026-11-06"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-matt-friend-9d6cc9",
+      "name": "Matt Friend",
+      "category": "events",
+      "subcategories": [
+        "comedy",
+        "performing-arts"
+      ],
+      "shortDescription": "Matt Friend is a 27-year-old comedian, actor, host, and impressionist whose wit, work ethic, and wildly accurate impressions have made him one of entertainment's most...",
+      "address": "The Block at Harrah's Philadelphia, Chester, PA",
+      "town": "Chester",
+      "lat": 39.851082,
+      "lng": -75.348369,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/aOPsjEf2tkOdfN_V5KdJUQ.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
