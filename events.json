@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-08-20T09:54:18.707806+00:00",
+  "scraped_at": "2026-08-21T09:55:36.780712+00:00",
   "horizon_days": 180,
-  "event_count": 315,
+  "event_count": 328,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-08-20",
+      "startDate": "2026-08-21",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Aug 20 - Oct 31",
-      "nextDate": "2026-08-20",
+      "schedule": "Daily, Aug 21 - Oct 31",
+      "nextDate": "2026-08-21",
       "dates": [
-        "2026-08-20",
         "2026-08-21",
         "2026-08-22",
         "2026-08-23",
@@ -113,410 +112,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 73
-    },
-    {
-      "id": "ev-bryn-mawr-7-week-kids-course-27dc07",
-      "name": "7-Week Kids Course",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "kids",
-        "learning",
-        "special-audience"
-      ],
-      "shortDescription": "Our multi-week children’s courses meet once a week for 1.5 hours.",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "family",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-08-20",
-      "endDate": "2026-09-10",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154446/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/zSssqPcxuU-Jf1jIH8s0uA.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thursdays, Aug 20 - Sep 10",
-      "nextDate": "2026-08-20",
-      "dates": [
-        "2026-08-20",
-        "2026-08-27",
-        "2026-09-03",
-        "2026-09-10"
-      ],
-      "occurrences": 4
-    },
-    {
-      "id": "ev-wayne-cats-on-the-bus-grateful-dead-tribute-at-1-8711e5",
-      "name": "Cats on the Bus: Grateful Dead Tribute at 118 North",
-      "category": "events",
-      "subcategories": [
-        "lifestyle",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Cats on the Bus: Grateful Dead Tribute at 118 North Thursday, August 20, 2026 Doors: 6:00 PM | Show: 8:00 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
-      "address": "Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1395462519126407/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SFQ8U5Y-90-T-qoAPJnnzw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Aug 20",
-      "nextDate": "2026-08-20",
-      "dates": [
-        "2026-08-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-community-lifesaver-day-173ff9",
-      "name": "Community Lifesaver Day",
-      "category": "events",
-      "subcategories": [
-        "civic"
-      ],
-      "shortDescription": "Community Lifesaver Day at Chester Fire Department Station 2 in Chester.",
-      "address": "Chester Fire Department Station 2, Chester, PA",
-      "town": "Chester",
-      "lat": 39.858496,
-      "lng": -75.361426,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.chestercity.com/event/community-lifesaver-day/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Reqo75ag3UCl78kjt2XrAw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Aug 20",
-      "nextDate": "2026-08-20",
-      "dates": [
-        "2026-08-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-family-movie-matinee-ice-age-e73ed0",
-      "name": "Family Movie Matinee: Ice Age",
-      "category": "events",
-      "subcategories": [
-        "family",
-        "film",
-        "lifestyle",
-        "special-audience"
-      ],
-      "shortDescription": "Winsor Room - No registration required - Ages 3 & up A woolly mammoth, a sloth, and a saber-toothed tiger go on a quest through an icy prehistoric world to return a...",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/16978908",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/56dc1e47-9193-46a4-bdef-11c948fe58a1.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Aug 20",
-      "nextDate": "2026-08-20",
-      "dates": [
-        "2026-08-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
-      "name": "One Time Adult Wheel Class",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "visual-arts"
-      ],
-      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-20",
-      "endDate": "2026-09-27",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154443/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "24 dates, Aug 20 - Sep 27",
-      "nextDate": "2026-08-20",
-      "dates": [
-        "2026-08-20",
-        "2026-08-21",
-        "2026-08-22",
-        "2026-08-23",
-        "2026-08-27",
-        "2026-08-28",
-        "2026-08-29",
-        "2026-08-30",
-        "2026-09-03",
-        "2026-09-04",
-        "2026-09-05",
-        "2026-09-06",
-        "2026-09-10",
-        "2026-09-11",
-        "2026-09-12",
-        "2026-09-13",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-19",
-        "2026-09-20",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-26",
-        "2026-09-27"
-      ],
-      "occurrences": 24
-    },
-    {
-      "id": "ev-glen-mills-optics-101-how-to-get-the-most-from-y-af994f",
-      "name": "Optics 101: How to Get the Most From Your Binoculars!",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Join us for an exclusive look at the newest line of NOCS binoculars...compact, colorful optics built for birders!",
-      "address": "Wild Birds Unlimited, Glen Mills, PA",
-      "town": "Glen Mills",
-      "lat": 39.88612,
-      "lng": -75.531132,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/optics-101-how-to-get-the-most-from-your-binoculars-tickets-1995334566401",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/s2r9Q9_rnkisAV0DGuhGGQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Aug 20",
-      "nextDate": "2026-08-20",
-      "dates": [
-        "2026-08-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-drexel-hill-thursday-karaoke-at-casey-s-restaura-4579c1",
-      "name": "Thursday Karaoke at Casey's Restaurant (Drexel Hill - Delaware County",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink",
-        "open-mic",
-        "performing-arts"
-      ],
-      "shortDescription": "Sing your heart out at Casey's Restaurant every Thursday night with some karaoke fun in Drexel Hill, Delaware County, PA! Starts at 8pm.",
-      "address": "Casey's Saloon & Restaurant, Drexel Hill, PA",
-      "town": "Drexel Hill",
-      "lat": 39.960126,
-      "lng": -75.288562,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-20",
-      "endDate": "2027-02-11",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/thursday-karaoke-at-caseys-restaurant-drexel-hill-delaware-county-pa-tickets-1061653848239",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pgpVzPSpoUaADfBllel6lw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thursdays, Aug 20 - Feb 11",
-      "nextDate": "2026-08-20",
-      "dates": [
-        "2026-08-20",
-        "2026-08-27",
-        "2026-09-03",
-        "2026-09-10",
-        "2026-09-17",
-        "2026-09-24",
-        "2026-10-01",
-        "2026-10-08",
-        "2026-10-15",
-        "2026-10-22",
-        "2026-10-29",
-        "2026-11-05",
-        "2026-11-12",
-        "2026-11-19",
-        "2026-11-26",
-        "2026-12-03",
-        "2026-12-10",
-        "2026-12-17",
-        "2026-12-24",
-        "2026-12-31",
-        "2027-01-07",
-        "2027-01-14",
-        "2027-01-21",
-        "2027-01-28",
-        "2027-02-04",
-        "2027-02-11"
-      ],
-      "occurrences": 26
-    },
-    {
-      "id": "ev-villanova-villanova-university-men-s-soccer-vs-t-85d589",
-      "name": "Villanova University Men's Soccer vs Temple University",
-      "category": "events",
-      "subcategories": [
-        "faith",
-        "lifestyle",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Villanova University Men's Soccer vs Temple University",
-      "address": "Higgins Soccer Complex, Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03176,
-      "lng": -75.34903,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanova.com/calendar.aspx?game_id=17748&amp;sport_id=9",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b4f13205-36d4-456b-a2cd-4c796b529819.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Aug 20",
-      "nextDate": "2026-08-20",
-      "dates": [
-        "2026-08-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-walk-run-connect-5b69f3",
-      "name": "Walk Run Connect",
-      "category": "events",
-      "subcategories": [
-        "fitness",
-        "health-wellness",
-        "lifestyle",
-        "running"
-      ],
-      "shortDescription": "Walk Run Connect at Crozer Park Trail in Chester.",
-      "address": "Crozer Park Trail, Chester, PA",
-      "town": "Chester",
-      "lat": 39.854056,
-      "lng": -75.375381,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-27",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.chestercity.com/event/walk-run-connect/2026-08-20/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/q4CMNud_UEugCUsoSQJTkg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thursdays, Aug 20 - Aug 27",
-      "nextDate": "2026-08-20",
-      "dates": [
-        "2026-08-20",
-        "2026-08-27"
-      ],
-      "occurrences": 2
+      "occurrences": 72
     },
     {
       "id": "ev-chester-fusion-friday-8b3ca3",
@@ -594,6 +190,66 @@
         "2026-09-25"
       ],
       "occurrences": 3
+    },
+    {
+      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
+      "name": "One Time Adult Wheel Class",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "visual-arts"
+      ],
+      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-21",
+      "endDate": "2026-09-27",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154443/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "23 dates, Aug 21 - Sep 27",
+      "nextDate": "2026-08-21",
+      "dates": [
+        "2026-08-21",
+        "2026-08-22",
+        "2026-08-23",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-29",
+        "2026-08-30",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-05",
+        "2026-09-06",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-12",
+        "2026-09-13",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-27"
+      ],
+      "occurrences": 23
     },
     {
       "id": "ev-wayne-stargazer-lily-the-peace-creeps-at-118-nor-0a2202",
@@ -713,6 +369,46 @@
         "2026-08-28"
       ],
       "occurrences": 2
+    },
+    {
+      "id": "ev-ridley-park-benjamin-louis-de9b89",
+      "name": "benjamin louis",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "film",
+        "live-music",
+        "music"
+      ],
+      "shortDescription": "730-1030pm benjamin louis has been writing and performing music over half his life.",
+      "address": "Rosemary, Ridley Park, PA",
+      "town": "Ridley Park",
+      "lat": 39.879562,
+      "lng": -75.322884,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-21",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108452868?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IA3nWdR_L02rcv-YmMHa2Q.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Aug 21",
+      "nextDate": "2026-08-21",
+      "dates": [
+        "2026-08-21"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-chester-back-to-school-resource-fair-713210",
@@ -1026,6 +722,46 @@
       "dates": [
         "2026-08-22"
       ]
+    },
+    {
+      "id": "ev-lansdowne-moniquewilsonn-f4d4f8",
+      "name": "Moniquewilsonn",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Join us from 5:30 PM–9:30 PM as the Silk & Honey Collective brings live music to Blue South before or after catching Kim Whitley live at the Lansdowne Theater!",
+      "address": "Blue South, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.939087,
+      "lng": -75.272732,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-22",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108700421?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/H5F_KXo1X0KS7rH6cIf6Og.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Aug 22",
+      "nextDate": "2026-08-22",
+      "dates": [
+        "2026-08-22"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-wayne-mysterious-ways-u2-tribute-at-118-north-adfc24",
@@ -1929,7 +1665,7 @@
       ],
       "hours": {},
       "startDate": "2026-08-25",
-      "endDate": "2027-02-09",
+      "endDate": "2027-02-16",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -1940,7 +1676,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Tuesdays, Aug 25 - Feb 9",
+      "schedule": "Tuesdays, Aug 25 - Feb 16",
       "nextDate": "2026-08-25",
       "dates": [
         "2026-08-25",
@@ -1967,9 +1703,10 @@
         "2027-01-19",
         "2027-01-26",
         "2027-02-02",
-        "2027-02-09"
+        "2027-02-09",
+        "2027-02-16"
       ],
-      "occurrences": 25
+      "occurrences": 26
     },
     {
       "id": "ev-wayne-chess-club-634d75",
@@ -2222,6 +1959,49 @@
       "occurrences": 1
     },
     {
+      "id": "ev-bryn-mawr-7-week-kids-course-27dc07",
+      "name": "7-Week Kids Course",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "kids",
+        "learning",
+        "special-audience"
+      ],
+      "shortDescription": "Our multi-week children’s courses meet once a week for 1.5 hours.",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-08-27",
+      "endDate": "2026-09-10",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154446/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/zSssqPcxuU-Jf1jIH8s0uA.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thursdays, Aug 27 - Sep 10",
+      "nextDate": "2026-08-27",
+      "dates": [
+        "2026-08-27",
+        "2026-09-03",
+        "2026-09-10"
+      ],
+      "occurrences": 3
+    },
+    {
       "id": "ev-media-act-247-september-review-application-submi-084b0b",
       "name": "Act 247 September Review Application Submission Deadline",
       "category": "events",
@@ -2297,6 +2077,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-ridley-park-james-clark-75ea25",
+      "name": "James Clark",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "James Clark at Rosemary in Ridley Park.",
+      "address": "Rosemary, Ridley Park, PA",
+      "town": "Ridley Park",
+      "lat": 39.879562,
+      "lng": -75.322884,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-27",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108629892?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0FY-teIrlki9g2iFhckUGQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Aug 27",
+      "nextDate": "2026-08-27",
+      "dates": [
+        "2026-08-27"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-media-mac-the-library-2026-act-3-opening-recepti-354d24",
       "name": "MAC @ The Library 2026 Act 3 Opening Reception",
       "category": "events",
@@ -2323,6 +2143,110 @@
       "website": "https://www.mediaartscouncil.org/calendar/mac-the-library-2026-act-3-opening-reception",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ahjUhiGAikqLF2Adqn7l9Q.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Aug 27",
+      "nextDate": "2026-08-27",
+      "dates": [
+        "2026-08-27"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-drexel-hill-thursday-karaoke-at-casey-s-restaura-4579c1",
+      "name": "Thursday Karaoke at Casey's Restaurant (Drexel Hill - Delaware County",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink",
+        "open-mic",
+        "performing-arts"
+      ],
+      "shortDescription": "Sing your heart out at Casey's Restaurant every Thursday night with some karaoke fun in Drexel Hill, Delaware County, PA! Starts at 8pm.",
+      "address": "Casey's Saloon & Restaurant, Drexel Hill, PA",
+      "town": "Drexel Hill",
+      "lat": 39.960126,
+      "lng": -75.288562,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-27",
+      "endDate": "2027-02-11",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/thursday-karaoke-at-caseys-restaurant-drexel-hill-delaware-county-pa-tickets-1061653848239",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pgpVzPSpoUaADfBllel6lw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thursdays, Aug 27 - Feb 11",
+      "nextDate": "2026-08-27",
+      "dates": [
+        "2026-08-27",
+        "2026-09-03",
+        "2026-09-10",
+        "2026-09-17",
+        "2026-09-24",
+        "2026-10-01",
+        "2026-10-08",
+        "2026-10-15",
+        "2026-10-22",
+        "2026-10-29",
+        "2026-11-05",
+        "2026-11-12",
+        "2026-11-19",
+        "2026-11-26",
+        "2026-12-03",
+        "2026-12-10",
+        "2026-12-17",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07",
+        "2027-01-14",
+        "2027-01-21",
+        "2027-01-28",
+        "2027-02-04",
+        "2027-02-11"
+      ],
+      "occurrences": 25
+    },
+    {
+      "id": "ev-chester-walk-run-connect-5b69f3",
+      "name": "Walk Run Connect",
+      "category": "events",
+      "subcategories": [
+        "fitness",
+        "health-wellness",
+        "lifestyle",
+        "running"
+      ],
+      "shortDescription": "Walk Run Connect at Crozer Park Trail in Chester.",
+      "address": "Crozer Park Trail, Chester, PA",
+      "town": "Chester",
+      "lat": 39.854056,
+      "lng": -75.375381,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-27",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.chestercity.com/event/walk-run-connect/2026-08-27/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/q4CMNud_UEugCUsoSQJTkg.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -2364,6 +2288,46 @@
       "website": "",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2kmJ4pTpY027X3J9n4_b2w.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Aug 28",
+      "nextDate": "2026-08-28",
+      "dates": [
+        "2026-08-28"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-concordville-s2stem-end-of-summer-celebration-bc1248",
+      "name": "S2STEM End-of-Summer Celebration",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "festival",
+        "street-fair"
+      ],
+      "shortDescription": "Join us for the S2STEM End-of-Summer bash—fun, friends, and cool STEM vibes all in one place!",
+      "address": "S2STEM, Concordville, PA",
+      "town": "Concordville",
+      "lat": 39.887963,
+      "lng": -75.528022,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-08-28",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/s2stem-end-of-summer-celebration-tickets-1996178786486",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Mq8ub62flkCfSCBSKAxE5Q.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -2778,7 +2742,7 @@
       ],
       "hours": {},
       "startDate": "2026-09-01",
-      "endDate": "2027-02-09",
+      "endDate": "2027-02-16",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -2789,7 +2753,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Tuesdays, Sep 1 - Feb 9",
+      "schedule": "Tuesdays, Sep 1 - Feb 16",
       "nextDate": "2026-09-01",
       "dates": [
         "2026-09-01",
@@ -2815,9 +2779,10 @@
         "2027-01-19",
         "2027-01-26",
         "2027-02-02",
-        "2027-02-09"
+        "2027-02-09",
+        "2027-02-16"
       ],
-      "occurrences": 24
+      "occurrences": 25
     },
     {
       "id": "ev-chester-widener-pride-women-s-volleyball-vs-have-ec7bc7",
@@ -3521,6 +3486,42 @@
       "occurrences": 1
     },
     {
+      "id": "ev-media-how-ohio-won-the-civil-war-1b1b19",
+      "name": "How Ohio Won The Civil War",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "How Ohio Won The Civil War at Delaware County Historical Society in Media.",
+      "address": "Delaware County Historical Society, Media, PA",
+      "town": "Media",
+      "lat": 39.919238,
+      "lng": -75.389521,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "historic"
+      ],
+      "hours": {},
+      "startDate": "2026-09-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-750-0622",
+      "website": "https://www.delawareohiohistory.org/uncategorized/how-ohio-won-the-civil-war/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cUFjZH6s-kOEgLt2gJ6z5A.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Sep 6",
+      "nextDate": "2026-09-06",
+      "dates": [
+        "2026-09-06"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wallingford-2026-annual-members-exhibition-pick-d748d9",
       "name": "2026 Annual Members Exhibition Pick up!",
       "category": "events",
@@ -3916,6 +3917,52 @@
       "occurrences": 3
     },
     {
+      "id": "ev-wayne-preschool-storytime-craft-ages-3-5-years-7202f3",
+      "name": "Preschool Storytime & Craft (Ages 3-5 years)",
+      "category": "events",
+      "subcategories": [
+        "crafts",
+        "kids",
+        "literary-arts",
+        "music"
+      ],
+      "shortDescription": "Ages 3 - 5 years Winsor Room - Registration required Stories, songs, and movement activities to help your young child engage with literature in a safe, social setting.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-09-10",
+      "endDate": "2026-10-08",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17420475",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c537856d-867f-43e4-8bdd-b49297ef9405.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thursdays, Sep 10 - Oct 8",
+      "nextDate": "2026-09-10",
+      "dates": [
+        "2026-09-10",
+        "2026-09-17",
+        "2026-09-24",
+        "2026-10-01",
+        "2026-10-08"
+      ],
+      "occurrences": 5
+    },
+    {
       "id": "ev-newtown-square-senior-class-bbq-c26225",
       "name": "Senior Class BBQ",
       "category": "events",
@@ -3954,6 +4001,55 @@
         "2026-09-10"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-toddler-storytime-ages-2-3-years-67d052",
+      "name": "Toddler Storytime (Ages 2 - 3 years)",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "kids",
+        "learning",
+        "lifestyle"
+      ],
+      "shortDescription": "Ages 2 - 3 years - Winsor Room Stories, songs, and movement activities to help your young child engage with literature in a safe, social setting.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-09-10",
+      "endDate": "2026-10-08",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17420039",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fe5023d6-7e53-42a2-b2aa-b93e19cac158.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mon, Thu, Sep 10 - Oct 8",
+      "nextDate": "2026-09-10",
+      "dates": [
+        "2026-09-10",
+        "2026-09-14",
+        "2026-09-17",
+        "2026-09-21",
+        "2026-09-24",
+        "2026-09-28",
+        "2026-10-01",
+        "2026-10-08"
+      ],
+      "occurrences": 8
     },
     {
       "id": "ev-chester-breakaway-philadelphia-2026-467446",
@@ -4634,6 +4730,58 @@
       "occurrences": 1
     },
     {
+      "id": "ev-havertown-delaware-county-camera-club-meeting-64c172",
+      "name": "Delaware County Camera Club Meeting",
+      "category": "events",
+      "subcategories": [
+        "visual-arts"
+      ],
+      "shortDescription": ". Founded in 1937, the club offers a space for local photographers to connect, learn, and showcase their work. Visit delcocameraclub.org for more information.",
+      "address": "Trinity Lutheran Church, Havertown, PA",
+      "town": "Havertown",
+      "lat": 39.972622,
+      "lng": -75.316142,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-14",
+      "endDate": "2027-02-15",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "http://www.delcocameraclub.org",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b15ba93f-e46c-4836-a2f4-7d636c24ab78.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mondays, Sep 14 - Feb 15",
+      "nextDate": "2026-09-14",
+      "dates": [
+        "2026-09-14",
+        "2026-09-21",
+        "2026-09-28",
+        "2026-10-12",
+        "2026-10-19",
+        "2026-10-26",
+        "2026-11-09",
+        "2026-11-16",
+        "2026-11-23",
+        "2026-11-30",
+        "2027-01-11",
+        "2027-01-18",
+        "2027-01-25",
+        "2027-02-01",
+        "2027-02-08",
+        "2027-02-15"
+      ],
+      "occurrences": 16
+    },
+    {
       "id": "ev-newtown-square-ms-musical-auditions-551020",
       "name": "MS Musical Auditions",
       "category": "events",
@@ -4714,6 +4862,97 @@
       "occurrences": 4
     },
     {
+      "id": "ev-wayne-sprouts-a-student-led-botany-course-b15e98",
+      "name": "Sprouts: A Student-Led Botany Course",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "classes",
+        "learning",
+        "special-audience"
+      ],
+      "shortDescription": "Winsor Room - Registration required Grades 1st-5th Led by students from The Baldwin School and Conestoga High School, the Sprouts course is a botany-based,...",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-14",
+      "endDate": "2026-11-23",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17420319",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7c0541b1-573c-44ea-a228-c018d23d6096.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mondays, Sep 14 - Nov 23",
+      "nextDate": "2026-09-14",
+      "dates": [
+        "2026-09-14",
+        "2026-09-21",
+        "2026-09-28",
+        "2026-10-05",
+        "2026-10-26",
+        "2026-11-02",
+        "2026-11-09",
+        "2026-11-16",
+        "2026-11-23"
+      ],
+      "occurrences": 9
+    },
+    {
+      "id": "ev-wayne-start-accepting-halloween-costumes-3dfa9f",
+      "name": "Start Accepting Halloween Costumes",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "fundraiser",
+        "halloween",
+        "holiday"
+      ],
+      "shortDescription": "Costume Donation Drop-off: September 14 - October 7 At the Children's Desk Baby, Toddler, and Kids' Sizes Looking to pass along your gently used kids' Halloween costumes?",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-09-14",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17420284",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/acc35a6b-583b-4614-ad52-1b445886c9c7.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mon, Sep 14",
+      "nextDate": "2026-09-14",
+      "dates": [
+        "2026-09-14"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-villanova-belly-dance-class-at-the-willows-mansi-606098",
       "name": "Belly Dance Class at the Willows Mansion",
       "category": "events",
@@ -4758,6 +4997,44 @@
         "2026-09-22"
       ],
       "occurrences": 8
+    },
+    {
+      "id": "ev-wayne-kite-making-workshop-8ee5b2",
+      "name": "Kite- Making Workshop",
+      "category": "events",
+      "subcategories": [
+        "learning",
+        "workshop"
+      ],
+      "shortDescription": "Winsor Room - Registration required Ages 3 & up Professional kite-makers from the South Jersey Kite Flyers' Association will guide participants age 3 & up in assembling...",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-15",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17420359",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/955a11c5-f359-4a4f-917f-e530d05928b3.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Sep 15",
+      "nextDate": "2026-09-15",
+      "dates": [
+        "2026-09-15"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-newtown-square-national-hispanic-heritage-month-f4a735",
@@ -4836,6 +5113,50 @@
         "2026-09-15"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-pages-playtime-early-literacy-play-for-tod-68a8d7",
+      "name": "Pages & Playtime: Early Literacy Play for Toddlers",
+      "category": "events",
+      "subcategories": [
+        "kids",
+        "lifestyle",
+        "literary-arts",
+        "special-audience"
+      ],
+      "shortDescription": "Winsor Room - Ages 2-4 - No registration necessary Open playtime for toddlers guided by sensory opportunities and creative exploration, geared toward gross-motor and...",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-09-16",
+      "endDate": "2026-09-30",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17420434",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bce46df8-41ec-41ec-96eb-9160bc157a57.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wednesdays, Sep 16 - Sep 30",
+      "nextDate": "2026-09-16",
+      "dates": [
+        "2026-09-16",
+        "2026-09-23",
+        "2026-09-30"
+      ],
+      "occurrences": 3
     },
     {
       "id": "ev-wayne-pageturners-book-club-131a40",
@@ -5484,6 +5805,47 @@
       "occurrences": 1
     },
     {
+      "id": "ev-radnor-fall-for-learning-a-community-day-with-ma-c085e0",
+      "name": "Fall for Learning: A Community Day with Main Line School Night!",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "classes",
+        "family",
+        "learning"
+      ],
+      "shortDescription": "Kick off the fall semester with an afternoon of fun, flavor, and community at Creutzburg!",
+      "address": "Main Line School Night Creutzburg Center, Radnor, PA",
+      "town": "Radnor",
+      "lat": 40.052747,
+      "lng": -75.35568,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-19",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://mainlineschoolnight.org/ffl2026/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/hztKE8CGyUKPPjmh2QgAzA.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Sep 19",
+      "nextDate": "2026-09-19",
+      "dates": [
+        "2026-09-19"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "haverford-township-music-festival-havertown",
       "name": "Haverford Township Music Festival",
       "category": "events",
@@ -5909,6 +6271,48 @@
       "nextDate": "2026-09-19",
       "dates": [
         "2026-09-19"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-remember-the-ladies-film-screening-the-six-c30ccd",
+      "name": "'Remember The Ladies' Film Screening: THE SIX TRIPLE EIGHT (2024)",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "film",
+        "special-audience",
+        "visual-arts"
+      ],
+      "shortDescription": "'Remember The Ladies' Film Screening: THE SIX TRIPLE EIGHT (2024) Cosponsored by Delaware County Department of Military and Veterans Affairs, Radnor Memorial Library,...",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "historic"
+      ],
+      "hours": {},
+      "startDate": "2026-09-20",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17341291",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4f345f40-1857-4acd-967a-3885548da6fe.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Sep 20",
+      "nextDate": "2026-09-20",
+      "dates": [
+        "2026-09-20"
       ],
       "occurrences": 1
     },
@@ -6457,6 +6861,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-the-science-of-soccer-engineered-by-the-fr-467539",
+      "name": "The Science of Soccer: Engineered by The Franklin Institute",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Winsor Room - Registration required Ages 6-10 Soccer, like many sports, is all about motion.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-24",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17420581",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4bb46c0c-ec2a-4799-b30b-fd9cf072ae19.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Sep 24",
+      "nextDate": "2026-09-24",
+      "dates": [
+        "2026-09-24"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-chester-an-evening-with-steve-trevi-o-1a5c06",
       "name": "An Evening With Steve Treviño",
       "category": "events",
@@ -6731,6 +7173,45 @@
       "website": "https://www.bandsintown.com/e/107179186?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/afmjqFHBtEeZSMTn19w1tQ.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Sep 26",
+      "nextDate": "2026-09-26",
+      "dates": [
+        "2026-09-26"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-minecraft-acorn-archery-presented-by-array-adbee3",
+      "name": "Minecraft Acorn Archery: Presented by Arrayscape Gaming",
+      "category": "events",
+      "subcategories": [
+        "games",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Winsor Room - Grades 3rd-6th - Registration required Ignite kids' competitive spirit with our thrilling Acorn Archery!",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-26",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17420676",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7f9d4d05-9ee5-4393-8d4b-45ae24c7d1b8.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -7437,6 +7918,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-media-keep-the-change-757203",
+      "name": "Keep the Change",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "KEEP THE CHANGE BAND was founded in 2011 by Jeff Perlman along with former member Rowland Adamoli.",
+      "address": "Stephen's On State, Media, PA",
+      "town": "Media",
+      "lat": 39.918301,
+      "lng": -75.391304,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-01",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108709037?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cf7b575e-9163-4377-aa9d-54d6f1017ad9.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Oct 1",
+      "nextDate": "2026-10-01",
+      "dates": [
+        "2026-10-01"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-chester-widener-pride-women-s-volleyball-vs-wash-50ee45",
       "name": "Widener Pride: Women's Volleyball vs Washington College",
       "category": "events",
@@ -7960,6 +8481,41 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/16cf8378-6870-45ee-8fe0-c01a9072f81a.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Oct 6",
+      "nextDate": "2026-10-06",
+      "dates": [
+        "2026-10-06"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-uap-cases-of-interest-and-intrigue-from-bl-7f38be",
+      "name": "UAP Cases of Interest and Intrigue: From Black Triangles to Missing Scientists",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "RML in Partnership with Main Line MUFON, Southeastern Pennsylvania Tuesday, 10/6/26 6:30pm (Doors open at 6:00pm) Winsor Room Are you ready to explore the world of \"High...",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17272581",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c5dcb036-5673-4b25-817b-7f63f07730c4.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
