@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-08-21T09:55:36.780712+00:00",
+  "scraped_at": "2026-08-22T09:47:38.828254+00:00",
   "horizon_days": 180,
-  "event_count": 328,
+  "event_count": 339,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-08-21",
+      "startDate": "2026-08-22",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Aug 21 - Oct 31",
-      "nextDate": "2026-08-21",
+      "schedule": "Daily, Aug 22 - Oct 31",
+      "nextDate": "2026-08-22",
       "dates": [
-        "2026-08-21",
         "2026-08-22",
         "2026-08-23",
         "2026-08-24",
@@ -112,303 +111,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 72
-    },
-    {
-      "id": "ev-chester-fusion-friday-8b3ca3",
-      "name": "Fusion Friday",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Fusion Friday at CMPRadio Foundation Studio in Chester.",
-      "address": "CMPRadio Foundation Studio, Chester, PA",
-      "town": "Chester",
-      "lat": 39.845412,
-      "lng": -75.362937,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-21",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.chestercity.com/event/fusion-friday-9/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Pz93cRvJrE-s7aaV7ReoRw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Aug 21",
-      "nextDate": "2026-08-21",
-      "dates": [
-        "2026-08-21"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-newtown-square-farmers-market-82ee6b",
-      "name": "Newtown Square Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "farmers-market",
-        "food-drink",
-        "live-music",
-        "markets"
-      ],
-      "shortDescription": "The Newtown Square Farmers Market is moving to a new location this year!",
-      "address": "Garrett Williamson, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.972995,
-      "lng": -75.418764,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-21",
-      "endDate": "2026-09-25",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "http://facebook.com/NewtownSquareFarmersMarket",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3z7dGbZ3hUq5SvVxMJxAvQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fridays, Aug 21 - Sep 25",
-      "nextDate": "2026-08-21",
-      "dates": [
-        "2026-08-21",
-        "2026-09-11",
-        "2026-09-25"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
-      "name": "One Time Adult Wheel Class",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "visual-arts"
-      ],
-      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-21",
-      "endDate": "2026-09-27",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154443/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "23 dates, Aug 21 - Sep 27",
-      "nextDate": "2026-08-21",
-      "dates": [
-        "2026-08-21",
-        "2026-08-22",
-        "2026-08-23",
-        "2026-08-27",
-        "2026-08-28",
-        "2026-08-29",
-        "2026-08-30",
-        "2026-09-03",
-        "2026-09-04",
-        "2026-09-05",
-        "2026-09-06",
-        "2026-09-10",
-        "2026-09-11",
-        "2026-09-12",
-        "2026-09-13",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-19",
-        "2026-09-20",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-26",
-        "2026-09-27"
-      ],
-      "occurrences": 23
-    },
-    {
-      "id": "ev-wayne-stargazer-lily-the-peace-creeps-at-118-nor-0a2202",
-      "name": "Stargazer Lily + The Peace Creeps at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Stargazer Lily at 118 North With The Peace Creeps Friday, August 21, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-21",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1883828952313737/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/LUcdK8tIMk2Rwyd-P3mD9A.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Aug 21",
-      "nextDate": "2026-08-21",
-      "dates": [
-        "2026-08-21"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-tech-fun-with-the-meta-quest-vr-headset-3c07f7",
-      "name": "Tech Fun with the Meta Quest VR Headset",
-      "category": "events",
-      "subcategories": [
-        "games",
-        "special-audience"
-      ],
-      "shortDescription": "Drop in to try out the Quest virtual reality headset- play a game, create art, or travel to a virtual world! First come, first served. For rising grades 6-12. Teen Room",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-21",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17089874",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7662dcb0-b5cd-4ba5-a3a7-e3d72226f632.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Aug 21",
-      "nextDate": "2026-08-21",
-      "dates": [
-        "2026-08-21"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-weekend-warm-up-hike-eb7eb4",
-      "name": "Weekend Warm-up Hike",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "fitness",
-        "nature",
-        "outdoor-recreation"
-      ],
-      "shortDescription": "FOR ADULTS 18+ Start your Friday on the right foot with an invigorating one-hour hike through Tyler’s gardens and into the wilder natural areas beyond the deer exclusion...",
-      "address": "Tyler Arboretum, Media, PA",
-      "town": "Media",
-      "lat": 39.935841,
-      "lng": -75.429977,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-08-21",
-      "endDate": "2026-08-28",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "(610) 566-9134",
-      "website": "https://tylerarboretum.org/calendar/weekend-warm-up-hike-12-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Xf2VS-1tbEKWFsGGFHIQAA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fridays, Aug 21 - Aug 28",
-      "nextDate": "2026-08-21",
-      "dates": [
-        "2026-08-21",
-        "2026-08-28"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-ridley-park-benjamin-louis-de9b89",
-      "name": "benjamin louis",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "film",
-        "live-music",
-        "music"
-      ],
-      "shortDescription": "730-1030pm benjamin louis has been writing and performing music over half his life.",
-      "address": "Rosemary, Ridley Park, PA",
-      "town": "Ridley Park",
-      "lat": 39.879562,
-      "lng": -75.322884,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-21",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/108452868?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IA3nWdR_L02rcv-YmMHa2Q.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Aug 21",
-      "nextDate": "2026-08-21",
-      "dates": [
-        "2026-08-21"
-      ],
-      "occurrences": 1
+      "occurrences": 71
     },
     {
       "id": "ev-chester-back-to-school-resource-fair-713210",
@@ -440,6 +143,46 @@
       "website": "https://www.chestercity.com/event/back-to-school-resource-fair/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/com4MP9lgUm3oZG-3skK1g.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Aug 22",
+      "nextDate": "2026-08-22",
+      "dates": [
+        "2026-08-22"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-lansdowne-dustin-arbuckle-the-damnations-7b5964",
+      "name": "Dustin Arbuckle & The Damnations",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Dustin Arbuckle & The Damnations are a blues-centric band with a wide reach.",
+      "address": "Jamey's House of Music, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.937344,
+      "lng": -75.274493,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-22",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108644635?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/j_iYqnzACk613J0MBdix1w.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -649,6 +392,48 @@
       "occurrences": 1
     },
     {
+      "id": "ev-media-gentle-flow-yoga-05b709",
+      "name": "Gentle Flow Yoga",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "fitness",
+        "learning",
+        "outdoor-recreation"
+      ],
+      "shortDescription": "Step onto the mat, breathe deeply, and flow through gentle outdoor yoga with instructor Christina Teofilak.",
+      "address": "Tyler Arboretum, Media, PA",
+      "town": "Media",
+      "lat": 39.935841,
+      "lng": -75.429977,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-08-22",
+      "endDate": "2026-08-29",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "(610) 566-9134",
+      "website": "https://tylerarboretum.org/calendar/gentle-flow-yoga-single-class-2-3-2-2-2-2-2-2-2-2-2/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/V_Tjkd-NzEKsozyjySGjZg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Saturdays, Aug 22 - Aug 29",
+      "nextDate": "2026-08-22",
+      "dates": [
+        "2026-08-22",
+        "2026-08-29"
+      ],
+      "occurrences": 2
+    },
+    {
       "id": "ev-chester-get-plugged-in-block-party-1437f9",
       "name": "Get Plugged In Block Party",
       "category": "events",
@@ -802,6 +587,65 @@
       "occurrences": 1
     },
     {
+      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
+      "name": "One Time Adult Wheel Class",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "visual-arts"
+      ],
+      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-22",
+      "endDate": "2026-09-27",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154443/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "22 dates, Aug 22 - Sep 27",
+      "nextDate": "2026-08-22",
+      "dates": [
+        "2026-08-22",
+        "2026-08-23",
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-29",
+        "2026-08-30",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-05",
+        "2026-09-06",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-12",
+        "2026-09-13",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-27"
+      ],
+      "occurrences": 22
+    },
+    {
       "id": "ridley-park-farmers-market",
       "name": "Ridley Park Farmers Market",
       "category": "events",
@@ -882,6 +726,46 @@
         "2026-08-29"
       ],
       "occurrences": 2
+    },
+    {
+      "id": "ev-woodlyn-spoken-life-385d82",
+      "name": "Spoken Life",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Spoken Life at Liberty Tavern in Woodlyn.",
+      "address": "Liberty Tavern, Woodlyn, PA",
+      "town": "Woodlyn",
+      "lat": 39.870147,
+      "lng": -75.356681,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-22",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108352941?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8H40rt5JTUmQ2NOTOO5Jfw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Aug 22",
+      "nextDate": "2026-08-22",
+      "dates": [
+        "2026-08-22"
+      ],
+      "occurrences": 1
     },
     {
       "id": "springfield-farmers-market",
@@ -2378,6 +2262,47 @@
       "occurrences": 1
     },
     {
+      "id": "ev-media-weekend-warm-up-hike-eb7eb4",
+      "name": "Weekend Warm-up Hike",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "fitness",
+        "nature",
+        "outdoor-recreation"
+      ],
+      "shortDescription": "FOR ADULTS 18+ Start your Friday on the right foot with an invigorating one-hour hike through Tyler’s gardens and into the wilder natural areas beyond the deer exclusion...",
+      "address": "Tyler Arboretum, Media, PA",
+      "town": "Media",
+      "lat": 39.935841,
+      "lng": -75.429977,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-08-28",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "(610) 566-9134",
+      "website": "https://tylerarboretum.org/calendar/weekend-warm-up-hike-12-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Xf2VS-1tbEKWFsGGFHIQAA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Aug 28",
+      "nextDate": "2026-08-28",
+      "dates": [
+        "2026-08-28"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-villanova-william-mary-football-at-villanova-4b6883",
       "name": "William & Mary Football at Villanova",
       "category": "events",
@@ -2708,6 +2633,43 @@
       "website": "https://www.eventbrite.com/e/delco-media-brunchalong-on-august-30h-at-the-townehouse-tickets-1988931770466",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/j4jRSgV37kCE4N9Ey5_QhA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Aug 30",
+      "nextDate": "2026-08-30",
+      "dates": [
+        "2026-08-30"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-clifton-heights-podcast-live-day-party-1c6abe",
+      "name": "PODCAST LIVE! DAY PARTY",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "learning"
+      ],
+      "shortDescription": "Experience Beyond the Bid LIVE! Join Ace Capone & Golden Girl for an unforgettable podcast, audience Q&A & free signed book!",
+      "address": "Illusions Banquet Hall and Sports Bar, Clifton Heights, PA",
+      "town": "Clifton Heights",
+      "lat": 39.92717,
+      "lng": -75.303846,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-30",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/podcast-live-day-party-tickets-1996337804112",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/s8nu1rHRHUW962sVxwzEKA.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -4134,6 +4096,47 @@
       "occurrences": 1
     },
     {
+      "id": "ev-newtown-square-newtown-square-farmers-market-82ee6b",
+      "name": "Newtown Square Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "farmers-market",
+        "food-drink",
+        "live-music",
+        "markets"
+      ],
+      "shortDescription": "The Newtown Square Farmers Market is moving to a new location this year!",
+      "address": "Garrett Williamson, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.972995,
+      "lng": -75.418764,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-11",
+      "endDate": "2026-09-25",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "http://facebook.com/NewtownSquareFarmersMarket",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3z7dGbZ3hUq5SvVxMJxAvQ.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fridays, Sep 11 - Sep 25",
+      "nextDate": "2026-09-11",
+      "dates": [
+        "2026-09-11",
+        "2026-09-25"
+      ],
+      "occurrences": 2
+    },
+    {
       "id": "ev-wayne-reading-rocks-a-music-dance-and-comedy-sho-7179e6",
       "name": "Reading Rocks!: A Music, Dance, and Comedy Show with Mr. Matt from Turtle Dance Music",
       "category": "events",
@@ -4439,6 +4442,43 @@
       "website": "https://www.chestercity.com/event/peace-love-unity-festival/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/48d62f8d-8d8b-400a-889c-6d762b93e82a.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Sep 12",
+      "nextDate": "2026-09-12",
+      "dates": [
+        "2026-09-12"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-primos-sensory-friendly-singles-social-21-45-5fb02b",
+      "name": "Sensory-Friendly Singles Social | 21-45",
+      "category": "events",
+      "subcategories": [
+        "special-audience"
+      ],
+      "shortDescription": "Relaxed, structured afternoon for those who prefer quiet spaces, guided chats & meaningful talks. Low noise, soft lighting, no overwhelm.",
+      "address": "JT Brewski's Pub, Primos, PA",
+      "town": "Primos",
+      "lat": 39.920724,
+      "lng": -75.29879,
+      "priceTier": 2,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-12",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/sensory-friendly-singles-social-21-45-tickets-1996989571566",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gUBlmtTHZE2wfUGLfAF6CA.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -4997,6 +5037,41 @@
         "2026-09-22"
       ],
       "occurrences": 8
+    },
+    {
+      "id": "ev-west-chester-command-essentials-47528e",
+      "name": "Command Essentials",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Master Command with this 5-part hands-on series! Build your database, automate follow-up, market smarter, and grow your business.",
+      "address": "Keller Williams Real Estate-Brandywine Valley, West Chester, PA",
+      "town": "West Chester",
+      "lat": 39.901964,
+      "lng": -75.560393,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-15",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/command-essentials-tickets-1997053437591",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ineNnSs4z0-9CNYNkEB4gA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Sep 15",
+      "nextDate": "2026-09-15",
+      "dates": [
+        "2026-09-15"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-wayne-kite-making-workshop-8ee5b2",
@@ -5617,6 +5692,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-glen-mills-wine-cheese-and-bird-quizzo-with-dan-345cde",
+      "name": "Wine, Cheese and Bird Quizzo with Dan Stabb!",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink"
+      ],
+      "shortDescription": "Test your bird knowledge for a prize!",
+      "address": "Wild Birds Unlimited, Glen Mills, PA",
+      "town": "Glen Mills",
+      "lat": 39.88612,
+      "lng": -75.531132,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-18",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/wine-cheese-and-bird-quizzo-with-dan-stabb-tickets-1995587190005",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pNRHn3_0ykGPrYwZI9kJNg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Sep 18",
+      "nextDate": "2026-09-18",
+      "dates": [
+        "2026-09-18"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-prospect-park-a-funny-night-of-celebration-2c307d",
       "name": "A FUNNY NIGHT OF CELEBRATION",
       "category": "events",
@@ -5846,6 +5959,43 @@
       "occurrences": 1
     },
     {
+      "id": "ev-media-glow-flow-a-wellness-experience-by-ran-wit-614160",
+      "name": "Glow & Flow: A Wellness Experience by Ran With Beauty",
+      "category": "events",
+      "subcategories": [
+        "health-wellness",
+        "lifestyle"
+      ],
+      "shortDescription": "Unwind, glow up, and flow with good vibes at Ran With Beauty’s ultimate wellness bash!",
+      "address": "Roosevelt Community Center, Media, PA",
+      "town": "Media",
+      "lat": 39.896055,
+      "lng": -75.402852,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-19",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/glow-flow-a-wellness-experience-by-ran-with-beauty-tickets-1997985858487",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/lGhwkezXgEWIVS13mTu-6A.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Sep 19",
+      "nextDate": "2026-09-19",
+      "dates": [
+        "2026-09-19"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "haverford-township-music-festival-havertown",
       "name": "Haverford Township Music Festival",
       "category": "events",
@@ -5882,6 +6032,46 @@
       "dates": [
         "2026-09-19"
       ]
+    },
+    {
+      "id": "ev-glen-mills-meet-a-live-red-tailed-hawk-eastern-s-9fe789",
+      "name": "Meet a Live Red-tailed Hawk, Eastern Screech Owl and African Lanner Falcon",
+      "category": "events",
+      "subcategories": [
+        "nature",
+        "outdoor-recreation",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Courtney Douds, founder and owner of Raptor Jawns will be here for two hours. Drop in and meet the birds!",
+      "address": "Wild Birds Unlimited, Glen Mills, PA",
+      "town": "Glen Mills",
+      "lat": 39.88612,
+      "lng": -75.531132,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-09-19",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/meet-a-live-red-tailed-hawk-eastern-screech-owl-and-african-lanner-falcon-tickets-1995336169195",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/FB1uu-pcfES_a4jXNfTUjQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Sep 19",
+      "nextDate": "2026-09-19",
+      "dates": [
+        "2026-09-19"
+      ],
+      "occurrences": 1
     },
     {
       "id": "pints-in-the-square-newtown-square",
@@ -6383,6 +6573,46 @@
       "website": "",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/432488c8-9874-4a5e-9175-7e2bbc2e65cf.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Sep 20",
+      "nextDate": "2026-09-20",
+      "dates": [
+        "2026-09-20"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-smiles-other-coping-mechanisms-book-rele-77d284",
+      "name": "Smiles & Other Coping Mechanisms Book Release",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "health-wellness",
+        "lifestyle",
+        "literary-arts"
+      ],
+      "shortDescription": "Official release event for S.A.W. Sounds book “Smiles & Other Coping Mechanisms: Poetry Loves My Randomness”.",
+      "address": "R&R Paradise Banquet Hall, Chester, PA",
+      "town": "Chester",
+      "lat": 39.855001,
+      "lng": -75.361632,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-20",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/smiles-other-coping-mechanisms-book-release-tickets-1997880514400",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_oKs8BcU2UmZ8oSOBwylCg.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -7369,6 +7599,44 @@
       "website": "https://www.facebook.com/events/2953938791619739/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/tRmytiFtikKwAGmdx04f6g.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Sep 26",
+      "nextDate": "2026-09-26",
+      "dates": [
+        "2026-09-26"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-villanova-villanova-wildcats-football-vs-colgate-07e0b0",
+      "name": "Villanova Wildcats Football vs. Colgate University Raiders Football",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Villanova Wildcats Football vs. Colgate University Raiders Football at Villanova Stadium in Villanova.",
+      "address": "Villanova Stadium, Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.03494,
+      "lng": -75.34058,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-26",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cdY2IvTGd0mqVlS8paqDYw.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -8830,6 +9098,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-family-day-of-clay-mummy-lantern-ec4013",
+      "name": "Family Day of Clay: Mummy Lantern",
+      "category": "events",
+      "subcategories": [
+        "family",
+        "halloween",
+        "holiday",
+        "special-audience"
+      ],
+      "shortDescription": "Create lasting memories with your child during this hands-on clay workshop!",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-10",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2172/family-day-of-clay-mummy-lantern",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/vwXn5Qd2_UqkEYQyudViaA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 10",
+      "nextDate": "2026-10-10",
+      "dates": [
+        "2026-10-10"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-chester-fightworld-46-ce78c3",
       "name": "FightWorld 46",
       "category": "events",
@@ -9925,6 +10233,48 @@
       "occurrences": 1
     },
     {
+      "id": "ev-drexel-hill-murder-mystery-co-dinner-theater-sho-fe3e2e",
+      "name": "Murder Mystery Co. Dinner Theater Show at Casey's Drexel Hill",
+      "category": "events",
+      "subcategories": [
+        "comedy",
+        "food",
+        "food-drink",
+        "nightlife"
+      ],
+      "shortDescription": "Join the murder mystery experience that puts YOU in the spotlight in Metro Philadelphia.",
+      "address": "Casey's Drexel Hill, Drexel Hill, PA",
+      "town": "Drexel Hill",
+      "lat": 39.959937,
+      "lng": -75.288952,
+      "priceTier": 3,
+      "tags": [
+        "group",
+        "open-late"
+      ],
+      "hours": {},
+      "startDate": "2026-10-23",
+      "endDate": "2026-12-12",
+      "recurring": "seasonal",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.murdermysteryco.com/?utm_source=discovery&utm_medium=listing&utm_campaign=46138",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/zmtLZIFCRkyyEqRoFjZsmQ.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Select dates, Oct 23 - Dec 12",
+      "nextDate": "2026-10-23",
+      "dates": [
+        "2026-10-23",
+        "2026-11-20",
+        "2026-12-12"
+      ],
+      "occurrences": 3
+    },
+    {
       "id": "ev-lansdowne-ashley-mcbryde-eea214",
       "name": "Ashley McBryde",
       "category": "events",
@@ -10150,6 +10500,46 @@
       "website": "https://www.bandsintown.com/e/108116107?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/HfH30NlXqEKr85dYG8D63w.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 24",
+      "nextDate": "2026-10-24",
+      "dates": [
+        "2026-10-24"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-villanova-villanova-wildcats-football-vs-lehigh-5d7a97",
+      "name": "Villanova Wildcats Football vs. Lehigh Mountain Hawks Football",
+      "category": "events",
+      "subcategories": [
+        "outdoor-recreation",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Villanova Wildcats Football vs. Lehigh Mountain Hawks Football at Villanova Stadium in Villanova.",
+      "address": "Villanova Stadium, Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.03494,
+      "lng": -75.34058,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-10-24",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cdY2IvTGd0mqVlS8paqDYw.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -11237,6 +11627,44 @@
       "website": "",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OWjG7SacvE6RIbI5tnNHCA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 7",
+      "nextDate": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-villanova-villanova-wildcats-football-vs-richmon-4ee9d6",
+      "name": "Villanova Wildcats Football vs. Richmond Spiders Football",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Villanova Wildcats Football vs. Richmond Spiders Football at Villanova Stadium in Villanova.",
+      "address": "Villanova Stadium, Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.03494,
+      "lng": -75.34058,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-07",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cdY2IvTGd0mqVlS8paqDYw.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
