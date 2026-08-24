@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-08-23T09:48:26.193037+00:00",
+  "scraped_at": "2026-08-24T10:08:16.546856+00:00",
   "horizon_days": 180,
-  "event_count": 330,
+  "event_count": 325,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-08-23",
+      "startDate": "2026-08-24",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Aug 23 - Oct 31",
-      "nextDate": "2026-08-23",
+      "schedule": "Daily, Aug 24 - Oct 31",
+      "nextDate": "2026-08-24",
       "dates": [
-        "2026-08-23",
         "2026-08-24",
         "2026-08-25",
         "2026-08-26",
@@ -110,289 +109,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 70
-    },
-    {
-      "id": "ev-st-davids-amada-s-annual-summer-cava-y-cochinill-4cf5db",
-      "name": "Amada's Annual Summer Cava y Cochinillo Event",
-      "category": "events",
-      "subcategories": [
-        "food-drink"
-      ],
-      "shortDescription": "Amada's Annual Summer Cava y Cochinillo Event at Amada in St. Davids.",
-      "address": "Amada, St. Davids, PA",
-      "town": "St. Davids",
-      "lat": 40.043021,
-      "lng": -75.365357,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-23",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.oldcitydistrict.org/events/amadas-annual-summer-cava-y-cochinillo-event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/uip2FGW3aUymHUUeyujuhg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Aug 23",
-      "nextDate": "2026-08-23",
-      "dates": [
-        "2026-08-23"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-blood-drive-0fc10d",
-      "name": "Blood Drive",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "volunteering"
-      ],
-      "shortDescription": "Blood Drive at WSFS Bank Sportsplex in Chester.",
-      "address": "WSFS Bank Sportsplex, Chester, PA",
-      "town": "Chester",
-      "lat": 39.831902,
-      "lng": -75.382535,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-23",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.chestercity.com/event/blood-drive-2/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3drgv4UZG0OrlgOZzMOKBg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Aug 23",
-      "nextDate": "2026-08-23",
-      "dates": [
-        "2026-08-23"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-hands-on-loc-workshop-for-beginners-f4e031",
-      "name": "Hands -On Loc Workshop for Beginners",
-      "category": "events",
-      "subcategories": [
-        "learning",
-        "workshop"
-      ],
-      "shortDescription": "$200 Loc Maintenance Workshop. Kit included. Refreshments will be provided.",
-      "address": "All-Starz Salon, Chester, PA",
-      "town": "Chester",
-      "lat": 39.835533,
-      "lng": -75.387374,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-23",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/hands-on-loc-workshop-for-beginners-registration-1995556880348",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mx-gBaU6uEu2bGBWiWVeIw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Aug 23",
-      "nextDate": "2026-08-23",
-      "dates": [
-        "2026-08-23"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
-      "name": "One Time Adult Wheel Class",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "visual-arts"
-      ],
-      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-23",
-      "endDate": "2026-09-27",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154443/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "21 dates, Aug 23 - Sep 27",
-      "nextDate": "2026-08-23",
-      "dates": [
-        "2026-08-23",
-        "2026-08-27",
-        "2026-08-28",
-        "2026-08-29",
-        "2026-08-30",
-        "2026-09-03",
-        "2026-09-04",
-        "2026-09-05",
-        "2026-09-06",
-        "2026-09-10",
-        "2026-09-11",
-        "2026-09-12",
-        "2026-09-13",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-19",
-        "2026-09-20",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-26",
-        "2026-09-27"
-      ],
-      "occurrences": 21
-    },
-    {
-      "id": "ev-chester-safe-summer-union-ii-game-df8866",
-      "name": "Safe Summer Union II Game",
-      "category": "events",
-      "subcategories": [
-        "games"
-      ],
-      "shortDescription": "Safe Summer Union II Game at Subaru Park in Chester.",
-      "address": "Subaru Park, Chester, PA",
-      "town": "Chester",
-      "lat": 39.828772,
-      "lng": -75.383517,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-23",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.chestercity.com/event/safe-summer-union-ii-game/2026-08-23/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/LvnDKKuiSEu1_Rf8pv1jow.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Aug 23",
-      "nextDate": "2026-08-23",
-      "dates": [
-        "2026-08-23"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-tim-easton-at-118-north-bdd23f",
-      "name": "Tim Easton at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Tim Easton at 118 North With Max Bartos Sunday, August 23, 2026 Doors: 5:30 PM | Show: 8:00 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
-      "address": "Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-23",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/944380757926950/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/HB-jipTpdku-gYhRkJpj2A.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Aug 23",
-      "nextDate": "2026-08-23",
-      "dates": [
-        "2026-08-23"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-wally-smith-organ-trio-at-118-north-fee76e",
-      "name": "Wally Smith Organ Trio at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Wally Smith Organ Trio at 118 North Sunday, August 23, 2026 Doors & Show: 4:00 PM 21+ Tickets >> https://tixr.com/pr/social/198792",
-      "address": "Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-23",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1770750774346381/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cB7Pj-BHfU6dcvbFweIERw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Aug 23",
-      "nextDate": "2026-08-23",
-      "dates": [
-        "2026-08-23"
-      ],
-      "occurrences": 1
+      "occurrences": 69
     },
     {
       "id": "ev-wayne-family-open-play-under-the-sea-730685",
@@ -1319,6 +1036,63 @@
         "2026-08-27"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
+      "name": "One Time Adult Wheel Class",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "visual-arts"
+      ],
+      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-27",
+      "endDate": "2026-09-27",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154443/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "20 dates, Aug 27 - Sep 27",
+      "nextDate": "2026-08-27",
+      "dates": [
+        "2026-08-27",
+        "2026-08-28",
+        "2026-08-29",
+        "2026-08-30",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-05",
+        "2026-09-06",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-12",
+        "2026-09-13",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-27"
+      ],
+      "occurrences": 20
     },
     {
       "id": "ev-drexel-hill-thursday-karaoke-at-casey-s-restaura-4579c1",
@@ -4908,6 +4682,40 @@
       "nextDate": "2026-09-16",
       "dates": [
         "2026-09-16"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-broomall-ai-and-dvava-2f8735",
+      "name": "AI and DVAVA",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Join DVAVA at Grace Lutheran Church in Broomall to learn about AI and volunteer management.",
+      "address": "Grace Lutheran Church, Broomall, PA",
+      "town": "Broomall",
+      "lat": 39.979941,
+      "lng": -75.345461,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-17",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/ai-and-dvava-tickets-1997157421610",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/527325e0-bf39-4087-aaed-4be83fdd13a4.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Sep 17",
+      "nextDate": "2026-09-17",
+      "dates": [
+        "2026-09-17"
       ],
       "occurrences": 1
     },
