@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-08-25T09:55:46.840831+00:00",
+  "scraped_at": "2026-08-26T10:01:48.808913+00:00",
   "horizon_days": 180,
-  "event_count": 324,
+  "event_count": 334,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-08-25",
+      "startDate": "2026-08-26",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Aug 25 - Oct 31",
-      "nextDate": "2026-08-25",
+      "schedule": "Daily, Aug 26 - Oct 31",
+      "nextDate": "2026-08-26",
       "dates": [
-        "2026-08-25",
         "2026-08-26",
         "2026-08-27",
         "2026-08-28",
@@ -108,263 +107,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 68
-    },
-    {
-      "id": "ev-wayne-ancient-greece-workshop-3479e9",
-      "name": "Ancient Greece Workshop",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "workshop"
-      ],
-      "shortDescription": "Winsor Room - Grades K-5th - Registration required Learn the basics of Ancient Greek, the language and cultural background, and dive into the mythology of ancient Greece...",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17048556",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/695840dd-2b8f-4a30-817f-31e75c1d8810.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Aug 25",
-      "nextDate": "2026-08-25",
-      "dates": [
-        "2026-08-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-delco-revive-free-bls-cpr-3a3670",
-      "name": "Delco Revive! Free BLS CPR",
-      "category": "events",
-      "subcategories": [
-        "civic"
-      ],
-      "shortDescription": "Delco Revive! Free BLS CPR at Keystone First Wellness & Opportunity Center in Chester.",
-      "address": "Keystone First Wellness & Opportunity Center, Chester, PA",
-      "town": "Chester",
-      "lat": 39.840989,
-      "lng": -75.38558,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-25",
-      "endDate": "2026-11-24",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.chestercity.com/event/delco-revive-free-bls-cpr/2026-08-25/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9QI9KrVYMUqnoXPKCg27wA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Aug 25 - Nov 24",
-      "nextDate": "2026-08-25",
-      "dates": [
-        "2026-08-25",
-        "2026-09-29",
-        "2026-10-27",
-        "2026-11-24"
-      ],
-      "occurrences": 4
-    },
-    {
-      "id": "ev-radnor-main-line-music-appreciation-soc-think-yo-6f1283",
-      "name": "Main Line Music Appreciation Soc: \"Think You Don't Know Country Music?\"",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "The Main Line Music Appreciation Society presents “You Think You Don’t Know Country Music”.",
-      "address": "Bryn Mawr Film Institute, Radnor, PA",
-      "town": "Radnor",
-      "lat": 40.061416,
-      "lng": -75.356005,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.mlmas.org/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/G5OiCsBevkiBlg2hKT1lYQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Aug 25",
-      "nextDate": "2026-08-25",
-      "dates": [
-        "2026-08-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-oldies-in-the-hall-c752a9",
-      "name": "Oldies in the Hall",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Oldies in the Hall at Chester City Hall in Chester.",
-      "address": "Chester City Hall, Chester, PA",
-      "town": "Chester",
-      "lat": 39.847305,
-      "lng": -75.35934,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-25",
-      "endDate": "2026-10-06",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.chestercity.com/event/oldies-in-the-hall/2026-08-25/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/A9KZdailukOfcROaJcyKoA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Aug 25 - Oct 6",
-      "nextDate": "2026-08-25",
-      "dates": [
-        "2026-08-25",
-        "2026-09-01",
-        "2026-09-08",
-        "2026-09-15",
-        "2026-09-22",
-        "2026-09-29",
-        "2026-10-06"
-      ],
-      "occurrences": 7
-    },
-    {
-      "id": "ev-west-chester-pa-contracts-contracts-with-confide-70c446",
-      "name": "PA Contracts: Contracts with Confidence",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Get the scoop on all PA contracts — network, learn, and score your next big deal!",
-      "address": "Keller Williams Real Estate-Brandywine Valley, West Chester, PA",
-      "town": "West Chester",
-      "lat": 39.901964,
-      "lng": -75.560393,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/pa-contracts-contracts-with-confidence-tickets-1994375317261",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/V8Jfm99iLEWdpccah3rCKg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Aug 25",
-      "nextDate": "2026-08-25",
-      "dates": [
-        "2026-08-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-holmes-tuesday-karaoke-at-haggertys-in-holmes-pa-3b255e",
-      "name": "Tuesday Karaoke at Haggertys in Holmes, PA (Delaware County",
-      "category": "events",
-      "subcategories": [
-        "open-mic",
-        "performing-arts"
-      ],
-      "shortDescription": "Karaoke is Every Tuesday at Haggertys in Homes, PA (Delaware County, PA) Karaoke starts at 8pm.",
-      "address": "Haggerty's Cafe, Holmes, PA",
-      "town": "Holmes",
-      "lat": 39.899696,
-      "lng": -75.305652,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-25",
-      "endDate": "2027-02-16",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/tuesday-karaoke-at-haggertys-in-holmes-pa-delaware-county-pa-tickets-1225315845679",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/g_89wQtSp0Sz9smp4PcgxA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Aug 25 - Feb 16",
-      "nextDate": "2026-08-25",
-      "dates": [
-        "2026-08-25",
-        "2026-09-01",
-        "2026-09-08",
-        "2026-09-15",
-        "2026-09-22",
-        "2026-09-29",
-        "2026-10-06",
-        "2026-10-13",
-        "2026-10-20",
-        "2026-10-27",
-        "2026-11-03",
-        "2026-11-10",
-        "2026-11-17",
-        "2026-11-24",
-        "2026-12-01",
-        "2026-12-08",
-        "2026-12-15",
-        "2026-12-22",
-        "2026-12-29",
-        "2027-01-05",
-        "2027-01-12",
-        "2027-01-19",
-        "2027-01-26",
-        "2027-02-02",
-        "2027-02-09",
-        "2027-02-16"
-      ],
-      "occurrences": 26
+      "occurrences": 67
     },
     {
       "id": "ev-wayne-chess-club-634d75",
@@ -455,6 +198,47 @@
       "dates": [
         "2026-08-26"
       ]
+    },
+    {
+      "id": "ev-newtown-square-ea-football-youth-clinic-13d0ad",
+      "name": "EA Football Youth Clinic",
+      "category": "events",
+      "subcategories": [
+        "health-wellness",
+        "lifestyle",
+        "special-audience",
+        "sports"
+      ],
+      "shortDescription": "EA Football Youth Clinic at Smith Field (Field G) in Newtown Square.",
+      "address": "Smith Field (Field G), Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-26",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e8e62e31-8d0a-4e25-b2dc-173946c8a296.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Aug 26",
+      "nextDate": "2026-08-26",
+      "dates": [
+        "2026-08-26"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-wayne-open-mic-w-hezekiah-jones-at-118-north-19aa93",
@@ -1936,6 +1720,46 @@
       "occurrences": 5
     },
     {
+      "id": "ev-chester-oldies-in-the-hall-c752a9",
+      "name": "Oldies in the Hall",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Oldies in the Hall at Chester City Hall in Chester.",
+      "address": "Chester City Hall, Chester, PA",
+      "town": "Chester",
+      "lat": 39.847305,
+      "lng": -75.35934,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-01",
+      "endDate": "2026-10-06",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.chestercity.com/event/oldies-in-the-hall/2026-09-01/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/A9KZdailukOfcROaJcyKoA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Sep 1 - Oct 6",
+      "nextDate": "2026-09-01",
+      "dates": [
+        "2026-09-01",
+        "2026-09-08",
+        "2026-09-15",
+        "2026-09-22",
+        "2026-09-29",
+        "2026-10-06"
+      ],
+      "occurrences": 6
+    },
+    {
       "id": "ev-chester-oldies-in-the-park-a0e86f",
       "name": "Oldies in the Park",
       "category": "events",
@@ -1965,6 +1789,68 @@
       "website": "https://www.chestercity.com/event/oldies-in-the-park-2/2026-09-01/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/o6XxL0PM3kaE6hDXOaFfuw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Sep 1 - Feb 16",
+      "nextDate": "2026-09-01",
+      "dates": [
+        "2026-09-01",
+        "2026-09-08",
+        "2026-09-15",
+        "2026-09-22",
+        "2026-09-29",
+        "2026-10-06",
+        "2026-10-13",
+        "2026-10-20",
+        "2026-10-27",
+        "2026-11-03",
+        "2026-11-10",
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05",
+        "2027-01-12",
+        "2027-01-19",
+        "2027-01-26",
+        "2027-02-02",
+        "2027-02-09",
+        "2027-02-16"
+      ],
+      "occurrences": 25
+    },
+    {
+      "id": "ev-holmes-tuesday-karaoke-at-haggertys-in-holmes-pa-3b255e",
+      "name": "Tuesday Karaoke at Haggertys in Holmes, PA (Delaware County",
+      "category": "events",
+      "subcategories": [
+        "open-mic",
+        "performing-arts"
+      ],
+      "shortDescription": "Karaoke is Every Tuesday at Haggertys in Homes, PA (Delaware County, PA) Karaoke starts at 8pm.",
+      "address": "Haggerty's Cafe, Holmes, PA",
+      "town": "Holmes",
+      "lat": 39.899696,
+      "lng": -75.305652,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-01",
+      "endDate": "2027-02-16",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/tuesday-karaoke-at-haggertys-in-holmes-pa-delaware-county-pa-tickets-1225315845679",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/g_89wQtSp0Sz9smp4PcgxA.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -3514,6 +3400,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-media-men-s-soccer-howard-payne-vs-penn-st-brand-b0d02b",
+      "name": "(Men's Soccer) Howard Payne vs. Penn St. Brandywine",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "(Men's Soccer) Howard Payne vs. Penn St. Brandywine at Brandywine Field in Media.",
+      "address": "Brandywine Field, Media, PA",
+      "town": "Media",
+      "lat": 39.91678,
+      "lng": -75.38769,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-12",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "http://www.psubrandywineathletics.com/landing/index",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f5a7f77d-0c51-4a57-a1ba-4bad118eb6f1.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Sep 12",
+      "nextDate": "2026-09-12",
+      "dates": [
+        "2026-09-12"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-best-imitation-of-myself-a-tribute-to-ben-15691c",
       "name": "Best Imitation of Myself - A Tribute to Ben Folds at 118 North",
       "category": "events",
@@ -5014,6 +4938,44 @@
       "nextDate": "2026-09-18",
       "dates": [
         "2026-09-18"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-media-men-s-soccer-st-elizabeth-vs-penn-st-brand-ef3078",
+      "name": "(Men's Soccer) St. Elizabeth vs. Penn St. Brandywine",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "(Men's Soccer) St. Elizabeth vs. Penn St. Brandywine at Brandywine Field in Media.",
+      "address": "Brandywine Field, Media, PA",
+      "town": "Media",
+      "lat": 39.91678,
+      "lng": -75.38769,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-19",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "http://www.psubrandywineathletics.com/landing/index",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5245d79e-4890-4dba-8b48-8a1090c252b9.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Sep 19",
+      "nextDate": "2026-09-19",
+      "dates": [
+        "2026-09-19"
       ],
       "occurrences": 1
     },
@@ -7325,6 +7287,45 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chester-delco-revive-free-bls-cpr-3a3670",
+      "name": "Delco Revive! Free BLS CPR",
+      "category": "events",
+      "subcategories": [
+        "civic"
+      ],
+      "shortDescription": "Delco Revive! Free BLS CPR at Keystone First Wellness & Opportunity Center in Chester.",
+      "address": "Keystone First Wellness & Opportunity Center, Chester, PA",
+      "town": "Chester",
+      "lat": 39.840989,
+      "lng": -75.38558,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-29",
+      "endDate": "2026-11-24",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.chestercity.com/event/delco-revive-free-bls-cpr/2026-09-29/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9QI9KrVYMUqnoXPKCg27wA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Sep 29 - Nov 24",
+      "nextDate": "2026-09-29",
+      "dates": [
+        "2026-09-29",
+        "2026-10-27",
+        "2026-11-24"
+      ],
+      "occurrences": 3
+    },
+    {
       "id": "ev-chester-widener-pride-women-s-soccer-vs-haverfor-cd6523",
       "name": "Widener Pride: Women's Soccer vs Haverford",
       "category": "events",
@@ -7745,6 +7746,44 @@
       "nextDate": "2026-10-02",
       "dates": [
         "2026-10-02"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-media-endeavour-by-joseph-mooney-sculpture-reded-6cfe7d",
+      "name": "\"Endeavour\" by Joseph Mooney Sculpture Rededication",
+      "category": "events",
+      "subcategories": [
+        "markets",
+        "visual-arts"
+      ],
+      "shortDescription": "\"Endeavour\" by Joseph Mooney Sculpture Rededication",
+      "address": "Media, PA",
+      "town": "Media",
+      "lat": 39.91678,
+      "lng": -75.38769,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-03",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.mediaartscouncil.org/calendar/endeavor-by-joseph-mooney-sculpture-rededication-fundraiser",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cf10a0f7-e500-4a1d-9650-3e9990ba2cc3.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 3",
+      "nextDate": "2026-10-03",
+      "dates": [
+        "2026-10-03"
       ],
       "occurrences": 1
     },
@@ -8275,6 +8314,43 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-spanish-tapas-with-robert-peters-winery-wi-952580",
+      "name": "Spanish Tapas with Robert Peters Winery Wine Pairing with Karen Bentz",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink"
+      ],
+      "shortDescription": "Join Chef Karen Bentz for a hands-on cooking experience exploring Spanish Tapas with wine pairing by Robert Peters Winery.",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-08",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2148/spanish-tapas-with-robert-peters-winery-wine-pairing-with-karen-bentz",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1ABDa_2Zok6pJ1FvZidNMg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Oct 8",
+      "nextDate": "2026-10-08",
+      "dates": [
+        "2026-10-08"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-chester-homecoming-3641a5",
       "name": "Homecoming",
       "category": "events",
@@ -8776,6 +8852,44 @@
       "nextDate": "2026-10-11",
       "dates": [
         "2026-10-11"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-swarthmore-men-s-soccer-cairn-vs-penn-st-brandyw-f01095",
+      "name": "(Men's Soccer) Cairn vs. Penn St. Brandywine",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "(Men's Soccer) Cairn vs. Penn St. Brandywine at a Delco venue in Swarthmore.",
+      "address": "Swarthmore, PA",
+      "town": "Swarthmore",
+      "lat": 39.90206,
+      "lng": -75.34991,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-13",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "http://www.psubrandywineathletics.com/landing/index",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4b8401df-8242-4a6e-a069-2ec28d0848c9.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Oct 13",
+      "nextDate": "2026-10-13",
+      "dates": [
+        "2026-10-13"
       ],
       "occurrences": 1
     },
@@ -9406,6 +9520,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-media-men-s-soccer-wilson-vs-penn-st-brandywine-2ba5dd",
+      "name": "(Men's Soccer) Wilson vs. Penn St. Brandywine",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "(Men's Soccer) Wilson vs. Penn St. Brandywine at Brandywine Field in Media.",
+      "address": "Brandywine Field, Media, PA",
+      "town": "Media",
+      "lat": 39.91678,
+      "lng": -75.38769,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-21",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "http://www.psubrandywineathletics.com/landing/index",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4b8401df-8242-4a6e-a069-2ec28d0848c9.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Oct 21",
+      "nextDate": "2026-10-21",
+      "dates": [
+        "2026-10-21"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-lansdowne-rupert-wates-0ee1c8",
       "name": "Rupert Wates",
       "category": "events",
@@ -9604,6 +9756,44 @@
         "2026-12-12"
       ],
       "occurrences": 3
+    },
+    {
+      "id": "ev-media-men-s-soccer-penn-st-berks-vs-penn-st-bran-0cbe68",
+      "name": "(Men's Soccer) Penn St.-Berks vs. Penn St. Brandywine",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "(Men's Soccer) Penn St.-Berks vs. Penn St. Brandywine at Brandywine Field in Media.",
+      "address": "Brandywine Field, Media, PA",
+      "town": "Media",
+      "lat": 39.91678,
+      "lng": -75.38769,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-24",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "http://www.psubrandywineathletics.com/landing/index",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b4f13205-36d4-456b-a2cd-4c796b529819.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 24",
+      "nextDate": "2026-10-24",
+      "dates": [
+        "2026-10-24"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-lansdowne-ashley-mcbryde-eea214",
@@ -9999,6 +10189,46 @@
       "nextDate": "2026-10-24",
       "dates": [
         "2026-10-24"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-fall-workshop-family-fun-day-with-multiple-814eb0",
+      "name": "Fall Workshop Family Fun Day with Multiple Workshops!",
+      "category": "events",
+      "subcategories": [
+        "family",
+        "learning",
+        "special-audience",
+        "workshop"
+      ],
+      "shortDescription": "Fall Workshop Family Fun Day with Multiple Workshops! at Wayne Art Center in Wayne.",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-25",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2159/fall-workshop-family-fun-day-with-multiple-workshops",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9c513ac8-c270-4588-b749-360601ab955e.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Oct 25",
+      "nextDate": "2026-10-25",
+      "dates": [
+        "2026-10-25"
       ],
       "occurrences": 1
     },
@@ -11192,6 +11422,47 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-culinary-workshop-kids-cook-thanksgiving-s-d806a2",
+      "name": "Culinary Workshop: Kids Cook Thanksgiving - Savory Dinner",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink",
+        "holiday",
+        "kids"
+      ],
+      "shortDescription": "Join us for a special time for children and adults to cook, have fun, and grow closer together!",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-11-14",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2176/culinary-workshop-kids-cook-thanksgiving-savory-dinner",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QxXxJoWh5Ea_0J-01fVq5g.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 14",
+      "nextDate": "2026-11-14",
+      "dates": [
+        "2026-11-14"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-lansdowne-kansas-aaff42",
       "name": "Kansas",
       "category": "events",
@@ -11578,6 +11849,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-family-day-of-clay-festive-holiday-pie-dis-57f6b5",
+      "name": "Family Day of Clay: Festive Holiday Pie Dish",
+      "category": "events",
+      "subcategories": [
+        "family",
+        "food",
+        "food-drink",
+        "special-audience"
+      ],
+      "shortDescription": "There's always room for pie! Join your child for a fun afternoon of clay as you create an adorable ceramic holiday pie pot in your favorite \"flavor,\" complete with a...",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-21",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2173/family-day-of-clay-festive-holiday-pie-dish",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Aj7nql2MXkypklMVeL0UgQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 21",
+      "nextDate": "2026-11-21",
+      "dates": [
+        "2026-11-21"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-seeing-the-big-picture-in-landscape-painti-39da98",
       "name": "Seeing The Big Picture in Landscape Painting with Claire Haik",
       "category": "events",
@@ -11807,6 +12118,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-family-day-of-clay-elf-planter-d87910",
+      "name": "Family Day of Clay: Elf Planter",
+      "category": "events",
+      "subcategories": [
+        "christmas",
+        "family",
+        "holiday",
+        "special-audience"
+      ],
+      "shortDescription": "Looks like an elf left their pants behind! Join your child to create a whimsical clay elf pants planter that's full of holiday charm and sure to make everyone smile.",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-05",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2174/family-day-of-clay-elf-planter",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/VKlv0Nt040GbPIkfrWVGbQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Dec 5",
+      "nextDate": "2026-12-05",
+      "dates": [
+        "2026-12-05"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-craftforms-2026-jurors-talks-74367b",
       "name": "CraftForms 2026 Jurors Talks",
       "category": "events",
@@ -11873,6 +12224,46 @@
       "website": "https://wayneart.org/events/2105/fabric-as-a-vehicle-for-gesture-with-maggie-siner",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4zZIw2GO3k2e3gBvmbuDAw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Dec 6",
+      "nextDate": "2026-12-06",
+      "dates": [
+        "2026-12-06"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-holiday-workshop-family-fun-day-with-multi-8b6d59",
+      "name": "Holiday Workshop Family Fun Day with Multiple Workshops!",
+      "category": "events",
+      "subcategories": [
+        "family",
+        "learning",
+        "special-audience",
+        "workshop"
+      ],
+      "shortDescription": "Projects will be announced soon and may vary, but each activity is designed to take approximately 20-25 minutes, allowing families to explore at their own pace.",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2160/holiday-workshop-family-fun-day-with-multiple-workshops",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/313bdebb-d487-4524-8543-19810ace3603.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
