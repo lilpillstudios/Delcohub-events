@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-08-28T20:57:22.770097+00:00",
+  "scraped_at": "2026-08-29T14:34:08.909526+00:00",
   "horizon_days": 180,
-  "event_count": 440,
+  "event_count": 433,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-08-28",
+      "startDate": "2026-08-29",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Aug 28 - Oct 31",
-      "nextDate": "2026-08-28",
+      "schedule": "Daily, Aug 29 - Oct 31",
+      "nextDate": "2026-08-29",
       "dates": [
-        "2026-08-28",
         "2026-08-29",
         "2026-08-30",
         "2026-08-31",
@@ -105,458 +104,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 65
-    },
-    {
-      "id": "ev-glen-mills-moth-night-at-newlin-e95514",
-      "name": "Moth Night at Newlin",
-      "category": "events",
-      "subcategories": [
-        "animals",
-        "destinations",
-        "outdoor-recreation",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Join us for Moth Night on August 28, 2026 from 9 to 11pm!",
-      "address": "Newlin Grist Mill, Glen Mills, PA",
-      "town": "Glen Mills",
-      "lat": 39.890529,
-      "lng": -75.506043,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-08-28",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2kmJ4pTpY027X3J9n4_b2w.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Aug 28",
-      "nextDate": "2026-08-28",
-      "dates": [
-        "2026-08-28"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
-      "name": "One Time Adult Wheel Class",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "visual-arts"
-      ],
-      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-28",
-      "endDate": "2026-09-27",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154443/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "19 dates, Aug 28 - Sep 27",
-      "nextDate": "2026-08-28",
-      "dates": [
-        "2026-08-28",
-        "2026-08-29",
-        "2026-08-30",
-        "2026-09-03",
-        "2026-09-04",
-        "2026-09-05",
-        "2026-09-06",
-        "2026-09-10",
-        "2026-09-11",
-        "2026-09-12",
-        "2026-09-13",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-19",
-        "2026-09-20",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-26",
-        "2026-09-27"
-      ],
-      "occurrences": 19
-    },
-    {
-      "id": "ev-concordville-s2stem-end-of-summer-celebration-bc1248",
-      "name": "S2STEM End-of-Summer Celebration",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "festival",
-        "street-fair"
-      ],
-      "shortDescription": "Join us for the S2STEM End-of-Summer bash—fun, friends, and cool STEM vibes all in one place!",
-      "address": "S2STEM, Concordville, PA",
-      "town": "Concordville",
-      "lat": 39.887963,
-      "lng": -75.528022,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-08-28",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/s2stem-end-of-summer-celebration-tickets-1996178786486",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Mq8ub62flkCfSCBSKAxE5Q.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Aug 28",
-      "nextDate": "2026-08-28",
-      "dates": [
-        "2026-08-28"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-tailgate-with-the-tribe-w-m-vs-villano-06d27b",
-      "name": "Tailgate with the Tribe: W&M vs. Villanova",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Show your school spirit at a pregame tailgate before the Tribe takes on the Villanova Wildcats!More information at https://events.wm.edu/event/view/wm/374093",
-      "address": "Gullifty's, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.025899,
-      "lng": -75.32571,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-28",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://events.wm.edu/event/view/wm/374093",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b68dbc0b-ba6b-416b-8535-f46b5791fa35.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Aug 28",
-      "nextDate": "2026-08-28",
-      "dates": [
-        "2026-08-28"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-tennis-jv-girls-v-haddonfield-4034f9",
-      "name": "Tennis - JV Girls v Haddonfield",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Tennis - JV Girls v Haddonfield",
-      "address": "Tennis Courts, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-28",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/04fa80b1-2d66-4998-85f4-d6341970bb46.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Aug 28",
-      "nextDate": "2026-08-28",
-      "dates": [
-        "2026-08-28"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-the-warhawks-the-kevin-mccall-band-at-118-4c4696",
-      "name": "The Warhawks + The Kevin McCall Band at 118 North",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "The Warhawks + The Kevin McCall Band at 118 North Friday, August 28, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-28",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1762332361453852/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/tduG-NJ9HkaOH4cEZ_W6RQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Aug 28",
-      "nextDate": "2026-08-28",
-      "dates": [
-        "2026-08-28"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-volleyball-varsity-friends-centra-36a571",
-      "name": "Volleyball - Varsity @ Friends Central",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Volleyball - Varsity @ Friends Central",
-      "address": "Friends Central School, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-28",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/41303adc-6311-419e-8756-cc69b17d8c41.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Aug 28",
-      "nextDate": "2026-08-28",
-      "dates": [
-        "2026-08-28"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-weekend-warm-up-hike-eb7eb4",
-      "name": "Weekend Warm-up Hike",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "fitness",
-        "nature",
-        "outdoor-recreation"
-      ],
-      "shortDescription": "FOR ADULTS 18+ Start your Friday on the right foot with an invigorating one-hour hike through Tyler’s gardens and into the wilder natural areas beyond the deer exclusion...",
-      "address": "Tyler Arboretum, Media, PA",
-      "town": "Media",
-      "lat": 39.935841,
-      "lng": -75.429977,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-08-28",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "(610) 566-9134",
-      "website": "https://tylerarboretum.org/calendar/weekend-warm-up-hike-12-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Xf2VS-1tbEKWFsGGFHIQAA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Aug 28",
-      "nextDate": "2026-08-28",
-      "dates": [
-        "2026-08-28"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-william-mary-football-at-villanova-4b6883",
-      "name": "William & Mary Football at Villanova",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "More information at https://events.wm.edu/event/view/wm/370373",
-      "address": "Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03176,
-      "lng": -75.34903,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-28",
-      "endDate": "2026-08-29",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://events.wm.edu/event/view/wm/370373",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b68dbc0b-ba6b-416b-8535-f46b5791fa35.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Aug 28 - Aug 29",
-      "nextDate": "2026-08-28",
-      "dates": [
-        "2026-08-28",
-        "2026-08-29"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-chadds-ford-yappy-hour-at-the-vineyard-f2d9a9",
-      "name": "Yappy Hour at the Vineyard",
-      "category": "events",
-      "subcategories": [
-        "food-drink"
-      ],
-      "shortDescription": "Head to the vineyard for a Pup-Tastic time! Get your paws on treats, toys & doggone great specials for you & your furry friends! See the day’s...",
-      "address": "Penns Woods Winery, Chadds Ford, PA",
-      "town": "Chadds Ford",
-      "lat": 39.847562,
-      "lng": -75.546723,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-28",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.brandywinevalley.com/event/yappy-hour-at-the-vineyard/4592/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-0XBH3xoM0qXfCAiCeFFXw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Aug 28",
-      "nextDate": "2026-08-28",
-      "dates": [
-        "2026-08-28"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-youth-one-time-classes-90569b",
-      "name": "Youth One-Time Classes",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "crafts",
-        "learning",
-        "special-audience"
-      ],
-      "shortDescription": "Join our one time class to learn the basics of wheel throwing!",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "family",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-28",
-      "endDate": "2026-09-25",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154445/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/CFYwS4R8EEqpw_W5BDmLEw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fridays, Aug 28 - Sep 25",
-      "nextDate": "2026-08-28",
-      "dates": [
-        "2026-08-28",
-        "2026-09-04",
-        "2026-09-11",
-        "2026-09-18",
-        "2026-09-25"
-      ],
-      "occurrences": 5
+      "occurrences": 64
     },
     {
       "id": "ev-glen-mills-bird-walks-d33ffe",
@@ -831,6 +379,61 @@
       "dates": [
         "2026-08-29"
       ]
+    },
+    {
+      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
+      "name": "One Time Adult Wheel Class",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "visual-arts"
+      ],
+      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-29",
+      "endDate": "2026-09-27",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154443/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "18 dates, Aug 29 - Sep 27",
+      "nextDate": "2026-08-29",
+      "dates": [
+        "2026-08-29",
+        "2026-08-30",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-05",
+        "2026-09-06",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-12",
+        "2026-09-13",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-27"
+      ],
+      "occurrences": 18
     },
     {
       "id": "ev-lansdowne-porter-productions-presents-a-porter-p-98fc55",
@@ -1125,6 +728,44 @@
       "website": "https://brepresents.com/event/the-mavericks/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QXL__e7_u0qdq5tDQih8vw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Aug 29",
+      "nextDate": "2026-08-29",
+      "dates": [
+        "2026-08-29"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-villanova-william-mary-football-at-villanova-4b6883",
+      "name": "William & Mary Football at Villanova",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "More information at https://events.wm.edu/event/view/wm/370373",
+      "address": "Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.03176,
+      "lng": -75.34903,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-29",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://events.wm.edu/event/view/wm/370373",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b68dbc0b-ba6b-416b-8535-f46b5791fa35.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -2444,6 +2085,49 @@
         "2026-09-04"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-bryn-mawr-youth-one-time-classes-90569b",
+      "name": "Youth One-Time Classes",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "crafts",
+        "learning",
+        "special-audience"
+      ],
+      "shortDescription": "Join our one time class to learn the basics of wheel throwing!",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-04",
+      "endDate": "2026-09-25",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154445/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/CFYwS4R8EEqpw_W5BDmLEw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fridays, Sep 4 - Sep 25",
+      "nextDate": "2026-09-04",
+      "dates": [
+        "2026-09-04",
+        "2026-09-11",
+        "2026-09-18",
+        "2026-09-25"
+      ],
+      "occurrences": 4
     },
     {
       "id": "ev-newtown-square-field-hockey-jv-v-west-essex-bb47a5",
@@ -8478,6 +8162,46 @@
       "website": "https://wayneart.org/events/2100/painting-beautiful-landscapes-on-location-with-marc-anderson",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/TSMbcDeNP0W8dj73xUB7Ew.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Sep 27",
+      "nextDate": "2026-09-27",
+      "dates": [
+        "2026-09-27"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-media-rooted-a-women-s-wellness-retreat-1f40f9",
+      "name": "ROOTED: A Women's Wellness Retreat",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "festival",
+        "fitness",
+        "health-wellness"
+      ],
+      "shortDescription": "ROOTED: A Women’s Wellness Retreat is a half-day experience designed to help women and gender-diverse participants move, learn, connect, and reconnect with themselves.",
+      "address": "Tyler Arboretum, Media, PA",
+      "town": "Media",
+      "lat": 39.935841,
+      "lng": -75.429977,
+      "priceTier": 3,
+      "tags": [
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-09-27",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "(610) 566-9134",
+      "website": "https://www.mindfulmovementphysicaltherapy.com/rooted-2026",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/whfjXHI00ESV3vwFrvI9dw.medium.jpg",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
