@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-08-29T14:34:08.909526+00:00",
+  "scraped_at": "2026-08-30T14:28:03.604924+00:00",
   "horizon_days": 180,
-  "event_count": 433,
+  "event_count": 426,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-08-29",
+      "startDate": "2026-08-30",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Aug 29 - Oct 31",
-      "nextDate": "2026-08-29",
+      "schedule": "Daily, Aug 30 - Oct 31",
+      "nextDate": "2026-08-30",
       "dates": [
-        "2026-08-29",
         "2026-08-30",
         "2026-08-31",
         "2026-09-01",
@@ -104,678 +103,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 64
-    },
-    {
-      "id": "ev-glen-mills-bird-walks-d33ffe",
-      "name": "Bird Walks",
-      "category": "events",
-      "subcategories": [
-        "nature",
-        "outdoor-recreation",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Newlin Grist Mill and Wild Birds Unlimited (Glen Mills) have teamed up to explore the wonderful world of bird life!",
-      "address": "Newlin Grist Mill, Glen Mills, PA",
-      "town": "Glen Mills",
-      "lat": 39.890529,
-      "lng": -75.506043,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-08-29",
-      "endDate": "2026-12-19",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://newlingristmill.org/bird-walks/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/AuYeeb8Vr0-G-xfSB_aimg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Saturdays, Aug 29 - Dec 19",
-      "nextDate": "2026-08-29",
-      "dates": [
-        "2026-08-29",
-        "2026-09-26",
-        "2026-10-31",
-        "2026-11-28",
-        "2026-12-19"
-      ],
-      "occurrences": 5
-    },
-    {
-      "id": "ev-springfield-build-your-home-apothecary-preparing-1d6bba",
-      "name": "Build Your Home Apothecary: Preparing Your Family for Fall & Winter",
-      "category": "events",
-      "subcategories": [
-        "family",
-        "lifestyle",
-        "special-audience"
-      ],
-      "shortDescription": "Have you ever wished you knew which herbs to use when your family gets sick? Join Karité Naturals for an interactive Herbal 101 workshop",
-      "address": "Karite Naturals, LLC, Springfield, PA",
-      "town": "Springfield",
-      "lat": 39.92788,
-      "lng": -75.33614,
-      "priceTier": 2,
-      "tags": [
-        "family",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-29",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/build-your-home-apothecary-preparing-your-family-for-fall-winter-tickets-1996759950764",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/w_oEpHnN_E23Hy0LezO-fQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Aug 29",
-      "nextDate": "2026-08-29",
-      "dates": [
-        "2026-08-29"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-glen-mills-core-and-restore-bbfe10",
-      "name": "Core and restore",
-      "category": "events",
-      "subcategories": [
-        "health-wellness",
-        "lifestyle"
-      ],
-      "shortDescription": "Join us for our very first wellness event — a morning designed to help you slow down, recharge, and prioritize YOU",
-      "address": "Glen Mills, PA",
-      "town": "Glen Mills",
-      "lat": 39.866806,
-      "lng": -75.543013,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-29",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/core-and-restore-tickets-1995856499517",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/qHBJnI1to0Cuelb5qOVnAg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Aug 29",
-      "nextDate": "2026-08-29",
-      "dates": [
-        "2026-08-29"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-football-varsity-cardinal-hayes-n-e482c3",
-      "name": "Football - Varsity @ Cardinal Hayes (NY)",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Football - Varsity @ Cardinal Hayes (NY)",
-      "address": "Cardinal Hayes, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-29",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/56924039-b795-486d-a4a5-a79d4c6399ff.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Aug 29",
-      "nextDate": "2026-08-29",
-      "dates": [
-        "2026-08-29"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-drexel-hill-future-drake-night-c0d375",
-      "name": "Future & Drake Night",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "A blend of hip hop and r&b .. Come sing your hearts out .. Sip a lemon drop , eat and meet new people",
-      "address": "Casey's Drexel Hill, Drexel Hill, PA",
-      "town": "Drexel Hill",
-      "lat": 39.960126,
-      "lng": -75.288562,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-29",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/future-drake-night-tickets-1996043010376",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Eh1FL83BK0aphDt-dsT1Cw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Aug 29",
-      "nextDate": "2026-08-29",
-      "dates": [
-        "2026-08-29"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-gentle-flow-yoga-05b709",
-      "name": "Gentle Flow Yoga",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "fitness",
-        "learning",
-        "outdoor-recreation"
-      ],
-      "shortDescription": "Step onto the mat, breathe deeply, and flow through gentle outdoor yoga with instructor Christina Teofilak.",
-      "address": "Tyler Arboretum, Media, PA",
-      "town": "Media",
-      "lat": 39.935841,
-      "lng": -75.429977,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-08-29",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "(610) 566-9134",
-      "website": "https://tylerarboretum.org/calendar/gentle-flow-yoga-single-class-2-3-2-2-2-2-2-2-2-2-2-2/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/V_Tjkd-NzEKsozyjySGjZg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Aug 29",
-      "nextDate": "2026-08-29",
-      "dates": [
-        "2026-08-29"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "lansdowne-farmers-market-lansdowne",
-      "name": "Lansdowne Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "farmers market",
-        "seasonal"
-      ],
-      "shortDescription": "Seasonal Saturday farmers market in Lansdowne selling local produce, baked goods, and handmade items.",
-      "address": "N Lansdowne Ave, Lansdowne, PA 19050",
-      "town": "Lansdowne",
-      "lat": 39.9385,
-      "lng": -75.2725,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "group"
-      ],
-      "featured": true,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "schedule": "Saturdays, summer-fall",
-      "recurring": "weekly",
-      "nextDate": "2026-08-29",
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-08-29"
-      ]
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
-      "name": "One Time Adult Wheel Class",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "visual-arts"
-      ],
-      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-29",
-      "endDate": "2026-09-27",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154443/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "18 dates, Aug 29 - Sep 27",
-      "nextDate": "2026-08-29",
-      "dates": [
-        "2026-08-29",
-        "2026-08-30",
-        "2026-09-03",
-        "2026-09-04",
-        "2026-09-05",
-        "2026-09-06",
-        "2026-09-10",
-        "2026-09-11",
-        "2026-09-12",
-        "2026-09-13",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-19",
-        "2026-09-20",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-26",
-        "2026-09-27"
-      ],
-      "occurrences": 18
-    },
-    {
-      "id": "ev-lansdowne-porter-productions-presents-a-porter-p-98fc55",
-      "name": "Porter Productions Presents \"A Porter Pool Party\" 5th Edition",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "performing-arts"
-      ],
-      "shortDescription": "We Bac , I Kno Yall Been Waiting Yrs For This One‼️ Ladies Get Yur Bathing Suits Fellas Get Yur Trunks Yu Definitely Dnt Wanna Miss This‼️",
-      "address": "Porter Palace, Lansdowne, PA",
-      "town": "Lansdowne",
-      "lat": 39.94971,
-      "lng": -75.27982,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-29",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/porter-productions-presents-a-porter-pool-party-5th-edition-tickets-1991392819530",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/C7le5BQRAUCNCW0mom9-cg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Aug 29",
-      "nextDate": "2026-08-29",
-      "dates": [
-        "2026-08-29"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-revolutionary-science-19b3ab",
-      "name": "Revolutionary Science",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Did you know that colonial people experimented with science every day? From cooking, to getting water from the well, to dyeing their clothes, every...",
-      "address": "Colonial Pennsylvania Farmstead, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.968636,
-      "lng": -75.453585,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-29",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.brandywinevalley.com/event/revolutionary-science/4534/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SOoD3FGF1UKWWDaXZfRy2A.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Aug 29",
-      "nextDate": "2026-08-29",
-      "dates": [
-        "2026-08-29"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ridley-park-farmers-market",
-      "name": "Ridley Park Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "market",
-        "seasonal"
-      ],
-      "shortDescription": "Seasonal Saturday market in Ridley Park selling produce, baked goods, and local products through the warmer months.",
-      "schedule": "Saturdays, June-October",
-      "recurring": "weekly",
-      "nextDate": "2026-08-29",
-      "address": "105 E Ward St, Ridley Park, PA 19078",
-      "town": "Ridley Park",
-      "lat": 39.8815,
-      "lng": -75.3238,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "kid-friendly"
-      ],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-08-29"
-      ]
-    },
-    {
-      "id": "ev-media-saturday-wildflower-walk-7e71a5",
-      "name": "Saturday Wildflower Walk",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "fitness",
-        "museums-exhibits",
-        "nature"
-      ],
-      "shortDescription": "For Adults (18+) and Teens ages 12-17 Explore the Arboretum with wildflower expert Dick Cloud.",
-      "address": "Tyler Arboretum, Media, PA",
-      "town": "Media",
-      "lat": 39.935841,
-      "lng": -75.429977,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "historic",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-08-29",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "(610) 566-9134",
-      "website": "https://tylerarboretum.org/calendar/saturday-wildflower-walk-2-2-2-2-2-2-2-2-2-2-2-3-2-3-2-2-2-2/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a2GWgI_gMUK6rqkNKiq5qw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Aug 29",
-      "nextDate": "2026-08-29",
-      "dates": [
-        "2026-08-29"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "springfield-farmers-market",
-      "name": "Springfield Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "market",
-        "seasonal"
-      ],
-      "shortDescription": "Springfield's seasonal outdoor market offers fresh produce, flowers, and local goods on weekends through summer and fall.",
-      "schedule": "Weekends, summer-fall",
-      "recurring": "weekly",
-      "nextDate": "2026-08-29",
-      "address": "Springfield, PA 19064",
-      "town": "Springfield",
-      "lat": 39.9312,
-      "lng": -75.3479,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "kid-friendly"
-      ],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-08-29"
-      ]
-    },
-    {
-      "id": "ev-wayne-street-beans-at-118-north-f5907c",
-      "name": "Street Beans at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Street Beans at 118 North Saturday, August 29, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
-      "address": "Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-29",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1624209751975544/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/K12Xj677ZU6CijSkMq6cPg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Aug 29",
-      "nextDate": "2026-08-29",
-      "dates": [
-        "2026-08-29"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "swarthmore-farmers-market-swarthmore",
-      "name": "Swarthmore Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "farmers market",
-        "seasonal"
-      ],
-      "shortDescription": "Weekly warm-season market in Swarthmore featuring regional farmers, food vendors, and live music.",
-      "address": "Swarthmore Town Center, Swarthmore, PA 19081",
-      "town": "Swarthmore",
-      "lat": 39.903,
-      "lng": -75.349,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "group"
-      ],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "schedule": "Saturdays, warm season",
-      "recurring": "weekly",
-      "nextDate": "2026-08-29",
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-08-29"
-      ]
-    },
-    {
-      "id": "ev-lansdowne-the-mavericks-friends-ddb950",
-      "name": "The Mavericks & Friends",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "THE MAVERICKS The music lives on. For three decades, The Mavericks carved out their Grammy-winning sound — a multicultural version of American roots music, blending...",
-      "address": "Lansdowne Theater, Lansdowne, PA",
-      "town": "Lansdowne",
-      "lat": 39.939409,
-      "lng": -75.272179,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-29",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://brepresents.com/event/the-mavericks/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QXL__e7_u0qdq5tDQih8vw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Aug 29",
-      "nextDate": "2026-08-29",
-      "dates": [
-        "2026-08-29"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-william-mary-football-at-villanova-4b6883",
-      "name": "William & Mary Football at Villanova",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "More information at https://events.wm.edu/event/view/wm/370373",
-      "address": "Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03176,
-      "lng": -75.34903,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-29",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://events.wm.edu/event/view/wm/370373",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b68dbc0b-ba6b-416b-8535-f46b5791fa35.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Aug 29",
-      "nextDate": "2026-08-29",
-      "dates": [
-        "2026-08-29"
-      ],
-      "occurrences": 1
+      "occurrences": 63
     },
     {
       "id": "ev-media-delco-media-brunchalong-on-august-30h-at-t-88dd60",
@@ -810,6 +138,60 @@
         "2026-08-30"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
+      "name": "One Time Adult Wheel Class",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "visual-arts"
+      ],
+      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-30",
+      "endDate": "2026-09-27",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154443/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "17 dates, Aug 30 - Sep 27",
+      "nextDate": "2026-08-30",
+      "dates": [
+        "2026-08-30",
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-05",
+        "2026-09-06",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-12",
+        "2026-09-13",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-27"
+      ],
+      "occurrences": 17
     },
     {
       "id": "ev-clifton-heights-podcast-live-day-party-1c6abe",
@@ -1809,7 +1191,7 @@
       ],
       "hours": {},
       "startDate": "2026-09-03",
-      "endDate": "2027-02-18",
+      "endDate": "2027-02-25",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -1820,7 +1202,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Thursdays, Sep 3 - Feb 18",
+      "schedule": "Thursdays, Sep 3 - Feb 25",
       "nextDate": "2026-09-03",
       "dates": [
         "2026-09-03",
@@ -1847,9 +1229,10 @@
         "2027-01-28",
         "2027-02-04",
         "2027-02-11",
-        "2027-02-18"
+        "2027-02-18",
+        "2027-02-25"
       ],
-      "occurrences": 25
+      "occurrences": 26
     },
     {
       "id": "ev-newtown-square-cross-country-girls-unionville-2-497405",
@@ -2206,6 +1589,44 @@
       "occurrences": 1
     },
     {
+      "id": "lansdowne-farmers-market-lansdowne",
+      "name": "Lansdowne Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "farmers market",
+        "seasonal"
+      ],
+      "shortDescription": "Seasonal Saturday farmers market in Lansdowne selling local produce, baked goods, and handmade items.",
+      "address": "N Lansdowne Ave, Lansdowne, PA 19050",
+      "town": "Lansdowne",
+      "lat": 39.9385,
+      "lng": -75.2725,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "group"
+      ],
+      "featured": true,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "schedule": "Saturdays, summer-fall",
+      "recurring": "weekly",
+      "nextDate": "2026-09-05",
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-09-05"
+      ]
+    },
+    {
       "id": "ev-chester-let-us-be-the-change-156862",
       "name": "Let Us Be The Change",
       "category": "events",
@@ -2317,6 +1738,120 @@
         "2026-09-05"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ridley-park-farmers-market",
+      "name": "Ridley Park Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "market",
+        "seasonal"
+      ],
+      "shortDescription": "Seasonal Saturday market in Ridley Park selling produce, baked goods, and local products through the warmer months.",
+      "schedule": "Saturdays, June-October",
+      "recurring": "weekly",
+      "nextDate": "2026-09-05",
+      "address": "105 E Ward St, Ridley Park, PA 19078",
+      "town": "Ridley Park",
+      "lat": 39.8815,
+      "lng": -75.3238,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "kid-friendly"
+      ],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-09-05"
+      ]
+    },
+    {
+      "id": "springfield-farmers-market",
+      "name": "Springfield Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "market",
+        "seasonal"
+      ],
+      "shortDescription": "Springfield's seasonal outdoor market offers fresh produce, flowers, and local goods on weekends through summer and fall.",
+      "schedule": "Weekends, summer-fall",
+      "recurring": "weekly",
+      "nextDate": "2026-09-05",
+      "address": "Springfield, PA 19064",
+      "town": "Springfield",
+      "lat": 39.9312,
+      "lng": -75.3479,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "kid-friendly"
+      ],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-09-05"
+      ]
+    },
+    {
+      "id": "swarthmore-farmers-market-swarthmore",
+      "name": "Swarthmore Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "farmers market",
+        "seasonal"
+      ],
+      "shortDescription": "Weekly warm-season market in Swarthmore featuring regional farmers, food vendors, and live music.",
+      "address": "Swarthmore Town Center, Swarthmore, PA 19081",
+      "town": "Swarthmore",
+      "lat": 39.903,
+      "lng": -75.349,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "group"
+      ],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "schedule": "Saturdays, warm season",
+      "recurring": "weekly",
+      "nextDate": "2026-09-05",
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-09-05"
+      ]
     },
     {
       "id": "ev-chester-widener-pride-men-s-soccer-vs-regent-462b7e",
@@ -7583,6 +7118,49 @@
       "occurrences": 1
     },
     {
+      "id": "ev-glen-mills-bird-walks-d33ffe",
+      "name": "Bird Walks",
+      "category": "events",
+      "subcategories": [
+        "nature",
+        "outdoor-recreation",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Newlin Grist Mill and Wild Birds Unlimited (Glen Mills) have teamed up to explore the wonderful world of bird life!",
+      "address": "Newlin Grist Mill, Glen Mills, PA",
+      "town": "Glen Mills",
+      "lat": 39.890529,
+      "lng": -75.506043,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-09-26",
+      "endDate": "2026-12-19",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://newlingristmill.org/bird-walks/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/AuYeeb8Vr0-G-xfSB_aimg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Saturdays, Sep 26 - Dec 19",
+      "nextDate": "2026-09-26",
+      "dates": [
+        "2026-09-26",
+        "2026-10-31",
+        "2026-11-28",
+        "2026-12-19"
+      ],
+      "occurrences": 4
+    },
+    {
       "id": "ev-newtown-square-cross-country-girls-whippets-invi-c6ec6c",
       "name": "Cross Country - Girls @ Whippets Invitational",
       "category": "events",
@@ -8124,6 +7702,44 @@
       "website": "https://www.bandsintown.com/e/107955307?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/guKr3FCyS0WPD1M-ji31iw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Sep 27",
+      "nextDate": "2026-09-27",
+      "dates": [
+        "2026-09-27"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-on-the-lash-at-118-north-dfe209",
+      "name": "On the Lash at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "On the Lash at 118 North Sunday, September 27, 2026 Doors: 6:00 PM | Show: 7:00 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-27",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/929248463455509/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/I1oeNKJI8EuIAIyvuql1Ng.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -11511,6 +11127,47 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-bloom-decay-band-grateful-dead-tribute-at-dc036b",
+      "name": "Bloom & Decay Band - Grateful Dead Tribute at 118 North",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "destinations",
+        "music",
+        "parks-gardens"
+      ],
+      "shortDescription": "Bloom & Decay Band - Grateful Dead Tribute at 118 North Thursday, October 22, 2026 Doors: 6:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-10-22",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1401497861927180/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e06af2cc-69c5-4802-be64-c7e8310ad01c.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Oct 22",
+      "nextDate": "2026-10-22",
+      "dates": [
+        "2026-10-22"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-lansdowne-rupert-wates-0ee1c8",
       "name": "Rupert Wates",
       "category": "events",
@@ -12782,8 +12439,8 @@
       "shortDescription": "Thursday, October 29, 2026 | 8AM to 5PM The Inn at Villanova University, Wayne PA Real Causes.",
       "address": "The Inn at Villanova University, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.051015,
-      "lng": -75.348926,
+      "lat": 40.050831,
+      "lng": -75.348961,
       "priceTier": 0,
       "tags": [
         "free",
@@ -13378,6 +13035,44 @@
       "website": "https://widenerpride.com/calendar.aspx?game_id=14559&amp;sport_id=13",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e669d12a-a6ec-4151-8c5f-9397f6aae3d7.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Nov 4",
+      "nextDate": "2026-11-04",
+      "dates": [
+        "2026-11-04"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-will-overman-vinnie-paolizzi-at-118-north-d3a74d",
+      "name": "Will Overman + Vinnie Paolizzi at 118 North 1/25",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Will Overman + Vinnie Paolizzi at 118 North Wednesday, November 4, 2026 Doors: 5:30 PM | Show: 7:30 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
+      "address": "Main Point Books, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04479,
+      "lng": -75.388152,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-04",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/832517149692002/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dfbc8e82-cbbc-45df-b109-75d61c56c4ed.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -14136,6 +13831,44 @@
       "website": "https://wayneart.org/events/2176/culinary-workshop-kids-cook-thanksgiving-savory-dinner",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QxXxJoWh5Ea_0J-01fVq5g.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 14",
+      "nextDate": "2026-11-14",
+      "dates": [
+        "2026-11-14"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-divas-of-the-80-s-54c60d",
+      "name": "Divas Of The 80's",
+      "category": "events",
+      "subcategories": [
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "One drink ticket with each table seat purchased. Seating will be available for GA ticket purchases.",
+      "address": "The Block at Harrah's Philadelphia, Chester, PA",
+      "town": "Chester",
+      "lat": 39.851082,
+      "lng": -75.348369,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-14",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RY4BV6p_LEqQDa0ceivyoA.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
