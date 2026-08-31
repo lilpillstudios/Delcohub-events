@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-08-30T14:28:03.604924+00:00",
+  "scraped_at": "2026-08-31T17:08:04.939481+00:00",
   "horizon_days": 180,
-  "event_count": 426,
+  "event_count": 442,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-08-30",
+      "startDate": "2026-08-31",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Aug 30 - Oct 31",
-      "nextDate": "2026-08-30",
+      "schedule": "Daily, Aug 31 - Oct 31",
+      "nextDate": "2026-08-31",
       "dates": [
-        "2026-08-30",
         "2026-08-31",
         "2026-09-01",
         "2026-09-02",
@@ -103,132 +102,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 63
-    },
-    {
-      "id": "ev-media-delco-media-brunchalong-on-august-30h-at-t-88dd60",
-      "name": "Delco Media Brunchalong on August 30h at the Townehouse",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Brunchalong is back with a special DELCO Event! Our amazing entertainers look forward to seeing you at the Townehouse. Girls DAYCATION!",
-      "address": "Towne House, Media, PA",
-      "town": "Media",
-      "lat": 39.917483,
-      "lng": -75.391698,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-30",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/delco-media-brunchalong-on-august-30h-at-the-townehouse-tickets-1988931770466",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/j4jRSgV37kCE4N9Ey5_QhA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Aug 30",
-      "nextDate": "2026-08-30",
-      "dates": [
-        "2026-08-30"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
-      "name": "One Time Adult Wheel Class",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "visual-arts"
-      ],
-      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-30",
-      "endDate": "2026-09-27",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154443/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "17 dates, Aug 30 - Sep 27",
-      "nextDate": "2026-08-30",
-      "dates": [
-        "2026-08-30",
-        "2026-09-03",
-        "2026-09-04",
-        "2026-09-05",
-        "2026-09-06",
-        "2026-09-10",
-        "2026-09-11",
-        "2026-09-12",
-        "2026-09-13",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-19",
-        "2026-09-20",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-26",
-        "2026-09-27"
-      ],
-      "occurrences": 17
-    },
-    {
-      "id": "ev-clifton-heights-podcast-live-day-party-1c6abe",
-      "name": "PODCAST LIVE! DAY PARTY",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "learning"
-      ],
-      "shortDescription": "Experience Beyond the Bid LIVE! Join Ace Capone & Golden Girl for an unforgettable podcast, audience Q&A & free signed book!",
-      "address": "Illusions Banquet Hall and Sports Bar, Clifton Heights, PA",
-      "town": "Clifton Heights",
-      "lat": 39.92717,
-      "lng": -75.303846,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-30",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/podcast-live-day-party-tickets-1996337804112",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/s8nu1rHRHUW962sVxwzEKA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Aug 30",
-      "nextDate": "2026-08-30",
-      "dates": [
-        "2026-08-30"
-      ],
-      "occurrences": 1
+      "occurrences": 62
     },
     {
       "id": "ev-newtown-square-golf-jv-boys-v-o-hara-paxon-hollo-198480",
@@ -368,6 +242,41 @@
         "2026-09-28"
       ],
       "occurrences": 5
+    },
+    {
+      "id": "ev-bryn-mawr-renaissance-sale-1a3bbd",
+      "name": "Renaissance sale",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Renaissance sale at a Delco venue in Bryn Mawr.",
+      "address": "Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.027634,
+      "lng": -75.356119,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-08-31",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.agnesirwin.org/quick-links/calendar",
+      "images": [],
+      "imageUrl": "",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mon, Aug 31",
+      "nextDate": "2026-08-31",
+      "dates": [
+        "2026-08-31"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-rose-tree-cross-country-boys-delco-scrimmage-7ea46d",
@@ -1091,6 +1000,59 @@
       "occurrences": 1
     },
     {
+      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
+      "name": "One Time Adult Wheel Class",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "visual-arts"
+      ],
+      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-03",
+      "endDate": "2026-09-27",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154443/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "16 dates, Sep 3 - Sep 27",
+      "nextDate": "2026-09-03",
+      "dates": [
+        "2026-09-03",
+        "2026-09-04",
+        "2026-09-05",
+        "2026-09-06",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-12",
+        "2026-09-13",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-27"
+      ],
+      "occurrences": 16
+    },
+    {
       "id": "ev-glen-mills-parks-for-pollinators-bioblitz-050cc7",
       "name": "Parks for Pollinators BioBlitz",
       "category": "events",
@@ -1262,6 +1224,43 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/db3cc5c8-dcc7-47de-b4ac-2f353bbdd9f2.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Sep 4",
+      "nextDate": "2026-09-04",
+      "dates": [
+        "2026-09-04"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-first-fridays-the-art-of-education-d64b82",
+      "name": "First Fridays: The Art of Education",
+      "category": "events",
+      "subcategories": [
+        "literary-arts",
+        "visual-arts"
+      ],
+      "shortDescription": "First Friday: The Art of Education brings together visual art, live poetry, community conversation, and giving back.",
+      "address": "The Symposium, Chester, PA",
+      "town": "Chester",
+      "lat": 39.83557,
+      "lng": -75.395387,
+      "priceTier": 1,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-04",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/first-fridays-the-art-of-education-tickets-1998891608610",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/DEBFbn7YTkKd8mp393yO1Q.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -1998,6 +1997,43 @@
       "website": "https://www.delawareohiohistory.org/uncategorized/how-ohio-won-the-civil-war/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cUFjZH6s-kOEgLt2gJ6z5A.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Sep 6",
+      "nextDate": "2026-09-06",
+      "dates": [
+        "2026-09-06"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-clifton-heights-takedown-entertainment-all-white-5df6e8",
+      "name": "TAKEDOWN ENTERTAINMENT ALL WHITE DAY PARTY",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "holiday"
+      ],
+      "shortDescription": "PHILLY, LABOR DAY WEEKEND IS ABOUT TO BE DIFFERENT! “Back like he never left!” TAKEDOWN ENTERTAINMENT presents the All White Day Party!",
+      "address": "Illusions Banquet Hall and Sports Bar, Clifton Heights, PA",
+      "town": "Clifton Heights",
+      "lat": 39.92717,
+      "lng": -75.303846,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/takedown-entertainment-all-white-day-party-tickets-1997497095584",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SCWsq7jhukWd1a45717NtQ.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -2974,6 +3010,43 @@
       "occurrences": 4
     },
     {
+      "id": "ev-bryn-mawr-sonic-serenity-gong-sound-bath-71ddd6",
+      "name": "Sonic Serenity - Gong Sound Bath",
+      "category": "events",
+      "subcategories": [
+        "faith",
+        "lifestyle"
+      ],
+      "shortDescription": "Chill out and vibe with deep gong sounds for total relaxation and good vibes!",
+      "address": "Medley Arts Center, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.02467,
+      "lng": -75.326,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-11",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/sonic-serenity-gong-sound-bath-tickets-1998469941392",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QIMHqFWQYkmxbJ3KV8uCVQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Sep 11",
+      "nextDate": "2026-09-11",
+      "dates": [
+        "2026-09-11"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-the-gathering-gloom-at-118-north-22f8b4",
       "name": "The Gathering Gloom at 118 North",
       "category": "events",
@@ -3279,6 +3352,42 @@
       "occurrences": 1
     },
     {
+      "id": "ev-newtown-square-harvest-table-e797d0",
+      "name": "Harvest Table",
+      "category": "events",
+      "subcategories": [
+        "destinations"
+      ],
+      "shortDescription": "Celebrate the bounty of the season at our historic 18th-century farm!",
+      "address": "Colonial Pennsylvania Farmstead, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.968636,
+      "lng": -75.453585,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-12",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/harvest-table-tickets-1998990456266",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/nbKJ9VRsKEu1KF5pUWJuTw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Sep 12",
+      "nextDate": "2026-09-12",
+      "dates": [
+        "2026-09-12"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-media-mac-twilight-series-the-sermon-organ-drive-9b6ea3",
       "name": "MAC Twilight Series: The Sermon! (Organ driven Classic Soul, Funk, Jazz & Beyond)",
       "category": "events",
@@ -3307,6 +3416,45 @@
       "website": "https://www.mediaartscouncil.org/calendar/mac-twilight-series-rockin2026-gezk2-267wa-mdy67-hc4l3",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1ACudYgVOUWryLxVEie9Ig.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Sep 12",
+      "nextDate": "2026-09-12",
+      "dates": [
+        "2026-09-12"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-drexel-hill-multicultural-singles-social-30-50-a9b3fa",
+      "name": "Multicultural Singles Social | 30-50",
+      "category": "events",
+      "subcategories": [
+        "lifestyle",
+        "multicultural",
+        "special-audience"
+      ],
+      "shortDescription": "Meet open-minded singles ages 30–50 for an inclusive night of great conversations, new connections, and good vibes at Casey's.",
+      "address": "Casey's Drexel Hill, Drexel Hill, PA",
+      "town": "Drexel Hill",
+      "lat": 39.959937,
+      "lng": -75.288952,
+      "priceTier": 2,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-12",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/multicultural-singles-social-30-50-tickets-1997460745861",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/74jePgKmfkiA3PmP92rTJQ.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -3516,6 +3664,85 @@
         "2026-09-25"
       ],
       "occurrences": 2
+    },
+    {
+      "id": "ev-essington-yachtstock-riverjam-1b9991",
+      "name": "YACHTSTOCK RIVERJAM",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "outdoor-recreation",
+        "performing-arts",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Annual Yachtstock Riverjam Music Festival September 12th 11 AM to 9 PM Largest outdoor, all-day charitable concert event in our region.",
+      "address": "WEST END BOAT CLUB, Essington, PA",
+      "town": "Essington",
+      "lat": 39.861394,
+      "lng": -75.306453,
+      "priceTier": 2,
+      "tags": [
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-09-12",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://yachtstock.org/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/X4bKXaB1J0Gf_aD1DDwvqA.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Sep 12",
+      "nextDate": "2026-09-12",
+      "dates": [
+        "2026-09-12"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-thornbury-township-meet-n-greet-alpaca-mohair-go-01096d",
+      "name": "Meet N Greet Alpaca & Mohair Goats and Learn to Spin and Felt their Wool",
+      "category": "events",
+      "subcategories": [
+        "animals",
+        "classes",
+        "destinations",
+        "farms"
+      ],
+      "shortDescription": "Use a drop spindle and machine needle felt with wool from the very same animals you'll get to meet on this farm tour and craft day!",
+      "address": "Strawflower Farm, Thornbury Township, PA",
+      "town": "Thornbury Township",
+      "lat": 39.918548,
+      "lng": -75.51463,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-13",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/meet-n-greet-alpaca-mohair-goats-and-learn-to-spin-and-felt-their-wool-tickets-1998748880707",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bbEzNjiz3kubwrE7RjaA5g.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Sep 13",
+      "nextDate": "2026-09-13",
+      "dates": [
+        "2026-09-13"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-glen-mills-restoration-walks-at-newlin-grist-mil-76d64c",
@@ -3974,6 +4201,55 @@
         "2026-09-14"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-bryn-mawr-tennis-middle-school-a-5aaffe",
+      "name": "Tennis - Middle School A",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "special-audience",
+        "sports"
+      ],
+      "shortDescription": "Tennis - Middle School A at The Agnes Irwin School in Bryn Mawr.",
+      "address": "The Agnes Irwin School, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.028689,
+      "lng": -75.350103,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-14",
+      "endDate": "2026-10-26",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-801-1869",
+      "website": "https://www.baldwinschool.org/page/team-page?Team=303002&fromId=249696",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a8fe3b31-5555-4a70-820b-bb59e79bce97.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "9 dates, Sep 14 - Oct 26",
+      "nextDate": "2026-09-14",
+      "dates": [
+        "2026-09-14",
+        "2026-09-23",
+        "2026-09-28",
+        "2026-09-30",
+        "2026-10-05",
+        "2026-10-14",
+        "2026-10-19",
+        "2026-10-21",
+        "2026-10-26"
+      ],
+      "occurrences": 9
     },
     {
       "id": "ev-villanova-belly-dance-class-at-the-willows-mansi-606098",
@@ -4690,6 +4966,43 @@
       "website": "https://www.facebook.com/events/1539888114556947/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Qwb-uiHEGkOVUp3a_oMFBQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Sep 18",
+      "nextDate": "2026-09-18",
+      "dates": [
+        "2026-09-18"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-havertown-bevisionary-at-jd-mcgillicuddy-s-50-ceed98",
+      "name": "BeVisionary at JD McGillicuddy's | 50+",
+      "category": "events",
+      "subcategories": [
+        "special-audience"
+      ],
+      "shortDescription": "Meet local singles 50+ for a relaxed night out at JD McGillicuddy's! Great conversations, hosted introductions, and a welcoming crowd await.",
+      "address": "JD McGillicuddy's, Havertown, PA",
+      "town": "Havertown",
+      "lat": 39.978905,
+      "lng": -75.303193,
+      "priceTier": 2,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-18",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/bevisionary-at-jd-mcgillicuddys-50-tickets-1997614609070",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Lmw--62sFUW2lq1IatrT7A.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -6878,6 +7191,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-bryn-mawr-fall-parents-association-coffee-truck-702d4f",
+      "name": "Fall Parents' Association Coffee Truck at 672",
+      "category": "events",
+      "subcategories": [
+        "food-drink",
+        "lifestyle"
+      ],
+      "shortDescription": "Fall Parents' Association Coffee Truck at 672 at a Delco venue in Bryn Mawr.",
+      "address": "Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.027634,
+      "lng": -75.356119,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-25",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.agnesirwin.org/quick-links/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0abf56cd-d33e-4cfa-bdf2-6c5d454b4cbb.medium.JPG",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Sep 25",
+      "nextDate": "2026-09-25",
+      "dates": [
+        "2026-09-25"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-aldan-lend-me-a-tenor-4d3baa",
       "name": "Lend Me a Tenor",
       "category": "events",
@@ -8015,6 +8366,40 @@
       "occurrences": 1
     },
     {
+      "id": "ev-media-a-day-in-the-life-of-me-13a90f",
+      "name": "A day in the Life of ME",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Join ASME Philadelphia in an informal setting as we hear from early career engineers , transitioning from student to professionally employed",
+      "address": "Towne House, Media, PA",
+      "town": "Media",
+      "lat": 39.917483,
+      "lng": -75.391698,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-29",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/a-day-in-the-life-of-me-tickets-1997638795412",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/vr-J1hGBBUmYGct8AJYd5Q.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Sep 29",
+      "nextDate": "2026-09-29",
+      "dates": [
+        "2026-09-29"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-cross-country-boys-v-sch-pc-1526a5",
       "name": "Cross Country - Boys v SCH & PC",
       "category": "events",
@@ -8516,45 +8901,6 @@
       "occurrences": 1
     },
     {
-      "id": "ev-newtown-square-open-mic-night-1fedb3",
-      "name": "Open Mic Night",
-      "category": "events",
-      "subcategories": [
-        "open-mic",
-        "performing-arts"
-      ],
-      "shortDescription": "Open Mic Night at Black Box-Ridgway Theater in Newtown Square.",
-      "address": "Black Box-Ridgway Theater, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-02",
-      "endDate": "2026-12-04",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ae3cd0fc-bdb1-4536-bbe4-8f5afbe28b89.medium.PNG",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fridays, Oct 2 - Dec 4",
-      "nextDate": "2026-10-02",
-      "dates": [
-        "2026-10-02",
-        "2026-12-04"
-      ],
-      "occurrences": 2
-    },
-    {
       "id": "ev-wayne-speedball-the-nightclerks-tom-petty-tribut-17f375",
       "name": "Speedball & the Nightclerks: Tom Petty Tribute at 118 North",
       "category": "events",
@@ -8706,6 +9052,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-swarthmore-fall-hike-heal-regulate-release-2d04ce",
+      "name": "Fall Hike & Heal: Regulate & Release",
+      "category": "events",
+      "subcategories": [
+        "health-wellness",
+        "lifestyle",
+        "outdoor-recreation",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Join us for our second Hike & Heal — a gentle outdoor experience for those craving space to breathe, move, and reconnect.",
+      "address": "Hazel & Oak, Swarthmore, PA",
+      "town": "Swarthmore",
+      "lat": 39.896885,
+      "lng": -75.35475,
+      "priceTier": 2,
+      "tags": [
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-10-03",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/fall-hike-heal-regulate-release-tickets-1998900356776",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/wMFJPGVIekCnqiixdLZVvQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 3",
+      "nextDate": "2026-10-03",
+      "dates": [
+        "2026-10-03"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-line-into-color-not-revealing-everything-w-2a3002",
       "name": "Line Into Color-Not Revealing Everything with Abby Ober",
       "category": "events",
@@ -8768,6 +9154,43 @@
       "website": "https://www.mediaborough.com/calendar.aspx?EID=2822",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/de9704ea-1e2b-45a0-86b9-186b9f70036e.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 3",
+      "nextDate": "2026-10-03",
+      "dates": [
+        "2026-10-03"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-glen-mills-the-wellness-affair-5dac86",
+      "name": "The Wellness Affair",
+      "category": "events",
+      "subcategories": [
+        "health-wellness",
+        "lifestyle"
+      ],
+      "shortDescription": "The Wellness Affair at a Delco venue in Glen Mills.",
+      "address": "Glen Mills, PA",
+      "town": "Glen Mills",
+      "lat": 39.866806,
+      "lng": -75.543013,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-03",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/the-wellness-affair-tickets-1999178545847",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/zRAhEQiZakGYpCqqxCvfSQ.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -11596,6 +12019,43 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chester-fright-night-bounce-flows-after-dark-75e51d",
+      "name": "Fright Night : BOUNCE & FLOWS AFTER DARK",
+      "category": "events",
+      "subcategories": [
+        "halloween",
+        "holiday"
+      ],
+      "shortDescription": "Get ready to jump, groove, and glow at Fright Night: BOUNCE & FLOWS AFTER DARK!",
+      "address": "Chester, PA",
+      "town": "Chester",
+      "lat": 39.847649,
+      "lng": -75.359945,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-24",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/fright-night-bounce-flows-after-dark-tickets-1998936713520",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/wzxzGmp1x0atOypm9zkEtA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 24",
+      "nextDate": "2026-10-24",
+      "dates": [
+        "2026-10-24"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-fruits-of-the-forest-a-forager-sketchbook-65fef8",
       "name": "Fruits of the Forest: A Forager Sketchbook with Margaret Saylor",
       "category": "events",
@@ -12269,6 +12729,45 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-stephanie-feldman-with-guest-a-c-wise-d2816d",
+      "name": "Stephanie Feldman with Guest A.C. Wise",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "festival",
+        "parade"
+      ],
+      "shortDescription": "Join Stephanie Feldman as she launches her next book \"The Night Parade and Other Stories\"",
+      "address": "Main Point Books, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04479,
+      "lng": -75.388152,
+      "priceTier": 2,
+      "tags": [
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-10-27",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/stephanie-feldman-with-guest-ac-wise-tickets-1998513644108",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bC6StTt3DE6PW232JOhOLw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Oct 27",
+      "nextDate": "2026-10-27",
+      "dates": [
+        "2026-10-27"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-chester-widener-pride-men-s-soccer-vs-eastern-d98156",
       "name": "Widener Pride: Men's Soccer vs Eastern",
       "category": "events",
@@ -12305,6 +12804,40 @@
       "nextDate": "2026-10-27",
       "dates": [
         "2026-10-27"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-becca-freeman-with-guest-jo-piazza-bf2446",
+      "name": "Becca Freeman with Guest Jo Piazza",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Becca Freeman, co-host of Bad on Paper, launches her novel \"Back Where We Started\"",
+      "address": "Main Point Books, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04479,
+      "lng": -75.388152,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-28",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/becca-freeman-with-guest-jo-piazza-tickets-1998514618021",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/s2lhTJyjoUmOs1r5fWAKWw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Oct 28",
+      "nextDate": "2026-10-28",
+      "dates": [
+        "2026-10-28"
       ],
       "occurrences": 1
     },
@@ -15080,6 +15613,43 @@
       "occurrences": 2
     },
     {
+      "id": "ev-wayne-in-conversation-moira-egan-emily-wilson-on-5d7a0e",
+      "name": "In Conversation: Moira Egan & Emily Wilson on Women in Greek Myth",
+      "category": "events",
+      "subcategories": [
+        "special-audience"
+      ],
+      "shortDescription": "Join us for this unique opportunity to join two scholars in conversation!",
+      "address": "Main Point Books, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04479,
+      "lng": -75.388152,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-08",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/in-conversation-moira-egan-emily-wilson-on-women-in-greek-myth-tickets-1998512689252",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/P52yxqPTBUSAnyZF60jb4g.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Dec 8",
+      "nextDate": "2026-12-08",
+      "dates": [
+        "2026-12-08"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-ms-us-band-concert-3af2fa",
       "name": "MS & US Band Concert",
       "category": "events",
@@ -16189,6 +16759,44 @@
       "nextDate": "2027-02-20",
       "dates": [
         "2027-02-20"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-open-mic-night-9683d3",
+      "name": "Open Mic Night",
+      "category": "events",
+      "subcategories": [
+        "open-mic",
+        "performing-arts"
+      ],
+      "shortDescription": "Open Mic Night at Theater - Carrafiell Theater in Newtown Square.",
+      "address": "Theater - Carrafiell Theater, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-02-26",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/85b60f04-8a5a-48ea-99f0-890d0b22aff7.medium.PNG",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Feb 26",
+      "nextDate": "2027-02-26",
+      "dates": [
+        "2027-02-26"
       ],
       "occurrences": 1
     },
