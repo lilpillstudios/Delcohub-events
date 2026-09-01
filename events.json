@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-08-31T17:08:04.939481+00:00",
+  "scraped_at": "2026-09-01T14:12:49.604494+00:00",
   "horizon_days": 180,
-  "event_count": 442,
+  "event_count": 452,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-08-31",
+      "startDate": "2026-09-01",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Aug 31 - Oct 31",
-      "nextDate": "2026-08-31",
+      "schedule": "Daily, Sep 1 - Oct 31",
+      "nextDate": "2026-09-01",
       "dates": [
-        "2026-08-31",
         "2026-09-01",
         "2026-09-02",
         "2026-09-03",
@@ -102,181 +101,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 62
-    },
-    {
-      "id": "ev-newtown-square-golf-jv-boys-v-o-hara-paxon-hollo-198480",
-      "name": "Golf - JV Boys v O'Hara @ Paxon Hollow",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Golf - JV Boys v O'Hara @ Paxon Hollow",
-      "address": "Paxon Hollow Country Club, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-31",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ae93f32a-2df3-4977-9ef2-1a0421a913da.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Aug 31",
-      "nextDate": "2026-08-31",
-      "dates": [
-        "2026-08-31"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-glenolden-monday-trivia-night-at-the-fainting-go-c68d01",
-      "name": "Monday Trivia Night at The Fainting Goat (Glenolden - Delaware County",
-      "category": "events",
-      "subcategories": [
-        "animals",
-        "destinations",
-        "farms",
-        "games"
-      ],
-      "shortDescription": "Monday Night Trivia Starts at 7pm at the Fainting Goat in Glenolden, PA. $50 gift card for 1st Place team and $25 for 2nd Place.",
-      "address": "The Fainting Goat Bar and Restaurant, Glenolden, PA",
-      "town": "Glenolden",
-      "lat": 39.903658,
-      "lng": -75.29411,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-31",
-      "endDate": "2026-12-28",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/monday-trivia-night-at-the-fainting-goat-glenolden-delaware-county-pa-tickets-1106985927709",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QD52Na3--EGn6QKh_-aT8g.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mondays, Aug 31 - Dec 28",
-      "nextDate": "2026-08-31",
-      "dates": [
-        "2026-08-31",
-        "2026-09-07",
-        "2026-09-14",
-        "2026-09-21",
-        "2026-09-28",
-        "2026-10-05",
-        "2026-10-12",
-        "2026-10-19",
-        "2026-10-26",
-        "2026-11-02",
-        "2026-11-09",
-        "2026-11-16",
-        "2026-11-23",
-        "2026-11-30",
-        "2026-12-07",
-        "2026-12-14",
-        "2026-12-21",
-        "2026-12-28"
-      ],
-      "occurrences": 18
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-classes-for-students-with-dis-c24cd1",
-      "name": "One Time Classes For Students With Disabilities",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "special-audience",
-        "visual-arts"
-      ],
-      "shortDescription": "This class for students with disabilities will be flexible depending on the students' desires, sensory preferences, and interest levels.",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "family",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-31",
-      "endDate": "2026-09-28",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154447/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IK04RSbO2UapiFtqzK6Oyw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mondays, Aug 31 - Sep 28",
-      "nextDate": "2026-08-31",
-      "dates": [
-        "2026-08-31",
-        "2026-09-07",
-        "2026-09-14",
-        "2026-09-21",
-        "2026-09-28"
-      ],
-      "occurrences": 5
-    },
-    {
-      "id": "ev-bryn-mawr-renaissance-sale-1a3bbd",
-      "name": "Renaissance sale",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Renaissance sale at a Delco venue in Bryn Mawr.",
-      "address": "Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.027634,
-      "lng": -75.356119,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-08-31",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.agnesirwin.org/quick-links/calendar",
-      "images": [],
-      "imageUrl": "",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Aug 31",
-      "nextDate": "2026-08-31",
-      "dates": [
-        "2026-08-31"
-      ],
-      "occurrences": 1
+      "occurrences": 61
     },
     {
       "id": "ev-rose-tree-cross-country-boys-delco-scrimmage-7ea46d",
@@ -461,6 +286,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-swarthmore-swarthmore-college-women-s-volleyball-3db10d",
+      "name": "Swarthmore College Women's Volleyball vs Eastern University",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Swarthmore College Women's Volleyball vs Eastern University\\nStreaming Video: https://www.centennialconference.tv/swarthmoreathletics/\\n",
+      "address": "Tarble Pavilion, Swarthmore, PA",
+      "town": "Swarthmore",
+      "lat": 39.90206,
+      "lng": -75.34991,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-01",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://swarthmoreathletics.com/calendar.aspx?game_id=31106&sport_id=22",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/41303adc-6311-419e-8756-cc69b17d8c41.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Sep 1",
+      "nextDate": "2026-09-01",
+      "dates": [
+        "2026-09-01"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-holmes-tuesday-karaoke-at-haggertys-in-holmes-pa-3b255e",
       "name": "Tuesday Karaoke at Haggertys in Holmes, PA (Delaware County",
       "category": "events",
@@ -522,6 +387,158 @@
         "2027-02-23"
       ],
       "occurrences": 26
+    },
+    {
+      "id": "ev-villanova-villanova-university-men-s-soccer-vs-f-8996ae",
+      "name": "Villanova University Men's Soccer vs Fordham University",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Villanova University Men's Soccer vs Fordham University TV: ESPN+",
+      "address": "Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.03176,
+      "lng": -75.34903,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-01",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://villanova.com/calendar.aspx?game_id=17751&amp;sport_id=9",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4b8401df-8242-4a6e-a069-2ec28d0848c9.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Sep 1",
+      "nextDate": "2026-09-01",
+      "dates": [
+        "2026-09-01"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-water-polo-jv-boys-v-lower-merion-444d69",
+      "name": "Water Polo - JV Boys v Lower Merion",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Water Polo - JV Boys v Lower Merion",
+      "address": "Burke Natatorium, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-01",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f9de544e-a936-4ae7-96c0-fc7f0d2460e7.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Sep 1",
+      "nextDate": "2026-09-01",
+      "dates": [
+        "2026-09-01"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-water-polo-varsity-boys-v-lower-m-4bf8ce",
+      "name": "Water Polo - Varsity Boys v Lower Merion",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Water Polo - Varsity Boys v Lower Merion",
+      "address": "Burke Natatorium, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-01",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5654b9b5-1ff3-43be-b479-f97bf3acc72a.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Sep 1",
+      "nextDate": "2026-09-01",
+      "dates": [
+        "2026-09-01"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-water-polo-varsity-girls-v-lower-89d047",
+      "name": "Water Polo - Varsity Girls v Lower Merion",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Water Polo - Varsity Girls v Lower Merion",
+      "address": "Burke Natatorium, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-01",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/359768a4-b327-4b56-9756-8467f4ba4030.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Sep 1",
+      "nextDate": "2026-09-01",
+      "dates": [
+        "2026-09-01"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-chester-widener-pride-women-s-volleyball-vs-have-ec7bc7",
@@ -691,6 +708,46 @@
       "occurrences": 2
     },
     {
+      "id": "ev-newtown-square-golf-jv-boys-v-unionville-radley-793b9b",
+      "name": "Golf - JV Boys v Unionville @ Radley Run",
+      "category": "events",
+      "subcategories": [
+        "fitness",
+        "running",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Golf - JV Boys v Unionville @ Radley Run",
+      "address": "Radley Run Country Club, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-02",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ae93f32a-2df3-4977-9ef2-1a0421a913da.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Sep 2",
+      "nextDate": "2026-09-02",
+      "dates": [
+        "2026-09-02"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-kindred-valley-at-118-north-36aed9",
       "name": "Kindred Valley at 118 North",
       "category": "events",
@@ -830,6 +887,124 @@
       "website": "https://www.eventbrite.com/e/rb-bingo-at-caseys-tickets-1998118306643",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8GeOMhqGdE67I98cFnEjsA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Sep 2",
+      "nextDate": "2026-09-02",
+      "dates": [
+        "2026-09-02"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-soccer-jv-boys-v-roman-0e1204",
+      "name": "Soccer - JV Boys v Roman",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Soccer - JV Boys v Roman at Stone Field (Field A) in Newtown Square.",
+      "address": "Stone Field (Field A), Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-02",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f5a7f77d-0c51-4a57-a1ba-4bad118eb6f1.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Sep 2",
+      "nextDate": "2026-09-02",
+      "dates": [
+        "2026-09-02"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-soccer-varsity-boys-v-roman-47cdc6",
+      "name": "Soccer - Varsity Boys v Roman",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Soccer - Varsity Boys v Roman",
+      "address": "Alumni Field (Field D), Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-02",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/890273d5-60d0-444d-b73a-b8cd330e83a8.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Sep 2",
+      "nextDate": "2026-09-02",
+      "dates": [
+        "2026-09-02"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-glen-mills-unveiling-family-support-line-child-a-c3bb3d",
+      "name": "Unveiling: Family Support Line Child Advocacy Center Mural",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "family",
+        "fundraiser",
+        "kids"
+      ],
+      "shortDescription": "Unveiling: Family Support Line Child Advocacy Center Mural",
+      "address": "Family Support Line Child Advocacy Center, Glen Mills, PA",
+      "town": "Glen Mills",
+      "lat": 39.91928,
+      "lng": -75.49159,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-09-02",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.mediaartscouncil.org/calendar/unveiling-family-support-line-family-advocacy-center-mural",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/BBLyle4IgUW3qMLXYYg8gw.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -1094,6 +1269,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-newtown-square-soccer-jv-boys-v-shipley-c16a9a",
+      "name": "Soccer - JV Boys v Shipley",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Soccer - JV Boys v Shipley",
+      "address": "Stone Field (Field A), Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-03",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/890273d5-60d0-444d-b73a-b8cd330e83a8.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Sep 3",
+      "nextDate": "2026-09-03",
+      "dates": [
+        "2026-09-03"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-radnor-soccer-jv-girls-aaac04",
       "name": "Soccer - JV Girls",
       "category": "events",
@@ -1120,6 +1333,44 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b4f13205-36d4-456b-a2cd-4c796b529819.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Sep 3",
+      "nextDate": "2026-09-03",
+      "dates": [
+        "2026-09-03"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-soccer-varsity-boys-v-shipley-2ecde1",
+      "name": "Soccer - Varsity Boys v Shipley",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Soccer - Varsity Boys v Shipley",
+      "address": "Alumni Field (Field D), Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-03",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5245d79e-4890-4dba-8b48-8a1090c252b9.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -2082,6 +2333,105 @@
         "2026-09-07"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-glenolden-monday-trivia-night-at-the-fainting-go-c68d01",
+      "name": "Monday Trivia Night at The Fainting Goat (Glenolden - Delaware County",
+      "category": "events",
+      "subcategories": [
+        "animals",
+        "destinations",
+        "farms",
+        "games"
+      ],
+      "shortDescription": "Monday Night Trivia Starts at 7pm at the Fainting Goat in Glenolden, PA. $50 gift card for 1st Place team and $25 for 2nd Place.",
+      "address": "The Fainting Goat Bar and Restaurant, Glenolden, PA",
+      "town": "Glenolden",
+      "lat": 39.903658,
+      "lng": -75.29411,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-07",
+      "endDate": "2026-12-28",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/monday-trivia-night-at-the-fainting-goat-glenolden-delaware-county-pa-tickets-1106985927709",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QD52Na3--EGn6QKh_-aT8g.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mondays, Sep 7 - Dec 28",
+      "nextDate": "2026-09-07",
+      "dates": [
+        "2026-09-07",
+        "2026-09-14",
+        "2026-09-21",
+        "2026-09-28",
+        "2026-10-05",
+        "2026-10-12",
+        "2026-10-19",
+        "2026-10-26",
+        "2026-11-02",
+        "2026-11-09",
+        "2026-11-16",
+        "2026-11-23",
+        "2026-11-30",
+        "2026-12-07",
+        "2026-12-14",
+        "2026-12-21",
+        "2026-12-28"
+      ],
+      "occurrences": 17
+    },
+    {
+      "id": "ev-bryn-mawr-one-time-classes-for-students-with-dis-c24cd1",
+      "name": "One Time Classes For Students With Disabilities",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "special-audience",
+        "visual-arts"
+      ],
+      "shortDescription": "This class for students with disabilities will be flexible depending on the students' desires, sensory preferences, and interest levels.",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-07",
+      "endDate": "2026-09-28",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154447/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IK04RSbO2UapiFtqzK6Oyw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mondays, Sep 7 - Sep 28",
+      "nextDate": "2026-09-07",
+      "dates": [
+        "2026-09-07",
+        "2026-09-14",
+        "2026-09-21",
+        "2026-09-28"
+      ],
+      "occurrences": 4
     },
     {
       "id": "ev-wallingford-2026-annual-members-exhibition-pick-d748d9",
@@ -6307,7 +6657,7 @@
         "concert",
         "music",
         "performing-arts",
-        "sports"
+        "sports-outdoors"
       ],
       "shortDescription": "Philadelphia Union II vs. New York City FC 2 at Subaru Park in Chester.",
       "address": "Subaru Park, Chester, PA",
@@ -7792,10 +8142,10 @@
       "name": "Philadelphia Union vs. Orlando City SC",
       "category": "events",
       "subcategories": [
-        "concert",
         "music",
         "performing-arts",
-        "sports"
+        "sports",
+        "sports-outdoors"
       ],
       "shortDescription": "Philadelphia Union vs. Orlando City SC at Subaru Park in Chester.",
       "address": "Subaru Park, Chester, PA",
@@ -10153,10 +10503,10 @@
       "name": "Philadelphia Union vs. Real Salt Lake",
       "category": "events",
       "subcategories": [
-        "concert",
         "music",
         "performing-arts",
-        "sports"
+        "sports",
+        "sports-outdoors"
       ],
       "shortDescription": "Philadelphia Union vs. Real Salt Lake at Subaru Park in Chester.",
       "address": "Subaru Park, Chester, PA",
@@ -10941,10 +11291,10 @@
       "name": "Philadelphia Union vs. Charlotte FC",
       "category": "events",
       "subcategories": [
-        "concert",
         "music",
         "performing-arts",
-        "sports"
+        "sports",
+        "sports-outdoors"
       ],
       "shortDescription": "Philadelphia Union vs. Charlotte FC at Subaru Park in Chester.",
       "address": "Subaru Park, Chester, PA",
@@ -12179,10 +12529,10 @@
       "name": "Philadelphia Union vs. New England Revolution",
       "category": "events",
       "subcategories": [
-        "concert",
         "music",
         "performing-arts",
-        "sports"
+        "sports",
+        "sports-outdoors"
       ],
       "shortDescription": "Philadelphia Union vs. New England Revolution at Subaru Park in Chester.",
       "address": "Subaru Park, Chester, PA",
@@ -13925,10 +14275,10 @@
       "name": "Philadelphia Union vs. Toronto FC",
       "category": "events",
       "subcategories": [
-        "concert",
         "music",
         "performing-arts",
-        "sports"
+        "sports",
+        "sports-outdoors"
       ],
       "shortDescription": "Philadelphia Union vs. Toronto FC at Subaru Park in Chester.",
       "address": "Subaru Park, Chester, PA",
@@ -15759,6 +16109,44 @@
       "nextDate": "2026-12-10",
       "dates": [
         "2026-12-10"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-lansdowne-home-for-the-holidays-370d62",
+      "name": "Home For The Holidays",
+      "category": "events",
+      "subcategories": [
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Home For The Holidays All-4-One, Sheena Easton, Ruben Studdard, and Lindsey Webster Friday, December 11, 2026 8:00pm / Doors at 7:00pm Lansdowne Theater 31 N.",
+      "address": "Lansdowne Theater, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.939419,
+      "lng": -75.272179,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-11",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.etix.com/ticket/p/98897703/home-for-the-holidaysall4onesheena-eastonruben-studdardand-lindsey-webster-lansdowne-lansdowne-theater",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yczAGsRl50yipXvV417FFQ.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Dec 11",
+      "nextDate": "2026-12-11",
+      "dates": [
+        "2026-12-11"
       ],
       "occurrences": 1
     },
