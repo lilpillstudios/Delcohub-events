@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "scraped_at": "2026-09-02T13:44:18.223362+00:00",
+  "scraped_at": "2026-09-03T13:40:20.157688+00:00",
   "horizon_days": 180,
   "event_count": 446,
   "listings": [
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-09-02",
+      "startDate": "2026-09-03",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Sep 2 - Oct 31",
-      "nextDate": "2026-09-02",
+      "schedule": "Daily, Sep 3 - Oct 31",
+      "nextDate": "2026-09-03",
       "dates": [
-        "2026-09-02",
         "2026-09-03",
         "2026-09-04",
         "2026-09-05",
@@ -100,483 +99,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 60
-    },
-    {
-      "id": "ev-wayne-chess-club-634d75",
-      "name": "Chess Club",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "games",
-        "health-wellness",
-        "learning"
-      ],
-      "shortDescription": "Chess Club at Radnor Memorial Library Wednesdays, 9/2/26 through 12/30/26 (10/14 and 10/21 Chess Club moves upstairs, Rms.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-02",
-      "endDate": "2026-11-18",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17289289",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eea63be5-c4d3-46d5-9632-af64e5f10861.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wednesdays, Sep 2 - Nov 18",
-      "nextDate": "2026-09-02",
-      "dates": [
-        "2026-09-02",
-        "2026-09-09",
-        "2026-09-16",
-        "2026-09-23",
-        "2026-09-30",
-        "2026-10-07",
-        "2026-10-28",
-        "2026-11-04",
-        "2026-11-11",
-        "2026-11-18"
-      ],
-      "occurrences": 10
-    },
-    {
-      "id": "media-dining-under-the-stars",
-      "name": "Dining Under the Stars",
-      "category": "events",
-      "subcategories": [
-        "food-festival",
-        "street-dining"
-      ],
-      "shortDescription": "Media's signature warm-weather event closing State Street so restaurants serve al fresco dinners under string lights.",
-      "address": "State St, Media, PA 19063",
-      "town": "Media",
-      "lat": 39.9166,
-      "lng": -75.388,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "date",
-        "group",
-        "family"
-      ],
-      "hours": {},
-      "startDate": "",
-      "endDate": "",
-      "recurring": "weekly",
-      "venueId": "media-state-street-district",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "schedule": "Wednesdays, June-August",
-      "nextDate": "2026-09-02",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-09-02"
-      ]
-    },
-    {
-      "id": "ev-newtown-square-eapa-thrift-shop-sale-campus-cent-87fefa",
-      "name": "EAPA Thrift Shop Sale - Campus Center",
-      "category": "events",
-      "subcategories": [
-        "markets"
-      ],
-      "shortDescription": "EAPA Thrift Shop Sale - Campus Center",
-      "address": "Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-02",
-      "endDate": "2026-09-03",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d71d1774-c612-4282-acf2-a7c9dd306bf8.medium.PNG",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Sep 2 - Sep 3",
-      "nextDate": "2026-09-02",
-      "dates": [
-        "2026-09-02",
-        "2026-09-03"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-newtown-square-golf-jv-boys-v-unionville-radley-793b9b",
-      "name": "Golf - JV Boys v Unionville @ Radley Run",
-      "category": "events",
-      "subcategories": [
-        "fitness",
-        "running",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Golf - JV Boys v Unionville @ Radley Run",
-      "address": "Radley Run Country Club, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ae93f32a-2df3-4977-9ef2-1a0421a913da.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Sep 2",
-      "nextDate": "2026-09-02",
-      "dates": [
-        "2026-09-02"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-kindred-valley-at-118-north-36aed9",
-      "name": "Kindred Valley at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Kindred Valley at 118 North Wednesday, September 2, 2026 Doors: 5:30 PM | Show: 7:30 PM 21+ Tickets >> https://tixr.com/pr/social/200827",
-      "address": "Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1002946275693461/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eLGLFClMPE6mQxk-Dm1VJQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Sep 2",
-      "nextDate": "2026-09-02",
-      "dates": [
-        "2026-09-02"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-late-30s-40s-happy-hour-115ba0",
-      "name": "Late 30s/40s Happy Hour",
-      "category": "events",
-      "subcategories": [
-        "drinks",
-        "food-drink"
-      ],
-      "shortDescription": "For more info and discounted pricing, visit: https://www.theshakaclub.com/event-details/late-30s-40s-happy-hour-wayne-singles",
-      "address": "Nature's Vin, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044117,
-      "lng": -75.384973,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/late-30s40s-happy-hour-wayne-tickets-1995735322072",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/564xiFmn50ij4K9MQvmtoA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Sep 2",
-      "nextDate": "2026-09-02",
-      "dates": [
-        "2026-09-02"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wallingford-mad-poets-society-reading-e76ffe",
-      "name": "Mad Poets Society Reading",
-      "category": "events",
-      "subcategories": [
-        "literary-arts"
-      ],
-      "shortDescription": "For more information on who will be reading go to https://www.madpoetssociety.com",
-      "address": "Community Arts Center, Wallingford, PA",
-      "town": "Wallingford",
-      "lat": 39.908927,
-      "lng": -75.365674,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-02",
-      "endDate": "2026-10-07",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://communityartscenter.org/events/?pno=",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/I5hy8nk9Wk2ZscZnfII-qg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wednesdays, Sep 2 - Oct 7",
-      "nextDate": "2026-09-02",
-      "dates": [
-        "2026-09-02",
-        "2026-10-07"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-drexel-hill-r-b-bingo-at-casey-s-7af481",
-      "name": "R&B Bingo at Casey's",
-      "category": "events",
-      "subcategories": [
-        "games",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "The hottest R&B Bingo in the tristate is making its way to Delco! Come sing, play, vibe and win prizes with Lala & Dez Davis!",
-      "address": "Casey's Drexel Hill, Drexel Hill, PA",
-      "town": "Drexel Hill",
-      "lat": 39.959937,
-      "lng": -75.288952,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/rb-bingo-at-caseys-tickets-1998118306643",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8GeOMhqGdE67I98cFnEjsA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Sep 2",
-      "nextDate": "2026-09-02",
-      "dates": [
-        "2026-09-02"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-jv-boys-v-roman-0e1204",
-      "name": "Soccer - JV Boys v Roman",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - JV Boys v Roman at Stone Field (Field A) in Newtown Square.",
-      "address": "Stone Field (Field A), Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f5a7f77d-0c51-4a57-a1ba-4bad118eb6f1.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Sep 2",
-      "nextDate": "2026-09-02",
-      "dates": [
-        "2026-09-02"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-varsity-boys-v-roman-47cdc6",
-      "name": "Soccer - Varsity Boys v Roman",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - Varsity Boys v Roman",
-      "address": "Alumni Field (Field D), Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/890273d5-60d0-444d-b73a-b8cd330e83a8.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Sep 2",
-      "nextDate": "2026-09-02",
-      "dates": [
-        "2026-09-02"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-glen-mills-unveiling-family-support-line-child-a-c3bb3d",
-      "name": "Unveiling: Family Support Line Child Advocacy Center Mural",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "family",
-        "fundraiser",
-        "kids"
-      ],
-      "shortDescription": "Unveiling: Family Support Line Child Advocacy Center Mural",
-      "address": "Family Support Line Child Advocacy Center, Glen Mills, PA",
-      "town": "Glen Mills",
-      "lat": 39.91928,
-      "lng": -75.49159,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-09-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.mediaartscouncil.org/calendar/unveiling-family-support-line-family-advocacy-center-mural",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/BBLyle4IgUW3qMLXYYg8gw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Sep 2",
-      "nextDate": "2026-09-02",
-      "dates": [
-        "2026-09-02"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-widener-pride-field-hockey-vs-elizabetht-daf3d7",
-      "name": "Widener Pride: Field Hockey vs Elizabethtown",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Field Hockey vs Elizabethtown Streaming Video: https://gomacsports.tv/widenerpride/",
-      "address": "Edith R. Dixon Field, Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14440&amp;sport_id=9",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b04bdf65-d71d-4a5a-a43a-cf4f24a1e822.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Sep 2",
-      "nextDate": "2026-09-02",
-      "dates": [
-        "2026-09-02"
-      ],
-      "occurrences": 1
+      "occurrences": 59
     },
     {
       "id": "ev-newtown-square-cyo-football-f16ef2",
@@ -605,6 +128,43 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/271c83cb-f973-4590-86d5-873575c68104.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Sep 3",
+      "nextDate": "2026-09-03",
+      "dates": [
+        "2026-09-03"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-eapa-thrift-shop-sale-campus-cent-87fefa",
+      "name": "EAPA Thrift Shop Sale - Campus Center",
+      "category": "events",
+      "subcategories": [
+        "markets"
+      ],
+      "shortDescription": "EAPA Thrift Shop Sale - Campus Center",
+      "address": "Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-03",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d71d1774-c612-4282-acf2-a7c9dd306bf8.medium.PNG",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -1049,7 +609,7 @@
         "concert",
         "music",
         "performing-arts",
-        "sports"
+        "sports-outdoors"
       ],
       "shortDescription": "Philadelphia Union II vs. Columbus Crew 2 at Subaru Park in Chester.",
       "address": "Subaru Park, Chester, PA",
@@ -1391,10 +951,10 @@
       "name": "Philadelphia Union vs. CF Montreal",
       "category": "events",
       "subcategories": [
-        "concert",
         "music",
         "performing-arts",
-        "sports"
+        "sports",
+        "sports-outdoors"
       ],
       "shortDescription": "Philadelphia Union vs. CF Montreal at Subaru Park in Chester.",
       "address": "Subaru Park, Chester, PA",
@@ -2196,6 +1756,135 @@
       "occurrences": 25
     },
     {
+      "id": "ev-chester-care-fair-73540a",
+      "name": "Care Fair",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "festival",
+        "health-wellness",
+        "lifestyle"
+      ],
+      "shortDescription": "Discover all the ways Widener supports you at the upcoming Widener Care Fair!",
+      "address": "UC Atrium, Chester, PA",
+      "town": "Chester",
+      "lat": 39.84956,
+      "lng": -75.35575,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-09-09",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.widener.edu/events/care-fair",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bfa6e888-4f79-4052-b5e1-c38505ffdd66.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Sep 9",
+      "nextDate": "2026-09-09",
+      "dates": [
+        "2026-09-09"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-chess-club-634d75",
+      "name": "Chess Club",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "games",
+        "health-wellness",
+        "learning"
+      ],
+      "shortDescription": "Chess Club at Radnor Memorial Library Wednesdays, 9/2/26 through 12/30/26 (10/14 and 10/21 Chess Club moves upstairs, Rms.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-09",
+      "endDate": "2026-11-18",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17289382",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eea63be5-c4d3-46d5-9632-af64e5f10861.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wednesdays, Sep 9 - Nov 18",
+      "nextDate": "2026-09-09",
+      "dates": [
+        "2026-09-09",
+        "2026-09-16",
+        "2026-09-23",
+        "2026-09-30",
+        "2026-10-07",
+        "2026-10-28",
+        "2026-11-04",
+        "2026-11-11",
+        "2026-11-18"
+      ],
+      "occurrences": 9
+    },
+    {
+      "id": "media-dining-under-the-stars",
+      "name": "Dining Under the Stars",
+      "category": "events",
+      "subcategories": [
+        "food-festival",
+        "street-dining"
+      ],
+      "shortDescription": "Media's signature warm-weather event closing State Street so restaurants serve al fresco dinners under string lights.",
+      "address": "State St, Media, PA 19063",
+      "town": "Media",
+      "lat": 39.9166,
+      "lng": -75.388,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "date",
+        "group",
+        "family"
+      ],
+      "hours": {},
+      "startDate": "",
+      "endDate": "",
+      "recurring": "weekly",
+      "venueId": "media-state-street-district",
+      "phone": "",
+      "website": "",
+      "images": [],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "schedule": "Wednesdays, June-August",
+      "nextDate": "2026-09-09",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-09-09"
+      ]
+    },
+    {
       "id": "ev-radnor-golf-varsity-boys-v-radnor-radnor-valley-13bdda",
       "name": "Golf - Varsity Boys v Radnor @ Radnor Valley",
       "category": "events",
@@ -2276,10 +1965,10 @@
       "name": "Philadelphia Union vs. FC Cincinnati",
       "category": "events",
       "subcategories": [
-        "concert",
         "music",
         "performing-arts",
-        "sports"
+        "sports",
+        "sports-outdoors"
       ],
       "shortDescription": "Philadelphia Union vs. FC Cincinnati at Subaru Park in Chester.",
       "address": "Subaru Park, Chester, PA",
@@ -2578,6 +2267,47 @@
         "2026-12-10"
       ],
       "occurrences": 4
+    },
+    {
+      "id": "ev-media-mac-original-play-reading-series-spark-oth-d63c0e",
+      "name": "MAC Original Play Reading Series: spark. & other short plays by Alex Dremann",
+      "category": "events",
+      "subcategories": [
+        "comedy",
+        "destinations",
+        "festival",
+        "literary-arts"
+      ],
+      "shortDescription": "MAC Original Play Reading Series: spark. & other short plays by Alex Dremann",
+      "address": "Media Fellowship House, Media, PA",
+      "town": "Media",
+      "lat": 39.916227,
+      "lng": -75.390155,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-09-10",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.mediaartscouncil.org/calendar/mac-original-play-reading-series-spark-other-short-plays-by-alex-dremann",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/iAn_uFc5SE2NwhZNQHba1Q.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Sep 10",
+      "nextDate": "2026-09-10",
+      "dates": [
+        "2026-09-10"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-aldan-miracle-on-34th-street-431e1e",
@@ -3909,7 +3639,7 @@
       ],
       "hours": {},
       "startDate": "2026-09-14",
-      "endDate": "2027-02-22",
+      "endDate": "2027-03-01",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -3920,7 +3650,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Mondays, Sep 14 - Feb 22",
+      "schedule": "Mondays, Sep 14 - Mar 1",
       "nextDate": "2026-09-14",
       "dates": [
         "2026-09-14",
@@ -3939,9 +3669,10 @@
         "2027-02-01",
         "2027-02-08",
         "2027-02-15",
-        "2027-02-22"
+        "2027-02-22",
+        "2027-03-01"
       ],
-      "occurrences": 17
+      "occurrences": 18
     },
     {
       "id": "ev-newtown-square-football-jv-ga-4475b5",
@@ -6756,6 +6487,43 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wallingford-dionysus-delight-greek-wine-pairing-b327cc",
+      "name": "Dionysus' Delight: Greek wine pairing dinner",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink"
+      ],
+      "shortDescription": "In our series on “Flavors Around the World”, we are featuring Greek-themed wine pairing dinner, where a 4-course dinner will be paired with 4 distinct wines from Greece.",
+      "address": "Fond BYOB, Wallingford, PA",
+      "town": "Wallingford",
+      "lat": 39.904721,
+      "lng": -75.37566,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-23",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://perfectpourexperience.com/event/dionysuss-delight-greek-wine-pairing-dinner/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bTb3xGmD9kuBW9ufHCywQA.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Sep 23",
+      "nextDate": "2026-09-23",
+      "dates": [
+        "2026-09-23"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-field-hockey-varsity-hun-school-690a75",
       "name": "Field Hockey - Varsity @ Hun School",
       "category": "events",
@@ -9244,6 +9012,48 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-multilingual-family-fair-f226bd",
+      "name": "Multilingual Family Fair",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "family",
+        "festival",
+        "special-audience"
+      ],
+      "shortDescription": "Multilingual Family Fair at Wayne Elementary School in Wayne.",
+      "address": "Wayne Elementary School, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04505,
+      "lng": -75.39125,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-10-03",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/48d62f8d-8d8b-400a-889c-6d762b93e82a.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 3",
+      "nextDate": "2026-10-03",
+      "dates": [
+        "2026-10-03"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-media-summer-movie-night-monsters-inc-67407d",
       "name": "Summer Movie Night - Monsters Inc",
       "category": "events",
@@ -9771,6 +9581,43 @@
       "nextDate": "2026-10-06",
       "dates": [
         "2026-10-06"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wallingford-mad-poets-society-reading-e76ffe",
+      "name": "Mad Poets Society Reading",
+      "category": "events",
+      "subcategories": [
+        "literary-arts"
+      ],
+      "shortDescription": "For more information on who will be reading go to https://www.madpoetssociety.com",
+      "address": "Community Arts Center, Wallingford, PA",
+      "town": "Wallingford",
+      "lat": 39.908927,
+      "lng": -75.365674,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-07",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://communityartscenter.org/events/?pno=",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/I5hy8nk9Wk2ZscZnfII-qg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Oct 7",
+      "nextDate": "2026-10-07",
+      "dates": [
+        "2026-10-07"
       ],
       "occurrences": 1
     },
@@ -15729,6 +15576,46 @@
       "occurrences": 2
     },
     {
+      "id": "ev-chester-ceu-movie-discussion-holiday-edition-not-8da121",
+      "name": "CEU: Movie & Discussion (Holiday Edition): Nothing like the Holidays (2008)",
+      "category": "events",
+      "subcategories": [
+        "christmas",
+        "film",
+        "holiday",
+        "visual-arts"
+      ],
+      "shortDescription": "We will watch the film, use the chat to communicate during the viewing, and have a discussion on the film using prompts.",
+      "address": "Chester, PA",
+      "town": "Chester",
+      "lat": 39.84956,
+      "lng": -75.35575,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-08",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.widener.edu/events/ceu-movie-discussion-holiday-edition-nothing-holidays-2008",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3e4fa9fd-f8b4-465e-8171-3308671027f2.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Dec 8",
+      "nextDate": "2026-12-08",
+      "dates": [
+        "2026-12-08"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-in-conversation-moira-egan-emily-wilson-on-5d7a0e",
       "name": "In Conversation: Moira Egan & Emily Wilson on Women in Greek Myth",
       "category": "events",
@@ -15956,6 +15843,84 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-gingerbread-house-decorating-workshop-afte-e151ac",
+      "name": "Gingerbread House Decorating Workshop (Afternoon)",
+      "category": "events",
+      "subcategories": [
+        "christmas",
+        "holiday",
+        "learning",
+        "workshop"
+      ],
+      "shortDescription": "Gum drops, sprinkles and frosting--oh my!",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-13",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2161/gingerbread-house-decorating-workshop-afternoon",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/CGRbBnBlvk-fnaoEVnrIOg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Dec 13",
+      "nextDate": "2026-12-13",
+      "dates": [
+        "2026-12-13"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-gingerbread-house-decorating-workshop-morn-1629df",
+      "name": "Gingerbread House Decorating Workshop (Morning)",
+      "category": "events",
+      "subcategories": [
+        "christmas",
+        "holiday",
+        "learning",
+        "workshop"
+      ],
+      "shortDescription": "Gum drops, sprinkles and frosting--oh my!",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-13",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2162/gingerbread-house-decorating-workshop-morning",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/FJ-wsth96k-UdFAWr1LSlQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Dec 13",
+      "nextDate": "2026-12-13",
+      "dates": [
+        "2026-12-13"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-the-intimate-object-breathing-life-still-l-75b863",
       "name": "The Intimate Object: Breathing Life Still Life with Jon Redmond",
       "category": "events",
@@ -16068,6 +16033,47 @@
         "2026-12-21"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-school-s-out-art-camp-pm-cf3082",
+      "name": "School's Out ART Camp (PM)",
+      "category": "events",
+      "subcategories": [
+        "christmas",
+        "classes",
+        "holiday",
+        "learning"
+      ],
+      "shortDescription": "No school? Join the Wayne Art Center Staff for a fun-filled afternoon of arts & crafts during the Winter Christmas break.",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-28",
+      "endDate": "2026-12-30",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2164/schools-out-art-camp-full-day",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/JuaXl4cmHk-C321a6_QAQw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Dec 28 - Dec 30",
+      "nextDate": "2026-12-28",
+      "dates": [
+        "2026-12-28",
+        "2026-12-29",
+        "2026-12-30"
+      ],
+      "occurrences": 3
     },
     {
       "id": "ev-wayne-basic-cable-nye-dance-party-at-118-north-dc65b2",
