@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-09-03T13:40:20.157688+00:00",
+  "scraped_at": "2026-09-04T13:36:13.697657+00:00",
   "horizon_days": 180,
-  "event_count": 446,
+  "event_count": 447,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-09-03",
+      "startDate": "2026-09-04",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Sep 3 - Oct 31",
-      "nextDate": "2026-09-03",
+      "schedule": "Daily, Sep 4 - Oct 31",
+      "nextDate": "2026-09-04",
       "dates": [
-        "2026-09-03",
         "2026-09-04",
         "2026-09-05",
         "2026-09-06",
@@ -99,393 +98,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 59
-    },
-    {
-      "id": "ev-newtown-square-cyo-football-f16ef2",
-      "name": "CYO Football",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "CYO Football at Smith Field (Field G) in Newtown Square.",
-      "address": "Smith Field (Field G), Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-03",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/271c83cb-f973-4590-86d5-873575c68104.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Sep 3",
-      "nextDate": "2026-09-03",
-      "dates": [
-        "2026-09-03"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-eapa-thrift-shop-sale-campus-cent-87fefa",
-      "name": "EAPA Thrift Shop Sale - Campus Center",
-      "category": "events",
-      "subcategories": [
-        "markets"
-      ],
-      "shortDescription": "EAPA Thrift Shop Sale - Campus Center",
-      "address": "Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-03",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d71d1774-c612-4282-acf2-a7c9dd306bf8.medium.PNG",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Sep 3",
-      "nextDate": "2026-09-03",
-      "dates": [
-        "2026-09-03"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-johnny-mullenax-bronwyn-at-118-north-514820",
-      "name": "Johnny Mullenax + Bronwyn at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Johnny Mullenax + Bronwyn at 118 North Thursday, September 3, 2026 Doors: 6:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-03",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1019413220598398/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gQG24KxMTkmKeDzX6RKMtA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Sep 3",
-      "nextDate": "2026-09-03",
-      "dates": [
-        "2026-09-03"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
-      "name": "One Time Adult Wheel Class",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "visual-arts"
-      ],
-      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-03",
-      "endDate": "2026-09-27",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154443/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "16 dates, Sep 3 - Sep 27",
-      "nextDate": "2026-09-03",
-      "dates": [
-        "2026-09-03",
-        "2026-09-04",
-        "2026-09-05",
-        "2026-09-06",
-        "2026-09-10",
-        "2026-09-11",
-        "2026-09-12",
-        "2026-09-13",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-19",
-        "2026-09-20",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-26",
-        "2026-09-27"
-      ],
-      "occurrences": 16
-    },
-    {
-      "id": "ev-glen-mills-parks-for-pollinators-bioblitz-050cc7",
-      "name": "Parks for Pollinators BioBlitz",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "nature",
-        "outdoor-recreation",
-        "parks-gardens"
-      ],
-      "shortDescription": "Alongside their first Happy Hour of fall, held by the log cabin, Newlin Grist Mill is hosting a BioBlitz in partnership with Concord Township, PA!",
-      "address": "Newlin Grist Mill, Glen Mills, PA",
-      "town": "Glen Mills",
-      "lat": 39.890529,
-      "lng": -75.506043,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-09-03",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Rr3SdEgPlkaC6iBJ5yQk_A.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Sep 3",
-      "nextDate": "2026-09-03",
-      "dates": [
-        "2026-09-03"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-jv-boys-v-shipley-c16a9a",
-      "name": "Soccer - JV Boys v Shipley",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - JV Boys v Shipley",
-      "address": "Stone Field (Field A), Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-03",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/890273d5-60d0-444d-b73a-b8cd330e83a8.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Sep 3",
-      "nextDate": "2026-09-03",
-      "dates": [
-        "2026-09-03"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-radnor-soccer-jv-girls-aaac04",
-      "name": "Soccer - JV Girls",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - JV Girls @ Radnor",
-      "address": "Radnor High School, Radnor, PA",
-      "town": "Radnor",
-      "lat": 40.04715,
-      "lng": -75.37046,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-03",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b4f13205-36d4-456b-a2cd-4c796b529819.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Sep 3",
-      "nextDate": "2026-09-03",
-      "dates": [
-        "2026-09-03"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-varsity-boys-v-shipley-2ecde1",
-      "name": "Soccer - Varsity Boys v Shipley",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - Varsity Boys v Shipley",
-      "address": "Alumni Field (Field D), Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-03",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5245d79e-4890-4dba-8b48-8a1090c252b9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Sep 3",
-      "nextDate": "2026-09-03",
-      "dates": [
-        "2026-09-03"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-drexel-hill-thursday-karaoke-at-casey-s-restaura-4579c1",
-      "name": "Thursday Karaoke at Casey's Restaurant (Drexel Hill - Delaware County",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink",
-        "open-mic",
-        "performing-arts"
-      ],
-      "shortDescription": "Sing your heart out at Casey's Restaurant every Thursday night with some karaoke fun in Drexel Hill, Delaware County, PA! Starts at 8pm.",
-      "address": "Casey's Saloon & Restaurant, Drexel Hill, PA",
-      "town": "Drexel Hill",
-      "lat": 39.960126,
-      "lng": -75.288562,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-03",
-      "endDate": "2027-02-25",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/thursday-karaoke-at-caseys-restaurant-drexel-hill-delaware-county-pa-tickets-1061653848239",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pgpVzPSpoUaADfBllel6lw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thursdays, Sep 3 - Feb 25",
-      "nextDate": "2026-09-03",
-      "dates": [
-        "2026-09-03",
-        "2026-09-10",
-        "2026-09-17",
-        "2026-09-24",
-        "2026-10-01",
-        "2026-10-08",
-        "2026-10-15",
-        "2026-10-22",
-        "2026-10-29",
-        "2026-11-05",
-        "2026-11-12",
-        "2026-11-19",
-        "2026-11-26",
-        "2026-12-03",
-        "2026-12-10",
-        "2026-12-17",
-        "2026-12-24",
-        "2026-12-31",
-        "2027-01-07",
-        "2027-01-14",
-        "2027-01-21",
-        "2027-01-28",
-        "2027-02-04",
-        "2027-02-11",
-        "2027-02-18",
-        "2027-02-25"
-      ],
-      "occurrences": 26
+      "occurrences": 58
     },
     {
       "id": "ev-newtown-square-cross-country-girls-unionville-2-497405",
@@ -602,6 +215,137 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-lancaster-county-farmers-market-1b0e48",
+      "name": "Lancaster County Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "farmers-market",
+        "markets"
+      ],
+      "shortDescription": "389 W. Lancaster Ave., Wayne. Wed., Fri., Sat., 6 to 4. 610-688-9856. LancasterCountyFarmersMarket.com.",
+      "address": "Lancaster County Farmers Market, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044908,
+      "lng": -75.400304,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-04",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://countylinesmagazine.com/event/lancaster-county-farmers-market-2-2025-06-18/2026-09-04/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b52e9d77-dd16-4ac8-9e9e-8ba8856cef3c.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Sep 4",
+      "nextDate": "2026-09-04",
+      "dates": [
+        "2026-09-04"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
+      "name": "One Time Adult Wheel Class",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "visual-arts"
+      ],
+      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-04",
+      "endDate": "2026-09-27",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154443/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "15 dates, Sep 4 - Sep 27",
+      "nextDate": "2026-09-04",
+      "dates": [
+        "2026-09-04",
+        "2026-09-05",
+        "2026-09-06",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-12",
+        "2026-09-13",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-27"
+      ],
+      "occurrences": 15
+    },
+    {
+      "id": "ev-chadds-ford-penns-woods-winery-live-music-on-the-cbd574",
+      "name": "Penns Woods Winery Live Music on the Lawn",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "food-drink",
+        "live-music",
+        "music"
+      ],
+      "shortDescription": "Kick back and enjoy the music at 124 Beaver Valley Rd., Chadds Ford. Visit website for a complete lineup. PennsWoodsWinery.com",
+      "address": "Penns Woods Winery, Chadds Ford, PA",
+      "town": "Chadds Ford",
+      "lat": 39.847562,
+      "lng": -75.546723,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-09-04",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://countylinesmagazine.com/event/penns-woods-winery-live-music-on-the-lawn/2026-09-04/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1fc389b1-4ab7-4ca4-b23a-e87645af703f.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Sep 4",
+      "nextDate": "2026-09-04",
+      "dates": [
+        "2026-09-04"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-chester-philadelphia-union-ii-vs-columbus-crew-2-90a804",
       "name": "Philadelphia Union II vs. Columbus Crew 2",
       "category": "events",
@@ -678,6 +422,163 @@
         "2026-09-04"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-swarthmore-swarthmore-college-men-s-soccer-vs-ka-b26082",
+      "name": "Swarthmore College Men's Soccer vs Kalamazoo vs. Rutgers-Newark",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Swarthmore College Men's Soccer vs Kalamazoo vs. Rutgers-Newark\\nStreaming Video: https://www.centennialconference.tv/swarthmoreathletics/\\n",
+      "address": "Clothier Field Stadium, Swarthmore, PA",
+      "town": "Swarthmore",
+      "lat": 39.90206,
+      "lng": -75.34991,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-04",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://swarthmoreathletics.com/calendar.aspx?game_id=31058&sport_id=8",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f5a7f77d-0c51-4a57-a1ba-4bad118eb6f1.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Sep 4",
+      "nextDate": "2026-09-04",
+      "dates": [
+        "2026-09-04"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-swarthmore-swarthmore-college-women-s-soccer-vs-76b224",
+      "name": "Swarthmore College Women's Soccer vs Skidmore College",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Swarthmore College Women's Soccer vs Skidmore College\\nStreaming Video: https://www.centennialconference.tv/swarthmoreathletics/\\n",
+      "address": "Clothier Field Stadium, Swarthmore, PA",
+      "town": "Swarthmore",
+      "lat": 39.90206,
+      "lng": -75.34991,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-04",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://swarthmoreathletics.com/calendar.aspx?game_id=31091&sport_id=18",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4b8401df-8242-4a6e-a069-2ec28d0848c9.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Sep 4",
+      "nextDate": "2026-09-04",
+      "dates": [
+        "2026-09-04"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-villanova-villanova-university-women-s-volleybal-8cc4fd",
+      "name": "Villanova University Women's Volleyball vs Princeton",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Villanova University Women's Volleyball vs Princeton",
+      "address": "Hamilton, Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.03176,
+      "lng": -75.34903,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-04",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://villanova.com/calendar.aspx?game_id=17711&amp;sport_id=22",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e669d12a-a6ec-4151-8c5f-9397f6aae3d7.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Sep 4",
+      "nextDate": "2026-09-04",
+      "dates": [
+        "2026-09-04"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-water-polo-varsity-boys-ea-invita-425905",
+      "name": "Water Polo - Varsity Boys EA Invitational",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Water Polo - Varsity Boys EA Invitational",
+      "address": "Burke Natatorium, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-04",
+      "endDate": "2026-09-05",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5654b9b5-1ff3-43be-b479-f97bf3acc72a.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Sep 4 - Sep 5",
+      "nextDate": "2026-09-04",
+      "dates": [
+        "2026-09-04",
+        "2026-09-05"
+      ],
+      "occurrences": 2
     },
     {
       "id": "ev-chester-widener-pride-men-s-soccer-vs-washington-f40344",
@@ -1609,7 +1510,7 @@
       ],
       "hours": {},
       "startDate": "2026-09-08",
-      "endDate": "2027-02-23",
+      "endDate": "2027-03-02",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -1620,7 +1521,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Tuesdays, Sep 8 - Feb 23",
+      "schedule": "Tuesdays, Sep 8 - Mar 2",
       "nextDate": "2026-09-08",
       "dates": [
         "2026-09-08",
@@ -1647,9 +1548,10 @@
         "2027-02-02",
         "2027-02-09",
         "2027-02-16",
-        "2027-02-23"
+        "2027-02-23",
+        "2027-03-02"
       ],
-      "occurrences": 25
+      "occurrences": 26
     },
     {
       "id": "ev-wayne-radlit-book-club-4f7dca",
@@ -1713,7 +1615,7 @@
       ],
       "hours": {},
       "startDate": "2026-09-08",
-      "endDate": "2027-02-23",
+      "endDate": "2027-03-02",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -1724,7 +1626,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Tuesdays, Sep 8 - Feb 23",
+      "schedule": "Tuesdays, Sep 8 - Mar 2",
       "nextDate": "2026-09-08",
       "dates": [
         "2026-09-08",
@@ -1751,9 +1653,10 @@
         "2027-02-02",
         "2027-02-09",
         "2027-02-16",
-        "2027-02-23"
+        "2027-02-23",
+        "2027-03-02"
       ],
-      "occurrences": 25
+      "occurrences": 26
     },
     {
       "id": "ev-chester-care-fair-73540a",
@@ -2471,6 +2374,70 @@
         "2026-09-10"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-drexel-hill-thursday-karaoke-at-casey-s-restaura-4579c1",
+      "name": "Thursday Karaoke at Casey's Restaurant (Drexel Hill - Delaware County",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink",
+        "open-mic",
+        "performing-arts"
+      ],
+      "shortDescription": "Sing your heart out at Casey's Restaurant every Thursday night with some karaoke fun in Drexel Hill, Delaware County, PA! Starts at 8pm.",
+      "address": "Casey's Saloon & Restaurant, Drexel Hill, PA",
+      "town": "Drexel Hill",
+      "lat": 39.960126,
+      "lng": -75.288562,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-10",
+      "endDate": "2027-02-25",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/thursday-karaoke-at-caseys-restaurant-drexel-hill-delaware-county-pa-tickets-1061653848239",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pgpVzPSpoUaADfBllel6lw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thursdays, Sep 10 - Feb 25",
+      "nextDate": "2026-09-10",
+      "dates": [
+        "2026-09-10",
+        "2026-09-17",
+        "2026-09-24",
+        "2026-10-01",
+        "2026-10-08",
+        "2026-10-15",
+        "2026-10-22",
+        "2026-10-29",
+        "2026-11-05",
+        "2026-11-12",
+        "2026-11-19",
+        "2026-11-26",
+        "2026-12-03",
+        "2026-12-10",
+        "2026-12-17",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07",
+        "2027-01-14",
+        "2027-01-21",
+        "2027-01-28",
+        "2027-02-04",
+        "2027-02-11",
+        "2027-02-18",
+        "2027-02-25"
+      ],
+      "occurrences": 25
     },
     {
       "id": "ev-wayne-toddler-storytime-ages-2-3-years-67d052",
@@ -9656,6 +9623,40 @@
       "nextDate": "2026-10-07",
       "dates": [
         "2026-10-07"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-denise-brown-for-my-sister-nicole-5db420",
+      "name": "Denise Brown, \"For My Sister Nicole\"",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Main Point Books and The Saturday Club welcome you to this very special event",
+      "address": "The Saturday Club, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.043538,
+      "lng": -75.389385,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-08",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/denise-brown-for-my-sister-nicole-tickets-1998671830247",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/oguqie01tUWaQEFVlffuvQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Oct 8",
+      "nextDate": "2026-10-08",
+      "dates": [
+        "2026-10-08"
       ],
       "occurrences": 1
     },
@@ -16957,6 +16958,44 @@
       "nextDate": "2027-02-26",
       "dates": [
         "2027-02-26"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-transition-to-upper-school-webina-e0b12a",
+      "name": "Transition to Upper School Webinar",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning"
+      ],
+      "shortDescription": "Transition to Upper School Webinar",
+      "address": "Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-02",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c62a1ca3-bfc4-43b0-8eb4-324304c1c3c9.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Mar 2",
+      "nextDate": "2027-03-02",
+      "dates": [
+        "2027-03-02"
       ],
       "occurrences": 1
     },
