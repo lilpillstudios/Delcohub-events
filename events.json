@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-09-04T13:36:13.697657+00:00",
+  "scraped_at": "2026-09-05T12:49:37.492746+00:00",
   "horizon_days": 180,
-  "event_count": 447,
+  "event_count": 438,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-09-04",
+      "startDate": "2026-09-05",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Sep 4 - Oct 31",
-      "nextDate": "2026-09-04",
+      "schedule": "Daily, Sep 5 - Oct 31",
+      "nextDate": "2026-09-05",
       "dates": [
-        "2026-09-04",
         "2026-09-05",
         "2026-09-06",
         "2026-09-07",
@@ -98,567 +97,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 58
-    },
-    {
-      "id": "ev-newtown-square-cross-country-girls-unionville-2-497405",
-      "name": "Cross Country - Girls @ Unionville 2 Mile Bash",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Cross Country - Girls @ Unionville 2 Mile Bash",
-      "address": "Unionville High School, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/db3cc5c8-dcc7-47de-b4ac-2f353bbdd9f2.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 4",
-      "nextDate": "2026-09-04",
-      "dates": [
-        "2026-09-04"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-first-fridays-the-art-of-education-d64b82",
-      "name": "First Fridays: The Art of Education",
-      "category": "events",
-      "subcategories": [
-        "literary-arts",
-        "visual-arts"
-      ],
-      "shortDescription": "First Friday: The Art of Education brings together visual art, live poetry, community conversation, and giving back.",
-      "address": "The Symposium, Chester, PA",
-      "town": "Chester",
-      "lat": 39.83557,
-      "lng": -75.395387,
-      "priceTier": 1,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/first-fridays-the-art-of-education-tickets-1998891608610",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/DEBFbn7YTkKd8mp393yO1Q.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 4",
-      "nextDate": "2026-09-04",
-      "dates": [
-        "2026-09-04"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-football-varsity-lawrenceville-9ea1c0",
-      "name": "Football - Varsity @ Lawrenceville",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Football - Varsity @ Lawrenceville",
-      "address": "The Lawrenceville School, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/610dabab-06fd-4201-b15a-3a76f8148d85.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 4",
-      "nextDate": "2026-09-04",
-      "dates": [
-        "2026-09-04"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-lancaster-county-farmers-market-1b0e48",
-      "name": "Lancaster County Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "farmers-market",
-        "markets"
-      ],
-      "shortDescription": "389 W. Lancaster Ave., Wayne. Wed., Fri., Sat., 6 to 4. 610-688-9856. LancasterCountyFarmersMarket.com.",
-      "address": "Lancaster County Farmers Market, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044908,
-      "lng": -75.400304,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://countylinesmagazine.com/event/lancaster-county-farmers-market-2-2025-06-18/2026-09-04/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b52e9d77-dd16-4ac8-9e9e-8ba8856cef3c.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 4",
-      "nextDate": "2026-09-04",
-      "dates": [
-        "2026-09-04"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
-      "name": "One Time Adult Wheel Class",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "visual-arts"
-      ],
-      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-04",
-      "endDate": "2026-09-27",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154443/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "15 dates, Sep 4 - Sep 27",
-      "nextDate": "2026-09-04",
-      "dates": [
-        "2026-09-04",
-        "2026-09-05",
-        "2026-09-06",
-        "2026-09-10",
-        "2026-09-11",
-        "2026-09-12",
-        "2026-09-13",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-19",
-        "2026-09-20",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-26",
-        "2026-09-27"
-      ],
-      "occurrences": 15
-    },
-    {
-      "id": "ev-chadds-ford-penns-woods-winery-live-music-on-the-cbd574",
-      "name": "Penns Woods Winery Live Music on the Lawn",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "food-drink",
-        "live-music",
-        "music"
-      ],
-      "shortDescription": "Kick back and enjoy the music at 124 Beaver Valley Rd., Chadds Ford. Visit website for a complete lineup. PennsWoodsWinery.com",
-      "address": "Penns Woods Winery, Chadds Ford, PA",
-      "town": "Chadds Ford",
-      "lat": 39.847562,
-      "lng": -75.546723,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-09-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://countylinesmagazine.com/event/penns-woods-winery-live-music-on-the-lawn/2026-09-04/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1fc389b1-4ab7-4ca4-b23a-e87645af703f.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 4",
-      "nextDate": "2026-09-04",
-      "dates": [
-        "2026-09-04"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-philadelphia-union-ii-vs-columbus-crew-2-90a804",
-      "name": "Philadelphia Union II vs. Columbus Crew 2",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "music",
-        "performing-arts",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Philadelphia Union II vs. Columbus Crew 2 at Subaru Park in Chester.",
-      "address": "Subaru Park, Chester, PA",
-      "town": "Chester",
-      "lat": 39.832686,
-      "lng": -75.378395,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-859-3100",
-      "website": "",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/432488c8-9874-4a5e-9175-7e2bbc2e65cf.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 4",
-      "nextDate": "2026-09-04",
-      "dates": [
-        "2026-09-04"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-root-settaz-san-noche-at-118-north-cab928",
-      "name": "Root Settaz + San Noche at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Root Settaz + San Noche at 118 North Friday, September 4, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
-      "address": "Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1309970144621030/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-ZhmBup-_kqGChMuEozdvA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 4",
-      "nextDate": "2026-09-04",
-      "dates": [
-        "2026-09-04"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-swarthmore-swarthmore-college-men-s-soccer-vs-ka-b26082",
-      "name": "Swarthmore College Men's Soccer vs Kalamazoo vs. Rutgers-Newark",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Swarthmore College Men's Soccer vs Kalamazoo vs. Rutgers-Newark\\nStreaming Video: https://www.centennialconference.tv/swarthmoreathletics/\\n",
-      "address": "Clothier Field Stadium, Swarthmore, PA",
-      "town": "Swarthmore",
-      "lat": 39.90206,
-      "lng": -75.34991,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://swarthmoreathletics.com/calendar.aspx?game_id=31058&sport_id=8",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f5a7f77d-0c51-4a57-a1ba-4bad118eb6f1.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 4",
-      "nextDate": "2026-09-04",
-      "dates": [
-        "2026-09-04"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-swarthmore-swarthmore-college-women-s-soccer-vs-76b224",
-      "name": "Swarthmore College Women's Soccer vs Skidmore College",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Swarthmore College Women's Soccer vs Skidmore College\\nStreaming Video: https://www.centennialconference.tv/swarthmoreathletics/\\n",
-      "address": "Clothier Field Stadium, Swarthmore, PA",
-      "town": "Swarthmore",
-      "lat": 39.90206,
-      "lng": -75.34991,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://swarthmoreathletics.com/calendar.aspx?game_id=31091&sport_id=18",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4b8401df-8242-4a6e-a069-2ec28d0848c9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 4",
-      "nextDate": "2026-09-04",
-      "dates": [
-        "2026-09-04"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-villanova-university-women-s-volleybal-8cc4fd",
-      "name": "Villanova University Women's Volleyball vs Princeton",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Villanova University Women's Volleyball vs Princeton",
-      "address": "Hamilton, Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03176,
-      "lng": -75.34903,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanova.com/calendar.aspx?game_id=17711&amp;sport_id=22",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e669d12a-a6ec-4151-8c5f-9397f6aae3d7.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 4",
-      "nextDate": "2026-09-04",
-      "dates": [
-        "2026-09-04"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-water-polo-varsity-boys-ea-invita-425905",
-      "name": "Water Polo - Varsity Boys EA Invitational",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Water Polo - Varsity Boys EA Invitational",
-      "address": "Burke Natatorium, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-04",
-      "endDate": "2026-09-05",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5654b9b5-1ff3-43be-b479-f97bf3acc72a.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Sep 4 - Sep 5",
-      "nextDate": "2026-09-04",
-      "dates": [
-        "2026-09-04",
-        "2026-09-05"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-chester-widener-pride-men-s-soccer-vs-washington-f40344",
-      "name": "Widener Pride: Men's Soccer vs Washington College",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Men's Soccer vs Washington College Streaming Video: https://gomacsports.tv/widenerpride/",
-      "address": "Elizabeth J. Hirschmann Field at Leslie C. Quick Jr. Stadium, Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14390&amp;sport_id=7",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/890273d5-60d0-444d-b73a-b8cd330e83a8.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 4",
-      "nextDate": "2026-09-04",
-      "dates": [
-        "2026-09-04"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-widener-pride-women-s-soccer-vs-king-s-e90602",
-      "name": "Widener Pride: Women's Soccer vs King's",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Women's Soccer vs King's Streaming Video: https://gomacsports.tv/widenerpride/",
-      "address": "Elizabeth J. Hirschmann Field at Leslie C. Quick Jr. Stadium, Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14476&amp;sport_id=11",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b4f13205-36d4-456b-a2cd-4c796b529819.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 4",
-      "nextDate": "2026-09-04",
-      "dates": [
-        "2026-09-04"
-      ],
-      "occurrences": 1
+      "occurrences": 57
     },
     {
       "id": "ev-newtown-square-field-hockey-jv-v-west-essex-bb47a5",
@@ -848,6 +287,57 @@
       "occurrences": 1
     },
     {
+      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
+      "name": "One Time Adult Wheel Class",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "visual-arts"
+      ],
+      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-05",
+      "endDate": "2026-09-27",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154443/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "14 dates, Sep 5 - Sep 27",
+      "nextDate": "2026-09-05",
+      "dates": [
+        "2026-09-05",
+        "2026-09-06",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-12",
+        "2026-09-13",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-27"
+      ],
+      "occurrences": 14
+    },
+    {
       "id": "ev-chester-philadelphia-union-vs-cf-montreal-cb6767",
       "name": "Philadelphia Union vs. CF Montreal",
       "category": "events",
@@ -964,6 +454,84 @@
       ]
     },
     {
+      "id": "ev-swarthmore-swarthmore-college-field-hockey-vs-un-3327d7",
+      "name": "Swarthmore College Field Hockey vs University of Scranton",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Swarthmore College Field Hockey vs University of Scranton\\nStreaming Video: https://www.centennialconference.tv/swarthmoreathletics/\\n",
+      "address": "Clothier Field Stadium, Swarthmore, PA",
+      "town": "Swarthmore",
+      "lat": 39.90206,
+      "lng": -75.34991,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-05",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://swarthmoreathletics.com/calendar.aspx?game_id=31075&sport_id=2",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b04bdf65-d71d-4a5a-a43a-cf4f24a1e822.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Sep 5",
+      "nextDate": "2026-09-05",
+      "dates": [
+        "2026-09-05"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-swarthmore-swarthmore-college-women-s-soccer-vs-781f4e",
+      "name": "Swarthmore College Women's Soccer vs King's College (Pa.)",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Swarthmore College Women's Soccer vs King's College (Pa.)\\nStreaming Video: https://www.centennialconference.tv/swarthmoreathletics/\\n",
+      "address": "Clothier Field Stadium, Swarthmore, PA",
+      "town": "Swarthmore",
+      "lat": 39.90206,
+      "lng": -75.34991,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-05",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://swarthmoreathletics.com/calendar.aspx?game_id=31092&sport_id=18",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/469bd39d-8063-41c7-8f6c-2f23de9f535d.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Sep 5",
+      "nextDate": "2026-09-05",
+      "dates": [
+        "2026-09-05"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "swarthmore-farmers-market-swarthmore",
       "name": "Swarthmore Farmers Market",
       "category": "events",
@@ -1000,6 +568,84 @@
       "dates": [
         "2026-09-05"
       ]
+    },
+    {
+      "id": "ev-villanova-villanova-university-women-s-volleybal-f555db",
+      "name": "Villanova University Women's Volleyball vs Arizona State",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Villanova University Women's Volleyball vs Arizona State",
+      "address": "Hamilton, Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.03176,
+      "lng": -75.34903,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-05",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://villanova.com/calendar.aspx?game_id=17712&amp;sport_id=22",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c0a9941a-c1ec-4e56-aed9-a08e58729f67.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Sep 5",
+      "nextDate": "2026-09-05",
+      "dates": [
+        "2026-09-05"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-water-polo-varsity-boys-ea-invita-425905",
+      "name": "Water Polo - Varsity Boys EA Invitational",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Water Polo - Varsity Boys EA Invitational",
+      "address": "Burke Natatorium, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-05",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5654b9b5-1ff3-43be-b479-f97bf3acc72a.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Sep 5",
+      "nextDate": "2026-09-05",
+      "dates": [
+        "2026-09-05"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-chester-widener-pride-men-s-soccer-vs-regent-462b7e",
