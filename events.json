@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-09-05T12:49:37.492746+00:00",
+  "scraped_at": "2026-09-06T12:56:14.984811+00:00",
   "horizon_days": 180,
-  "event_count": 438,
+  "event_count": 429,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-09-05",
+      "startDate": "2026-09-06",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Sep 5 - Oct 31",
-      "nextDate": "2026-09-05",
+      "schedule": "Daily, Sep 6 - Oct 31",
+      "nextDate": "2026-09-06",
       "dates": [
-        "2026-09-05",
         "2026-09-06",
         "2026-09-07",
         "2026-09-08",
@@ -97,635 +96,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 57
-    },
-    {
-      "id": "ev-newtown-square-field-hockey-jv-v-west-essex-bb47a5",
-      "name": "Field Hockey - JV v West Essex",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Field Hockey - JV v West Essex",
-      "address": "Buggy Field (Field F), Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-05",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b04bdf65-d71d-4a5a-a43a-cf4f24a1e822.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 5",
-      "nextDate": "2026-09-05",
-      "dates": [
-        "2026-09-05"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-field-hockey-varsity-v-west-essex-f1246c",
-      "name": "Field Hockey - Varsity v West Essex",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Field Hockey - Varsity v West Essex",
-      "address": "Buggy Field (Field F), Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-05",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ec02e2a0-a935-4331-916c-5ba19bffa75b.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 5",
-      "nextDate": "2026-09-05",
-      "dates": [
-        "2026-09-05"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "lansdowne-farmers-market-lansdowne",
-      "name": "Lansdowne Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "farmers market",
-        "seasonal"
-      ],
-      "shortDescription": "Seasonal Saturday farmers market in Lansdowne selling local produce, baked goods, and handmade items.",
-      "address": "N Lansdowne Ave, Lansdowne, PA 19050",
-      "town": "Lansdowne",
-      "lat": 39.9385,
-      "lng": -75.2725,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "group"
-      ],
-      "featured": true,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "schedule": "Saturdays, summer-fall",
-      "recurring": "weekly",
-      "nextDate": "2026-09-05",
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-09-05"
-      ]
-    },
-    {
-      "id": "ev-chester-let-us-be-the-change-156862",
-      "name": "Let Us Be The Change",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Let Us Be The Change at Memorial Park in Chester.",
-      "address": "Memorial Park, Chester, PA",
-      "town": "Chester",
-      "lat": 39.835743,
-      "lng": -75.393058,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-05",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.chestercity.com/event/let-us-be-the-change/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/YIXmzEC_8k-xqZdQpEdxQg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 5",
-      "nextDate": "2026-09-05",
-      "dates": [
-        "2026-09-05"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-movie-night-freakier-friday-ae1f1e",
-      "name": "Movie Night - Freakier Friday",
-      "category": "events",
-      "subcategories": [
-        "film",
-        "visual-arts"
-      ],
-      "shortDescription": "Movie Night - Freakier Friday at Borough Hall Lawn in Media.",
-      "address": "Borough Hall Lawn, Media, PA",
-      "town": "Media",
-      "lat": 39.91678,
-      "lng": -75.38769,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-05",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.mediaborough.com/calendar.aspx?EID=2821",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4f345f40-1857-4acd-967a-3885548da6fe.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 5",
-      "nextDate": "2026-09-05",
-      "dates": [
-        "2026-09-05"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
-      "name": "One Time Adult Wheel Class",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "visual-arts"
-      ],
-      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-05",
-      "endDate": "2026-09-27",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154443/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "14 dates, Sep 5 - Sep 27",
-      "nextDate": "2026-09-05",
-      "dates": [
-        "2026-09-05",
-        "2026-09-06",
-        "2026-09-10",
-        "2026-09-11",
-        "2026-09-12",
-        "2026-09-13",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-19",
-        "2026-09-20",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-26",
-        "2026-09-27"
-      ],
-      "occurrences": 14
-    },
-    {
-      "id": "ev-chester-philadelphia-union-vs-cf-montreal-cb6767",
-      "name": "Philadelphia Union vs. CF Montreal",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Philadelphia Union vs. CF Montreal at Subaru Park in Chester.",
-      "address": "Subaru Park, Chester, PA",
-      "town": "Chester",
-      "lat": 39.832686,
-      "lng": -75.378395,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-05",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-859-3100",
-      "website": "",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OWjG7SacvE6RIbI5tnNHCA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 5",
-      "nextDate": "2026-09-05",
-      "dates": [
-        "2026-09-05"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ridley-park-farmers-market",
-      "name": "Ridley Park Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "market",
-        "seasonal"
-      ],
-      "shortDescription": "Seasonal Saturday market in Ridley Park selling produce, baked goods, and local products through the warmer months.",
-      "schedule": "Saturdays, June-October",
-      "recurring": "weekly",
-      "nextDate": "2026-09-05",
-      "address": "105 E Ward St, Ridley Park, PA 19078",
-      "town": "Ridley Park",
-      "lat": 39.8815,
-      "lng": -75.3238,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "kid-friendly"
-      ],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-09-05"
-      ]
-    },
-    {
-      "id": "springfield-farmers-market",
-      "name": "Springfield Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "market",
-        "seasonal"
-      ],
-      "shortDescription": "Springfield's seasonal outdoor market offers fresh produce, flowers, and local goods on weekends through summer and fall.",
-      "schedule": "Weekends, summer-fall",
-      "recurring": "weekly",
-      "nextDate": "2026-09-05",
-      "address": "Springfield, PA 19064",
-      "town": "Springfield",
-      "lat": 39.9312,
-      "lng": -75.3479,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "kid-friendly"
-      ],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-09-05"
-      ]
-    },
-    {
-      "id": "ev-swarthmore-swarthmore-college-field-hockey-vs-un-3327d7",
-      "name": "Swarthmore College Field Hockey vs University of Scranton",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Swarthmore College Field Hockey vs University of Scranton\\nStreaming Video: https://www.centennialconference.tv/swarthmoreathletics/\\n",
-      "address": "Clothier Field Stadium, Swarthmore, PA",
-      "town": "Swarthmore",
-      "lat": 39.90206,
-      "lng": -75.34991,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-05",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://swarthmoreathletics.com/calendar.aspx?game_id=31075&sport_id=2",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b04bdf65-d71d-4a5a-a43a-cf4f24a1e822.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 5",
-      "nextDate": "2026-09-05",
-      "dates": [
-        "2026-09-05"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-swarthmore-swarthmore-college-women-s-soccer-vs-781f4e",
-      "name": "Swarthmore College Women's Soccer vs King's College (Pa.)",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Swarthmore College Women's Soccer vs King's College (Pa.)\\nStreaming Video: https://www.centennialconference.tv/swarthmoreathletics/\\n",
-      "address": "Clothier Field Stadium, Swarthmore, PA",
-      "town": "Swarthmore",
-      "lat": 39.90206,
-      "lng": -75.34991,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-05",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://swarthmoreathletics.com/calendar.aspx?game_id=31092&sport_id=18",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/469bd39d-8063-41c7-8f6c-2f23de9f535d.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 5",
-      "nextDate": "2026-09-05",
-      "dates": [
-        "2026-09-05"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "swarthmore-farmers-market-swarthmore",
-      "name": "Swarthmore Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "farmers market",
-        "seasonal"
-      ],
-      "shortDescription": "Weekly warm-season market in Swarthmore featuring regional farmers, food vendors, and live music.",
-      "address": "Swarthmore Town Center, Swarthmore, PA 19081",
-      "town": "Swarthmore",
-      "lat": 39.903,
-      "lng": -75.349,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "group"
-      ],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "schedule": "Saturdays, warm season",
-      "recurring": "weekly",
-      "nextDate": "2026-09-05",
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-09-05"
-      ]
-    },
-    {
-      "id": "ev-villanova-villanova-university-women-s-volleybal-f555db",
-      "name": "Villanova University Women's Volleyball vs Arizona State",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Villanova University Women's Volleyball vs Arizona State",
-      "address": "Hamilton, Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03176,
-      "lng": -75.34903,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-05",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanova.com/calendar.aspx?game_id=17712&amp;sport_id=22",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c0a9941a-c1ec-4e56-aed9-a08e58729f67.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 5",
-      "nextDate": "2026-09-05",
-      "dates": [
-        "2026-09-05"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-water-polo-varsity-boys-ea-invita-425905",
-      "name": "Water Polo - Varsity Boys EA Invitational",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Water Polo - Varsity Boys EA Invitational",
-      "address": "Burke Natatorium, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-05",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5654b9b5-1ff3-43be-b479-f97bf3acc72a.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 5",
-      "nextDate": "2026-09-05",
-      "dates": [
-        "2026-09-05"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-widener-pride-men-s-soccer-vs-regent-462b7e",
-      "name": "Widener Pride: Men's Soccer vs Regent",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Men's Soccer vs Regent Streaming Video: https://gomacsports.tv/widenerpride/",
-      "address": "Elizabeth J. Hirschmann Field at Leslie C. Quick Jr. Stadium, Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-05",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14391&amp;sport_id=7",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4bb46c0c-ec2a-4799-b30b-fd9cf072ae19.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 5",
-      "nextDate": "2026-09-05",
-      "dates": [
-        "2026-09-05"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-widener-pride-women-s-soccer-vs-skidmore-927015",
-      "name": "Widener Pride: Women's Soccer vs Skidmore",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Women's Soccer vs Skidmore Streaming Video: https://gomacsports.tv/widenerpride/",
-      "address": "Elizabeth J. Hirschmann Field at Leslie C. Quick Jr. Stadium, Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-05",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14477&amp;sport_id=11",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4b8401df-8242-4a6e-a069-2ec28d0848c9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 5",
-      "nextDate": "2026-09-05",
-      "dates": [
-        "2026-09-05"
-      ],
-      "occurrences": 1
+      "occurrences": 56
     },
     {
       "id": "ev-wayne-billy-price-band-a67873",
@@ -802,6 +173,56 @@
         "2026-09-06"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
+      "name": "One Time Adult Wheel Class",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "visual-arts"
+      ],
+      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-27",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154443/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "13 dates, Sep 6 - Sep 27",
+      "nextDate": "2026-09-06",
+      "dates": [
+        "2026-09-06",
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-12",
+        "2026-09-13",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-27"
+      ],
+      "occurrences": 13
     },
     {
       "id": "ev-clifton-heights-takedown-entertainment-all-white-5df6e8",
@@ -2043,7 +1464,7 @@
       ],
       "hours": {},
       "startDate": "2026-09-10",
-      "endDate": "2027-02-25",
+      "endDate": "2027-03-04",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -2054,7 +1475,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Thursdays, Sep 10 - Feb 25",
+      "schedule": "Thursdays, Sep 10 - Mar 4",
       "nextDate": "2026-09-10",
       "dates": [
         "2026-09-10",
@@ -2081,9 +1502,10 @@
         "2027-02-04",
         "2027-02-11",
         "2027-02-18",
-        "2027-02-25"
+        "2027-02-25",
+        "2027-03-04"
       ],
-      "occurrences": 25
+      "occurrences": 26
     },
     {
       "id": "ev-wayne-toddler-storytime-ages-2-3-years-67d052",
@@ -2719,6 +2141,44 @@
       "occurrences": 1
     },
     {
+      "id": "lansdowne-farmers-market-lansdowne",
+      "name": "Lansdowne Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "farmers market",
+        "seasonal"
+      ],
+      "shortDescription": "Seasonal Saturday farmers market in Lansdowne selling local produce, baked goods, and handmade items.",
+      "address": "N Lansdowne Ave, Lansdowne, PA 19050",
+      "town": "Lansdowne",
+      "lat": 39.9385,
+      "lng": -75.2725,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "group"
+      ],
+      "featured": true,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "schedule": "Saturdays, summer-fall",
+      "recurring": "weekly",
+      "nextDate": "2026-09-12",
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-09-12"
+      ]
+    },
+    {
       "id": "ev-media-mac-twilight-series-the-sermon-organ-drive-9b6ea3",
       "name": "MAC Twilight Series: The Sermon! (Organ driven Classic Soul, Funk, Jazz & Beyond)",
       "category": "events",
@@ -2839,6 +2299,44 @@
       "occurrences": 1
     },
     {
+      "id": "ridley-park-farmers-market",
+      "name": "Ridley Park Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "market",
+        "seasonal"
+      ],
+      "shortDescription": "Seasonal Saturday market in Ridley Park selling produce, baked goods, and local products through the warmer months.",
+      "schedule": "Saturdays, June-October",
+      "recurring": "weekly",
+      "nextDate": "2026-09-12",
+      "address": "105 E Ward St, Ridley Park, PA 19078",
+      "town": "Ridley Park",
+      "lat": 39.8815,
+      "lng": -75.3238,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "kid-friendly"
+      ],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-09-12"
+      ]
+    },
+    {
       "id": "ev-primos-sensory-friendly-singles-social-21-45-5fb02b",
       "name": "Sensory-Friendly Singles Social | 21-45",
       "category": "events",
@@ -2874,6 +2372,82 @@
         "2026-09-12"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "springfield-farmers-market",
+      "name": "Springfield Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "market",
+        "seasonal"
+      ],
+      "shortDescription": "Springfield's seasonal outdoor market offers fresh produce, flowers, and local goods on weekends through summer and fall.",
+      "schedule": "Weekends, summer-fall",
+      "recurring": "weekly",
+      "nextDate": "2026-09-12",
+      "address": "Springfield, PA 19064",
+      "town": "Springfield",
+      "lat": 39.9312,
+      "lng": -75.3479,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "kid-friendly"
+      ],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-09-12"
+      ]
+    },
+    {
+      "id": "swarthmore-farmers-market-swarthmore",
+      "name": "Swarthmore Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "farmers market",
+        "seasonal"
+      ],
+      "shortDescription": "Weekly warm-season market in Swarthmore featuring regional farmers, food vendors, and live music.",
+      "address": "Swarthmore Town Center, Swarthmore, PA 19081",
+      "town": "Swarthmore",
+      "lat": 39.903,
+      "lng": -75.349,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "group"
+      ],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "schedule": "Saturdays, warm season",
+      "recurring": "weekly",
+      "nextDate": "2026-09-12",
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-09-12"
+      ]
     },
     {
       "id": "ev-chester-widener-pride-football-vs-alvernia-1c6079",
@@ -16642,6 +16216,81 @@
       "nextDate": "2027-03-02",
       "dates": [
         "2027-03-02"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-electives-fair-0891ae",
+      "name": "Electives Fair",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "festival",
+        "street-fair"
+      ],
+      "shortDescription": "Electives Fair at O'Neill Gym in Newtown Square.",
+      "address": "O'Neill Gym, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2027-03-04",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/27eb4ee0-cf03-4357-800b-661d598fcce0.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Mar 4",
+      "nextDate": "2027-03-04",
+      "dates": [
+        "2027-03-04"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-elementary-chorusfest-off-campus-c24a49",
+      "name": "Elementary Chorusfest (Off Campus)",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Elementary Chorusfest (Off Campus)",
+      "address": "Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-04",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Mar 4",
+      "nextDate": "2027-03-04",
+      "dates": [
+        "2027-03-04"
       ],
       "occurrences": 1
     },
