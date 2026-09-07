@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-09-06T12:56:14.984811+00:00",
+  "scraped_at": "2026-09-07T15:07:20.299924+00:00",
   "horizon_days": 180,
-  "event_count": 429,
+  "event_count": 434,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-09-06",
+      "startDate": "2026-09-07",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Sep 6 - Oct 31",
-      "nextDate": "2026-09-06",
+      "schedule": "Daily, Sep 7 - Oct 31",
+      "nextDate": "2026-09-07",
       "dates": [
-        "2026-09-06",
         "2026-09-07",
         "2026-09-08",
         "2026-09-09",
@@ -96,170 +95,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 56
-    },
-    {
-      "id": "ev-wayne-billy-price-band-a67873",
-      "name": "Billy Price Band",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Billy Price Band at 118 NORTH in Wayne.",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-06",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/108006532?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/UpYrRVTqdUm9qvz_ulyArg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Sep 6",
-      "nextDate": "2026-09-06",
-      "dates": [
-        "2026-09-06"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-how-ohio-won-the-civil-war-1b1b19",
-      "name": "How Ohio Won The Civil War",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "How Ohio Won The Civil War at Delaware County Historical Society in Media.",
-      "address": "Delaware County Historical Society, Media, PA",
-      "town": "Media",
-      "lat": 39.919238,
-      "lng": -75.389521,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "historic"
-      ],
-      "hours": {},
-      "startDate": "2026-09-06",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-750-0622",
-      "website": "https://www.delawareohiohistory.org/uncategorized/how-ohio-won-the-civil-war/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cUFjZH6s-kOEgLt2gJ6z5A.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Sep 6",
-      "nextDate": "2026-09-06",
-      "dates": [
-        "2026-09-06"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
-      "name": "One Time Adult Wheel Class",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "visual-arts"
-      ],
-      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-06",
-      "endDate": "2026-09-27",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154443/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "13 dates, Sep 6 - Sep 27",
-      "nextDate": "2026-09-06",
-      "dates": [
-        "2026-09-06",
-        "2026-09-10",
-        "2026-09-11",
-        "2026-09-12",
-        "2026-09-13",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-19",
-        "2026-09-20",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-26",
-        "2026-09-27"
-      ],
-      "occurrences": 13
-    },
-    {
-      "id": "ev-clifton-heights-takedown-entertainment-all-white-5df6e8",
-      "name": "TAKEDOWN ENTERTAINMENT ALL WHITE DAY PARTY",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "holiday"
-      ],
-      "shortDescription": "PHILLY, LABOR DAY WEEKEND IS ABOUT TO BE DIFFERENT! “Back like he never left!” TAKEDOWN ENTERTAINMENT presents the All White Day Party!",
-      "address": "Illusions Banquet Hall and Sports Bar, Clifton Heights, PA",
-      "town": "Clifton Heights",
-      "lat": 39.92717,
-      "lng": -75.303846,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-06",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/takedown-entertainment-all-white-day-party-tickets-1997497095584",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SCWsq7jhukWd1a45717NtQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Sep 6",
-      "nextDate": "2026-09-06",
-      "dates": [
-        "2026-09-06"
-      ],
-      "occurrences": 1
+      "occurrences": 55
     },
     {
       "id": "ev-newtown-square-football-jv-v-haverford-045d54",
@@ -1322,6 +1158,55 @@
       "occurrences": 3
     },
     {
+      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
+      "name": "One Time Adult Wheel Class",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "visual-arts"
+      ],
+      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-10",
+      "endDate": "2026-09-27",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154443/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "12 dates, Sep 10 - Sep 27",
+      "nextDate": "2026-09-10",
+      "dates": [
+        "2026-09-10",
+        "2026-09-11",
+        "2026-09-12",
+        "2026-09-13",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-27"
+      ],
+      "occurrences": 12
+    },
+    {
       "id": "ev-wayne-preschool-storytime-craft-ages-3-5-years-7202f3",
       "name": "Preschool Storytime & Craft (Ages 3-5 years)",
       "category": "events",
@@ -1635,6 +1520,45 @@
         "2026-09-12"
       ],
       "occurrences": 2
+    },
+    {
+      "id": "ev-drexel-hill-fall-in-love-b5dc4f",
+      "name": "Fall In Love",
+      "category": "events",
+      "subcategories": [
+        "food-drink",
+        "lifestyle",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "“Fall In Love” The Summer Is Over It’s Time To Settle Down .. Come Find Your Bae .. R&B & Grown Vibes Mixed With Good Drinks & Food",
+      "address": "Casey's Drexel Hill, Drexel Hill, PA",
+      "town": "Drexel Hill",
+      "lat": 39.959937,
+      "lng": -75.288952,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-11",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/fall-in-love-tickets-1999210399121",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/aH0YNgEZB0u4RJJjJoZPwQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Sep 11",
+      "nextDate": "2026-09-11",
+      "dates": [
+        "2026-09-11"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-lansdowne-ibc-fundraiser-for-slim-and-the-south-283c61",
@@ -6216,6 +6140,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-st-davids-boardroom-bound-the-alumni-connection-dfad9a",
+      "name": "Boardroom Bound: The Alumni Connection",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "food",
+        "food-drink"
+      ],
+      "shortDescription": "Join Melissa Ludwig and Patti Connolly for breakfast to reconnect and expand your network.",
+      "address": "Triple Crown, St. Davids, PA",
+      "town": "St. Davids",
+      "lat": 40.039609,
+      "lng": -75.37921,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-25",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/boardroom-bound-the-alumni-connection-tickets-1999304737289",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OV3i7AMRaUSFj6IzOrj9aA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Sep 25",
+      "nextDate": "2026-09-25",
+      "dates": [
+        "2026-09-25"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-bryn-mawr-fall-parents-association-coffee-truck-702d4f",
       "name": "Fall Parents' Association Coffee Truck at 672",
       "category": "events",
@@ -7578,6 +7540,40 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-uncuffed-potential-free-your-mind-change-y-360cd3",
+      "name": "Uncuffed Potential: Free Your Mind, Change Your Life!",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "From enforcing the law to empowering lives! Uncuffed Potential will help you break free from limiting beliefs and transform your life!",
+      "address": "Main Point Books, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04479,
+      "lng": -75.388152,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-29",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/uncuffed-potential-free-your-mind-change-your-life-tickets-1998273155801",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ftyHJdTYQEiOxi0wY1qpxg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Sep 29",
+      "nextDate": "2026-09-29",
+      "dates": [
+        "2026-09-29"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-chester-widener-pride-women-s-soccer-vs-haverfor-cd6523",
       "name": "Widener Pride: Women's Soccer vs Haverford",
       "category": "events",
@@ -7678,6 +7674,43 @@
       "website": "https://www.eventbrite.com/e/alex-george-in-the-mood-to-bake-tickets-1993943225864",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/lbYtF-dSwkmQ7iJVZlsIXg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Sep 30",
+      "nextDate": "2026-09-30",
+      "dates": [
+        "2026-09-30"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-main-line-55-singles-social-55-8a0d1b",
+      "name": "Main Line 55+ Singles Social | 55+",
+      "category": "events",
+      "subcategories": [
+        "special-audience"
+      ],
+      "shortDescription": "Join us for our Main Line 55+ Singles Social at Maison Lotus in Wayne!",
+      "address": "Maison Lotus, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044172,
+      "lng": -75.385351,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-30",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/main-line-55-singles-social-55-tickets-1998933470821",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5lFf_Sh8zkWCN93JzSQ7ig.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -7884,6 +7917,46 @@
       "nextDate": "2026-10-01",
       "dates": [
         "2026-10-01"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-concordville-bats-the-mysterious-creatures-of-th-13967c",
+      "name": "Bats: The Mysterious Creatures of the Night",
+      "category": "events",
+      "subcategories": [
+        "nature",
+        "outdoor-recreation",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Learn about the wondrous world of bats!",
+      "address": "Wild Birds Unlimited, Concordville, PA",
+      "town": "Concordville",
+      "lat": 39.886097,
+      "lng": -75.531148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-10-02",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/bats-the-mysterious-creatures-of-the-night-tickets-1984520134143",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/EtREhHyt7UGGQmeGPVbxoQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Oct 2",
+      "nextDate": "2026-10-02",
+      "dates": [
+        "2026-10-02"
       ],
       "occurrences": 1
     },
@@ -10199,6 +10272,43 @@
       ]
     },
     {
+      "id": "ev-media-this-old-engine-grateful-dead-punjab-live-067fcc",
+      "name": "This Old Engine - Grateful Dead @Punjab Live 10/17",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "GD cover / tribute band sharing our interpretation of the music.",
+      "address": "Shere-E-Punjab Indian Restaurant, Media, PA",
+      "town": "Media",
+      "lat": 39.918127,
+      "lng": -75.392515,
+      "priceTier": 1,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-17",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/this-old-engine-grateful-dead-punjab-live-1017-tickets-1999171441598",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_8nOY0ZPdkO1lRt5sPKd8Q.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 17",
+      "nextDate": "2026-10-17",
+      "dates": [
+        "2026-10-17"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-wxpn-welcomes-rhett-miller-at-118-north-cf81f7",
       "name": "WXPN Welcomes: Rhett Miller at 118 North",
       "category": "events",
@@ -10608,6 +10718,40 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b04bdf65-d71d-4a5a-a43a-cf4f24a1e822.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Oct 20",
+      "nextDate": "2026-10-20",
+      "dates": [
+        "2026-10-20"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-liz-karcewski-little-doodles-for-big-feeli-44be71",
+      "name": "Liz Karcewski \"Little Doodles for Big Feelings\"",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Main Point welcomes viral artist Liz Karcewski",
+      "address": "Main Point Books, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04479,
+      "lng": -75.388152,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-20",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/liz-karcewski-little-doodles-for-big-feelings-tickets-1998672944580",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/v4EM-d9Bu0qDdT44xbp0pw.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -11465,6 +11609,44 @@
       "website": "https://www.bandsintown.com/e/108116107?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/HfH30NlXqEKr85dYG8D63w.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 24",
+      "nextDate": "2026-10-24",
+      "dates": [
+        "2026-10-24"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-devon-spooky-spectacular-drag-bingo-a04711",
+      "name": "Spooky Spectacular Drag Bingo",
+      "category": "events",
+      "subcategories": [
+        "games",
+        "special-audience"
+      ],
+      "shortDescription": "Join fabulous drag artists Trixy Valentine, Amethyst Diamond, and Cyrus K. Stratton for an evening of Bingo fun in support of a great cause!",
+      "address": "Main Line Unitarian Church, Devon, PA",
+      "town": "Devon",
+      "lat": 40.029923,
+      "lng": -75.407229,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-24",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/spooky-spectacular-drag-bingo-tickets-1998921715661",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/w42K_Fb_3EGypngFMH6Adg.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
