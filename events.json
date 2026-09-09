@@ -1,49 +1,9 @@
 {
   "version": 1,
-  "scraped_at": "2026-09-08T13:42:57.351313+00:00",
+  "scraped_at": "2026-09-09T13:46:55.186347+00:00",
   "horizon_days": 180,
-  "event_count": 688,
+  "event_count": 687,
   "listings": [
-    {
-      "id": "ev-wallingford-2026-annual-members-exhibition-pick-d748d9",
-      "name": "2026 Annual Members Exhibition Pick up!",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "museums-exhibits",
-        "visual-arts"
-      ],
-      "shortDescription": "Work must be picked up today. For work not picked up today there is a $2 per day surcharge for storage. There are no early [...]",
-      "address": "Community Arts Center, Wallingford, PA",
-      "town": "Wallingford",
-      "lat": 39.908927,
-      "lng": -75.365674,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "historic"
-      ],
-      "hours": {},
-      "startDate": "2026-09-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://communityartscenter.org/events/?pno=",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/GTHtFjgPPEeie36P2utpKQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Sep 8",
-      "nextDate": "2026-09-08",
-      "dates": [
-        "2026-09-08"
-      ],
-      "occurrences": 1
-    },
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
       "name": "2026 Gene Capaldi Lens on Litter Photo Contest",
@@ -64,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-09-08",
+      "startDate": "2026-09-09",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -76,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Sep 8 - Oct 31",
-      "nextDate": "2026-09-08",
+      "schedule": "Daily, Sep 9 - Oct 31",
+      "nextDate": "2026-09-09",
       "dates": [
-        "2026-09-08",
         "2026-09-09",
         "2026-09-10",
         "2026-09-11",
@@ -134,411 +93,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 54
-    },
-    {
-      "id": "ev-newtown-square-cross-country-girls-v-pc-ais-7f48f6",
-      "name": "Cross Country - Girls v PC & AIS",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Cross Country - Girls v PC & AIS",
-      "address": "Celentano Cross Country Course, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-08",
-      "endDate": "2026-10-06",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eab08c85-6507-46b6-89cb-9dc3711af22d.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Sep 8 - Oct 6",
-      "nextDate": "2026-09-08",
-      "dates": [
-        "2026-09-08",
-        "2026-10-06"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-media-figure-drawing-with-live-model-5e8046",
-      "name": "Figure Drawing with Live Model",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "faith",
-        "lifestyle",
-        "visual-arts"
-      ],
-      "shortDescription": "Figure Drawing with Live Model",
-      "address": "Media Fellowship House, Media, PA",
-      "town": "Media",
-      "lat": 39.916227,
-      "lng": -75.390155,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.mediaartscouncil.org/calendar/figure-drawing-sessions",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/sk8dxwjRPkOWvpp-HHTBZg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Sep 8",
-      "nextDate": "2026-09-08",
-      "dates": [
-        "2026-09-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-thornbury-township-gong-meditation-at-strawflowe-deef13",
-      "name": "Gong Meditation at Strawflower Farm",
-      "category": "events",
-      "subcategories": [
-        "animals",
-        "destinations",
-        "faith",
-        "farms"
-      ],
-      "shortDescription": "Gong meditation in an open-air greenhouse. Stay after for optional flower picking. A quiet evening of rest and late summer air.",
-      "address": "Strawflower Farm, Thornbury Township, PA",
-      "town": "Thornbury Township",
-      "lat": 39.918548,
-      "lng": -75.51463,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/gong-meditation-at-strawflower-farm-tickets-1996655579587",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_YlhKUzfzUCdo4cky16fkQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Sep 8",
-      "nextDate": "2026-09-08",
-      "dates": [
-        "2026-09-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-oldies-in-the-hall-c752a9",
-      "name": "Oldies in the Hall",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Oldies in the Hall at Chester City Hall in Chester.",
-      "address": "Chester City Hall, Chester, PA",
-      "town": "Chester",
-      "lat": 39.847305,
-      "lng": -75.35934,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-08",
-      "endDate": "2026-10-06",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.chestercity.com/event/oldies-in-the-hall/2026-09-08/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/A9KZdailukOfcROaJcyKoA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Sep 8 - Oct 6",
-      "nextDate": "2026-09-08",
-      "dates": [
-        "2026-09-08",
-        "2026-09-15",
-        "2026-09-22",
-        "2026-09-29",
-        "2026-10-06"
-      ],
-      "occurrences": 5
-    },
-    {
-      "id": "ev-chester-oldies-in-the-park-a0e86f",
-      "name": "Oldies in the Park",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "destinations",
-        "music",
-        "outdoor-concert"
-      ],
-      "shortDescription": "Oldies in the Park at Ethel Waters Park in Chester.",
-      "address": "Ethel Waters Park, Chester, PA",
-      "town": "Chester",
-      "lat": 39.846465,
-      "lng": -75.358842,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-09-08",
-      "endDate": "2027-03-02",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.chestercity.com/event/oldies-in-the-park-2/2026-09-08/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/o6XxL0PM3kaE6hDXOaFfuw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Sep 8 - Mar 2",
-      "nextDate": "2026-09-08",
-      "dates": [
-        "2026-09-08",
-        "2026-09-15",
-        "2026-09-22",
-        "2026-09-29",
-        "2026-10-06",
-        "2026-10-13",
-        "2026-10-20",
-        "2026-10-27",
-        "2026-11-03",
-        "2026-11-10",
-        "2026-11-17",
-        "2026-11-24",
-        "2026-12-01",
-        "2026-12-08",
-        "2026-12-15",
-        "2026-12-22",
-        "2026-12-29",
-        "2027-01-05",
-        "2027-01-12",
-        "2027-01-19",
-        "2027-01-26",
-        "2027-02-02",
-        "2027-02-09",
-        "2027-02-16",
-        "2027-02-23",
-        "2027-03-02"
-      ],
-      "occurrences": 26
-    },
-    {
-      "id": "ev-wayne-radlit-book-club-4f7dca",
-      "name": "Radlit Book Club",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "literary-arts"
-      ],
-      "shortDescription": "Join us for a discussion of Smoke Gets In Your Eyes: And Other Lessons from the Crematory, by Caitlin Doughty.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-08",
-      "endDate": "2026-12-08",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17212532",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/81b8ac86-9575-4bf0-a8e3-7382ef984a0f.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Sep 8 - Dec 8",
-      "nextDate": "2026-09-08",
-      "dates": [
-        "2026-09-08",
-        "2026-10-13",
-        "2026-11-10",
-        "2026-12-08"
-      ],
-      "occurrences": 4
-    },
-    {
-      "id": "ev-newtown-square-soccer-jv-boys-v-gfs-c7fec2",
-      "name": "Soccer - JV Boys v GFS",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - JV Boys v GFS at Stone Field in Newtown Square.",
-      "address": "Stone Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/890273d5-60d0-444d-b73a-b8cd330e83a8.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Sep 8",
-      "nextDate": "2026-09-08",
-      "dates": [
-        "2026-09-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-varsity-boys-v-gfs-c2844f",
-      "name": "Soccer - Varsity Boys v GFS",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - Varsity Boys v GFS",
-      "address": "Alumni Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b4f13205-36d4-456b-a2cd-4c796b529819.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Sep 8",
-      "nextDate": "2026-09-08",
-      "dates": [
-        "2026-09-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-holmes-tuesday-karaoke-at-haggertys-in-holmes-pa-3b255e",
-      "name": "Tuesday Karaoke at Haggertys in Holmes, PA (Delaware County",
-      "category": "events",
-      "subcategories": [
-        "open-mic",
-        "performing-arts"
-      ],
-      "shortDescription": "Karaoke is Every Tuesday at Haggertys in Homes, PA (Delaware County, PA) Karaoke starts at 8pm.",
-      "address": "Haggerty's Cafe, Holmes, PA",
-      "town": "Holmes",
-      "lat": 39.899696,
-      "lng": -75.305652,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-08",
-      "endDate": "2027-03-02",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/tuesday-karaoke-at-haggertys-in-holmes-pa-delaware-county-pa-tickets-1225315845679",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/g_89wQtSp0Sz9smp4PcgxA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Sep 8 - Mar 2",
-      "nextDate": "2026-09-08",
-      "dates": [
-        "2026-09-08",
-        "2026-09-15",
-        "2026-09-22",
-        "2026-09-29",
-        "2026-10-06",
-        "2026-10-13",
-        "2026-10-20",
-        "2026-10-27",
-        "2026-11-03",
-        "2026-11-10",
-        "2026-11-17",
-        "2026-11-24",
-        "2026-12-01",
-        "2026-12-08",
-        "2026-12-15",
-        "2026-12-22",
-        "2026-12-29",
-        "2027-01-05",
-        "2027-01-12",
-        "2027-01-19",
-        "2027-01-26",
-        "2027-02-02",
-        "2027-02-09",
-        "2027-02-16",
-        "2027-02-23",
-        "2027-03-02"
-      ],
-      "occurrences": 26
+      "occurrences": 53
     },
     {
       "id": "ev-chester-care-fair-73540a",
@@ -4521,6 +4076,109 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chester-oldies-in-the-hall-c752a9",
+      "name": "Oldies in the Hall",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Oldies in the Hall at Chester City Hall in Chester.",
+      "address": "Chester City Hall, Chester, PA",
+      "town": "Chester",
+      "lat": 39.847305,
+      "lng": -75.35934,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-15",
+      "endDate": "2026-10-06",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.chestercity.com/event/oldies-in-the-hall/2026-09-15/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/A9KZdailukOfcROaJcyKoA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Sep 15 - Oct 6",
+      "nextDate": "2026-09-15",
+      "dates": [
+        "2026-09-15",
+        "2026-09-22",
+        "2026-09-29",
+        "2026-10-06"
+      ],
+      "occurrences": 4
+    },
+    {
+      "id": "ev-chester-oldies-in-the-park-a0e86f",
+      "name": "Oldies in the Park",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "destinations",
+        "music",
+        "outdoor-concert"
+      ],
+      "shortDescription": "Oldies in the Park at Ethel Waters Park in Chester.",
+      "address": "Ethel Waters Park, Chester, PA",
+      "town": "Chester",
+      "lat": 39.846465,
+      "lng": -75.358842,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-09-15",
+      "endDate": "2027-03-02",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.chestercity.com/event/oldies-in-the-park-2/2026-09-15/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/o6XxL0PM3kaE6hDXOaFfuw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Sep 15 - Mar 2",
+      "nextDate": "2026-09-15",
+      "dates": [
+        "2026-09-15",
+        "2026-09-22",
+        "2026-09-29",
+        "2026-10-06",
+        "2026-10-13",
+        "2026-10-20",
+        "2026-10-27",
+        "2026-11-03",
+        "2026-11-10",
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05",
+        "2027-01-12",
+        "2027-01-19",
+        "2027-01-26",
+        "2027-02-02",
+        "2027-02-09",
+        "2027-02-16",
+        "2027-02-23",
+        "2027-03-02"
+      ],
+      "occurrences": 25
+    },
+    {
       "id": "ev-media-senior-dine-around-929f77",
       "name": "Senior Dine Around",
       "category": "events",
@@ -4749,6 +4407,68 @@
         "2026-09-15"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-holmes-tuesday-karaoke-at-haggertys-in-holmes-pa-3b255e",
+      "name": "Tuesday Karaoke at Haggertys in Holmes, PA (Delaware County",
+      "category": "events",
+      "subcategories": [
+        "open-mic",
+        "performing-arts"
+      ],
+      "shortDescription": "Karaoke is Every Tuesday at Haggertys in Homes, PA (Delaware County, PA) Karaoke starts at 8pm.",
+      "address": "Haggerty's Cafe, Holmes, PA",
+      "town": "Holmes",
+      "lat": 39.899696,
+      "lng": -75.305652,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-15",
+      "endDate": "2027-03-02",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/tuesday-karaoke-at-haggertys-in-holmes-pa-delaware-county-pa-tickets-1225315845679",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/g_89wQtSp0Sz9smp4PcgxA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Sep 15 - Mar 2",
+      "nextDate": "2026-09-15",
+      "dates": [
+        "2026-09-15",
+        "2026-09-22",
+        "2026-09-29",
+        "2026-10-06",
+        "2026-10-13",
+        "2026-10-20",
+        "2026-10-27",
+        "2026-11-03",
+        "2026-11-10",
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05",
+        "2027-01-12",
+        "2027-01-19",
+        "2027-01-26",
+        "2027-02-02",
+        "2027-02-09",
+        "2027-02-16",
+        "2027-02-23",
+        "2027-03-02"
+      ],
+      "occurrences": 25
     },
     {
       "id": "ev-chester-widener-pride-women-s-volleyball-vs-albr-196bfb",
@@ -14126,6 +13846,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-newtown-square-cross-country-girls-v-pc-ais-7f48f6",
+      "name": "Cross Country - Girls v PC & AIS",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Cross Country - Girls v PC & AIS",
+      "address": "Celentano Cross Country Course, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2515a632-7c00-42f3-8b27-d68699bb216f.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Oct 6",
+      "nextDate": "2026-10-06",
+      "dates": [
+        "2026-10-06"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-golf-jv-boys-v-malvern-gulph-mill-404796",
       "name": "Golf - JV Boys v Malvern @ Gulph Mills",
       "category": "events",
@@ -14855,8 +14613,8 @@
       "shortDescription": "Main Point Books and The Saturday Club welcome you to this very special event",
       "address": "The Saturday Club, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.043538,
-      "lng": -75.389385,
+      "lat": 40.043474,
+      "lng": -75.3893,
       "priceTier": 2,
       "tags": [
         "group"
@@ -16105,6 +15863,47 @@
         "2026-10-13"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-radlit-book-club-4f7dca",
+      "name": "Radlit Book Club",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "literary-arts"
+      ],
+      "shortDescription": "Join us for a discussion of Smoke Gets In Your Eyes: And Other Lessons from the Crematory, by Caitlin Doughty.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-13",
+      "endDate": "2026-12-08",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17212570",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/81b8ac86-9575-4bf0-a8e3-7382ef984a0f.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Oct 13 - Dec 8",
+      "nextDate": "2026-10-13",
+      "dates": [
+        "2026-10-13",
+        "2026-11-10",
+        "2026-12-08"
+      ],
+      "occurrences": 3
     },
     {
       "id": "ev-newtown-square-soccer-jv-girls-v-ga-972eb8",
@@ -19770,6 +19569,45 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-riot-nerd-presents-video-bingo-horror-edit-994059",
+      "name": "Riot Nerd Presents: Video Bingo - Horror Edition at 118 North",
+      "category": "events",
+      "subcategories": [
+        "games",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Riot Nerd Presents: Video Bingo - Horror Edition at 118 North Saturday, October 24, 2026 Doors: 3:00 PM | Show: 4:00 PM 21+ Unless Accompanied by Parent or Legal...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-24",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1054908527257220/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/220822T170928%7CwuF7Zv0XG0m1yhxVlBHpnA.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 24",
+      "nextDate": "2026-10-24",
+      "dates": [
+        "2026-10-24"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-media-smash-atoms-band-003550",
       "name": "Smash Atoms Band",
       "category": "events",
@@ -22667,6 +22505,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-friends-of-jerry-at-118-north-849c0f",
+      "name": "Friends of Jerry at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Friends of Jerry at 118 North Thursday, November 5, 2026 Doors: 6:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-05",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1085938817224881/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/220822T170928%7CwuF7Zv0XG0m1yhxVlBHpnA.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Nov 5",
+      "nextDate": "2026-11-05",
+      "dates": [
+        "2026-11-05"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-alla-prima-painting-4-fridays-with-georgan-11bb00",
       "name": "Alla Prima Painting 4 Fridays with Georganna Lenssen",
       "category": "events",
@@ -23924,6 +23800,44 @@
       ]
     },
     {
+      "id": "ev-wayne-smash-palace-at-118-north-50441b",
+      "name": "Smash Palace at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Smash Palace at 118 North with Brother Starling Friday, November 20, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-20",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1726651705125034/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cea12030-43ea-45fc-844c-25f5ae066f75.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Nov 20",
+      "nextDate": "2026-11-20",
+      "dates": [
+        "2026-11-20"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-chester-brian-posehn-87e1c6",
       "name": "Brian Posehn",
       "category": "events",
@@ -24963,6 +24877,46 @@
       "nextDate": "2026-12-12",
       "dates": [
         "2026-12-12"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-fireside-collective-at-118-north-65b633",
+      "name": "Fireside Collective at 118 North",
+      "category": "events",
+      "subcategories": [
+        "learning",
+        "lifestyle",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Fireside Collective at 118 North Sunday, December 13, 2026 Doors: 6:30 PM | Show: 7:30 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04494,
+      "lng": -75.3882,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-13",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1384288937226215/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/220822T170928%7CsFFFRGoNA0ea4O_xk9X-Vw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Dec 13",
+      "nextDate": "2026-12-13",
+      "dates": [
+        "2026-12-13"
       ],
       "occurrences": 1
     },
