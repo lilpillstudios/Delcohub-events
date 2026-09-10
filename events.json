@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-09-09T13:46:55.186347+00:00",
+  "scraped_at": "2026-09-10T13:40:51.176729+00:00",
   "horizon_days": 180,
-  "event_count": 687,
+  "event_count": 684,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-09-09",
+      "startDate": "2026-09-10",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Sep 9 - Oct 31",
-      "nextDate": "2026-09-09",
+      "schedule": "Daily, Sep 10 - Oct 31",
+      "nextDate": "2026-09-10",
       "dates": [
-        "2026-09-09",
         "2026-09-10",
         "2026-09-11",
         "2026-09-12",
@@ -93,446 +92,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 53
-    },
-    {
-      "id": "ev-chester-care-fair-73540a",
-      "name": "Care Fair",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "festival",
-        "health-wellness",
-        "lifestyle"
-      ],
-      "shortDescription": "Discover all the ways Widener supports you at the upcoming Widener Care Fair!",
-      "address": "UC Atrium, Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-09-09",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.widener.edu/events/care-fair",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bfa6e888-4f79-4052-b5e1-c38505ffdd66.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Sep 9",
-      "nextDate": "2026-09-09",
-      "dates": [
-        "2026-09-09"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-chess-club-634d75",
-      "name": "Chess Club",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "games",
-        "health-wellness",
-        "learning"
-      ],
-      "shortDescription": "Chess Club at Radnor Memorial Library Wednesdays, 9/2/26 through 12/30/26 (10/14 and 10/21 Chess Club moves upstairs, Rms.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-09",
-      "endDate": "2026-11-18",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17289382",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eea63be5-c4d3-46d5-9632-af64e5f10861.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wednesdays, Sep 9 - Nov 18",
-      "nextDate": "2026-09-09",
-      "dates": [
-        "2026-09-09",
-        "2026-09-16",
-        "2026-09-23",
-        "2026-09-30",
-        "2026-10-07",
-        "2026-10-28",
-        "2026-11-04",
-        "2026-11-11",
-        "2026-11-18"
-      ],
-      "occurrences": 9
-    },
-    {
-      "id": "media-dining-under-the-stars",
-      "name": "Dining Under the Stars",
-      "category": "events",
-      "subcategories": [
-        "food-festival",
-        "street-dining"
-      ],
-      "shortDescription": "Media's signature warm-weather event closing State Street so restaurants serve al fresco dinners under string lights.",
-      "address": "State St, Media, PA 19063",
-      "town": "Media",
-      "lat": 39.9166,
-      "lng": -75.388,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "date",
-        "group",
-        "family"
-      ],
-      "hours": {},
-      "startDate": "",
-      "endDate": "",
-      "recurring": "weekly",
-      "venueId": "media-state-street-district",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "schedule": "Wednesdays, June-August",
-      "nextDate": "2026-09-09",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-09-09"
-      ]
-    },
-    {
-      "id": "ev-radnor-golf-varsity-boys-v-radnor-radnor-valley-13bdda",
-      "name": "Golf - Varsity Boys v Radnor @ Radnor Valley",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Golf - Varsity Boys v Radnor @ Radnor Valley",
-      "address": "Radnor Valley Country Club, Radnor, PA",
-      "town": "Radnor",
-      "lat": 40.04715,
-      "lng": -75.37046,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-09",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0c20b087-5f3f-4d97-8041-f6db12f9e8c8.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Sep 9",
-      "nextDate": "2026-09-09",
-      "dates": [
-        "2026-09-09"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wallingford-mad-poets-critique-circle-bed650",
-      "name": "Mad Poets Critique Circle",
-      "category": "events",
-      "subcategories": [
-        "literary-arts"
-      ],
-      "shortDescription": "Mad Poets Critique Circle at Community Arts Center in Wallingford.",
-      "address": "Community Arts Center, Wallingford, PA",
-      "town": "Wallingford",
-      "lat": 39.908927,
-      "lng": -75.365674,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-09",
-      "endDate": "2026-10-14",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://communityartscenter.org/events/?pno=",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0n1pAjScPESDTuVgQYzBGw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wednesdays, Sep 9 - Oct 14",
-      "nextDate": "2026-09-09",
-      "dates": [
-        "2026-09-09",
-        "2026-10-14"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-chester-philadelphia-union-vs-fc-cincinnati-283fbb",
-      "name": "Philadelphia Union vs. FC Cincinnati",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Philadelphia Union vs. FC Cincinnati at Subaru Park in Chester.",
-      "address": "Subaru Park, Chester, PA",
-      "town": "Chester",
-      "lat": 39.832686,
-      "lng": -75.378395,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-09",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-859-3100",
-      "website": "",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OWjG7SacvE6RIbI5tnNHCA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Sep 9",
-      "nextDate": "2026-09-09",
-      "dates": [
-        "2026-09-09"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-jv-girls-pennington-3d5bba",
-      "name": "Soccer - JV Girls @ Pennington",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - JV Girls @ Pennington",
-      "address": "Pennington School, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-09",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/469bd39d-8063-41c7-8f6c-2f23de9f535d.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Sep 9",
-      "nextDate": "2026-09-09",
-      "dates": [
-        "2026-09-09"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-swarthmore-swarthmore-college-men-s-soccer-vs-wi-49e97c",
-      "name": "Swarthmore College Men's Soccer vs Widener University",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Swarthmore College Men's Soccer vs Widener University\\nStreaming Video: https://www.centennialconference.tv/swarthmoreathletics/\\n",
-      "address": "Clothier Field Stadium, Swarthmore, PA",
-      "town": "Swarthmore",
-      "lat": 39.90206,
-      "lng": -75.34991,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-09",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://swarthmoreathletics.com/calendar.aspx?game_id=31060&sport_id=8",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5245d79e-4890-4dba-8b48-8a1090c252b9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Sep 9",
-      "nextDate": "2026-09-09",
-      "dates": [
-        "2026-09-09"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-swarthmore-swarthmore-college-women-s-soccer-vs-17abac",
-      "name": "Swarthmore College Women's Soccer vs Rowan University - Childhood Cancer Awareness Game",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "games",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Swarthmore College Women's Soccer vs Rowan University - Childhood Cancer Awareness Game\\nStreaming Video: https://www.centennialconference.tv/swarthmoreathletics/\\n",
-      "address": "Clothier Field Stadium, Swarthmore, PA",
-      "town": "Swarthmore",
-      "lat": 39.90206,
-      "lng": -75.34991,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-09",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://swarthmoreathletics.com/calendar.aspx?game_id=31093&sport_id=18",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f5a7f77d-0c51-4a57-a1ba-4bad118eb6f1.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Sep 9",
-      "nextDate": "2026-09-09",
-      "dates": [
-        "2026-09-09"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-tennis-varsity-girls-v-archbishop-5dd160",
-      "name": "Tennis - Varsity Girls v Archbishop Carroll",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Tennis - Varsity Girls v Archbishop Carroll",
-      "address": "Tennis Courts, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-09",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/038dcf91-8afb-4eed-a1c9-5eb3b4ef2978.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Sep 9",
-      "nextDate": "2026-09-09",
-      "dates": [
-        "2026-09-09"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-widener-pride-women-s-volleyball-vs-mise-109aaf",
-      "name": "Widener Pride: Women's Volleyball vs Misericordia",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Women's Volleyball vs Misericordia Streaming Video: https://gomacsports.tv/widenerpride/",
-      "address": "Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-09",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14552&amp;sport_id=13",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dee4e760-757d-432f-bfdd-cc2dc29297b9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Sep 9",
-      "nextDate": "2026-09-09",
-      "dates": [
-        "2026-09-09"
-      ],
-      "occurrences": 1
+      "occurrences": 52
     },
     {
       "id": "ev-villanova-balletx-at-villanova-907a59",
@@ -1842,6 +1402,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-villanova-wellness-at-the-willows-ced74d",
+      "name": "Wellness at the Willows",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "health-wellness",
+        "learning",
+        "lifestyle"
+      ],
+      "shortDescription": "Wellness at the Willows is a free event hosted by Root to Branch 501c3 (a non profit started by Growth Minded LLC) and The Willows Park Preserve.",
+      "address": "The Willows Mansion, Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.02232,
+      "lng": -75.394958,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-11",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://waynebusiness.com/event/wellness-at-the-willows/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/HmOmG3GUGUWyIIXJ8jjbkQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Sep 11",
+      "nextDate": "2026-09-11",
+      "dates": [
+        "2026-09-11"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-essington-widener-pride-women-s-volleyball-vs-ro-acb9c3",
       "name": "Widener Pride: Women's Volleyball vs Rowan",
       "category": "events",
@@ -3105,7 +2705,7 @@
       ],
       "hours": {},
       "startDate": "2026-09-14",
-      "endDate": "2027-03-01",
+      "endDate": "2027-03-08",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -3116,7 +2716,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Mondays, Sep 14 - Mar 1",
+      "schedule": "Mondays, Sep 14 - Mar 8",
       "nextDate": "2026-09-14",
       "dates": [
         "2026-09-14",
@@ -3136,9 +2736,10 @@
         "2027-02-08",
         "2027-02-15",
         "2027-02-22",
-        "2027-03-01"
+        "2027-03-01",
+        "2027-03-08"
       ],
-      "occurrences": 18
+      "occurrences": 19
     },
     {
       "id": "ev-newtown-square-football-jv-ga-4475b5",
@@ -4038,6 +3639,50 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-mother-goose-on-the-loose-ages-birth-24-mo-94f84e",
+      "name": "Mother Goose on the Loose (Ages Birth - 24 months)",
+      "category": "events",
+      "subcategories": [
+        "kids",
+        "literary-arts",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Winsor Room - Registration required Birth - Age 24 months Stories, songs, and movement activities to help your young child build early literacy skills in a safe, social...",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-09-15",
+      "endDate": "2026-09-29",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17419995",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e04e48cf-45db-4883-b6ec-7300514cd7c0.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Sep 15 - Sep 29",
+      "nextDate": "2026-09-15",
+      "dates": [
+        "2026-09-15",
+        "2026-09-22",
+        "2026-09-29"
+      ],
+      "occurrences": 3
+    },
+    {
       "id": "ev-newtown-square-national-hispanic-heritage-month-f4a735",
       "name": "National Hispanic Heritage Month Begins",
       "category": "events",
@@ -4553,6 +4198,93 @@
         "2026-10-28"
       ],
       "occurrences": 7
+    },
+    {
+      "id": "ev-wayne-chess-club-634d75",
+      "name": "Chess Club",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "games",
+        "health-wellness",
+        "learning"
+      ],
+      "shortDescription": "Chess Club at Radnor Memorial Library Wednesdays, 9/2/26 through 12/30/26 (10/14 and 10/21 Chess Club moves upstairs, Rms.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-16",
+      "endDate": "2026-11-18",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17289402",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eea63be5-c4d3-46d5-9632-af64e5f10861.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wednesdays, Sep 16 - Nov 18",
+      "nextDate": "2026-09-16",
+      "dates": [
+        "2026-09-16",
+        "2026-09-23",
+        "2026-09-30",
+        "2026-10-07",
+        "2026-10-28",
+        "2026-11-04",
+        "2026-11-11",
+        "2026-11-18"
+      ],
+      "occurrences": 8
+    },
+    {
+      "id": "media-dining-under-the-stars",
+      "name": "Dining Under the Stars",
+      "category": "events",
+      "subcategories": [
+        "food-festival",
+        "street-dining"
+      ],
+      "shortDescription": "Media's signature warm-weather event closing State Street so restaurants serve al fresco dinners under string lights.",
+      "address": "State St, Media, PA 19063",
+      "town": "Media",
+      "lat": 39.9166,
+      "lng": -75.388,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "date",
+        "group",
+        "family"
+      ],
+      "hours": {},
+      "startDate": "",
+      "endDate": "",
+      "recurring": "weekly",
+      "venueId": "media-state-street-district",
+      "phone": "",
+      "website": "",
+      "images": [],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "schedule": "Wednesdays, June-August",
+      "nextDate": "2026-09-16",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-09-16"
+      ]
     },
     {
       "id": "ev-newtown-square-field-hockey-ms-a-v-ga-bde90e",
@@ -5583,6 +5315,50 @@
         "2026-09-17"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-women-s-children-s-consignment-sale-by-the-cb36ad",
+      "name": "Women's & Children's Consignment Sale by The Saturday Club",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "fundraiser",
+        "kids",
+        "markets"
+      ],
+      "shortDescription": "Mark Your Calendars and Get Ready to Shop for a Cause!",
+      "address": "The Saturday Club, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.043474,
+      "lng": -75.3893,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-09-17",
+      "endDate": "2026-09-20",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://saturdayclub.org/clubevents/consignment/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ReYIoN4IZkGmgxJAm9RZ_A.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Sep 17 - Sep 20",
+      "nextDate": "2026-09-17",
+      "dates": [
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20"
+      ],
+      "occurrences": 4
     },
     {
       "id": "ev-wayne-basic-cable-at-118-north-fb360f",
@@ -16195,7 +15971,7 @@
       ],
       "hours": {},
       "startDate": "2026-10-14",
-      "endDate": "2027-02-23",
+      "endDate": "2027-03-08",
       "recurring": "seasonal",
       "venueId": "",
       "phone": "",
@@ -16206,7 +15982,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Select dates, Oct 14 - Feb 23",
+      "schedule": "Select dates, Oct 14 - Mar 8",
       "nextDate": "2026-10-14",
       "dates": [
         "2026-10-14",
@@ -16214,9 +15990,52 @@
         "2027-01-15",
         "2027-01-28",
         "2027-02-09",
-        "2027-02-23"
+        "2027-02-23",
+        "2027-03-08"
       ],
-      "occurrences": 6
+      "occurrences": 7
+    },
+    {
+      "id": "ev-wayne-gentle-yoga-and-meditation-135d96",
+      "name": "Gentle Yoga and Meditation",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "faith",
+        "fitness",
+        "learning"
+      ],
+      "shortDescription": "Gentle Yoga and Meditation Wednesday, 9/9, 10/14 (Peter Rabbit Room), 11/11, 12/9 10:00am-10:45am Winsor Room/Peter Rabbit Room Join us for an \"all levels\" Gentle Yoga...",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-14",
+      "endDate": "2026-12-09",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17584870",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0b91792c-5f13-4694-b58b-08c21817088c.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wednesdays, Oct 14 - Dec 9",
+      "nextDate": "2026-10-14",
+      "dates": [
+        "2026-10-14",
+        "2026-11-11",
+        "2026-12-09"
+      ],
+      "occurrences": 3
     },
     {
       "id": "ev-newtown-square-golf-varsity-boys-v-phoenixville-f3b1b9",
@@ -16245,6 +16064,43 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9888b715-2dfc-4e70-9fb3-20dacccf6116.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Oct 14",
+      "nextDate": "2026-10-14",
+      "dates": [
+        "2026-10-14"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wallingford-mad-poets-critique-circle-bed650",
+      "name": "Mad Poets Critique Circle",
+      "category": "events",
+      "subcategories": [
+        "literary-arts"
+      ],
+      "shortDescription": "Mad Poets Critique Circle at Community Arts Center in Wallingford.",
+      "address": "Community Arts Center, Wallingford, PA",
+      "town": "Wallingford",
+      "lat": 39.908927,
+      "lng": -75.365674,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-14",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://communityartscenter.org/events/?pno=",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0n1pAjScPESDTuVgQYzBGw.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -19489,6 +19345,46 @@
       "dates": [
         "2026-10-24"
       ]
+    },
+    {
+      "id": "ev-glen-mills-namiwalks-main-line-2092df",
+      "name": "NAMIWalks Main Line",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "fundraiser",
+        "health-wellness",
+        "lifestyle"
+      ],
+      "shortDescription": "NAMIWalks is a way for local NAMI (National Alliance on Mental Illness) to raise funds and awareness.",
+      "address": "Concord Township Park, Glen Mills, PA",
+      "town": "Glen Mills",
+      "lat": 39.866632,
+      "lng": -75.514382,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-24",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.namiwalks.org/mainlinepa",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Lu1HfZviJkeV5bEJxSXbWg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 24",
+      "nextDate": "2026-10-24",
+      "dates": [
+        "2026-10-24"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-chester-philadelphia-union-vs-new-england-revolu-e6f658",
