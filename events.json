@@ -1,9 +1,47 @@
 {
   "version": 1,
-  "scraped_at": "2026-09-11T13:39:03.202135+00:00",
+  "scraped_at": "2026-09-12T12:56:00.003366+00:00",
   "horizon_days": 180,
-  "event_count": 681,
+  "event_count": 666,
   "listings": [
+    {
+      "id": "ev-media-men-s-soccer-howard-payne-vs-penn-st-brand-b0d02b",
+      "name": "(Men's Soccer) Howard Payne vs. Penn St. Brandywine",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "(Men's Soccer) Howard Payne vs. Penn St. Brandywine at Brandywine Field in Media.",
+      "address": "Brandywine Field, Media, PA",
+      "town": "Media",
+      "lat": 39.91678,
+      "lng": -75.38769,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-12",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "http://www.psubrandywineathletics.com/landing/index",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f5a7f77d-0c51-4a57-a1ba-4bad118eb6f1.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Sep 12",
+      "nextDate": "2026-09-12",
+      "dates": [
+        "2026-09-12"
+      ],
+      "occurrences": 1
+    },
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
       "name": "2026 Gene Capaldi Lens on Litter Photo Contest",
@@ -24,7 +62,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-09-11",
+      "startDate": "2026-09-12",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -36,10 +74,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Sep 11 - Oct 31",
-      "nextDate": "2026-09-11",
+      "schedule": "Daily, Sep 12 - Oct 31",
+      "nextDate": "2026-09-12",
       "dates": [
-        "2026-09-11",
         "2026-09-12",
         "2026-09-13",
         "2026-09-14",
@@ -91,7 +128,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 51
+      "occurrences": 50
     },
     {
       "id": "ev-villanova-balletx-at-villanova-907a59",
@@ -110,853 +147,14 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-12",
+      "startDate": "2026-09-12",
+      "endDate": "",
       "recurring": "none",
       "venueId": "",
       "phone": "",
       "website": "https://eventvesta.com/events/157624/t/tickets",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9tvoUQmhv0y7EnYhOYhcpQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Sep 11 - Sep 12",
-      "nextDate": "2026-09-11",
-      "dates": [
-        "2026-09-11",
-        "2026-09-12"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-chester-breakaway-philadelphia-2026-5f4282",
-      "name": "Breakaway Philadelphia 2026",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "destinations",
-        "festival",
-        "music"
-      ],
-      "shortDescription": "Welcome to Breakaway Philadelphia 2026, presented by CELSIUS!",
-      "address": "Subaru Park, Chester, PA",
-      "town": "Chester",
-      "lat": 39.832686,
-      "lng": -75.378395,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-12",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-859-3100",
-      "website": "",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/CtlLKQZld0q2g7_xO6M96A.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Sep 11 - Sep 12",
-      "nextDate": "2026-09-11",
-      "dates": [
-        "2026-09-11",
-        "2026-09-12"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-drexel-hill-fall-in-love-b5dc4f",
-      "name": "Fall In Love",
-      "category": "events",
-      "subcategories": [
-        "food-drink",
-        "lifestyle",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "“Fall In Love” The Summer Is Over It’s Time To Settle Down .. Come Find Your Bae .. R&B & Grown Vibes Mixed With Good Drinks & Food",
-      "address": "Casey's Drexel Hill, Drexel Hill, PA",
-      "town": "Drexel Hill",
-      "lat": 39.959937,
-      "lng": -75.288952,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-11",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/fall-in-love-tickets-1999210399121",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/aH0YNgEZB0u4RJJjJoZPwQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 11",
-      "nextDate": "2026-09-11",
-      "dates": [
-        "2026-09-11"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-lansdowne-ibc-fundraiser-for-slim-and-the-south-283c61",
-      "name": "IBC Fundraiser for Slim and the South Street Hustle",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "concert",
-        "fundraiser",
-        "live-music"
-      ],
-      "shortDescription": "Hey everyone come on out to help send us to Memphis, TN to represent you at the International Blues Challenge against the rest of the world!",
-      "address": "Jamey's House of Music, Lansdowne, PA",
-      "town": "Lansdowne",
-      "lat": 39.937344,
-      "lng": -75.274493,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-11",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/108255817?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Hlzic5Y8EUuc1jd8mMvLxA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 11",
-      "nextDate": "2026-09-11",
-      "dates": [
-        "2026-09-11"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-newtown-square-farmers-market-82ee6b",
-      "name": "Newtown Square Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "farmers-market",
-        "food-drink",
-        "live-music",
-        "markets"
-      ],
-      "shortDescription": "The Newtown Square Farmers Market is moving to a new location this year!",
-      "address": "Garrett Williamson, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.972995,
-      "lng": -75.418764,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-25",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "http://facebook.com/NewtownSquareFarmersMarket",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3z7dGbZ3hUq5SvVxMJxAvQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fridays, Sep 11 - Sep 25",
-      "nextDate": "2026-09-11",
-      "dates": [
-        "2026-09-11",
-        "2026-09-25"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
-      "name": "One Time Adult Wheel Class",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "visual-arts"
-      ],
-      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-27",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154443/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "11 dates, Sep 11 - Sep 27",
-      "nextDate": "2026-09-11",
-      "dates": [
-        "2026-09-11",
-        "2026-09-12",
-        "2026-09-13",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-19",
-        "2026-09-20",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-26",
-        "2026-09-27"
-      ],
-      "occurrences": 11
-    },
-    {
-      "id": "ev-wayne-reading-rocks-a-music-dance-and-comedy-sho-7179e6",
-      "name": "Reading Rocks!: A Music, Dance, and Comedy Show with Mr. Matt from Turtle Dance Music",
-      "category": "events",
-      "subcategories": [
-        "comedy",
-        "dance",
-        "health-wellness",
-        "kids"
-      ],
-      "shortDescription": "Winsor Room - No registration required - All Ages The Reading Rocks!",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-09-11",
-      "endDate": "2026-12-11",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/16033933",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dfbc8e82-cbbc-45df-b109-75d61c56c4ed.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fridays, Sep 11 - Dec 11",
-      "nextDate": "2026-09-11",
-      "dates": [
-        "2026-09-11",
-        "2026-10-09",
-        "2026-11-13",
-        "2026-12-11"
-      ],
-      "occurrences": 4
-    },
-    {
-      "id": "ev-newtown-square-soccer-3rd-team-boys-v-conestoga-139c8c",
-      "name": "Soccer - 3rd Team Boys v Conestoga",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - 3rd Team Boys v Conestoga",
-      "address": "Reape Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-11",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4bb46c0c-ec2a-4799-b30b-fd9cf072ae19.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 11",
-      "nextDate": "2026-09-11",
-      "dates": [
-        "2026-09-11"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-varsity-boys-v-hill-school-139ea0",
-      "name": "Soccer - Varsity Boys v Hill School",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - Varsity Boys v Hill School",
-      "address": "Alumni Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-11",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/469bd39d-8063-41c7-8f6c-2f23de9f535d.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 11",
-      "nextDate": "2026-09-11",
-      "dates": [
-        "2026-09-11"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-varsity-girls-v-st-johns-s-b2ef73",
-      "name": "Soccer - Varsity Girls v St. Johns School",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - Varsity Girls v St. Johns School",
-      "address": "Class of '76 Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-11",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4b8401df-8242-4a6e-a069-2ec28d0848c9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 11",
-      "nextDate": "2026-09-11",
-      "dates": [
-        "2026-09-11"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-sonic-serenity-gong-sound-bath-71ddd6",
-      "name": "Sonic Serenity - Gong Sound Bath",
-      "category": "events",
-      "subcategories": [
-        "faith",
-        "lifestyle"
-      ],
-      "shortDescription": "Chill out and vibe with deep gong sounds for total relaxation and good vibes!",
-      "address": "Medley Arts Center, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.02467,
-      "lng": -75.326,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-11",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/sonic-serenity-gong-sound-bath-tickets-1998469941392",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QIMHqFWQYkmxbJ3KV8uCVQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 11",
-      "nextDate": "2026-09-11",
-      "dates": [
-        "2026-09-11"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-swarthmore-swarthmore-college-men-s-tennis-vs-sw-a2b585",
-      "name": "Swarthmore College Men's Tennis vs Swat/Haverford Invite",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Swarthmore College Men's Tennis vs Swat/Haverford Invite\\n",
-      "address": "Faulkner Courts, Swarthmore, PA",
-      "town": "Swarthmore",
-      "lat": 39.90206,
-      "lng": -75.34991,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-11",
-      "endDate": "2026-09-13",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://swarthmoreathletics.com/calendar.aspx?game_id=31137&sport_id=10",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/038dcf91-8afb-4eed-a1c9-5eb3b4ef2978.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Sep 11 - Sep 13",
-      "nextDate": "2026-09-11",
-      "dates": [
-        "2026-09-11",
-        "2026-09-12",
-        "2026-09-13"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-swarthmore-swarthmore-college-men-s-tennis-vs-wi-cfe5ed",
-      "name": "Swarthmore College Men's Tennis vs Wilkes University",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Swarthmore College Men's Tennis vs Wilkes University\\n",
-      "address": "Cunningham Complex, Swarthmore, PA",
-      "town": "Swarthmore",
-      "lat": 39.90206,
-      "lng": -75.34991,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-11",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://swarthmoreathletics.com/calendar.aspx?game_id=31140&sport_id=10",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ffb39739-ffd2-4683-a282-b3eb46da0a6d.medium.PNG",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 11",
-      "nextDate": "2026-09-11",
-      "dates": [
-        "2026-09-11"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-the-gathering-gloom-at-118-north-22f8b4",
-      "name": "The Gathering Gloom at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "The Gathering Gloom at 118 North Friday, September 11, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
-      "address": "Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-11",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/2461551320977757/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/nnXQECbK40u8t-NRemEjGg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 11",
-      "nextDate": "2026-09-11",
-      "dates": [
-        "2026-09-11"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-volleyball-jv-v-george-school-4e9ad5",
-      "name": "Volleyball - JV v George School",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Volleyball - JV v George School",
-      "address": "O'Neill Gym, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-11",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e669d12a-a6ec-4151-8c5f-9397f6aae3d7.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 11",
-      "nextDate": "2026-09-11",
-      "dates": [
-        "2026-09-11"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-volleyball-varsity-v-george-schoo-6e6c23",
-      "name": "Volleyball - Varsity v George School",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Volleyball - Varsity v George School",
-      "address": "O'Neill Gym, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-11",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1c5f516e-c648-44bf-ba17-ce3f5c2af91a.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 11",
-      "nextDate": "2026-09-11",
-      "dates": [
-        "2026-09-11"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-water-polo-jv-boys-v-lawrencevill-789c8c",
-      "name": "Water Polo - JV Boys v Lawrenceville",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Water Polo - JV Boys v Lawrenceville",
-      "address": "Burke Natatorium, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-11",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f9de544e-a936-4ae7-96c0-fc7f0d2460e7.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 11",
-      "nextDate": "2026-09-11",
-      "dates": [
-        "2026-09-11"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-water-polo-varsity-boys-v-lawrenc-1b4a6f",
-      "name": "Water Polo - Varsity Boys v Lawrenceville",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Water Polo - Varsity Boys v Lawrenceville",
-      "address": "Burke Natatorium, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-11",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f9de544e-a936-4ae7-96c0-fc7f0d2460e7.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 11",
-      "nextDate": "2026-09-11",
-      "dates": [
-        "2026-09-11"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-water-polo-varsity-girls-v-lawren-1cdf8b",
-      "name": "Water Polo - Varsity Girls v Lawrenceville",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Water Polo - Varsity Girls v Lawrenceville",
-      "address": "Burke Natatorium, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-11",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5654b9b5-1ff3-43be-b479-f97bf3acc72a.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 11",
-      "nextDate": "2026-09-11",
-      "dates": [
-        "2026-09-11"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-wellness-at-the-willows-ced74d",
-      "name": "Wellness at the Willows",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "health-wellness",
-        "learning",
-        "lifestyle"
-      ],
-      "shortDescription": "Wellness at the Willows is a free event hosted by Root to Branch 501c3 (a non profit started by Growth Minded LLC) and The Willows Park Preserve.",
-      "address": "The Willows Mansion, Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.02232,
-      "lng": -75.394958,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-11",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://waynebusiness.com/event/wellness-at-the-willows/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/HmOmG3GUGUWyIIXJ8jjbkQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 11",
-      "nextDate": "2026-09-11",
-      "dates": [
-        "2026-09-11"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-essington-widener-pride-women-s-volleyball-vs-ro-acb9c3",
-      "name": "Widener Pride: Women's Volleyball vs Rowan",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Women's Volleyball vs Rowan",
-      "address": "Essington, PA",
-      "town": "Essington",
-      "lat": 39.86206,
-      "lng": -75.29713,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-11",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14536&amp;sport_id=13",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/41303adc-6311-419e-8756-cc69b17d8c41.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 11",
-      "nextDate": "2026-09-11",
-      "dates": [
-        "2026-09-11"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-men-s-soccer-howard-payne-vs-penn-st-brand-b0d02b",
-      "name": "(Men's Soccer) Howard Payne vs. Penn St. Brandywine",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "(Men's Soccer) Howard Payne vs. Penn St. Brandywine at Brandywine Field in Media.",
-      "address": "Brandywine Field, Media, PA",
-      "town": "Media",
-      "lat": 39.91678,
-      "lng": -75.38769,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-12",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "http://www.psubrandywineathletics.com/landing/index",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f5a7f77d-0c51-4a57-a1ba-4bad118eb6f1.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -995,6 +193,47 @@
       "website": "https://www.facebook.com/events/1704147397466577/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IKaOWysvoESuo1cFA3VTNA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Sep 12",
+      "nextDate": "2026-09-12",
+      "dates": [
+        "2026-09-12"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-breakaway-philadelphia-2026-5f4282",
+      "name": "Breakaway Philadelphia 2026",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "destinations",
+        "festival",
+        "music"
+      ],
+      "shortDescription": "Welcome to Breakaway Philadelphia 2026, presented by CELSIUS!",
+      "address": "Subaru Park, Chester, PA",
+      "town": "Chester",
+      "lat": 39.832686,
+      "lng": -75.378395,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-09-12",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-859-3100",
+      "website": "",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/CtlLKQZld0q2g7_xO6M96A.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -1354,6 +593,53 @@
       "occurrences": 1
     },
     {
+      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
+      "name": "One Time Adult Wheel Class",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "visual-arts"
+      ],
+      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-12",
+      "endDate": "2026-09-27",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154443/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "10 dates, Sep 12 - Sep 27",
+      "nextDate": "2026-09-12",
+      "dates": [
+        "2026-09-12",
+        "2026-09-13",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-27"
+      ],
+      "occurrences": 10
+    },
+    {
       "id": "ev-chester-peace-love-unity-festival-abb362",
       "name": "Peace, Love, & Unity Festival",
       "category": "events",
@@ -1624,6 +910,45 @@
         "2026-09-12"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-swarthmore-swarthmore-college-men-s-tennis-vs-sw-a2b585",
+      "name": "Swarthmore College Men's Tennis vs Swat/Haverford Invite",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Swarthmore College Men's Tennis vs Swat/Haverford Invite\\n",
+      "address": "Faulkner Courts, Swarthmore, PA",
+      "town": "Swarthmore",
+      "lat": 39.90206,
+      "lng": -75.34991,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-12",
+      "endDate": "2026-09-13",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://swarthmoreathletics.com/calendar.aspx?game_id=31138&sport_id=10",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/70d24c21-85cc-4d12-ae22-b05d7ac3c967.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Sep 12 - Sep 13",
+      "nextDate": "2026-09-12",
+      "dates": [
+        "2026-09-12",
+        "2026-09-13"
+      ],
+      "occurrences": 2
     },
     {
       "id": "swarthmore-farmers-market-swarthmore",
@@ -8895,6 +8220,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-newtown-square-newtown-square-farmers-market-82ee6b",
+      "name": "Newtown Square Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "farmers-market",
+        "food-drink",
+        "live-music",
+        "markets"
+      ],
+      "shortDescription": "The Newtown Square Farmers Market is moving to a new location this year!",
+      "address": "Garrett Williamson, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.972995,
+      "lng": -75.418764,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-25",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "http://facebook.com/NewtownSquareFarmersMarket",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3z7dGbZ3hUq5SvVxMJxAvQ.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Sep 25",
+      "nextDate": "2026-09-25",
+      "dates": [
+        "2026-09-25"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-soccer-3rd-team-boys-v-marple-13a4f7",
       "name": "Soccer - 3rd Team Boys v Marple",
       "category": "events",
@@ -14635,6 +14000,50 @@
         "2026-10-10"
       ],
       "occurrences": 2
+    },
+    {
+      "id": "ev-wayne-reading-rocks-a-music-dance-and-comedy-sho-7179e6",
+      "name": "Reading Rocks!: A Music, Dance, and Comedy Show with Mr. Matt from Turtle Dance Music",
+      "category": "events",
+      "subcategories": [
+        "comedy",
+        "dance",
+        "health-wellness",
+        "kids"
+      ],
+      "shortDescription": "Winsor Room - No registration required - All Ages The Reading Rocks!",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-10-09",
+      "endDate": "2026-12-11",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/16033934",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dfbc8e82-cbbc-45df-b109-75d61c56c4ed.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fridays, Oct 9 - Dec 11",
+      "nextDate": "2026-10-09",
+      "dates": [
+        "2026-10-09",
+        "2026-11-13",
+        "2026-12-11"
+      ],
+      "occurrences": 3
     },
     {
       "id": "ev-newtown-square-soccer-jv-boys-v-sch-ba766a",
