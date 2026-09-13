@@ -1,47 +1,9 @@
 {
   "version": 1,
-  "scraped_at": "2026-09-12T12:56:00.003366+00:00",
+  "scraped_at": "2026-09-13T13:50:36.089811+00:00",
   "horizon_days": 180,
-  "event_count": 666,
+  "event_count": 648,
   "listings": [
-    {
-      "id": "ev-media-men-s-soccer-howard-payne-vs-penn-st-brand-b0d02b",
-      "name": "(Men's Soccer) Howard Payne vs. Penn St. Brandywine",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "(Men's Soccer) Howard Payne vs. Penn St. Brandywine at Brandywine Field in Media.",
-      "address": "Brandywine Field, Media, PA",
-      "town": "Media",
-      "lat": 39.91678,
-      "lng": -75.38769,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-12",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "http://www.psubrandywineathletics.com/landing/index",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f5a7f77d-0c51-4a57-a1ba-4bad118eb6f1.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 12",
-      "nextDate": "2026-09-12",
-      "dates": [
-        "2026-09-12"
-      ],
-      "occurrences": 1
-    },
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
       "name": "2026 Gene Capaldi Lens on Litter Photo Contest",
@@ -62,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-09-12",
+      "startDate": "2026-09-13",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -74,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Sep 12 - Oct 31",
-      "nextDate": "2026-09-12",
+      "schedule": "Daily, Sep 13 - Oct 31",
+      "nextDate": "2026-09-13",
       "dates": [
-        "2026-09-12",
         "2026-09-13",
         "2026-09-14",
         "2026-09-15",
@@ -128,309 +89,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 50
-    },
-    {
-      "id": "ev-villanova-balletx-at-villanova-907a59",
-      "name": "BalletX at Villanova",
-      "category": "events",
-      "subcategories": [
-        "performing-arts"
-      ],
-      "shortDescription": "Following its acclaimed world premiere at the Festival at Highmark Mann, BalletX brings The Four Seasons Reimagined to the intimate setting of the Topper Theatre at...",
-      "address": "Topper Theatre at the Mullen Center, Villanova University, Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03653,
-      "lng": -75.352483,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-12",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/157624/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9tvoUQmhv0y7EnYhOYhcpQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 12",
-      "nextDate": "2026-09-12",
-      "dates": [
-        "2026-09-12"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-best-imitation-of-myself-a-tribute-to-ben-15691c",
-      "name": "Best Imitation of Myself - A Tribute to Ben Folds at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Best Imitation of Myself - A Tribute to Ben Folds at 118 North with Philly Joel Saturday, September 12, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by a...",
-      "address": "Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-12",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1704147397466577/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IKaOWysvoESuo1cFA3VTNA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 12",
-      "nextDate": "2026-09-12",
-      "dates": [
-        "2026-09-12"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-breakaway-philadelphia-2026-5f4282",
-      "name": "Breakaway Philadelphia 2026",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "destinations",
-        "festival",
-        "music"
-      ],
-      "shortDescription": "Welcome to Breakaway Philadelphia 2026, presented by CELSIUS!",
-      "address": "Subaru Park, Chester, PA",
-      "town": "Chester",
-      "lat": 39.832686,
-      "lng": -75.378395,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-09-12",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-859-3100",
-      "website": "",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/CtlLKQZld0q2g7_xO6M96A.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 12",
-      "nextDate": "2026-09-12",
-      "dates": [
-        "2026-09-12"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "chadds-ford-chadds-ford-days",
-      "name": "Chadds Ford Days",
-      "category": "events",
-      "subcategories": [
-        "heritage-festival",
-        "seasonal"
-      ],
-      "shortDescription": "Annual heritage festival hosted by the Chadds Ford Historical Society with colonial crafts, food and demonstrations.",
-      "address": "1736 Creek Rd, Chadds Ford, PA 19317",
-      "town": "Chadds Ford",
-      "lat": 39.869,
-      "lng": -75.59,
-      "priceTier": 1,
-      "tags": [
-        "family",
-        "historic",
-        "outdoor",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "",
-      "endDate": "",
-      "recurring": "annual",
-      "venueId": "",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "schedule": "Early September",
-      "nextDate": "2026-09-12",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-09-12"
-      ]
-    },
-    {
-      "id": "ev-media-dcswa-hhw-collection-event-rose-tree-park-a0a6a8",
-      "name": "DCSWA HHW Collection Event @ Rose Tree Park",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "DCSWA HHW Collection Event @ Rose Tree Park September 12th, 2026",
-      "address": "Rose Tree County Park, Media, PA",
-      "town": "Media",
-      "lat": 39.941785,
-      "lng": -75.394607,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-12",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/september-12th-2026-dcswa-hhw-collection-event-rose-tree-park-tickets-1995973146411",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4s5ghaJvNE-igz8vqO3lhg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 12",
-      "nextDate": "2026-09-12",
-      "dates": [
-        "2026-09-12"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-field-hockey-varsity-1dc8c5",
-      "name": "Field Hockey - Varsity",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Field Hockey - Varsity @ Caravel Academy",
-      "address": "Caravel Academy, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-12",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ec02e2a0-a935-4331-916c-5ba19bffa75b.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 12",
-      "nextDate": "2026-09-12",
-      "dates": [
-        "2026-09-12"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-football-varsity-st-christophers-fe4d14",
-      "name": "Football - Varsity @ St. Christophers",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Football - Varsity @ St. Christophers",
-      "address": "St. Christopher's School, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-12",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2cc33cba-3382-4f23-9030-5f91033b83c3.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 12",
-      "nextDate": "2026-09-12",
-      "dates": [
-        "2026-09-12"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-harvest-table-e797d0",
-      "name": "Harvest Table",
-      "category": "events",
-      "subcategories": [
-        "destinations"
-      ],
-      "shortDescription": "Celebrate the bounty of the season at our historic 18th-century farm!",
-      "address": "Colonial Pennsylvania Farmstead, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.968636,
-      "lng": -75.453585,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-12",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/harvest-table-tickets-1998990456266",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/nbKJ9VRsKEu1KF5pUWJuTw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 12",
-      "nextDate": "2026-09-12",
-      "dates": [
-        "2026-09-12"
-      ],
-      "occurrences": 1
+      "occurrences": 49
     },
     {
       "id": "ev-media-horses-hooves-historical-homes-6d2af0",
@@ -451,7 +110,7 @@
         "historic"
       ],
       "hours": {},
-      "startDate": "2026-09-12",
+      "startDate": "2026-09-13",
       "endDate": "2026-10-20",
       "recurring": "none",
       "venueId": "",
@@ -463,767 +122,16 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "6 dates, Sep 12 - Oct 20",
-      "nextDate": "2026-09-12",
+      "schedule": "5 dates, Sep 13 - Oct 20",
+      "nextDate": "2026-09-13",
       "dates": [
-        "2026-09-12",
         "2026-09-13",
         "2026-09-19",
         "2026-09-29",
         "2026-10-04",
         "2026-10-20"
       ],
-      "occurrences": 6
-    },
-    {
-      "id": "lansdowne-farmers-market-lansdowne",
-      "name": "Lansdowne Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "farmers market",
-        "seasonal"
-      ],
-      "shortDescription": "Seasonal Saturday farmers market in Lansdowne selling local produce, baked goods, and handmade items.",
-      "address": "N Lansdowne Ave, Lansdowne, PA 19050",
-      "town": "Lansdowne",
-      "lat": 39.9385,
-      "lng": -75.2725,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "group"
-      ],
-      "featured": true,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "schedule": "Saturdays, summer-fall",
-      "recurring": "weekly",
-      "nextDate": "2026-09-12",
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-09-12"
-      ]
-    },
-    {
-      "id": "ev-media-mac-twilight-series-the-sermon-organ-drive-9b6ea3",
-      "name": "MAC Twilight Series: The Sermon! (Organ driven Classic Soul, Funk, Jazz & Beyond)",
-      "category": "events",
-      "subcategories": [
-        "faith",
-        "lifestyle",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Sat, September 12, 4-7pm - The Sermon! (Organ driven Classic Soul, Funk, Jazz & Beyond) Huge thanks to our generous sponsors!",
-      "address": "Media Community Center Lawn, Media, PA",
-      "town": "Media",
-      "lat": 39.91678,
-      "lng": -75.38769,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-12",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.mediaartscouncil.org/calendar/mac-twilight-series-rockin2026-gezk2-267wa-mdy67-hc4l3",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1ACudYgVOUWryLxVEie9Ig.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 12",
-      "nextDate": "2026-09-12",
-      "dates": [
-        "2026-09-12"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-drexel-hill-multicultural-singles-social-30-50-a9b3fa",
-      "name": "Multicultural Singles Social | 30-50",
-      "category": "events",
-      "subcategories": [
-        "lifestyle",
-        "multicultural",
-        "special-audience"
-      ],
-      "shortDescription": "Meet open-minded singles ages 30–50 for an inclusive night of great conversations, new connections, and good vibes at Casey's.",
-      "address": "Casey's Drexel Hill, Drexel Hill, PA",
-      "town": "Drexel Hill",
-      "lat": 39.959937,
-      "lng": -75.288952,
-      "priceTier": 2,
-      "tags": [
-        "family",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-12",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/multicultural-singles-social-30-50-tickets-1997460745861",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/74jePgKmfkiA3PmP92rTJQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 12",
-      "nextDate": "2026-09-12",
-      "dates": [
-        "2026-09-12"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
-      "name": "One Time Adult Wheel Class",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "visual-arts"
-      ],
-      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-27",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154443/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "10 dates, Sep 12 - Sep 27",
-      "nextDate": "2026-09-12",
-      "dates": [
-        "2026-09-12",
-        "2026-09-13",
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-19",
-        "2026-09-20",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-26",
-        "2026-09-27"
-      ],
-      "occurrences": 10
-    },
-    {
-      "id": "ev-chester-peace-love-unity-festival-abb362",
-      "name": "Peace, Love, & Unity Festival",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "festival",
-        "lifestyle",
-        "markets"
-      ],
-      "shortDescription": "Vendors Vendors must register for a space by completing and submitting a Vendor Form: https://form.jotform.com/261935449021154 Payment in the form of a Money Order will...",
-      "address": "Chester City Hall, Chester, PA",
-      "town": "Chester",
-      "lat": 39.847305,
-      "lng": -75.35934,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-09-12",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.chestercity.com/event/peace-love-unity-festival/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/48d62f8d-8d8b-400a-889c-6d762b93e82a.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 12",
-      "nextDate": "2026-09-12",
-      "dates": [
-        "2026-09-12"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-raptor-jawns-birds-of-prey-402543",
-      "name": "RAPTOR JAWNS! Birds of Prey",
-      "category": "events",
-      "subcategories": [
-        "animals",
-        "destinations",
-        "festival",
-        "nature"
-      ],
-      "shortDescription": "Raptor Jawns! Birds of Prey Saturday, September 12, 2026 11am-12pm The pavilion behind the library, Winsor Rm if weather Raptor Jawns was founded by Courtney Douds, a...",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-09-12",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17542522",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cf535d9d-5d09-4239-a751-b858f625482b.medium.JPG",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 12",
-      "nextDate": "2026-09-12",
-      "dates": [
-        "2026-09-12"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ridley-park-farmers-market",
-      "name": "Ridley Park Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "market",
-        "seasonal"
-      ],
-      "shortDescription": "Seasonal Saturday market in Ridley Park selling produce, baked goods, and local products through the warmer months.",
-      "schedule": "Saturdays, June-October",
-      "recurring": "weekly",
-      "nextDate": "2026-09-12",
-      "address": "105 E Ward St, Ridley Park, PA 19078",
-      "town": "Ridley Park",
-      "lat": 39.8815,
-      "lng": -75.3238,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "kid-friendly"
-      ],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-09-12"
-      ]
-    },
-    {
-      "id": "ev-primos-sensory-friendly-singles-social-21-45-5fb02b",
-      "name": "Sensory-Friendly Singles Social | 21-45",
-      "category": "events",
-      "subcategories": [
-        "special-audience"
-      ],
-      "shortDescription": "Relaxed, structured afternoon for those who prefer quiet spaces, guided chats & meaningful talks. Low noise, soft lighting, no overwhelm.",
-      "address": "JT Brewski's Pub, Primos, PA",
-      "town": "Primos",
-      "lat": 39.920724,
-      "lng": -75.29879,
-      "priceTier": 2,
-      "tags": [
-        "family",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-12",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/sensory-friendly-singles-social-21-45-tickets-1996989571566",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gUBlmtTHZE2wfUGLfAF6CA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 12",
-      "nextDate": "2026-09-12",
-      "dates": [
-        "2026-09-12"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "springfield-farmers-market",
-      "name": "Springfield Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "market",
-        "seasonal"
-      ],
-      "shortDescription": "Springfield's seasonal outdoor market offers fresh produce, flowers, and local goods on weekends through summer and fall.",
-      "schedule": "Weekends, summer-fall",
-      "recurring": "weekly",
-      "nextDate": "2026-09-12",
-      "address": "Springfield, PA 19064",
-      "town": "Springfield",
-      "lat": 39.9312,
-      "lng": -75.3479,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "kid-friendly"
-      ],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-09-12"
-      ]
-    },
-    {
-      "id": "ev-swarthmore-swarthmore-college-field-hockey-vs-st-e569a4",
-      "name": "Swarthmore College Field Hockey vs Stevens Institute of Technology",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Swarthmore College Field Hockey vs Stevens Institute of Technology\\nStreaming Video: https://www.centennialconference.tv/swarthmoreathletics/\\n",
-      "address": "Clothier Field Stadium, Swarthmore, PA",
-      "town": "Swarthmore",
-      "lat": 39.90206,
-      "lng": -75.34991,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-12",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://swarthmoreathletics.com/calendar.aspx?game_id=31077&sport_id=2",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ec02e2a0-a935-4331-916c-5ba19bffa75b.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 12",
-      "nextDate": "2026-09-12",
-      "dates": [
-        "2026-09-12"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-swarthmore-swarthmore-college-men-s-cross-countr-5f2f55",
-      "name": "Swarthmore College Men's Cross Country vs Alumni Meet",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Swarthmore College Men's Cross Country vs Alumni Meet\\n",
-      "address": "Swarthmore, PA",
-      "town": "Swarthmore",
-      "lat": 39.90206,
-      "lng": -75.34991,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-12",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://swarthmoreathletics.com/calendar.aspx?game_id=31041&sport_id=5",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eab08c85-6507-46b6-89cb-9dc3711af22d.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 12",
-      "nextDate": "2026-09-12",
-      "dates": [
-        "2026-09-12"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-swarthmore-swarthmore-college-men-s-tennis-vs-sw-a2b585",
-      "name": "Swarthmore College Men's Tennis vs Swat/Haverford Invite",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Swarthmore College Men's Tennis vs Swat/Haverford Invite\\n",
-      "address": "Faulkner Courts, Swarthmore, PA",
-      "town": "Swarthmore",
-      "lat": 39.90206,
-      "lng": -75.34991,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-13",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://swarthmoreathletics.com/calendar.aspx?game_id=31138&sport_id=10",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/70d24c21-85cc-4d12-ae22-b05d7ac3c967.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Sep 12 - Sep 13",
-      "nextDate": "2026-09-12",
-      "dates": [
-        "2026-09-12",
-        "2026-09-13"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "swarthmore-farmers-market-swarthmore",
-      "name": "Swarthmore Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "farmers market",
-        "seasonal"
-      ],
-      "shortDescription": "Weekly warm-season market in Swarthmore featuring regional farmers, food vendors, and live music.",
-      "address": "Swarthmore Town Center, Swarthmore, PA 19081",
-      "town": "Swarthmore",
-      "lat": 39.903,
-      "lng": -75.349,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "group"
-      ],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "schedule": "Saturdays, warm season",
-      "recurring": "weekly",
-      "nextDate": "2026-09-12",
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-09-12"
-      ]
-    },
-    {
-      "id": "ev-newtown-square-water-polo-jv-boys-v-gonzaga-87eaba",
-      "name": "Water Polo - JV Boys v Gonzaga",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Water Polo - JV Boys v Gonzaga",
-      "address": "Burke Natatorium, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-12",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/359768a4-b327-4b56-9756-8467f4ba4030.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 12",
-      "nextDate": "2026-09-12",
-      "dates": [
-        "2026-09-12"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-water-polo-varsity-boys-v-gonzaga-14083c",
-      "name": "Water Polo - Varsity Boys v Gonzaga",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Water Polo - Varsity Boys v Gonzaga",
-      "address": "Burke Natatorium, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-12",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/359768a4-b327-4b56-9756-8467f4ba4030.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 12",
-      "nextDate": "2026-09-12",
-      "dates": [
-        "2026-09-12"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-widener-pride-football-vs-alvernia-1c6079",
-      "name": "Widener Pride: Football vs Alvernia",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Football vs Alvernia Streaming Video: https://gomacsports.tv/widenerpride/ Tickets: https://fan.hudl.com/tickets/VGlja2V0ZWRFdmVudDZhMjliNzI0NWMyMTc2ZmJjNGU0ODRlNw==",
-      "address": "Elizabeth J. Hirschmann Field at Leslie C. Quick Jr. Stadium, Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-12",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14296&amp;sport_id=4",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/68a609c9-a70f-4364-b695-d420652b5cee.medium.PNG",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 12",
-      "nextDate": "2026-09-12",
-      "dates": [
-        "2026-09-12"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-essington-widener-pride-women-s-volleyball-vs-ar-d2daa6",
-      "name": "Widener Pride: Women's Volleyball vs Arcadia",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Women's Volleyball vs Arcadia",
-      "address": "Essington, PA",
-      "town": "Essington",
-      "lat": 39.86206,
-      "lng": -75.29713,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-12",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14538&amp;sport_id=13",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c0a9941a-c1ec-4e56-aed9-a08e58729f67.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 12",
-      "nextDate": "2026-09-12",
-      "dates": [
-        "2026-09-12"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-essington-widener-pride-women-s-volleyball-vs-de-4b93bc",
-      "name": "Widener Pride: Women's Volleyball vs DeSales",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Women's Volleyball vs DeSales",
-      "address": "Essington, PA",
-      "town": "Essington",
-      "lat": 39.86206,
-      "lng": -75.29713,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-25",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14537&amp;sport_id=13",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7df57544-f36c-4258-bdb8-55ca1ace2cf6.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "2 dates, Sep 12 - Sep 25",
-      "nextDate": "2026-09-12",
-      "dates": [
-        "2026-09-12",
-        "2026-09-25"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-essington-yachtstock-riverjam-1b9991",
-      "name": "YACHTSTOCK RIVERJAM",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "outdoor-recreation",
-        "performing-arts",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Annual Yachtstock Riverjam Music Festival September 12th 11 AM to 9 PM Largest outdoor, all-day charitable concert event in our region.",
-      "address": "WEST END BOAT CLUB, Essington, PA",
-      "town": "Essington",
-      "lat": 39.861394,
-      "lng": -75.306453,
-      "priceTier": 2,
-      "tags": [
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-09-12",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://yachtstock.org/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/X4bKXaB1J0Gf_aD1DDwvqA.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 12",
-      "nextDate": "2026-09-12",
-      "dates": [
-        "2026-09-12"
-      ],
-      "occurrences": 1
+      "occurrences": 5
     },
     {
       "id": "ev-thornbury-township-meet-n-greet-alpaca-mohair-go-01096d",
@@ -1263,6 +171,52 @@
         "2026-09-13"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
+      "name": "One Time Adult Wheel Class",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "visual-arts"
+      ],
+      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-13",
+      "endDate": "2026-09-27",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154443/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "9 dates, Sep 13 - Sep 27",
+      "nextDate": "2026-09-13",
+      "dates": [
+        "2026-09-13",
+        "2026-09-17",
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-27"
+      ],
+      "occurrences": 9
     },
     {
       "id": "ev-glen-mills-restoration-walks-at-newlin-grist-mil-76d64c",
@@ -1332,6 +286,44 @@
       "website": "https://communityartscenter.org/events/?pno=",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_wIb-RUrSkSbk9_2-f6MXw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Sep 13",
+      "nextDate": "2026-09-13",
+      "dates": [
+        "2026-09-13"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-swarthmore-swarthmore-college-men-s-tennis-vs-sw-a2b585",
+      "name": "Swarthmore College Men's Tennis vs Swat/Haverford Invite",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Swarthmore College Men's Tennis vs Swat/Haverford Invite\\n",
+      "address": "Faulkner Courts, Swarthmore, PA",
+      "town": "Swarthmore",
+      "lat": 39.90206,
+      "lng": -75.34991,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-13",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://swarthmoreathletics.com/calendar.aspx?game_id=31139&sport_id=10",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/04fa80b1-2d66-4998-85f4-d6341970bb46.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -4287,7 +3279,7 @@
       ],
       "hours": {},
       "startDate": "2026-09-17",
-      "endDate": "2027-03-04",
+      "endDate": "2027-03-11",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -4298,7 +3290,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Thursdays, Sep 17 - Mar 4",
+      "schedule": "Thursdays, Sep 17 - Mar 11",
       "nextDate": "2026-09-17",
       "dates": [
         "2026-09-17",
@@ -4325,9 +3317,10 @@
         "2027-02-11",
         "2027-02-18",
         "2027-02-25",
-        "2027-03-04"
+        "2027-03-04",
+        "2027-03-11"
       ],
-      "occurrences": 25
+      "occurrences": 26
     },
     {
       "id": "ev-chester-widener-pride-women-s-volleyball-vs-muhl-724488",
@@ -5534,6 +4527,45 @@
       "occurrences": 1
     },
     {
+      "id": "ev-newtown-square-field-hockey-varsity-1e9a67",
+      "name": "Field Hockey - Varsity",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Field Hockey - Varsity @ Max Preps",
+      "address": "Max Preps, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-20",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b04bdf65-d71d-4a5a-a43a-cf4f24a1e822.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Sep 19 - Sep 20",
+      "nextDate": "2026-09-19",
+      "dates": [
+        "2026-09-19",
+        "2026-09-20"
+      ],
+      "occurrences": 2
+    },
+    {
       "id": "ev-media-glow-flow-a-wellness-experience-by-ran-wit-614160",
       "name": "Glow & Flow: A Wellness Experience by Ran With Beauty",
       "category": "events",
@@ -5647,6 +4679,44 @@
       ]
     },
     {
+      "id": "lansdowne-farmers-market-lansdowne",
+      "name": "Lansdowne Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "farmers market",
+        "seasonal"
+      ],
+      "shortDescription": "Seasonal Saturday farmers market in Lansdowne selling local produce, baked goods, and handmade items.",
+      "address": "N Lansdowne Ave, Lansdowne, PA 19050",
+      "town": "Lansdowne",
+      "lat": 39.9385,
+      "lng": -75.2725,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "group"
+      ],
+      "featured": true,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "schedule": "Saturdays, summer-fall",
+      "recurring": "weekly",
+      "nextDate": "2026-09-19",
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-09-19"
+      ]
+    },
+    {
       "id": "ev-glen-mills-meet-a-live-red-tailed-hawk-eastern-s-9fe789",
       "name": "Meet a Live Red-tailed Hawk, Eastern Screech Owl and African Lanner Falcon",
       "category": "events",
@@ -5707,6 +4777,44 @@
         "group",
         "outdoor",
         "date"
+      ],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-09-19"
+      ]
+    },
+    {
+      "id": "ridley-park-farmers-market",
+      "name": "Ridley Park Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "market",
+        "seasonal"
+      ],
+      "shortDescription": "Seasonal Saturday market in Ridley Park selling produce, baked goods, and local products through the warmer months.",
+      "schedule": "Saturdays, June-October",
+      "recurring": "weekly",
+      "nextDate": "2026-09-19",
+      "address": "105 E Ward St, Ridley Park, PA 19078",
+      "town": "Ridley Park",
+      "lat": 39.8815,
+      "lng": -75.3238,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "kid-friendly"
       ],
       "featured": false,
       "localsGuide": false,
@@ -5838,6 +4946,44 @@
       "occurrences": 1
     },
     {
+      "id": "springfield-farmers-market",
+      "name": "Springfield Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "market",
+        "seasonal"
+      ],
+      "shortDescription": "Springfield's seasonal outdoor market offers fresh produce, flowers, and local goods on weekends through summer and fall.",
+      "schedule": "Weekends, summer-fall",
+      "recurring": "weekly",
+      "nextDate": "2026-09-19",
+      "address": "Springfield, PA 19064",
+      "town": "Springfield",
+      "lat": 39.9312,
+      "lng": -75.3479,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "kid-friendly"
+      ],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-09-19"
+      ]
+    },
+    {
       "id": "ev-swarthmore-swarthmore-college-men-s-soccer-vs-jo-f6539b",
       "name": "Swarthmore College Men's Soccer vs Johns Hopkins University - Team IMPACT Awareness Game",
       "category": "events",
@@ -5916,6 +5062,44 @@
         "2026-09-19"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "swarthmore-farmers-market-swarthmore",
+      "name": "Swarthmore Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "farmers market",
+        "seasonal"
+      ],
+      "shortDescription": "Weekly warm-season market in Swarthmore featuring regional farmers, food vendors, and live music.",
+      "address": "Swarthmore Town Center, Swarthmore, PA 19081",
+      "town": "Swarthmore",
+      "lat": 39.903,
+      "lng": -75.349,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "group"
+      ],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "schedule": "Saturdays, warm season",
+      "recurring": "weekly",
+      "nextDate": "2026-09-19",
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-09-19"
+      ]
     },
     {
       "id": "ev-newtown-square-tennis-varsity-girls-atlantic-inv-1c15a7",
@@ -8438,6 +7622,46 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5654b9b5-1ff3-43be-b479-f97bf3acc72a.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Sep 25",
+      "nextDate": "2026-09-25",
+      "dates": [
+        "2026-09-25"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-swarthmore-widener-pride-women-s-volleyball-vs-d-4b93bc",
+      "name": "Widener Pride: Women's Volleyball vs DeSales",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Women's Volleyball vs DeSales",
+      "address": "Swarthmore, PA",
+      "town": "Swarthmore",
+      "lat": 39.90206,
+      "lng": -75.34991,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-25",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://widenerpride.com/calendar.aspx?game_id=14544&amp;sport_id=13",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7df57544-f36c-4258-bdb8-55ca1ace2cf6.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -25379,6 +24603,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-newtown-square-ms-spring-play-performance-06fe10",
+      "name": "MS Spring Play Performance",
+      "category": "events",
+      "subcategories": [
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "MS Spring Play Performance",
+      "address": "Black Box-Ridgway Theater, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-11",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2359805a-4335-4631-9bdd-3b9f717c613d.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Mar 11",
+      "nextDate": "2027-03-11",
+      "dates": [
+        "2027-03-11"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "media-restaurant-week",
       "name": "Media Restaurant Week",
       "category": "events",
@@ -25836,6 +25098,46 @@
       "occurrences": 1,
       "dates": [
         "2027-08-01"
+      ]
+    },
+    {
+      "id": "chadds-ford-chadds-ford-days",
+      "name": "Chadds Ford Days",
+      "category": "events",
+      "subcategories": [
+        "heritage-festival",
+        "seasonal"
+      ],
+      "shortDescription": "Annual heritage festival hosted by the Chadds Ford Historical Society with colonial crafts, food and demonstrations.",
+      "address": "1736 Creek Rd, Chadds Ford, PA 19317",
+      "town": "Chadds Ford",
+      "lat": 39.869,
+      "lng": -75.59,
+      "priceTier": 1,
+      "tags": [
+        "family",
+        "historic",
+        "outdoor",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "",
+      "endDate": "",
+      "recurring": "annual",
+      "venueId": "",
+      "phone": "",
+      "website": "",
+      "images": [],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "schedule": "Early September",
+      "nextDate": "2027-09-12",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2027-09-12"
       ]
     },
     {
