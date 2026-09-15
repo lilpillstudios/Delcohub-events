@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-09-14T15:56:34.570399+00:00",
+  "scraped_at": "2026-09-15T14:22:50.050723+00:00",
   "horizon_days": 180,
-  "event_count": 659,
+  "event_count": 650,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-09-14",
+      "startDate": "2026-09-15",
       "endDate": "2026-10-31",
       "recurring": "seasonal",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Sep 14 - Oct 31",
-      "nextDate": "2026-09-14",
+      "schedule": "Daily, Sep 15 - Oct 31",
+      "nextDate": "2026-09-15",
       "dates": [
-        "2026-09-14",
         "2026-09-15",
         "2026-09-16",
         "2026-09-17",
@@ -88,894 +87,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 48
-    },
-    {
-      "id": "ev-newtown-square-boys-soccer-team-dinner-b9ee8a",
-      "name": "Boys Soccer Team Dinner",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Boys Soccer Team Dinner at Minnick Porch in Newtown Square.",
-      "address": "Minnick Porch, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-14",
-      "endDate": "2026-10-28",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a633282f-461d-4c6f-936c-5c1d7edb4319.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "2 dates, Sep 14 - Oct 28",
-      "nextDate": "2026-09-14",
-      "dates": [
-        "2026-09-14",
-        "2026-10-28"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-aston-creative-art-night-social-at-2sp-brewing-c-19aa11",
-      "name": "Creative Art Night Social at 2SP Brewing Company - Delco, PA",
-      "category": "events",
-      "subcategories": [
-        "drinks",
-        "food-drink",
-        "visual-arts"
-      ],
-      "shortDescription": "Join us for Adult Art Club, where we'll get creative, socialize, and enjoy great food and drinks together!",
-      "address": "2SP Brewing Company, Aston, PA",
-      "town": "Aston",
-      "lat": 39.856095,
-      "lng": -75.403905,
-      "priceTier": 1,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/creative-art-night-social-at-2sp-brewing-company-delco-pa-tickets-1994795645474",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/l2QVSjdXhU2-XTmBUbiWQQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Sep 14",
-      "nextDate": "2026-09-14",
-      "dates": [
-        "2026-09-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-havertown-delaware-county-camera-club-meeting-64c172",
-      "name": "Delaware County Camera Club Meeting",
-      "category": "events",
-      "subcategories": [
-        "visual-arts"
-      ],
-      "shortDescription": ". Founded in 1937, the club offers a space for local photographers to connect, learn, and showcase their work. Visit delcocameraclub.org for more information.",
-      "address": "Trinity Lutheran Church, Havertown, PA",
-      "town": "Havertown",
-      "lat": 39.972622,
-      "lng": -75.316142,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-14",
-      "endDate": "2027-03-08",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "http://www.delcocameraclub.org",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b15ba93f-e46c-4836-a2f4-7d636c24ab78.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mondays, Sep 14 - Mar 8",
-      "nextDate": "2026-09-14",
-      "dates": [
-        "2026-09-14",
-        "2026-09-21",
-        "2026-09-28",
-        "2026-10-12",
-        "2026-10-19",
-        "2026-10-26",
-        "2026-11-09",
-        "2026-11-16",
-        "2026-11-23",
-        "2026-11-30",
-        "2027-01-11",
-        "2027-01-18",
-        "2027-01-25",
-        "2027-02-01",
-        "2027-02-08",
-        "2027-02-15",
-        "2027-02-22",
-        "2027-03-01",
-        "2027-03-08"
-      ],
-      "occurrences": 19
-    },
-    {
-      "id": "ev-newtown-square-football-jv-ga-4475b5",
-      "name": "Football - JV @ GA",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Football - JV @ GA at Germantown Academy in Newtown Square.",
-      "address": "Germantown Academy, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b589a407-62da-4341-bcf8-21c843bb5002.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Sep 14",
-      "nextDate": "2026-09-14",
-      "dates": [
-        "2026-09-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-girls-soccer-team-dinner-23af5a",
-      "name": "Girls Soccer Team Dinner",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Girls Soccer Team Dinner at Tierney Dining Hall - Ott Alcove in Newtown Square.",
-      "address": "Tierney Dining Hall - Ott Alcove, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-14",
-      "endDate": "2026-11-02",
-      "recurring": "seasonal",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a93e9a02-c48d-41d9-ade1-09d562fd5404.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Select dates, Sep 14 - Nov 2",
-      "nextDate": "2026-09-14",
-      "dates": [
-        "2026-09-14",
-        "2026-10-01",
-        "2026-10-23",
-        "2026-11-02"
-      ],
-      "occurrences": 4
-    },
-    {
-      "id": "ev-newtown-square-golf-jv-boys-v-haverford-merion-w-9a8b1f",
-      "name": "Golf - JV Boys v Haverford @ Merion West",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Golf - JV Boys v Haverford @ Merion West",
-      "address": "Merion Golf Club, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9888b715-2dfc-4e70-9fb3-20dacccf6116.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Sep 14",
-      "nextDate": "2026-09-14",
-      "dates": [
-        "2026-09-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-ms-musical-auditions-551020",
-      "name": "MS Musical Auditions",
-      "category": "events",
-      "subcategories": [
-        "musical",
-        "performing-arts",
-        "theater"
-      ],
-      "shortDescription": "MS Musical Auditions at Theater - Carrafiell Theater in Newtown Square.",
-      "address": "Theater - Carrafiell Theater, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-14",
-      "endDate": "2026-09-15",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f30029a8-7fc0-480c-9eac-737765fc32d9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Sep 14 - Sep 15",
-      "nextDate": "2026-09-14",
-      "dates": [
-        "2026-09-14",
-        "2026-09-15"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-media-maker-mondays-e4e42e",
-      "name": "Maker Mondays",
-      "category": "events",
-      "subcategories": [
-        "crafts"
-      ],
-      "shortDescription": "Maker Mondays at Parlor (Mansion) Room in Media.",
-      "address": "Parlor (Mansion) Room, Media, PA",
-      "town": "Media",
-      "lat": 39.920906,
-      "lng": -75.38843,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-14",
-      "endDate": "2026-12-14",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.mediaborough.com/calendar.aspx?EID=2719",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bd3a038a-7c16-4116-8ffd-2a210530e12a.medium.PNG",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mondays, Sep 14 - Dec 14",
-      "nextDate": "2026-09-14",
-      "dates": [
-        "2026-09-14",
-        "2026-10-12",
-        "2026-11-09",
-        "2026-12-14"
-      ],
-      "occurrences": 4
-    },
-    {
-      "id": "ev-aldan-miracle-on-34th-street-431e1e",
-      "name": "Miracle on 34th Street",
-      "category": "events",
-      "subcategories": [
-        "christmas",
-        "faith",
-        "holiday",
-        "lifestyle"
-      ],
-      "shortDescription": "The holiday classic comes to life on stage!",
-      "address": "Colonial Playhouse, Aldan, PA",
-      "town": "Aldan",
-      "lat": 39.916243,
-      "lng": -75.294573,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-14",
-      "endDate": "2026-12-04",
-      "recurring": "seasonal",
-      "venueId": "",
-      "phone": "",
-      "website": "https://colonialplayhouse.net/miracle-34/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/sUZGwfmCmkeUcNCadXPf7w.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Select dates, Sep 14 - Dec 4",
-      "nextDate": "2026-09-14",
-      "dates": [
-        "2026-09-14",
-        "2026-12-04"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-glenolden-monday-trivia-night-at-the-fainting-go-c68d01",
-      "name": "Monday Trivia Night at The Fainting Goat (Glenolden - Delaware County",
-      "category": "events",
-      "subcategories": [
-        "animals",
-        "destinations",
-        "farms",
-        "games"
-      ],
-      "shortDescription": "Monday Night Trivia Starts at 7pm at the Fainting Goat in Glenolden, PA. $50 gift card for 1st Place team and $25 for 2nd Place.",
-      "address": "The Fainting Goat Bar and Restaurant, Glenolden, PA",
-      "town": "Glenolden",
-      "lat": 39.903658,
-      "lng": -75.29411,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-14",
-      "endDate": "2026-12-28",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/monday-trivia-night-at-the-fainting-goat-glenolden-delaware-county-pa-tickets-1106985927709",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QD52Na3--EGn6QKh_-aT8g.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mondays, Sep 14 - Dec 28",
-      "nextDate": "2026-09-14",
-      "dates": [
-        "2026-09-14",
-        "2026-09-21",
-        "2026-09-28",
-        "2026-10-05",
-        "2026-10-12",
-        "2026-10-19",
-        "2026-10-26",
-        "2026-11-02",
-        "2026-11-09",
-        "2026-11-16",
-        "2026-11-23",
-        "2026-11-30",
-        "2026-12-07",
-        "2026-12-14",
-        "2026-12-21",
-        "2026-12-28"
-      ],
-      "occurrences": 16
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-classes-for-students-with-dis-c24cd1",
-      "name": "One Time Classes For Students With Disabilities",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "special-audience",
-        "visual-arts"
-      ],
-      "shortDescription": "This class for students with disabilities will be flexible depending on the students' desires, sensory preferences, and interest levels.",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "family",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-14",
-      "endDate": "2026-09-28",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154447/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IK04RSbO2UapiFtqzK6Oyw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mondays, Sep 14 - Sep 28",
-      "nextDate": "2026-09-14",
-      "dates": [
-        "2026-09-14",
-        "2026-09-21",
-        "2026-09-28"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-newtown-square-soccer-girls-ms-a-v-notre-dame-312b3a",
-      "name": "Soccer - Girls MS A v Notre Dame",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - Girls MS A v Notre Dame",
-      "address": "Reape Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5245d79e-4890-4dba-8b48-8a1090c252b9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Sep 14",
-      "nextDate": "2026-09-14",
-      "dates": [
-        "2026-09-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-girls-ms-b-v-notre-dame-8b4252",
-      "name": "Soccer - Girls MS B v Notre Dame",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - Girls MS B v Notre Dame",
-      "address": "Reape Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f5a7f77d-0c51-4a57-a1ba-4bad118eb6f1.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Sep 14",
-      "nextDate": "2026-09-14",
-      "dates": [
-        "2026-09-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-sprouts-a-student-led-botany-course-b15e98",
-      "name": "Sprouts: A Student-Led Botany Course",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "classes",
-        "learning",
-        "special-audience"
-      ],
-      "shortDescription": "Winsor Room - Registration required Grades 1st-5th Led by students from The Baldwin School and Conestoga High School, the Sprouts course is a botany-based,...",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-14",
-      "endDate": "2026-11-23",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17420319",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7c0541b1-573c-44ea-a228-c018d23d6096.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mondays, Sep 14 - Nov 23",
-      "nextDate": "2026-09-14",
-      "dates": [
-        "2026-09-14",
-        "2026-09-21",
-        "2026-09-28",
-        "2026-10-05",
-        "2026-10-26",
-        "2026-11-02",
-        "2026-11-09",
-        "2026-11-16",
-        "2026-11-23"
-      ],
-      "occurrences": 9
-    },
-    {
-      "id": "ev-wayne-start-accepting-halloween-costumes-3dfa9f",
-      "name": "Start Accepting Halloween Costumes",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "fundraiser",
-        "halloween",
-        "holiday"
-      ],
-      "shortDescription": "Costume Donation Drop-off: September 14 - October 7 At the Children's Desk Baby, Toddler, and Kids' Sizes Looking to pass along your gently used kids' Halloween costumes?",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-09-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17420284",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/acc35a6b-583b-4614-ad52-1b445886c9c7.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Sep 14",
-      "nextDate": "2026-09-14",
-      "dates": [
-        "2026-09-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-tennis-girls-ms-a-v-notre-dame-ed1290",
-      "name": "Tennis - Girls MS A v Notre Dame",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Tennis - Girls MS A v Notre Dame",
-      "address": "Tennis Courts, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a8fe3b31-5555-4a70-820b-bb59e79bce97.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Sep 14",
-      "nextDate": "2026-09-14",
-      "dates": [
-        "2026-09-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-tennis-middle-school-a-5aaffe",
-      "name": "Tennis - Middle School A",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "special-audience",
-        "sports"
-      ],
-      "shortDescription": "Tennis - Middle School A at The Agnes Irwin School in Bryn Mawr.",
-      "address": "The Agnes Irwin School, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.028689,
-      "lng": -75.350103,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-14",
-      "endDate": "2026-10-26",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-801-1869",
-      "website": "https://www.baldwinschool.org/page/team-page?Team=303002&fromId=249696",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a8fe3b31-5555-4a70-820b-bb59e79bce97.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "9 dates, Sep 14 - Oct 26",
-      "nextDate": "2026-09-14",
-      "dates": [
-        "2026-09-14",
-        "2026-09-23",
-        "2026-09-28",
-        "2026-09-30",
-        "2026-10-05",
-        "2026-10-14",
-        "2026-10-19",
-        "2026-10-21",
-        "2026-10-26"
-      ],
-      "occurrences": 9
-    },
-    {
-      "id": "ev-wayne-toddler-storytime-ages-2-3-years-67d052",
-      "name": "Toddler Storytime (Ages 2 - 3 years)",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "kids",
-        "learning",
-        "lifestyle"
-      ],
-      "shortDescription": "Ages 2 - 3 years - Winsor Room Stories, songs, and movement activities to help your young child engage with literature in a safe, social setting.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-09-14",
-      "endDate": "2026-10-08",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17420195",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fe5023d6-7e53-42a2-b2aa-b93e19cac158.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Thu, Sep 14 - Oct 8",
-      "nextDate": "2026-09-14",
-      "dates": [
-        "2026-09-14",
-        "2026-09-17",
-        "2026-09-21",
-        "2026-09-24",
-        "2026-09-28",
-        "2026-10-01",
-        "2026-10-08"
-      ],
-      "occurrences": 7
-    },
-    {
-      "id": "ev-newtown-square-volleyball-jv-v-perkiomen-781d22",
-      "name": "Volleyball - JV v Perkiomen",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Volleyball - JV v Perkiomen",
-      "address": "O'Neill Gym, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/41303adc-6311-419e-8756-cc69b17d8c41.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Sep 14",
-      "nextDate": "2026-09-14",
-      "dates": [
-        "2026-09-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-volleyball-varsity-v-perkiomen-271343",
-      "name": "Volleyball - Varsity v Perkiomen",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Volleyball - Varsity v Perkiomen",
-      "address": "O'Neill Gym, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c0a9941a-c1ec-4e56-aed9-a08e58729f67.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Sep 14",
-      "nextDate": "2026-09-14",
-      "dates": [
-        "2026-09-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-volleyball-ms-a-sch-e5478d",
-      "name": "Volleyball MS A @ SCH",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Volleyball MS A @ SCH at Springside Chestnut Hill Academy in Newtown Square.",
-      "address": "Springside Chestnut Hill Academy, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/41303adc-6311-419e-8756-cc69b17d8c41.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Sep 14",
-      "nextDate": "2026-09-14",
-      "dates": [
-        "2026-09-14"
-      ],
-      "occurrences": 1
+      "occurrences": 47
     },
     {
       "id": "ev-villanova-belly-dance-class-at-the-willows-mansi-606098",
@@ -1199,6 +311,45 @@
       "website": "https://delcolibraries.libcal.com/event/17420359",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/955a11c5-f359-4a4f-917f-e530d05928b3.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Sep 15",
+      "nextDate": "2026-09-15",
+      "dates": [
+        "2026-09-15"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-ms-musical-auditions-551020",
+      "name": "MS Musical Auditions",
+      "category": "events",
+      "subcategories": [
+        "musical",
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "MS Musical Auditions at Theater - Carrafiell Theater in Newtown Square.",
+      "address": "Theater - Carrafiell Theater, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-15",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f30029a8-7fc0-480c-9eac-737765fc32d9.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -3042,6 +2193,53 @@
         "2027-03-11"
       ],
       "occurrences": 26
+    },
+    {
+      "id": "ev-wayne-toddler-storytime-ages-2-3-years-67d052",
+      "name": "Toddler Storytime (Ages 2 - 3 years)",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "kids",
+        "learning",
+        "lifestyle"
+      ],
+      "shortDescription": "Ages 2 - 3 years - Winsor Room Stories, songs, and movement activities to help your young child engage with literature in a safe, social setting.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-09-17",
+      "endDate": "2026-10-08",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17420040",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fe5023d6-7e53-42a2-b2aa-b93e19cac158.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mon, Thu, Sep 17 - Oct 8",
+      "nextDate": "2026-09-17",
+      "dates": [
+        "2026-09-17",
+        "2026-09-21",
+        "2026-09-24",
+        "2026-09-28",
+        "2026-10-01",
+        "2026-10-08"
+      ],
+      "occurrences": 6
     },
     {
       "id": "ev-chester-widener-pride-women-s-volleyball-vs-muhl-724488",
@@ -5572,6 +4770,60 @@
       "occurrences": 1
     },
     {
+      "id": "ev-havertown-delaware-county-camera-club-meeting-64c172",
+      "name": "Delaware County Camera Club Meeting",
+      "category": "events",
+      "subcategories": [
+        "visual-arts"
+      ],
+      "shortDescription": ". Founded in 1937, the club offers a space for local photographers to connect, learn, and showcase their work. Visit delcocameraclub.org for more information.",
+      "address": "Trinity Lutheran Church, Havertown, PA",
+      "town": "Havertown",
+      "lat": 39.972622,
+      "lng": -75.316142,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-21",
+      "endDate": "2027-03-08",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "http://www.delcocameraclub.org",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b15ba93f-e46c-4836-a2f4-7d636c24ab78.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mondays, Sep 21 - Mar 8",
+      "nextDate": "2026-09-21",
+      "dates": [
+        "2026-09-21",
+        "2026-09-28",
+        "2026-10-12",
+        "2026-10-19",
+        "2026-10-26",
+        "2026-11-09",
+        "2026-11-16",
+        "2026-11-23",
+        "2026-11-30",
+        "2027-01-11",
+        "2027-01-18",
+        "2027-01-25",
+        "2027-02-01",
+        "2027-02-08",
+        "2027-02-15",
+        "2027-02-22",
+        "2027-03-01",
+        "2027-03-08"
+      ],
+      "occurrences": 18
+    },
+    {
       "id": "ev-newtown-square-golf-varsity-boys-v-st-joes-prep-39379d",
       "name": "Golf - Varsity Boys v St. Joes Prep @ Merion West",
       "category": "events",
@@ -5608,6 +4860,149 @@
         "2026-09-21"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-glenolden-monday-trivia-night-at-the-fainting-go-c68d01",
+      "name": "Monday Trivia Night at The Fainting Goat (Glenolden - Delaware County",
+      "category": "events",
+      "subcategories": [
+        "animals",
+        "destinations",
+        "farms",
+        "games"
+      ],
+      "shortDescription": "Monday Night Trivia Starts at 7pm at the Fainting Goat in Glenolden, PA. $50 gift card for 1st Place team and $25 for 2nd Place.",
+      "address": "The Fainting Goat Bar and Restaurant, Glenolden, PA",
+      "town": "Glenolden",
+      "lat": 39.903658,
+      "lng": -75.29411,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-21",
+      "endDate": "2026-12-28",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/monday-trivia-night-at-the-fainting-goat-glenolden-delaware-county-pa-tickets-1106985927709",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QD52Na3--EGn6QKh_-aT8g.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mondays, Sep 21 - Dec 28",
+      "nextDate": "2026-09-21",
+      "dates": [
+        "2026-09-21",
+        "2026-09-28",
+        "2026-10-05",
+        "2026-10-12",
+        "2026-10-19",
+        "2026-10-26",
+        "2026-11-02",
+        "2026-11-09",
+        "2026-11-16",
+        "2026-11-23",
+        "2026-11-30",
+        "2026-12-07",
+        "2026-12-14",
+        "2026-12-21",
+        "2026-12-28"
+      ],
+      "occurrences": 15
+    },
+    {
+      "id": "ev-bryn-mawr-one-time-classes-for-students-with-dis-c24cd1",
+      "name": "One Time Classes For Students With Disabilities",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "special-audience",
+        "visual-arts"
+      ],
+      "shortDescription": "This class for students with disabilities will be flexible depending on the students' desires, sensory preferences, and interest levels.",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-28",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154447/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IK04RSbO2UapiFtqzK6Oyw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mondays, Sep 21 - Sep 28",
+      "nextDate": "2026-09-21",
+      "dates": [
+        "2026-09-21",
+        "2026-09-28"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "ev-wayne-sprouts-a-student-led-botany-course-b15e98",
+      "name": "Sprouts: A Student-Led Botany Course",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "classes",
+        "learning",
+        "special-audience"
+      ],
+      "shortDescription": "Winsor Room - Registration required Grades 1st-5th Led by students from The Baldwin School and Conestoga High School, the Sprouts course is a botany-based,...",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-21",
+      "endDate": "2026-11-23",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17420320",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7c0541b1-573c-44ea-a228-c018d23d6096.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mondays, Sep 21 - Nov 23",
+      "nextDate": "2026-09-21",
+      "dates": [
+        "2026-09-21",
+        "2026-09-28",
+        "2026-10-05",
+        "2026-10-26",
+        "2026-11-02",
+        "2026-11-09",
+        "2026-11-16",
+        "2026-11-23"
+      ],
+      "occurrences": 8
     },
     {
       "id": "ev-swarthmore-swarthmore-college-women-s-soccer-vs-bca52f",
@@ -6454,6 +5849,54 @@
         "2026-09-23"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-bryn-mawr-tennis-middle-school-a-5aaffe",
+      "name": "Tennis - Middle School A",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "special-audience",
+        "sports"
+      ],
+      "shortDescription": "Tennis - Middle School A at The Agnes Irwin School in Bryn Mawr.",
+      "address": "The Agnes Irwin School, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.028689,
+      "lng": -75.350103,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-23",
+      "endDate": "2026-10-26",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-801-1869",
+      "website": "https://www.baldwinschool.org/page/team-page?Team=303002&fromId=249696",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a8fe3b31-5555-4a70-820b-bb59e79bce97.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "8 dates, Sep 23 - Oct 26",
+      "nextDate": "2026-09-23",
+      "dates": [
+        "2026-09-23",
+        "2026-09-28",
+        "2026-09-30",
+        "2026-10-05",
+        "2026-10-14",
+        "2026-10-19",
+        "2026-10-21",
+        "2026-10-26"
+      ],
+      "occurrences": 8
     },
     {
       "id": "ev-chester-widener-pride-women-s-volleyball-vs-hood-a5f45f",
@@ -10006,6 +9449,48 @@
         "2026-10-01"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-girls-soccer-team-dinner-23af5a",
+      "name": "Girls Soccer Team Dinner",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Girls Soccer Team Dinner at Tierney Dining Hall - Ott Alcove in Newtown Square.",
+      "address": "Tierney Dining Hall - Ott Alcove, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-01",
+      "endDate": "2026-11-02",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a93e9a02-c48d-41d9-ade1-09d562fd5404.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "3 dates, Oct 1 - Nov 2",
+      "nextDate": "2026-10-01",
+      "dates": [
+        "2026-10-01",
+        "2026-10-23",
+        "2026-11-02"
+      ],
+      "occurrences": 3
     },
     {
       "id": "ev-media-keep-the-change-757203",
@@ -13921,6 +13406,82 @@
         "2026-11-02"
       ],
       "occurrences": 2
+    },
+    {
+      "id": "ev-media-maker-mondays-e4e42e",
+      "name": "Maker Mondays",
+      "category": "events",
+      "subcategories": [
+        "crafts"
+      ],
+      "shortDescription": "Maker Mondays at Parlor (Mansion) Room in Media.",
+      "address": "Parlor (Mansion) Room, Media, PA",
+      "town": "Media",
+      "lat": 39.920906,
+      "lng": -75.38843,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-12",
+      "endDate": "2026-12-14",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.mediaborough.com/calendar.aspx?EID=2720",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bd3a038a-7c16-4116-8ffd-2a210530e12a.medium.PNG",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mondays, Oct 12 - Dec 14",
+      "nextDate": "2026-10-12",
+      "dates": [
+        "2026-10-12",
+        "2026-11-09",
+        "2026-12-14"
+      ],
+      "occurrences": 3
+    },
+    {
+      "id": "ev-boothwyn-wilmington-women-s-connection-luncheon-37f6e9",
+      "name": "Wilmington Women's Connection Luncheon",
+      "category": "events",
+      "subcategories": [
+        "special-audience"
+      ],
+      "shortDescription": "We are having our annual Country Fair! The Fair will include a baked goods table, a craft table, and a silent auction of goods and services donated by local businesses.",
+      "address": "The Phoenix Ballroom, Boothwyn, PA",
+      "town": "Boothwyn",
+      "lat": 39.840342,
+      "lng": -75.440514,
+      "priceTier": 2,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-12",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://sites.google.com/view/wilmingtondewomensconnection/meetings",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5fd5f171-0df8-46a2-8c02-200168db467d.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mon, Oct 12",
+      "nextDate": "2026-10-12",
+      "dates": [
+        "2026-10-12"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-swarthmore-men-s-soccer-cairn-vs-penn-st-brandyw-f01095",
@@ -18908,6 +18469,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-newtown-square-boys-soccer-team-dinner-b9ee8a",
+      "name": "Boys Soccer Team Dinner",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Boys Soccer Team Dinner at Minnick Porch in Newtown Square.",
+      "address": "Minnick Porch, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-28",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a633282f-461d-4c6f-936c-5c1d7edb4319.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Oct 28",
+      "nextDate": "2026-10-28",
+      "dates": [
+        "2026-10-28"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-denver-alumni-social-5d0e7a",
       "name": "Denver Alumni Social",
       "category": "events",
@@ -22678,6 +22279,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-aldan-miracle-on-34th-street-431e1e",
+      "name": "Miracle on 34th Street",
+      "category": "events",
+      "subcategories": [
+        "christmas",
+        "faith",
+        "holiday",
+        "lifestyle"
+      ],
+      "shortDescription": "The holiday classic comes to life on stage!",
+      "address": "Colonial Playhouse, Aldan, PA",
+      "town": "Aldan",
+      "lat": 39.916243,
+      "lng": -75.294573,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-04",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://colonialplayhouse.net/miracle-34/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/sUZGwfmCmkeUcNCadXPf7w.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Dec 4",
+      "nextDate": "2026-12-04",
+      "dates": [
+        "2026-12-04"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-lansdowne-tommy-james-the-shondells-effec5",
       "name": "Tommy James & The Shondells",
       "category": "events",
@@ -24900,7 +24541,7 @@
       ],
       "hours": {},
       "startDate": "2027-03-11",
-      "endDate": "2027-03-12",
+      "endDate": "2027-03-13",
       "recurring": "none",
       "venueId": "",
       "phone": "",
@@ -24911,13 +24552,14 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Mar 11 - Mar 12",
+      "schedule": "Daily, Mar 11 - Mar 13",
       "nextDate": "2027-03-11",
       "dates": [
         "2027-03-11",
-        "2027-03-12"
+        "2027-03-12",
+        "2027-03-13"
       ],
-      "occurrences": 2
+      "occurrences": 3
     },
     {
       "id": "ev-aldan-agatha-christie-s-a-murder-is-announced-099f96",
@@ -24936,7 +24578,7 @@
       ],
       "hours": {},
       "startDate": "2027-03-12",
-      "endDate": "",
+      "endDate": "2027-03-13",
       "recurring": "none",
       "venueId": "",
       "phone": "",
@@ -24947,12 +24589,13 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Fri, Mar 12",
+      "schedule": "Daily, Mar 12 - Mar 13",
       "nextDate": "2027-03-12",
       "dates": [
-        "2027-03-12"
+        "2027-03-12",
+        "2027-03-13"
       ],
-      "occurrences": 1
+      "occurrences": 2
     },
     {
       "id": "ev-aldan-dividing-the-estate-5b210f",
@@ -24976,7 +24619,7 @@
       ],
       "hours": {},
       "startDate": "2027-03-12",
-      "endDate": "",
+      "endDate": "2027-03-13",
       "recurring": "none",
       "venueId": "",
       "phone": "",
@@ -24987,12 +24630,13 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Fri, Mar 12",
+      "schedule": "Daily, Mar 12 - Mar 13",
       "nextDate": "2027-03-12",
       "dates": [
-        "2027-03-12"
+        "2027-03-12",
+        "2027-03-13"
       ],
-      "occurrences": 1
+      "occurrences": 2
     },
     {
       "id": "ev-lansdowne-the-magical-music-of-harry-potter-live-1dd142",
