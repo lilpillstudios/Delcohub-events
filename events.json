@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "scraped_at": "2026-09-17T14:21:11.009400+00:00",
+  "scraped_at": "2026-09-18T13:41:01.760068+00:00",
   "horizon_days": 180,
   "event_count": 617,
   "listings": [
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-09-17",
+      "startDate": "2026-09-18",
       "endDate": "2026-10-31",
       "recurring": "none",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Sep 17 - Oct 31",
-      "nextDate": "2026-09-17",
+      "schedule": "Daily, Sep 18 - Oct 31",
+      "nextDate": "2026-09-18",
       "dates": [
-        "2026-09-17",
         "2026-09-18",
         "2026-09-19",
         "2026-09-20",
@@ -85,556 +84,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 45
-    },
-    {
-      "id": "ev-bryn-mawr-7-week-kids-course-7f1e01",
-      "name": "7-Week Kids Course",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "visual-arts"
-      ],
-      "shortDescription": "Our multi-week children’s courses meet once a week for 90 minutes.",
-      "address": "Blue Skies Pottery - Bryn Mawr, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-17",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/160855/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/buWuCIhzzEmGeH_nAk4T9g.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Sep 17",
-      "nextDate": "2026-09-17",
-      "dates": [
-        "2026-09-17"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-broomall-ai-and-dvava-2f8735",
-      "name": "AI and DVAVA",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Join DVAVA at Grace Lutheran Church in Broomall to learn about AI and volunteer management.",
-      "address": "Grace Lutheran Church, Broomall, PA",
-      "town": "Broomall",
-      "lat": 39.979941,
-      "lng": -75.345461,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-17",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/ai-and-dvava-tickets-1997157421610",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/527325e0-bf39-4087-aaed-4be83fdd13a4.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Sep 17",
-      "nextDate": "2026-09-17",
-      "dates": [
-        "2026-09-17"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-an-evening-with-jodi-picoult-fe6ae2",
-      "name": "An Evening with Jodi Picoult",
-      "category": "events",
-      "subcategories": [
-        "literary-arts"
-      ],
-      "shortDescription": "Main Point Books welcomes best-selling author Jodi Picoult",
-      "address": "Radnor Middle School, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042104,
-      "lng": -75.386006,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-17",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/an-evening-with-jodi-picoult-tickets-1991416252619",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gsslfvABjk2CTiXePYEhSw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Sep 17",
-      "nextDate": "2026-09-17",
-      "dates": [
-        "2026-09-17"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-belly-dance-class-at-the-willows-mansi-606098",
-      "name": "Belly Dance Class at the Willows Mansion",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "dance",
-        "learning",
-        "performing-arts"
-      ],
-      "shortDescription": "Join us for one of these fun & accessible belly dance classes taught by Amalia from Amalia Belly Dance!",
-      "address": "The Willows Mansion, Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.02232,
-      "lng": -75.394958,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-17",
-      "endDate": "2026-09-22",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/belly-dance-class-at-the-willows-mansion-registration-1993842494574",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RyMIg43hlU2YlIj8qwntOA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Sep 17 - Sep 22",
-      "nextDate": "2026-09-17",
-      "dates": [
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-19",
-        "2026-09-20",
-        "2026-09-21",
-        "2026-09-22"
-      ],
-      "occurrences": 6
-    },
-    {
-      "id": "ev-primos-delco-singles-at-jt-brewskis-30-50-c7afb4",
-      "name": "Delco Singles at JT Brewskis | 30-50",
-      "category": "events",
-      "subcategories": [
-        "special-audience"
-      ],
-      "shortDescription": "Ready to meet singles your age? Then come hang at JT Brewskis on July 18th and be ready to laugh, dance and connect!",
-      "address": "JT Brewskis 30, Primos, PA",
-      "town": "Primos",
-      "lat": 39.920724,
-      "lng": -75.29879,
-      "priceTier": 2,
-      "tags": [
-        "family",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-17",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/delco-singles-at-jt-brewskis-30-50-tickets-1991699924088",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Bu-gAUqeEECVw_nNHvpYrA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Sep 17",
-      "nextDate": "2026-09-17",
-      "dates": [
-        "2026-09-17"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-new-parents-welcome-reception-94e8ae",
-      "name": "New Parents' Welcome Reception",
-      "category": "events",
-      "subcategories": [
-        "lifestyle"
-      ],
-      "shortDescription": "New Parents' Welcome Reception",
-      "address": "Lowry House, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-17",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b8497639-d714-4385-b394-9a4818066fcb.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Sep 17",
-      "nextDate": "2026-09-17",
-      "dates": [
-        "2026-09-17"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
-      "name": "One Time Adult Wheel Class",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "visual-arts"
-      ],
-      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-17",
-      "endDate": "2026-09-27",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154443/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "8 dates, Sep 17 - Sep 27",
-      "nextDate": "2026-09-17",
-      "dates": [
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-19",
-        "2026-09-20",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-26",
-        "2026-09-27"
-      ],
-      "occurrences": 8
-    },
-    {
-      "id": "ev-wayne-preschool-storytime-craft-ages-3-5-years-7202f3",
-      "name": "Preschool Storytime & Craft (Ages 3-5 years)",
-      "category": "events",
-      "subcategories": [
-        "crafts",
-        "kids",
-        "literary-arts",
-        "music"
-      ],
-      "shortDescription": "Ages 3 - 5 years Winsor Room - Registration required Stories, songs, and movement activities to help your young child engage with literature in a safe, social setting.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-09-17",
-      "endDate": "2026-10-08",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17420476",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c537856d-867f-43e4-8bdd-b49297ef9405.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thursdays, Sep 17 - Oct 8",
-      "nextDate": "2026-09-17",
-      "dates": [
-        "2026-09-17",
-        "2026-09-24",
-        "2026-10-01",
-        "2026-10-08"
-      ],
-      "occurrences": 4
-    },
-    {
-      "id": "ev-wayne-sidecar-the-modbeats-at-118-north-eca4f0",
-      "name": "Sidecar + The Modbeats at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Sidecar + The Modbeats at 118 North with Drew Lawrence (of Seetrees) Thursday, September 17, 2026 Doors: 6:00 PM | Show: 8:00 PM 21+ Unless Accompanied by a Parent or...",
-      "address": "Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-17",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1340093084766058/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Qbi7KWwiFEKlxsuCg8AEAw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Sep 17",
-      "nextDate": "2026-09-17",
-      "dates": [
-        "2026-09-17"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-drexel-hill-thursday-karaoke-at-casey-s-restaura-4579c1",
-      "name": "Thursday Karaoke at Casey's Restaurant (Drexel Hill - Delaware County",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink",
-        "open-mic",
-        "performing-arts"
-      ],
-      "shortDescription": "Sing your heart out at Casey's Restaurant every Thursday night with some karaoke fun in Drexel Hill, Delaware County, PA! Starts at 8pm.",
-      "address": "Casey's Saloon & Restaurant, Drexel Hill, PA",
-      "town": "Drexel Hill",
-      "lat": 39.960126,
-      "lng": -75.288562,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-17",
-      "endDate": "2027-03-04",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/thursday-karaoke-at-caseys-restaurant-drexel-hill-delaware-county-pa-tickets-1061653848239",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pgpVzPSpoUaADfBllel6lw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thursdays, Sep 17 - Mar 4",
-      "nextDate": "2026-09-17",
-      "dates": [
-        "2026-09-17",
-        "2026-09-24",
-        "2026-10-01",
-        "2026-10-08",
-        "2026-10-15",
-        "2026-10-22",
-        "2026-10-29",
-        "2026-11-05",
-        "2026-11-12",
-        "2026-11-19",
-        "2026-11-26",
-        "2026-12-03",
-        "2026-12-10",
-        "2026-12-17",
-        "2026-12-24",
-        "2026-12-31",
-        "2027-01-07",
-        "2027-01-14",
-        "2027-01-21",
-        "2027-01-28",
-        "2027-02-04",
-        "2027-02-11",
-        "2027-02-18",
-        "2027-02-25",
-        "2027-03-04"
-      ],
-      "occurrences": 25
-    },
-    {
-      "id": "ev-wayne-toddler-storytime-ages-2-3-years-67d052",
-      "name": "Toddler Storytime (Ages 2 - 3 years)",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "kids",
-        "learning",
-        "lifestyle"
-      ],
-      "shortDescription": "Ages 2 - 3 years - Winsor Room Stories, songs, and movement activities to help your young child engage with literature in a safe, social setting.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-09-17",
-      "endDate": "2026-10-08",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17420040",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fe5023d6-7e53-42a2-b2aa-b93e19cac158.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Thu, Sep 17 - Oct 8",
-      "nextDate": "2026-09-17",
-      "dates": [
-        "2026-09-17",
-        "2026-09-21",
-        "2026-09-24",
-        "2026-09-28",
-        "2026-10-01",
-        "2026-10-08"
-      ],
-      "occurrences": 6
-    },
-    {
-      "id": "ev-chester-widener-pride-women-s-volleyball-vs-muhl-724488",
-      "name": "Widener Pride: Women's Volleyball vs Muhlenberg",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Women's Volleyball vs Muhlenberg Streaming Video: https://gomacsports.tv/widenerpride/",
-      "address": "Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-17",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14540&amp;sport_id=13",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e669d12a-a6ec-4151-8c5f-9397f6aae3d7.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Sep 17",
-      "nextDate": "2026-09-17",
-      "dates": [
-        "2026-09-17"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-women-s-children-s-consignment-sale-by-the-cb36ad",
-      "name": "Women's & Children's Consignment Sale by The Saturday Club",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "fundraiser",
-        "kids",
-        "markets"
-      ],
-      "shortDescription": "Mark Your Calendars and Get Ready to Shop for a Cause!",
-      "address": "The Saturday Club, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.043474,
-      "lng": -75.3893,
-      "priceTier": 3,
-      "tags": [
-        "family",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-09-17",
-      "endDate": "2026-09-20",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://saturdayclub.org/clubevents/consignment/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ReYIoN4IZkGmgxJAm9RZ_A.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Sep 17 - Sep 20",
-      "nextDate": "2026-09-17",
-      "dates": [
-        "2026-09-17",
-        "2026-09-18",
-        "2026-09-19",
-        "2026-09-20"
-      ],
-      "occurrences": 4
+      "occurrences": 44
     },
     {
       "id": "ev-wayne-basic-cable-at-118-north-fb360f",
@@ -707,6 +157,49 @@
         "2026-09-18"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-villanova-belly-dance-class-at-the-willows-mansi-606098",
+      "name": "Belly Dance Class at the Willows Mansion",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "dance",
+        "learning",
+        "performing-arts"
+      ],
+      "shortDescription": "Join us for one of these fun & accessible belly dance classes taught by Amalia from Amalia Belly Dance!",
+      "address": "The Willows Mansion, Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.02232,
+      "lng": -75.394958,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-22",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/belly-dance-class-at-the-willows-mansion-registration-1993842494574",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RyMIg43hlU2YlIj8qwntOA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Sep 18 - Sep 22",
+      "nextDate": "2026-09-18",
+      "dates": [
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-21",
+        "2026-09-22"
+      ],
+      "occurrences": 5
     },
     {
       "id": "ev-chester-ceu-understanding-ketamine-assisted-psyc-91e008",
@@ -978,6 +471,50 @@
         "2026-09-18"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
+      "name": "One Time Adult Wheel Class",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "visual-arts"
+      ],
+      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-27",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154443/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "7 dates, Sep 18 - Sep 27",
+      "nextDate": "2026-09-18",
+      "dates": [
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20",
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-27"
+      ],
+      "occurrences": 7
     },
     {
       "id": "ev-villanova-saint-joseph-s-university-women-s-tenn-85fadf",
@@ -1368,6 +905,49 @@
         "2026-09-18"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-women-s-children-s-consignment-sale-by-the-cb36ad",
+      "name": "Women's & Children's Consignment Sale by The Saturday Club",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "fundraiser",
+        "kids",
+        "markets"
+      ],
+      "shortDescription": "Mark Your Calendars and Get Ready to Shop for a Cause!",
+      "address": "The Saturday Club, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.043474,
+      "lng": -75.3893,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-20",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://saturdayclub.org/clubevents/consignment/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ReYIoN4IZkGmgxJAm9RZ_A.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Sep 18 - Sep 20",
+      "nextDate": "2026-09-18",
+      "dates": [
+        "2026-09-18",
+        "2026-09-19",
+        "2026-09-20"
+      ],
+      "occurrences": 3
     },
     {
       "id": "ev-media-men-s-soccer-st-elizabeth-vs-penn-st-brand-ef3078",
@@ -2016,6 +1596,47 @@
       "website": "https://www.eventbrite.com/e/meet-a-live-red-tailed-hawk-eastern-screech-owl-and-african-lanner-falcon-tickets-1995336169195",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/FB1uu-pcfES_a4jXNfTUjQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Sep 19",
+      "nextDate": "2026-09-19",
+      "dates": [
+        "2026-09-19"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-media-music-beer-at-media-porch-fest-2a51f7",
+      "name": "Music & Beer at Media Porch Fest!",
+      "category": "events",
+      "subcategories": [
+        "beer",
+        "destinations",
+        "drinks",
+        "festival"
+      ],
+      "shortDescription": "Music & Beer at Media Porch Fest!",
+      "address": "Media, PA",
+      "town": "Media",
+      "lat": 39.919363,
+      "lng": -75.388347,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-09-19",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.mediaartscouncil.org/calendar/music-beer-at-media-porch-fest",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mErWf2kBIUmF9hgvcf6CHA.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -3354,6 +2975,52 @@
         "2026-09-21"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-toddler-storytime-ages-2-3-years-67d052",
+      "name": "Toddler Storytime (Ages 2 - 3 years)",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "kids",
+        "learning",
+        "lifestyle"
+      ],
+      "shortDescription": "Ages 2 - 3 years - Winsor Room Stories, songs, and movement activities to help your young child engage with literature in a safe, social setting.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-09-21",
+      "endDate": "2026-10-08",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17420196",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fe5023d6-7e53-42a2-b2aa-b93e19cac158.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mon, Thu, Sep 21 - Oct 8",
+      "nextDate": "2026-09-21",
+      "dates": [
+        "2026-09-21",
+        "2026-09-24",
+        "2026-09-28",
+        "2026-10-01",
+        "2026-10-08"
+      ],
+      "occurrences": 5
     },
     {
       "id": "ev-media-men-s-soccer-haverford-vs-penn-st-brandywi-d6c6fb",
@@ -4831,6 +4498,50 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-preschool-storytime-craft-ages-3-5-years-7202f3",
+      "name": "Preschool Storytime & Craft (Ages 3-5 years)",
+      "category": "events",
+      "subcategories": [
+        "crafts",
+        "kids",
+        "literary-arts",
+        "music"
+      ],
+      "shortDescription": "Ages 3 - 5 years Winsor Room - Registration required Stories, songs, and movement activities to help your young child engage with literature in a safe, social setting.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-09-24",
+      "endDate": "2026-10-08",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17420477",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c537856d-867f-43e4-8bdd-b49297ef9405.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thursdays, Sep 24 - Oct 8",
+      "nextDate": "2026-09-24",
+      "dates": [
+        "2026-09-24",
+        "2026-10-01",
+        "2026-10-08"
+      ],
+      "occurrences": 3
+    },
+    {
       "id": "ev-lansdowne-randy-travis-a9131b",
       "name": "Randy Travis",
       "category": "events",
@@ -5059,6 +4770,114 @@
         "2026-09-24"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-drexel-hill-thursday-karaoke-at-casey-s-restaura-4579c1",
+      "name": "Thursday Karaoke at Casey's Restaurant (Drexel Hill - Delaware County",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink",
+        "open-mic",
+        "performing-arts"
+      ],
+      "shortDescription": "Sing your heart out at Casey's Restaurant every Thursday night with some karaoke fun in Drexel Hill, Delaware County, PA! Starts at 8pm.",
+      "address": "Casey's Saloon & Restaurant, Drexel Hill, PA",
+      "town": "Drexel Hill",
+      "lat": 39.960126,
+      "lng": -75.288562,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-24",
+      "endDate": "2027-03-11",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/thursday-karaoke-at-caseys-restaurant-drexel-hill-delaware-county-pa-tickets-1061653848239",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pgpVzPSpoUaADfBllel6lw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thursdays, Sep 24 - Mar 11",
+      "nextDate": "2026-09-24",
+      "dates": [
+        "2026-09-24",
+        "2026-10-01",
+        "2026-10-08",
+        "2026-10-15",
+        "2026-10-22",
+        "2026-10-29",
+        "2026-11-05",
+        "2026-11-12",
+        "2026-11-19",
+        "2026-11-26",
+        "2026-12-03",
+        "2026-12-10",
+        "2026-12-17",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07",
+        "2027-01-14",
+        "2027-01-21",
+        "2027-01-28",
+        "2027-02-04",
+        "2027-02-11",
+        "2027-02-18",
+        "2027-02-25",
+        "2027-03-04",
+        "2027-03-11"
+      ],
+      "occurrences": 25
+    },
+    {
+      "id": "ev-villanova-villanova-theatre-presents-the-moors-f94750",
+      "name": "Villanova Theatre Presents The Moors",
+      "category": "events",
+      "subcategories": [
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "On the desolate English moors, a household of women guards its secrets with the same quiet care it devotes to everything else.",
+      "address": "The Mullen Center for the Performing Arts at Villanova University - Court Theatre, Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.036706,
+      "lng": -75.344557,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-24",
+      "endDate": "2026-10-04",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://villanovatheatre.org/the-moors/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/GiDeR7SDGkmE5RTOl_xOpQ.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "8 dates, Sep 24 - Oct 4",
+      "nextDate": "2026-09-24",
+      "dates": [
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-27",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04"
+      ],
+      "occurrences": 8
     },
     {
       "id": "ev-chester-an-evening-with-steve-trevi-o-1a5c06",
@@ -6464,6 +6283,44 @@
       "website": "https://www.bandsintown.com/e/107955307?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/guKr3FCyS0WPD1M-ji31iw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Sep 27",
+      "nextDate": "2026-09-27",
+      "dates": [
+        "2026-09-27"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-media-levate-piano-trio-da0015",
+      "name": "Levate Piano Trio",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Mozart, Divertimento in Bb Piazzolla, Four Seasons Mendelssohn, Piano Trio in d minor Classically trained musicians excited to share their mastery of violin, cello, and...",
+      "address": "St. Mary Magdalene Church, Media, PA",
+      "town": "Media",
+      "lat": 39.946343,
+      "lng": -75.408261,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-27",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://levatetrio.com/events/vq68ggndeauegbgak7wi2e8ic8hmyb",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IAb1ajeHdkSHC_bP8bSaJQ.medium.jpg",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -13189,6 +13046,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wallingford-c-pride-homecoming-after-party-2026-b4690a",
+      "name": "C-Pride Homecoming After-Party 2026",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "markets",
+        "special-audience"
+      ],
+      "shortDescription": "Vendors Please complete the Vendor Application to apply to be a vendor at the C-Pride Homecoming After-Party 2026.",
+      "address": "Chester Park, Wallingford, PA",
+      "town": "Wallingford",
+      "lat": 39.874538,
+      "lng": -75.373548,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-17",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.chestercity.com/event/c-pride-homecoming-after-party-2026/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/08e27546-cb90-4eb6-9150-6c0c7d7bf89b.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 17",
+      "nextDate": "2026-10-17",
+      "dates": [
+        "2026-10-17"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-eapa-harvest-day-b7fd42",
       "name": "EAPA Harvest Day",
       "category": "events",
@@ -13608,6 +13505,47 @@
         "2026-10-17"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-wicked-elizabeth-wilson-460fac",
+      "name": "Wicked Elizabeth Wilson",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Experience the haunting tale of a local crime and tragic loss.",
+      "address": "Colonial Pennsylvania Farmstead, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.968636,
+      "lng": -75.453585,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-24",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/wicked-elizabeth-wilson-tickets-1999267200014",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RacHoAXvG0uJ3_SubAHFag.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Oct 17 - Oct 24",
+      "nextDate": "2026-10-17",
+      "dates": [
+        "2026-10-17",
+        "2026-10-18",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24"
+      ],
+      "occurrences": 8
     },
     {
       "id": "ev-chester-widener-pride-field-hockey-vs-hood-b1975b",
@@ -21968,6 +21906,45 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chester-luther-relives-ugo-f66b92",
+      "name": "Luther ReLives & UGO",
+      "category": "events",
+      "subcategories": [
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Luther Vandross remains one of the greatest vocalists of all time, and his music continues to inspire audiences worldwide.",
+      "address": "Event Center at Harrah's Philadelphia, Chester, PA",
+      "town": "Chester",
+      "lat": 39.850518,
+      "lng": -75.349234,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-19",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/m5tNFjUH_0WU0soCSgZ05A.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Dec 19",
+      "nextDate": "2026-12-19",
+      "dates": [
+        "2026-12-19"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-media-winter-solstice-83ae05",
       "name": "Winter Solstice",
       "category": "events",
@@ -23434,6 +23411,44 @@
       "nextDate": "2027-03-06",
       "dates": [
         "2027-03-06"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-ms-spring-play-performance-06fe10",
+      "name": "MS Spring Play Performance",
+      "category": "events",
+      "subcategories": [
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "MS Spring Play Performance",
+      "address": "Black Box-Ridgway Theater, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-11",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2359805a-4335-4631-9bdd-3b9f717c613d.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Mar 11",
+      "nextDate": "2027-03-11",
+      "dates": [
+        "2027-03-11"
       ],
       "occurrences": 1
     },
