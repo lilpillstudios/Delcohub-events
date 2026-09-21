@@ -1,89 +1,9 @@
 {
   "version": 1,
-  "scraped_at": "2026-09-20T13:37:24.796343+00:00",
+  "scraped_at": "2026-09-21T15:57:40.837572+00:00",
   "horizon_days": 180,
-  "event_count": 581,
+  "event_count": 571,
   "listings": [
-    {
-      "id": "ev-wayne-remember-the-ladies-film-screening-the-six-c30ccd",
-      "name": "'Remember The Ladies' Film Screening: THE SIX TRIPLE EIGHT (2024)",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "film",
-        "special-audience",
-        "visual-arts"
-      ],
-      "shortDescription": "'Remember The Ladies' Film Screening: THE SIX TRIPLE EIGHT (2024) Cosponsored by Delaware County Department of Military and Veterans Affairs, Radnor Memorial Library,...",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "historic"
-      ],
-      "hours": {},
-      "startDate": "2026-09-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17341291",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4f345f40-1857-4acd-967a-3885548da6fe.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Sep 20",
-      "nextDate": "2026-09-20",
-      "dates": [
-        "2026-09-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-2026-fall-members-juried-exhibition-recept-1961d0",
-      "name": "2026 Fall Members Juried Exhibition: Reception & Awards Ceremony",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "visual-arts"
-      ],
-      "shortDescription": "Each year Wayne Art Center celebrates the outstanding artistic talent and creativity of our members during WAC's annual Fall Members Juried Exhibition.WAC's 2026 Fall...",
-      "address": "Wayne Art Center, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.03894,
-      "lng": -75.394446,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://wayneart.org/events/2128/2026-fall-members-juried-exhibition-reception-awards-ceremony",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/YOD3ZbElsU-BFRw5MHMJww.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Sep 20",
-      "nextDate": "2026-09-20",
-      "dates": [
-        "2026-09-20"
-      ],
-      "occurrences": 1
-    },
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
       "name": "2026 Gene Capaldi Lens on Litter Photo Contest",
@@ -104,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-09-20",
+      "startDate": "2026-09-21",
       "endDate": "2026-10-31",
       "recurring": "none",
       "venueId": "",
@@ -116,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Sep 20 - Oct 31",
-      "nextDate": "2026-09-20",
+      "schedule": "Daily, Sep 21 - Oct 31",
+      "nextDate": "2026-09-21",
       "dates": [
-        "2026-09-20",
         "2026-09-21",
         "2026-09-22",
         "2026-09-23",
@@ -162,7 +81,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 42
+      "occurrences": 41
     },
     {
       "id": "ev-villanova-belly-dance-class-at-the-willows-mansi-606098",
@@ -184,7 +103,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-09-20",
+      "startDate": "2026-09-21",
       "endDate": "2026-09-22",
       "recurring": "none",
       "venueId": "",
@@ -196,409 +115,13 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Sep 20 - Sep 22",
-      "nextDate": "2026-09-20",
+      "schedule": "Daily, Sep 21 - Sep 22",
+      "nextDate": "2026-09-21",
       "dates": [
-        "2026-09-20",
         "2026-09-21",
         "2026-09-22"
       ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-newtown-square-field-hockey-varsity-1e9a67",
-      "name": "Field Hockey - Varsity",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Field Hockey - Varsity @ Max Preps",
-      "address": "Max Preps, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b04bdf65-d71d-4a5a-a43a-cf4f24a1e822.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Sep 20",
-      "nextDate": "2026-09-20",
-      "dates": [
-        "2026-09-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
-      "name": "One Time Adult Wheel Class",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "visual-arts"
-      ],
-      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-20",
-      "endDate": "2026-09-27",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154443/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "5 dates, Sep 20 - Sep 27",
-      "nextDate": "2026-09-20",
-      "dates": [
-        "2026-09-20",
-        "2026-09-24",
-        "2026-09-25",
-        "2026-09-26",
-        "2026-09-27"
-      ],
-      "occurrences": 5
-    },
-    {
-      "id": "ev-chester-philadelphia-union-ii-vs-new-york-city-f-566773",
-      "name": "Philadelphia Union II vs. New York City FC 2",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "music",
-        "performing-arts",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Philadelphia Union II vs. New York City FC 2 at Subaru Park in Chester.",
-      "address": "Subaru Park, Chester, PA",
-      "town": "Chester",
-      "lat": 39.832686,
-      "lng": -75.378395,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-859-3100",
-      "website": "",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/432488c8-9874-4a5e-9175-7e2bbc2e65cf.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Sep 20",
-      "nextDate": "2026-09-20",
-      "dates": [
-        "2026-09-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-saint-joseph-s-university-women-s-tenn-85fadf",
-      "name": "Saint Joseph's University Women's Tennis vs Villanova/Delaware Invitational",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Saint Joseph's University Women's Tennis vs Villanova/Delaware Invitational\\n",
-      "address": "Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03176,
-      "lng": -75.34903,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://sjuhawks.com/calendar.aspx?game_id=20253&sport_id=18",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/04fa80b1-2d66-4998-85f4-d6341970bb46.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Sep 20",
-      "nextDate": "2026-09-20",
-      "dates": [
-        "2026-09-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-smiles-other-coping-mechanisms-book-rele-77d284",
-      "name": "Smiles & Other Coping Mechanisms Book Release",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "health-wellness",
-        "lifestyle",
-        "literary-arts"
-      ],
-      "shortDescription": "Official release event for S.A.W. Sounds book “Smiles & Other Coping Mechanisms: Poetry Loves My Randomness”.",
-      "address": "R&R Paradise Banquet Hall, Chester, PA",
-      "town": "Chester",
-      "lat": 39.855001,
-      "lng": -75.361632,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/smiles-other-coping-mechanisms-book-release-tickets-1997880514400",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_oKs8BcU2UmZ8oSOBwylCg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Sep 20",
-      "nextDate": "2026-09-20",
-      "dates": [
-        "2026-09-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-the-tano-jones-revelry-performs-live-at-11-fe3880",
-      "name": "The Tano Jones Revelry Performs Live At 118 North",
-      "category": "events",
-      "subcategories": [
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Tano Jones Revelry will bring their Midwest storyteller soul music to 118 North in Wayne, PA on Sunday, September 20, 2026.",
-      "address": "118 North, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ywMpeTteTU2gOrvpph_G8A.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Sep 20",
-      "nextDate": "2026-09-20",
-      "dates": [
-        "2026-09-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-v-bwp26-water-polo-boys-varsity-b-6085c3",
-      "name": "V-BWP26: Water Polo - Boys Varsity @ Battle of the",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "V-BWP26: Water Polo - Boys Varsity @ Battle of the",
-      "address": "The United States Naval Academy, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f9de544e-a936-4ae7-96c0-fc7f0d2460e7.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Sep 20",
-      "nextDate": "2026-09-20",
-      "dates": [
-        "2026-09-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-villanova-university-women-s-soccer-vs-861295",
-      "name": "Villanova University Women's Soccer vs Princeton University",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Villanova University Women's Soccer vs Princeton University",
-      "address": "Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03176,
-      "lng": -75.34903,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanova.com/calendar.aspx?game_id=17774&amp;sport_id=18",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/890273d5-60d0-444d-b73a-b8cd330e83a8.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Sep 20",
-      "nextDate": "2026-09-20",
-      "dates": [
-        "2026-09-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-wally-smith-organ-trio-at-118-north-fee76e",
-      "name": "Wally Smith Organ Trio at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Wally Smith Organ Trio at 118 North Sunday, September 20, 2026 Doors & Show: 4:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1360003939553134/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cB7Pj-BHfU6dcvbFweIERw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Sep 20",
-      "nextDate": "2026-09-20",
-      "dates": [
-        "2026-09-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-women-s-children-s-consignment-sale-by-the-cb36ad",
-      "name": "Women's & Children's Consignment Sale by The Saturday Club",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "fundraiser",
-        "kids",
-        "markets"
-      ],
-      "shortDescription": "Mark Your Calendars and Get Ready to Shop for a Cause!",
-      "address": "The Saturday Club, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.043474,
-      "lng": -75.3893,
-      "priceTier": 3,
-      "tags": [
-        "family",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-09-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://saturdayclub.org/clubevents/consignment/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ReYIoN4IZkGmgxJAm9RZ_A.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Sep 20",
-      "nextDate": "2026-09-20",
-      "dates": [
-        "2026-09-20"
-      ],
-      "occurrences": 1
+      "occurrences": 2
     },
     {
       "id": "ev-havertown-delaware-county-camera-club-meeting-64c172",
@@ -619,7 +142,7 @@
       ],
       "hours": {},
       "startDate": "2026-09-21",
-      "endDate": "2027-03-08",
+      "endDate": "2027-03-15",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -630,7 +153,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Mondays, Sep 21 - Mar 8",
+      "schedule": "Mondays, Sep 21 - Mar 15",
       "nextDate": "2026-09-21",
       "dates": [
         "2026-09-21",
@@ -650,9 +173,10 @@
         "2027-02-15",
         "2027-02-22",
         "2027-03-01",
-        "2027-03-08"
+        "2027-03-08",
+        "2027-03-15"
       ],
-      "occurrences": 18
+      "occurrences": 19
     },
     {
       "id": "ev-newtown-square-golf-varsity-boys-v-st-joes-prep-39379d",
@@ -1218,7 +742,7 @@
       ],
       "hours": {},
       "startDate": "2026-09-22",
-      "endDate": "2027-03-09",
+      "endDate": "2027-03-16",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -1229,7 +753,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Tuesdays, Sep 22 - Mar 9",
+      "schedule": "Tuesdays, Sep 22 - Mar 16",
       "nextDate": "2026-09-22",
       "dates": [
         "2026-09-22",
@@ -1256,9 +780,10 @@
         "2027-02-16",
         "2027-02-23",
         "2027-03-02",
-        "2027-03-09"
+        "2027-03-09",
+        "2027-03-16"
       ],
-      "occurrences": 25
+      "occurrences": 26
     },
     {
       "id": "ev-bryn-mawr-parents-association-mahjong-open-play-f4fb55",
@@ -1472,7 +997,7 @@
       ],
       "hours": {},
       "startDate": "2026-09-22",
-      "endDate": "2027-03-09",
+      "endDate": "2027-03-16",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -1483,7 +1008,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Tuesdays, Sep 22 - Mar 9",
+      "schedule": "Tuesdays, Sep 22 - Mar 16",
       "nextDate": "2026-09-22",
       "dates": [
         "2026-09-22",
@@ -1510,9 +1035,10 @@
         "2027-02-16",
         "2027-02-23",
         "2027-03-02",
-        "2027-03-09"
+        "2027-03-09",
+        "2027-03-16"
       ],
-      "occurrences": 25
+      "occurrences": 26
     },
     {
       "id": "ev-villanova-villanova-university-men-s-soccer-vs-d-72e721",
@@ -2397,6 +1923,47 @@
       "occurrences": 1
     },
     {
+      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
+      "name": "One Time Adult Wheel Class",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "visual-arts"
+      ],
+      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-27",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154443/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Sep 24 - Sep 27",
+      "nextDate": "2026-09-24",
+      "dates": [
+        "2026-09-24",
+        "2026-09-25",
+        "2026-09-26",
+        "2026-09-27"
+      ],
+      "occurrences": 4
+    },
+    {
       "id": "ev-wayne-preschool-storytime-craft-ages-3-5-years-7202f3",
       "name": "Preschool Storytime & Craft (Ages 3-5 years)",
       "category": "events",
@@ -2692,7 +2259,7 @@
       ],
       "hours": {},
       "startDate": "2026-09-24",
-      "endDate": "2027-03-11",
+      "endDate": "2027-03-18",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -2703,7 +2270,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Thursdays, Sep 24 - Mar 11",
+      "schedule": "Thursdays, Sep 24 - Mar 18",
       "nextDate": "2026-09-24",
       "dates": [
         "2026-09-24",
@@ -2730,9 +2297,10 @@
         "2027-02-18",
         "2027-02-25",
         "2027-03-04",
-        "2027-03-11"
+        "2027-03-11",
+        "2027-03-18"
       ],
-      "occurrences": 25
+      "occurrences": 26
     },
     {
       "id": "ev-villanova-villanova-theatre-presents-the-moors-f94750",
@@ -21798,8 +21366,8 @@
       ],
       "hours": {},
       "startDate": "2027-03-12",
-      "endDate": "2027-03-13",
-      "recurring": "none",
+      "endDate": "2027-03-19",
+      "recurring": "weekly",
       "venueId": "",
       "phone": "",
       "website": "https://colonialplayhouse.net/a-murder-is-announced/",
@@ -21809,11 +21377,11 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Mar 12 - Mar 13",
+      "schedule": "Fridays, Mar 12 - Mar 19",
       "nextDate": "2027-03-12",
       "dates": [
         "2027-03-12",
-        "2027-03-13"
+        "2027-03-19"
       ],
       "occurrences": 2
     },
@@ -21839,8 +21407,8 @@
       ],
       "hours": {},
       "startDate": "2027-03-12",
-      "endDate": "2027-03-13",
-      "recurring": "none",
+      "endDate": "2027-03-19",
+      "recurring": "weekly",
       "venueId": "",
       "phone": "",
       "website": "https://colonialplayhouse.net/dividing-estate/",
@@ -21850,11 +21418,11 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Mar 12 - Mar 13",
+      "schedule": "Fridays, Mar 12 - Mar 19",
       "nextDate": "2027-03-12",
       "dates": [
         "2027-03-12",
-        "2027-03-13"
+        "2027-03-19"
       ],
       "occurrences": 2
     },
@@ -21969,6 +21537,41 @@
       "dates": [
         "2027-03-16"
       ]
+    },
+    {
+      "id": "ev-newtown-square-scheduling-assemblies-for-rising-a2d88f",
+      "name": "Scheduling Assemblies for Rising 10,11 and 12th",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Scheduling Assemblies for Rising 10,11 and 12th",
+      "address": "Theater - Carrafiell Theater, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-16",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Mar 16",
+      "nextDate": "2027-03-16",
+      "dates": [
+        "2027-03-16"
+      ],
+      "occurrences": 1
     },
     {
       "id": "media-film-festival",
