@@ -1,9 +1,47 @@
 {
   "version": 1,
-  "scraped_at": "2026-09-21T15:57:40.837572+00:00",
+  "scraped_at": "2026-09-22T14:05:53.931801+00:00",
   "horizon_days": 180,
-  "event_count": 571,
+  "event_count": 575,
   "listings": [
+    {
+      "id": "ev-media-men-s-soccer-haverford-vs-penn-st-brandywi-d6c6fb",
+      "name": "(Men's Soccer) Haverford vs. Penn St. Brandywine",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Men's Soccer: (Men's Soccer) Haverford vs. Penn St. Brandywine",
+      "address": "Brandywine Field, Media, PA",
+      "town": "Media",
+      "lat": 39.91678,
+      "lng": -75.38769,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-22",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "http://www.psubrandywineathletics.com/links/z3f0u2",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f5a7f77d-0c51-4a57-a1ba-4bad118eb6f1.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Sep 22",
+      "nextDate": "2026-09-22",
+      "dates": [
+        "2026-09-22"
+      ],
+      "occurrences": 1
+    },
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
       "name": "2026 Gene Capaldi Lens on Litter Photo Contest",
@@ -24,7 +62,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-09-21",
+      "startDate": "2026-09-22",
       "endDate": "2026-10-31",
       "recurring": "none",
       "venueId": "",
@@ -36,10 +74,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Sep 21 - Oct 31",
-      "nextDate": "2026-09-21",
+      "schedule": "Daily, Sep 22 - Oct 31",
+      "nextDate": "2026-09-22",
       "dates": [
-        "2026-09-21",
         "2026-09-22",
         "2026-09-23",
         "2026-09-24",
@@ -81,7 +118,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 41
+      "occurrences": 40
     },
     {
       "id": "ev-villanova-belly-dance-class-at-the-willows-mansi-606098",
@@ -103,375 +140,14 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-09-21",
-      "endDate": "2026-09-22",
+      "startDate": "2026-09-22",
+      "endDate": "",
       "recurring": "none",
       "venueId": "",
       "phone": "",
       "website": "https://www.eventbrite.com/e/belly-dance-class-at-the-willows-mansion-registration-1993842494574",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RyMIg43hlU2YlIj8qwntOA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Sep 21 - Sep 22",
-      "nextDate": "2026-09-21",
-      "dates": [
-        "2026-09-21",
-        "2026-09-22"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-havertown-delaware-county-camera-club-meeting-64c172",
-      "name": "Delaware County Camera Club Meeting",
-      "category": "events",
-      "subcategories": [
-        "visual-arts"
-      ],
-      "shortDescription": ". Founded in 1937, the club offers a space for local photographers to connect, learn, and showcase their work. Visit delcocameraclub.org for more information.",
-      "address": "Trinity Lutheran Church, Havertown, PA",
-      "town": "Havertown",
-      "lat": 39.972622,
-      "lng": -75.316142,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-21",
-      "endDate": "2027-03-15",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "http://www.delcocameraclub.org",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b15ba93f-e46c-4836-a2f4-7d636c24ab78.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mondays, Sep 21 - Mar 15",
-      "nextDate": "2026-09-21",
-      "dates": [
-        "2026-09-21",
-        "2026-09-28",
-        "2026-10-12",
-        "2026-10-19",
-        "2026-10-26",
-        "2026-11-09",
-        "2026-11-16",
-        "2026-11-23",
-        "2026-11-30",
-        "2027-01-11",
-        "2027-01-18",
-        "2027-01-25",
-        "2027-02-01",
-        "2027-02-08",
-        "2027-02-15",
-        "2027-02-22",
-        "2027-03-01",
-        "2027-03-08",
-        "2027-03-15"
-      ],
-      "occurrences": 19
-    },
-    {
-      "id": "ev-newtown-square-golf-varsity-boys-v-st-joes-prep-39379d",
-      "name": "Golf - Varsity Boys v St. Joes Prep @ Merion West",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Golf - Varsity Boys v St. Joes Prep @ Merion West",
-      "address": "Merion West Country Club, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-21",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/14963f69-6d0a-42aa-a93d-21b605b845dc.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Sep 21",
-      "nextDate": "2026-09-21",
-      "dates": [
-        "2026-09-21"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-glenolden-monday-trivia-night-at-the-fainting-go-c68d01",
-      "name": "Monday Trivia Night at The Fainting Goat (Glenolden - Delaware County",
-      "category": "events",
-      "subcategories": [
-        "animals",
-        "destinations",
-        "farms",
-        "games"
-      ],
-      "shortDescription": "Monday Night Trivia Starts at 7pm at the Fainting Goat in Glenolden, PA. $50 gift card for 1st Place team and $25 for 2nd Place.",
-      "address": "The Fainting Goat Bar and Restaurant, Glenolden, PA",
-      "town": "Glenolden",
-      "lat": 39.903658,
-      "lng": -75.29411,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-21",
-      "endDate": "2026-12-28",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/monday-trivia-night-at-the-fainting-goat-glenolden-delaware-county-pa-tickets-1106985927709",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QD52Na3--EGn6QKh_-aT8g.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mondays, Sep 21 - Dec 28",
-      "nextDate": "2026-09-21",
-      "dates": [
-        "2026-09-21",
-        "2026-09-28",
-        "2026-10-05",
-        "2026-10-12",
-        "2026-10-19",
-        "2026-10-26",
-        "2026-11-02",
-        "2026-11-09",
-        "2026-11-16",
-        "2026-11-23",
-        "2026-11-30",
-        "2026-12-07",
-        "2026-12-14",
-        "2026-12-21",
-        "2026-12-28"
-      ],
-      "occurrences": 15
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-classes-for-students-with-dis-c24cd1",
-      "name": "One Time Classes For Students With Disabilities",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "special-audience",
-        "visual-arts"
-      ],
-      "shortDescription": "This class for students with disabilities will be flexible depending on the students' desires, sensory preferences, and interest levels.",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "family",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-21",
-      "endDate": "2026-09-28",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154447/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IK04RSbO2UapiFtqzK6Oyw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mondays, Sep 21 - Sep 28",
-      "nextDate": "2026-09-21",
-      "dates": [
-        "2026-09-21",
-        "2026-09-28"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-wayne-sprouts-a-student-led-botany-course-b15e98",
-      "name": "Sprouts: A Student-Led Botany Course",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "classes",
-        "learning",
-        "special-audience"
-      ],
-      "shortDescription": "Winsor Room - Registration required Grades 1st-5th Led by students from The Baldwin School and Conestoga High School, the Sprouts course is a botany-based,...",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-21",
-      "endDate": "2026-11-23",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17420320",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7c0541b1-573c-44ea-a228-c018d23d6096.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mondays, Sep 21 - Nov 23",
-      "nextDate": "2026-09-21",
-      "dates": [
-        "2026-09-21",
-        "2026-09-28",
-        "2026-10-05",
-        "2026-10-26",
-        "2026-11-02",
-        "2026-11-09",
-        "2026-11-16",
-        "2026-11-23"
-      ],
-      "occurrences": 8
-    },
-    {
-      "id": "ev-swarthmore-swarthmore-college-women-s-soccer-vs-bca52f",
-      "name": "Swarthmore College Women's Soccer vs Penn State Brandywine",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Swarthmore College Women's Soccer vs Penn State Brandywine\\nStreaming Video: https://www.centennialconference.tv/swarthmoreathletics/\\n",
-      "address": "Clothier Field Stadium, Swarthmore, PA",
-      "town": "Swarthmore",
-      "lat": 39.90206,
-      "lng": -75.34991,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-21",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://swarthmoreathletics.com/calendar.aspx?game_id=31170&sport_id=18",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/890273d5-60d0-444d-b73a-b8cd330e83a8.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Sep 21",
-      "nextDate": "2026-09-21",
-      "dates": [
-        "2026-09-21"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-toddler-storytime-ages-2-3-years-67d052",
-      "name": "Toddler Storytime (Ages 2 - 3 years)",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "kids",
-        "learning",
-        "lifestyle"
-      ],
-      "shortDescription": "Ages 2 - 3 years - Winsor Room Stories, songs, and movement activities to help your young child engage with literature in a safe, social setting.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-09-21",
-      "endDate": "2026-10-08",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17420196",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fe5023d6-7e53-42a2-b2aa-b93e19cac158.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Thu, Sep 21 - Oct 8",
-      "nextDate": "2026-09-21",
-      "dates": [
-        "2026-09-21",
-        "2026-09-24",
-        "2026-09-28",
-        "2026-10-01",
-        "2026-10-08"
-      ],
-      "occurrences": 5
-    },
-    {
-      "id": "ev-media-men-s-soccer-haverford-vs-penn-st-brandywi-d6c6fb",
-      "name": "(Men's Soccer) Haverford vs. Penn St. Brandywine",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Men's Soccer: (Men's Soccer) Haverford vs. Penn St. Brandywine",
-      "address": "Brandywine Field, Media, PA",
-      "town": "Media",
-      "lat": 39.91678,
-      "lng": -75.38769,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "http://www.psubrandywineathletics.com/links/z3f0u2",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f5a7f77d-0c51-4a57-a1ba-4bad118eb6f1.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -1323,6 +999,44 @@
       ]
     },
     {
+      "id": "ev-media-dining-under-the-stars-in-media-0eb6a8",
+      "name": "Dining Under the Stars in Media",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink"
+      ],
+      "shortDescription": "Stroll. Shop. Dine. Restaurants set up tables on State Street, which is closed from Jackson to Orange, for this summer-long outdoor dining event. VisitMediaPA.com",
+      "address": "Media, PA",
+      "town": "Media",
+      "lat": 39.91678,
+      "lng": -75.38769,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-23",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://countylinesmagazine.com/event/dining-under-the-stars-in-media-3/2026-09-23/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a93e9a02-c48d-41d9-ade1-09d562fd5404.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Sep 23",
+      "nextDate": "2026-09-23",
+      "dates": [
+        "2026-09-23"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wallingford-dionysus-delight-greek-wine-pairing-b327cc",
       "name": "Dionysus' Delight: Greek wine pairing dinner",
       "category": "events",
@@ -1464,6 +1178,44 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/14963f69-6d0a-42aa-a93d-21b605b845dc.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Sep 23",
+      "nextDate": "2026-09-23",
+      "dates": [
+        "2026-09-23"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-lancaster-county-farmers-market-1b0e48",
+      "name": "Lancaster County Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "farmers-market",
+        "markets"
+      ],
+      "shortDescription": "389 W. Lancaster Ave., Wayne. Wed., Fri., Sat., 6 to 4. 610-688-9856. LancasterCountyFarmersMarket.com.",
+      "address": "Lancaster County Farmers Market, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044908,
+      "lng": -75.400304,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-23",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://countylinesmagazine.com/event/lancaster-county-farmers-market-2-2025-06-18/2026-09-23/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b52e9d77-dd16-4ac8-9e9e-8ba8856cef3c.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -1923,6 +1675,47 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-main-point-books-2985d8",
+      "name": "Main Point Books",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "drinks",
+        "food-drink",
+        "literary-arts"
+      ],
+      "shortDescription": "Fiction: Sept. 15, “Behind the Scenes at the Museum” by Kate Atkinson.",
+      "address": "Main Point Books, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04479,
+      "lng": -75.388152,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-24",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://countylinesmagazine.com/event/main-point-books-24/2026-09-24/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3b356b23-42e8-4871-8cd7-57ea3deb3c32.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Sep 24",
+      "nextDate": "2026-09-24",
+      "dates": [
+        "2026-09-24"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
       "name": "One Time Adult Wheel Class",
       "category": "events",
@@ -2301,6 +2094,51 @@
         "2027-03-18"
       ],
       "occurrences": 26
+    },
+    {
+      "id": "ev-wayne-toddler-storytime-ages-2-3-years-67d052",
+      "name": "Toddler Storytime (Ages 2 - 3 years)",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "kids",
+        "learning",
+        "lifestyle"
+      ],
+      "shortDescription": "Ages 2 - 3 years - Winsor Room Stories, songs, and movement activities to help your young child engage with literature in a safe, social setting.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-09-24",
+      "endDate": "2026-10-08",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17420041",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fe5023d6-7e53-42a2-b2aa-b93e19cac158.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mon, Thu, Sep 24 - Oct 8",
+      "nextDate": "2026-09-24",
+      "dates": [
+        "2026-09-24",
+        "2026-09-28",
+        "2026-10-01",
+        "2026-10-08"
+      ],
+      "occurrences": 4
     },
     {
       "id": "ev-villanova-villanova-theatre-presents-the-moors-f94750",
@@ -4179,6 +4017,59 @@
       "occurrences": 1
     },
     {
+      "id": "ev-havertown-delaware-county-camera-club-meeting-64c172",
+      "name": "Delaware County Camera Club Meeting",
+      "category": "events",
+      "subcategories": [
+        "visual-arts"
+      ],
+      "shortDescription": ". Founded in 1937, the club offers a space for local photographers to connect, learn, and showcase their work. Visit delcocameraclub.org for more information.",
+      "address": "Trinity Lutheran Church, Havertown, PA",
+      "town": "Havertown",
+      "lat": 39.972622,
+      "lng": -75.316142,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-28",
+      "endDate": "2027-03-08",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "http://www.delcocameraclub.org",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b15ba93f-e46c-4836-a2f4-7d636c24ab78.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mondays, Sep 28 - Mar 8",
+      "nextDate": "2026-09-28",
+      "dates": [
+        "2026-09-28",
+        "2026-10-12",
+        "2026-10-19",
+        "2026-10-26",
+        "2026-11-09",
+        "2026-11-16",
+        "2026-11-23",
+        "2026-11-30",
+        "2027-01-11",
+        "2027-01-18",
+        "2027-01-25",
+        "2027-02-01",
+        "2027-02-08",
+        "2027-02-15",
+        "2027-02-22",
+        "2027-03-01",
+        "2027-03-08"
+      ],
+      "occurrences": 17
+    },
+    {
       "id": "ev-newtown-square-field-hockey-ms-a-v-villa-maria-ab6dc4",
       "name": "Field Hockey - MS A v Villa Maria",
       "category": "events",
@@ -4291,6 +4182,146 @@
         "2026-09-28"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-glenolden-monday-trivia-night-at-the-fainting-go-c68d01",
+      "name": "Monday Trivia Night at The Fainting Goat (Glenolden - Delaware County",
+      "category": "events",
+      "subcategories": [
+        "animals",
+        "destinations",
+        "farms",
+        "games"
+      ],
+      "shortDescription": "Monday Night Trivia Starts at 7pm at the Fainting Goat in Glenolden, PA. $50 gift card for 1st Place team and $25 for 2nd Place.",
+      "address": "The Fainting Goat Bar and Restaurant, Glenolden, PA",
+      "town": "Glenolden",
+      "lat": 39.903658,
+      "lng": -75.29411,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-28",
+      "endDate": "2026-12-28",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/monday-trivia-night-at-the-fainting-goat-glenolden-delaware-county-pa-tickets-1106985927709",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QD52Na3--EGn6QKh_-aT8g.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mondays, Sep 28 - Dec 28",
+      "nextDate": "2026-09-28",
+      "dates": [
+        "2026-09-28",
+        "2026-10-05",
+        "2026-10-12",
+        "2026-10-19",
+        "2026-10-26",
+        "2026-11-02",
+        "2026-11-09",
+        "2026-11-16",
+        "2026-11-23",
+        "2026-11-30",
+        "2026-12-07",
+        "2026-12-14",
+        "2026-12-21",
+        "2026-12-28"
+      ],
+      "occurrences": 14
+    },
+    {
+      "id": "ev-bryn-mawr-one-time-classes-for-students-with-dis-c24cd1",
+      "name": "One Time Classes For Students With Disabilities",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "special-audience",
+        "visual-arts"
+      ],
+      "shortDescription": "This class for students with disabilities will be flexible depending on the students' desires, sensory preferences, and interest levels.",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-28",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154447/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IK04RSbO2UapiFtqzK6Oyw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mon, Sep 28",
+      "nextDate": "2026-09-28",
+      "dates": [
+        "2026-09-28"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-sprouts-a-student-led-botany-course-b15e98",
+      "name": "Sprouts: A Student-Led Botany Course",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "classes",
+        "learning",
+        "special-audience"
+      ],
+      "shortDescription": "Winsor Room - Registration required Grades 1st-5th Led by students from The Baldwin School and Conestoga High School, the Sprouts course is a botany-based,...",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-28",
+      "endDate": "2026-11-23",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17420321",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7c0541b1-573c-44ea-a228-c018d23d6096.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mondays, Sep 28 - Nov 23",
+      "nextDate": "2026-09-28",
+      "dates": [
+        "2026-09-28",
+        "2026-10-05",
+        "2026-10-26",
+        "2026-11-02",
+        "2026-11-09",
+        "2026-11-16",
+        "2026-11-23"
+      ],
+      "occurrences": 7
     },
     {
       "id": "ev-newtown-square-tennis-girls-ms-a-baldwin-3ee9d8",
@@ -6582,6 +6613,48 @@
       "website": "",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/48d62f8d-8d8b-400a-889c-6d762b93e82a.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 3",
+      "nextDate": "2026-10-03",
+      "dates": [
+        "2026-10-03"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-swarthmore-spc-fall-fair-the-whole-church-welcom-a8169b",
+      "name": "SPC Fall Fair: The Whole Church Welcoming the Whole Community",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "family",
+        "festival",
+        "special-audience"
+      ],
+      "shortDescription": "It’s almost here—our 48th Annual Fall Fair is just around the corner!",
+      "address": "Swarthmore Presbyterian Church, Swarthmore, PA",
+      "town": "Swarthmore",
+      "lat": 39.899157,
+      "lng": -75.353006,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-10-03",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "6105434712",
+      "website": "https://swarthmorepres.org/spc-fall-fair-2026/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gFfrVyAad0u_mUIMfTzgVg.medium.jpg",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -18139,6 +18212,42 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-photography-on-location-with-laura-duccesc-abacac",
+      "name": "Photography on Location with Laura Ducceschi",
+      "category": "events",
+      "subcategories": [
+        "visual-arts"
+      ],
+      "shortDescription": "Join us to photograph the beautiful fall season! Classes will alternate between out on location and in the studio to discuss techniques, share images and compare notes.",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-18",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2154/photography-on-location-with-laura-ducceschi",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Mcx5uqkRVEGXzVVDZRNzmQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Nov 18",
+      "nextDate": "2026-11-18",
+      "dates": [
+        "2026-11-18"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-lansdowne-dan-navarro-at-lansdowne-folk-club-192bc7",
       "name": "Dan Navarro at Lansdowne Folk Club",
       "category": "events",
@@ -18981,6 +19090,44 @@
       "website": "https://wayneart.org/events/2174/family-day-of-clay-elf-planter",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/VKlv0Nt040GbPIkfrWVGbQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Dec 5",
+      "nextDate": "2026-12-05",
+      "dates": [
+        "2026-12-05"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-made-in-philadelphia-a-celebration-of-cont-207005",
+      "name": "Made in Philadelphia, A Celebration of Contemporary Craft Preview Party & Awards",
+      "category": "events",
+      "subcategories": [
+        "crafts",
+        "destinations"
+      ],
+      "shortDescription": "Made in Philadelphia, A Celebration of Contemporary Craft December 6, 2026 - January 23, 2027: ESCS Gallery Preview Party & Awards, December 5, 6-9pm",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-05",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2157/made-in-philadelphia-a-celebration-of-contemporary-craft-preview-party-awards",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4lWI3jCc7kCxo-BYTK-sgw.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -21366,7 +21513,7 @@
       ],
       "hours": {},
       "startDate": "2027-03-12",
-      "endDate": "2027-03-19",
+      "endDate": "2027-03-20",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -21377,13 +21524,14 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Fridays, Mar 12 - Mar 19",
+      "schedule": "Fri, Sat, Mar 12 - Mar 20",
       "nextDate": "2027-03-12",
       "dates": [
         "2027-03-12",
-        "2027-03-19"
+        "2027-03-19",
+        "2027-03-20"
       ],
-      "occurrences": 2
+      "occurrences": 3
     },
     {
       "id": "ev-aldan-dividing-the-estate-5b210f",
@@ -21407,7 +21555,7 @@
       ],
       "hours": {},
       "startDate": "2027-03-12",
-      "endDate": "2027-03-19",
+      "endDate": "2027-03-20",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -21418,13 +21566,14 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Fridays, Mar 12 - Mar 19",
+      "schedule": "Fri, Sat, Mar 12 - Mar 20",
       "nextDate": "2027-03-12",
       "dates": [
         "2027-03-12",
-        "2027-03-19"
+        "2027-03-19",
+        "2027-03-20"
       ],
-      "occurrences": 2
+      "occurrences": 3
     },
     {
       "id": "ev-lansdowne-the-magical-music-of-harry-potter-live-1dd142",
