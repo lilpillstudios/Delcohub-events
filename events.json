@@ -1,47 +1,9 @@
 {
   "version": 1,
-  "scraped_at": "2026-09-22T14:05:53.931801+00:00",
+  "scraped_at": "2026-09-23T14:18:10.933730+00:00",
   "horizon_days": 180,
-  "event_count": 575,
+  "event_count": 570,
   "listings": [
-    {
-      "id": "ev-media-men-s-soccer-haverford-vs-penn-st-brandywi-d6c6fb",
-      "name": "(Men's Soccer) Haverford vs. Penn St. Brandywine",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Men's Soccer: (Men's Soccer) Haverford vs. Penn St. Brandywine",
-      "address": "Brandywine Field, Media, PA",
-      "town": "Media",
-      "lat": 39.91678,
-      "lng": -75.38769,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "http://www.psubrandywineathletics.com/links/z3f0u2",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f5a7f77d-0c51-4a57-a1ba-4bad118eb6f1.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Sep 22",
-      "nextDate": "2026-09-22",
-      "dates": [
-        "2026-09-22"
-      ],
-      "occurrences": 1
-    },
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
       "name": "2026 Gene Capaldi Lens on Litter Photo Contest",
@@ -62,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-09-22",
+      "startDate": "2026-09-23",
       "endDate": "2026-10-31",
       "recurring": "none",
       "venueId": "",
@@ -74,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Sep 22 - Oct 31",
-      "nextDate": "2026-09-22",
+      "schedule": "Daily, Sep 23 - Oct 31",
+      "nextDate": "2026-09-23",
       "dates": [
-        "2026-09-22",
         "2026-09-23",
         "2026-09-24",
         "2026-09-25",
@@ -118,719 +79,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 40
-    },
-    {
-      "id": "ev-villanova-belly-dance-class-at-the-willows-mansi-606098",
-      "name": "Belly Dance Class at the Willows Mansion",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "dance",
-        "learning",
-        "performing-arts"
-      ],
-      "shortDescription": "Join us for one of these fun & accessible belly dance classes taught by Amalia from Amalia Belly Dance!",
-      "address": "The Willows Mansion, Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.02232,
-      "lng": -75.394958,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/belly-dance-class-at-the-willows-mansion-registration-1993842494574",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RyMIg43hlU2YlIj8qwntOA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Sep 22",
-      "nextDate": "2026-09-22",
-      "dates": [
-        "2026-09-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-cross-country-boys-v-ga-ths-581823",
-      "name": "Cross Country - Boys v GA & THS",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Cross Country - Boys v GA & THS",
-      "address": "Celentano Cross Country Course, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eab08c85-6507-46b6-89cb-9dc3711af22d.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Sep 22",
-      "nextDate": "2026-09-22",
-      "dates": [
-        "2026-09-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-cross-country-girls-v-nd-bs-sch-b-448ed3",
-      "name": "Cross Country - Girls v ND & BS & SCH @ Belmont",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Cross Country - Girls v ND & BS & SCH @ Belmont",
-      "address": "Belmont Plateau, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/db3cc5c8-dcc7-47de-b4ac-2f353bbdd9f2.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Sep 22",
-      "nextDate": "2026-09-22",
-      "dates": [
-        "2026-09-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-golf-varsity-boys-ea-invite-merio-099040",
-      "name": "Golf - Varsity Boys EA Invite @ Merion West",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Golf - Varsity Boys EA Invite @ Merion West",
-      "address": "Merion West Country Club, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4fe991e1-6aee-4eb7-b4fd-545cf702526d.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Sep 22",
-      "nextDate": "2026-09-22",
-      "dates": [
-        "2026-09-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-lower-school-book-fair-7d88b9",
-      "name": "Lower School Book Fair",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "destinations",
-        "festival",
-        "learning"
-      ],
-      "shortDescription": "Lower School Book Fair at Lower School Great Room in Newtown Square.",
-      "address": "Lower School Great Room, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-09-22",
-      "endDate": "2026-09-23",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8f1ad21b-9048-4f7b-b507-583d067e9327.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Sep 22 - Sep 23",
-      "nextDate": "2026-09-22",
-      "dates": [
-        "2026-09-22",
-        "2026-09-23"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-wayne-mother-goose-on-the-loose-ages-birth-24-mo-94f84e",
-      "name": "Mother Goose on the Loose (Ages Birth - 24 months)",
-      "category": "events",
-      "subcategories": [
-        "kids",
-        "literary-arts",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Winsor Room - Registration required Birth - Age 24 months Stories, songs, and movement activities to help your young child build early literacy skills in a safe, social...",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-09-22",
-      "endDate": "2026-09-29",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17419996",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e04e48cf-45db-4883-b6ec-7300514cd7c0.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Sep 22 - Sep 29",
-      "nextDate": "2026-09-22",
-      "dates": [
-        "2026-09-22",
-        "2026-09-29"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-chester-oldies-in-the-hall-c752a9",
-      "name": "Oldies in the Hall",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Oldies in the Hall at Chester City Hall in Chester.",
-      "address": "Chester City Hall, Chester, PA",
-      "town": "Chester",
-      "lat": 39.847305,
-      "lng": -75.35934,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-22",
-      "endDate": "2026-10-06",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.chestercity.com/event/oldies-in-the-hall/2026-09-22/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/A9KZdailukOfcROaJcyKoA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Sep 22 - Oct 6",
-      "nextDate": "2026-09-22",
-      "dates": [
-        "2026-09-22",
-        "2026-09-29",
-        "2026-10-06"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-chester-oldies-in-the-park-a0e86f",
-      "name": "Oldies in the Park",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "destinations",
-        "music",
-        "outdoor-concert"
-      ],
-      "shortDescription": "Oldies in the Park at Ethel Waters Park in Chester.",
-      "address": "Ethel Waters Park, Chester, PA",
-      "town": "Chester",
-      "lat": 39.846465,
-      "lng": -75.358842,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-09-22",
-      "endDate": "2027-03-16",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.chestercity.com/event/oldies-in-the-park-2/2026-09-22/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/o6XxL0PM3kaE6hDXOaFfuw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Sep 22 - Mar 16",
-      "nextDate": "2026-09-22",
-      "dates": [
-        "2026-09-22",
-        "2026-09-29",
-        "2026-10-06",
-        "2026-10-13",
-        "2026-10-20",
-        "2026-10-27",
-        "2026-11-03",
-        "2026-11-10",
-        "2026-11-17",
-        "2026-11-24",
-        "2026-12-01",
-        "2026-12-08",
-        "2026-12-15",
-        "2026-12-22",
-        "2026-12-29",
-        "2027-01-05",
-        "2027-01-12",
-        "2027-01-19",
-        "2027-01-26",
-        "2027-02-02",
-        "2027-02-09",
-        "2027-02-16",
-        "2027-02-23",
-        "2027-03-02",
-        "2027-03-09",
-        "2027-03-16"
-      ],
-      "occurrences": 26
-    },
-    {
-      "id": "ev-bryn-mawr-parents-association-mahjong-open-play-f4fb55",
-      "name": "Parents' Association Mahjong Open Play",
-      "category": "events",
-      "subcategories": [
-        "games",
-        "lifestyle"
-      ],
-      "shortDescription": "Parents' Association Mahjong Open Play at a Delco venue in Bryn Mawr.",
-      "address": "Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.027634,
-      "lng": -75.356119,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-22",
-      "endDate": "2026-10-27",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.agnesirwin.org/quick-links/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7b06ea32-047e-4854-a846-b1eea534918e.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Sep 22 - Oct 27",
-      "nextDate": "2026-09-22",
-      "dates": [
-        "2026-09-22",
-        "2026-09-29",
-        "2026-10-06",
-        "2026-10-13",
-        "2026-10-20",
-        "2026-10-27"
-      ],
-      "occurrences": 6
-    },
-    {
-      "id": "ev-newtown-square-soccer-jv-girls-v-conestoga-0ee040",
-      "name": "Soccer - JV Girls v Conestoga",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - JV Girls v Conestoga",
-      "address": "Field C, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b4f13205-36d4-456b-a2cd-4c796b529819.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Sep 22",
-      "nextDate": "2026-09-22",
-      "dates": [
-        "2026-09-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-sue-weldon-with-guest-tracy-davidson-db84f4",
-      "name": "Sue Weldon with Guest Tracy Davidson",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Main Point Books welcomes Sue Weldon, founder of Unite for Her",
-      "address": "Main Point Books, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.04479,
-      "lng": -75.388152,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/sue-weldon-with-guest-tracy-davidson-tickets-1994261308257",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bm5LAZhl1UK0LPUEPX2uzQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Sep 22",
-      "nextDate": "2026-09-22",
-      "dates": [
-        "2026-09-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-tennis-jv-girls-ga-9ac2ce",
-      "name": "Tennis - JV Girls @ GA",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Tennis - JV Girls @ GA at Germantown Academy in Newtown Square.",
-      "address": "Germantown Academy, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/02c0fa5b-6877-4ac3-902d-d8531b975a10.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Sep 22",
-      "nextDate": "2026-09-22",
-      "dates": [
-        "2026-09-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-tennis-varsity-girls-v-ga-efc891",
-      "name": "Tennis - Varsity Girls v GA",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Tennis - Varsity Girls v GA",
-      "address": "Tennis Courts, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/04fa80b1-2d66-4998-85f4-d6341970bb46.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Sep 22",
-      "nextDate": "2026-09-22",
-      "dates": [
-        "2026-09-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-holmes-tuesday-karaoke-at-haggertys-in-holmes-pa-3b255e",
-      "name": "Tuesday Karaoke at Haggertys in Holmes, PA (Delaware County",
-      "category": "events",
-      "subcategories": [
-        "open-mic",
-        "performing-arts"
-      ],
-      "shortDescription": "Karaoke is Every Tuesday at Haggertys in Homes, PA (Delaware County, PA) Karaoke starts at 8pm.",
-      "address": "Haggerty's Cafe, Holmes, PA",
-      "town": "Holmes",
-      "lat": 39.899696,
-      "lng": -75.305652,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-22",
-      "endDate": "2027-03-16",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/tuesday-karaoke-at-haggertys-in-holmes-pa-delaware-county-pa-tickets-1225315845679",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/g_89wQtSp0Sz9smp4PcgxA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Sep 22 - Mar 16",
-      "nextDate": "2026-09-22",
-      "dates": [
-        "2026-09-22",
-        "2026-09-29",
-        "2026-10-06",
-        "2026-10-13",
-        "2026-10-20",
-        "2026-10-27",
-        "2026-11-03",
-        "2026-11-10",
-        "2026-11-17",
-        "2026-11-24",
-        "2026-12-01",
-        "2026-12-08",
-        "2026-12-15",
-        "2026-12-22",
-        "2026-12-29",
-        "2027-01-05",
-        "2027-01-12",
-        "2027-01-19",
-        "2027-01-26",
-        "2027-02-02",
-        "2027-02-09",
-        "2027-02-16",
-        "2027-02-23",
-        "2027-03-02",
-        "2027-03-09",
-        "2027-03-16"
-      ],
-      "occurrences": 26
-    },
-    {
-      "id": "ev-villanova-villanova-university-men-s-soccer-vs-d-72e721",
-      "name": "Villanova University Men's Soccer vs Drexel University",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Villanova University Men's Soccer vs Drexel University TV: ESPN+",
-      "address": "Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03176,
-      "lng": -75.34903,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanova.com/calendar.aspx?game_id=17755&amp;sport_id=9",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4bb46c0c-ec2a-4799-b30b-fd9cf072ae19.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Sep 22",
-      "nextDate": "2026-09-22",
-      "dates": [
-        "2026-09-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-volleyball-jv-agnes-irwin-06ff72",
-      "name": "Volleyball - JV @ Agnes Irwin",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Volleyball - JV @ Agnes Irwin",
-      "address": "The Agnes Irwin School, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1c5f516e-c648-44bf-ba17-ce3f5c2af91a.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Sep 22",
-      "nextDate": "2026-09-22",
-      "dates": [
-        "2026-09-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-widener-pride-field-hockey-vs-stockton-bbe65d",
-      "name": "Widener Pride: Field Hockey vs Stockton",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Field Hockey vs Stockton Streaming Video: https://gomacsports.tv/widenerpride/",
-      "address": "Edith R. Dixon Field, Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14445&amp;sport_id=9",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b04bdf65-d71d-4a5a-a43a-cf4f24a1e822.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Sep 22",
-      "nextDate": "2026-09-22",
-      "dates": [
-        "2026-09-22"
-      ],
-      "occurrences": 1
+      "occurrences": 39
     },
     {
       "id": "ev-bryn-mawr-7-week-adult-wheel-course-05bbee",
@@ -1216,6 +465,47 @@
       "website": "https://countylinesmagazine.com/event/lancaster-county-farmers-market-2-2025-06-18/2026-09-23/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b52e9d77-dd16-4ac8-9e9e-8ba8856cef3c.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Sep 23",
+      "nextDate": "2026-09-23",
+      "dates": [
+        "2026-09-23"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-lower-school-book-fair-7d88b9",
+      "name": "Lower School Book Fair",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "destinations",
+        "festival",
+        "learning"
+      ],
+      "shortDescription": "Lower School Book Fair at Lower School Great Room in Newtown Square.",
+      "address": "Lower School Great Room, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-09-23",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8f1ad21b-9048-4f7b-b507-583d067e9327.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -1866,6 +1156,43 @@
       "website": "https://wayneart.org/events/2145/regional-french-cuisine-and-wine-with-stony-run-with-karen-bentz",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/13Z3ET11Lk-Y1OoXMlqDQg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Sep 24",
+      "nextDate": "2026-09-24",
+      "dates": [
+        "2026-09-24"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-lansdowne-speakeasy-open-mic-bbd958",
+      "name": "Speakeasy Open Mic",
+      "category": "events",
+      "subcategories": [
+        "open-mic",
+        "performing-arts"
+      ],
+      "shortDescription": "The Speakeasy • Sept. 24th Frost Gio + Drew Da Picture | Open Mic 6–9:30PM | $10 | BYOB | Good Food. Good Vibes. Good Times.",
+      "address": "Blue South, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.939087,
+      "lng": -75.272732,
+      "priceTier": 1,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-24",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/speakeasy-open-mic-tickets-1999826625270",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a-JB8rPrL0um2vHiBdCyPg.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -3209,6 +2536,43 @@
       ]
     },
     {
+      "id": "ev-drexel-hill-rush-hour-caribbean-night-00f5c8",
+      "name": "Rush Hour Caribbean Night",
+      "category": "events",
+      "subcategories": [
+        "dance",
+        "performing-arts"
+      ],
+      "shortDescription": "Come rep where you from .. grab a dancing partner like old times .. bring ya flags , bring your accent .. we wanna see how you party",
+      "address": "Casey's Drexel Hill, Drexel Hill, PA",
+      "town": "Drexel Hill",
+      "lat": 39.959937,
+      "lng": -75.288952,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-26",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/rush-hour-caribbean-night-tickets-2001004833322",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/POfptGTEFEKrbKh2Ia5thw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Sep 26",
+      "nextDate": "2026-09-26",
+      "dates": [
+        "2026-09-26"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-skeletor-karaoke-at-118-north-99f465",
       "name": "Skeletor Karaoke at 118 North",
       "category": "events",
@@ -3708,6 +3072,43 @@
       "nextDate": "2026-09-26",
       "dates": [
         "2026-09-26"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-lansdowne-bread-salt-drawing-experience-ef1301",
+      "name": "Bread & Salt Drawing Experience",
+      "category": "events",
+      "subcategories": [
+        "visual-arts"
+      ],
+      "shortDescription": "With food as the inspiration, participants will engage in a still life sketch club inspired by the Bread and Salt exhibition.",
+      "address": "2020 Gallery, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.935459,
+      "lng": -75.272392,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-27",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/bread-salt-drawing-experience-tickets-2000729245030",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7NAly9cyXEKE5SRFP2JY9g.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Sep 27",
+      "nextDate": "2026-09-27",
+      "dates": [
+        "2026-09-27"
       ],
       "occurrences": 1
     },
@@ -4703,6 +4104,190 @@
       "occurrences": 3
     },
     {
+      "id": "ev-wayne-mother-goose-on-the-loose-ages-birth-24-mo-94f84e",
+      "name": "Mother Goose on the Loose (Ages Birth - 24 months)",
+      "category": "events",
+      "subcategories": [
+        "kids",
+        "literary-arts",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Winsor Room - Registration required Birth - Age 24 months Stories, songs, and movement activities to help your young child build early literacy skills in a safe, social...",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-09-29",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17419997",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e04e48cf-45db-4883-b6ec-7300514cd7c0.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Sep 29",
+      "nextDate": "2026-09-29",
+      "dates": [
+        "2026-09-29"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-oldies-in-the-hall-c752a9",
+      "name": "Oldies in the Hall",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Oldies in the Hall at Chester City Hall in Chester.",
+      "address": "Chester City Hall, Chester, PA",
+      "town": "Chester",
+      "lat": 39.847305,
+      "lng": -75.35934,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-29",
+      "endDate": "2026-10-06",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.chestercity.com/event/oldies-in-the-hall/2026-09-29/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/A9KZdailukOfcROaJcyKoA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Sep 29 - Oct 6",
+      "nextDate": "2026-09-29",
+      "dates": [
+        "2026-09-29",
+        "2026-10-06"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "ev-chester-oldies-in-the-park-a0e86f",
+      "name": "Oldies in the Park",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "destinations",
+        "music",
+        "outdoor-concert"
+      ],
+      "shortDescription": "Oldies in the Park at Ethel Waters Park in Chester.",
+      "address": "Ethel Waters Park, Chester, PA",
+      "town": "Chester",
+      "lat": 39.846465,
+      "lng": -75.358842,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-09-29",
+      "endDate": "2027-03-09",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.chestercity.com/event/oldies-in-the-park-2/2026-09-29/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/o6XxL0PM3kaE6hDXOaFfuw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Sep 29 - Mar 9",
+      "nextDate": "2026-09-29",
+      "dates": [
+        "2026-09-29",
+        "2026-10-06",
+        "2026-10-13",
+        "2026-10-20",
+        "2026-10-27",
+        "2026-11-03",
+        "2026-11-10",
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05",
+        "2027-01-12",
+        "2027-01-19",
+        "2027-01-26",
+        "2027-02-02",
+        "2027-02-09",
+        "2027-02-16",
+        "2027-02-23",
+        "2027-03-02",
+        "2027-03-09"
+      ],
+      "occurrences": 24
+    },
+    {
+      "id": "ev-bryn-mawr-parents-association-mahjong-open-play-f4fb55",
+      "name": "Parents' Association Mahjong Open Play",
+      "category": "events",
+      "subcategories": [
+        "games",
+        "lifestyle"
+      ],
+      "shortDescription": "Parents' Association Mahjong Open Play at a Delco venue in Bryn Mawr.",
+      "address": "Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.027634,
+      "lng": -75.356119,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-29",
+      "endDate": "2026-10-27",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.agnesirwin.org/quick-links/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7b06ea32-047e-4854-a846-b1eea534918e.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Sep 29 - Oct 27",
+      "nextDate": "2026-09-29",
+      "dates": [
+        "2026-09-29",
+        "2026-10-06",
+        "2026-10-13",
+        "2026-10-20",
+        "2026-10-27"
+      ],
+      "occurrences": 5
+    },
+    {
       "id": "ev-newtown-square-soccer-jv-boys-v-penn-charter-f26033",
       "name": "Soccer - JV Boys v Penn Charter",
       "category": "events",
@@ -4815,6 +4400,67 @@
         "2026-09-29"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-holmes-tuesday-karaoke-at-haggertys-in-holmes-pa-3b255e",
+      "name": "Tuesday Karaoke at Haggertys in Holmes, PA (Delaware County",
+      "category": "events",
+      "subcategories": [
+        "open-mic",
+        "performing-arts"
+      ],
+      "shortDescription": "Karaoke is Every Tuesday at Haggertys in Homes, PA (Delaware County, PA) Karaoke starts at 8pm.",
+      "address": "Haggerty's Cafe, Holmes, PA",
+      "town": "Holmes",
+      "lat": 39.899696,
+      "lng": -75.305652,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-29",
+      "endDate": "2027-03-09",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/tuesday-karaoke-at-haggertys-in-holmes-pa-delaware-county-pa-tickets-1225315845679",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/g_89wQtSp0Sz9smp4PcgxA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Sep 29 - Mar 9",
+      "nextDate": "2026-09-29",
+      "dates": [
+        "2026-09-29",
+        "2026-10-06",
+        "2026-10-13",
+        "2026-10-20",
+        "2026-10-27",
+        "2026-11-03",
+        "2026-11-10",
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05",
+        "2027-01-12",
+        "2027-01-19",
+        "2027-01-26",
+        "2027-02-02",
+        "2027-02-09",
+        "2027-02-16",
+        "2027-02-23",
+        "2027-03-02",
+        "2027-03-09"
+      ],
+      "occurrences": 24
     },
     {
       "id": "ev-wayne-uncuffed-potential-free-your-mind-change-y-360cd3",
@@ -9294,6 +8940,42 @@
       "occurrences": 1
     },
     {
+      "id": "ev-havertown-murder-at-the-mansion-a83365",
+      "name": "Murder at the Mansion",
+      "category": "events",
+      "subcategories": [
+        "lifestyle"
+      ],
+      "shortDescription": "One millionaire. One murder. Clues hidden throughout the historic mansion. Can your team of detectives find the killer?",
+      "address": "Grange Estate, Havertown, PA",
+      "town": "Havertown",
+      "lat": 39.976832,
+      "lng": -75.284808,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-10",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/murder-at-the-mansion-tickets-1999185587910",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/AF6P_LPpBUC6MBkCJA0z_Q.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 10",
+      "nextDate": "2026-10-10",
+      "dates": [
+        "2026-10-10"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-ndichu-at-118-north-896e35",
       "name": "Ndichu at 118 North",
       "category": "events",
@@ -10698,6 +10380,44 @@
       "nextDate": "2026-10-15",
       "dates": [
         "2026-10-15"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-dj-mania-pre-homecoming-party-bfc0d2",
+      "name": "DJ MANIA: PRE-HOMECOMING PARTY",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Chester Homecoming weekend starts Friday! DJ Mania brings 3 DJ matchups, different eras, different sounds, and one unforgettable Homecoming",
+      "address": "Harrah's Philadelphia Casino and Racetrack - A Caesars Rewards Destination, Chester, PA",
+      "town": "Chester",
+      "lat": 39.849962,
+      "lng": -75.34766,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-16",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/dj-mania-pre-homecoming-party-tickets-2000042372576",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5DCCGSr0SkmtT9quQaw5aw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Oct 16",
+      "nextDate": "2026-10-16",
+      "dates": [
+        "2026-10-16"
       ],
       "occurrences": 1
     },
@@ -13357,6 +13077,43 @@
       "occurrences": 1
     },
     {
+      "id": "ev-woodlyn-stars-under-the-stars-0b6b30",
+      "name": "Stars under the Stars",
+      "category": "events",
+      "subcategories": [
+        "games",
+        "sports-outdoors"
+      ],
+      "shortDescription": "DSE is hosting one 8 inning game under the lights at Widener university. College coaches will be running warmups and coaching the teams.",
+      "address": "Widener university softball field, Woodlyn, PA",
+      "town": "Woodlyn",
+      "lat": 39.86986,
+      "lng": -75.35238,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-23",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/stars-under-the-stars-tickets-1999848057374",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dWTC6VUY_UmYTzqFWa1YmQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Oct 23",
+      "nextDate": "2026-10-23",
+      "dates": [
+        "2026-10-23"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-villanova-villanova-university-field-hockey-at-p-f5533a",
       "name": "Villanova University Field Hockey at Providence",
       "category": "events",
@@ -15901,6 +15658,44 @@
       "website": "https://www.facebook.com/events/1056598666947134/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0e8491a0-6d97-40a0-919f-ebb82c44d931.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Oct 30",
+      "nextDate": "2026-10-30",
+      "dates": [
+        "2026-10-30"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-clifton-heights-halloween-costume-mask-party-2c4fdd",
+      "name": "Halloween Costume & Mask Party",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "halloween",
+        "holiday"
+      ],
+      "shortDescription": "Join TUT’s Creationz on Oct 31 for our 4th Annual Halloween Costume & Mask Party—music, costumes, masks and nonstop fun!",
+      "address": "Clifton Heights, PA",
+      "town": "Clifton Heights",
+      "lat": 39.931975,
+      "lng": -75.304467,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-30",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/halloween-costume-mask-party-tickets-1996488555012",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Ru6pyVX1oEyHbtvpkv9kiw.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -20467,6 +20262,43 @@
       "occurrences": 2
     },
     {
+      "id": "ev-folsom-murder-mystery-dinner-at-folsom-fire-co-98c3dd",
+      "name": "Murder Mystery Dinner at Folsom Fire Co",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink"
+      ],
+      "shortDescription": "Sherlock Holmes is coming to Folsom! Join Folsom Fire Company for a buffet dinner provided by Capazzoli Catering and a murder mystery show.",
+      "address": "Folsom Fire Co 1, Folsom, PA",
+      "town": "Folsom",
+      "lat": 39.896387,
+      "lng": -75.318826,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-23",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/murder-mystery-dinner-at-folsom-fire-co-tickets-1999943739562",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/j0OuOMpW9ESYq-QLAwNJmw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Jan 23",
+      "nextDate": "2027-01-23",
+      "dates": [
+        "2027-01-23"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-chester-widener-pride-women-s-basketball-vs-stev-4d4eab",
       "name": "Widener Pride: Women's Basketball vs Stevenson",
       "category": "events",
@@ -21513,7 +21345,7 @@
       ],
       "hours": {},
       "startDate": "2027-03-12",
-      "endDate": "2027-03-20",
+      "endDate": "2027-03-21",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -21524,14 +21356,16 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Fri, Sat, Mar 12 - Mar 20",
+      "schedule": "Fri, Sat, Sun, Mar 12 - Mar 21",
       "nextDate": "2027-03-12",
       "dates": [
         "2027-03-12",
+        "2027-03-13",
         "2027-03-19",
-        "2027-03-20"
+        "2027-03-20",
+        "2027-03-21"
       ],
-      "occurrences": 3
+      "occurrences": 5
     },
     {
       "id": "ev-aldan-dividing-the-estate-5b210f",
@@ -21555,7 +21389,7 @@
       ],
       "hours": {},
       "startDate": "2027-03-12",
-      "endDate": "2027-03-20",
+      "endDate": "2027-03-21",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -21566,14 +21400,16 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Fri, Sat, Mar 12 - Mar 20",
+      "schedule": "Fri, Sat, Sun, Mar 12 - Mar 21",
       "nextDate": "2027-03-12",
       "dates": [
         "2027-03-12",
+        "2027-03-13",
         "2027-03-19",
-        "2027-03-20"
+        "2027-03-20",
+        "2027-03-21"
       ],
-      "occurrences": 3
+      "occurrences": 5
     },
     {
       "id": "ev-lansdowne-the-magical-music-of-harry-potter-live-1dd142",
@@ -21686,41 +21522,6 @@
       "dates": [
         "2027-03-16"
       ]
-    },
-    {
-      "id": "ev-newtown-square-scheduling-assemblies-for-rising-a2d88f",
-      "name": "Scheduling Assemblies for Rising 10,11 and 12th",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Scheduling Assemblies for Rising 10,11 and 12th",
-      "address": "Theater - Carrafiell Theater, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2027-03-16",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Mar 16",
-      "nextDate": "2027-03-16",
-      "dates": [
-        "2027-03-16"
-      ],
-      "occurrences": 1
     },
     {
       "id": "media-film-festival",
