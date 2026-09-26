@@ -1,792 +1,9 @@
 {
   "version": 1,
-  "scraped_at": "2026-09-25T14:39:47.681667+00:00",
+  "scraped_at": "2026-09-26T13:48:07.178744+00:00",
   "horizon_days": 180,
-  "event_count": 566,
+  "event_count": 558,
   "listings": [
-    {
-      "id": "ev-wallingford-2026-fall-friday-night-live-mikey-ju-cbf24c",
-      "name": "2026 Fall Friday Night Live: Mikey Junior",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "music",
-        "performing-arts",
-        "special-audience"
-      ],
-      "shortDescription": "SAVE THE DATE AND BUY YOUR TICKETS NOW! Benefactor Members please call the office (610-566-1713) to reserve you tickets. (2 per concert)",
-      "address": "Community Arts Center, Wallingford, PA",
-      "town": "Wallingford",
-      "lat": 39.908927,
-      "lng": -75.365674,
-      "priceTier": 1,
-      "tags": [
-        "family",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://communityartscenter.org/events/?pno=",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4pefKL2g10yGr4jyyIOFNQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 25",
-      "nextDate": "2026-09-25",
-      "dates": [
-        "2026-09-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
-      "name": "2026 Gene Capaldi Lens on Litter Photo Contest",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "holiday",
-        "visual-arts"
-      ],
-      "shortDescription": "An annual litter photo contest; not intended to glorify litter but to bring attention to the litter problem in communities in Pennsylvania.",
-      "address": "Rose Tree Park, Hunt Club, 1521 North Providence Road, Media, PA",
-      "town": "Media",
-      "lat": 39.91678,
-      "lng": -75.38769,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-25",
-      "endDate": "2026-10-31",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://prc.org/what-we-do/lens-on-litter-contest/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/EFSYwNi2eEyfCncurQHucg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Sep 25 - Oct 31",
-      "nextDate": "2026-09-25",
-      "dates": [
-        "2026-09-25",
-        "2026-09-26",
-        "2026-09-27",
-        "2026-09-28",
-        "2026-09-29",
-        "2026-09-30",
-        "2026-10-01",
-        "2026-10-02",
-        "2026-10-03",
-        "2026-10-04",
-        "2026-10-05",
-        "2026-10-06",
-        "2026-10-07",
-        "2026-10-08",
-        "2026-10-09",
-        "2026-10-10",
-        "2026-10-11",
-        "2026-10-12",
-        "2026-10-13",
-        "2026-10-14",
-        "2026-10-15",
-        "2026-10-16",
-        "2026-10-17",
-        "2026-10-18",
-        "2026-10-19",
-        "2026-10-20",
-        "2026-10-21",
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-24",
-        "2026-10-25",
-        "2026-10-26",
-        "2026-10-27",
-        "2026-10-28",
-        "2026-10-29",
-        "2026-10-30",
-        "2026-10-31"
-      ],
-      "occurrences": 37
-    },
-    {
-      "id": "ev-chester-an-evening-with-steve-trevi-o-1a5c06",
-      "name": "An Evening With Steve Treviño",
-      "category": "events",
-      "subcategories": [
-        "comedy",
-        "lifestyle",
-        "performing-arts"
-      ],
-      "shortDescription": "Get ready for a hilarious night out with An Evening With Steve Treviño at The Block at Harrah's Philadelphia on September 25th!",
-      "address": "The Block at Harrah's Philadelphia, Chester, PA",
-      "town": "Chester",
-      "lat": 39.851082,
-      "lng": -75.348369,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Q-0b8U4OSkGpfn42ybGQ8g.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 25",
-      "nextDate": "2026-09-25",
-      "dates": [
-        "2026-09-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-st-davids-boardroom-bound-the-alumni-connection-dfad9a",
-      "name": "Boardroom Bound: The Alumni Connection",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "food",
-        "food-drink"
-      ],
-      "shortDescription": "Join Melissa Ludwig and Patti Connolly for breakfast to reconnect and expand your network.",
-      "address": "Triple Crown, St. Davids, PA",
-      "town": "St. Davids",
-      "lat": 40.039609,
-      "lng": -75.37921,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/boardroom-bound-the-alumni-connection-tickets-1999304737289",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OV3i7AMRaUSFj6IzOrj9aA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 25",
-      "nextDate": "2026-09-25",
-      "dates": [
-        "2026-09-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-cyo-football-1a2599",
-      "name": "CYO Football",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "CYO Football at Smith Field in Newtown Square.",
-      "address": "Smith Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/56924039-b795-486d-a4a5-a79d4c6399ff.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 25",
-      "nextDate": "2026-09-25",
-      "dates": [
-        "2026-09-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-fall-parents-association-coffee-truck-702d4f",
-      "name": "Fall Parents' Association Coffee Truck at 672",
-      "category": "events",
-      "subcategories": [
-        "food-drink",
-        "lifestyle"
-      ],
-      "shortDescription": "Fall Parents' Association Coffee Truck at 672 at a Delco venue in Bryn Mawr.",
-      "address": "Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.027634,
-      "lng": -75.356119,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.agnesirwin.org/quick-links/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0abf56cd-d33e-4cfa-bdf2-6c5d454b4cbb.medium.JPG",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 25",
-      "nextDate": "2026-09-25",
-      "dates": [
-        "2026-09-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-aldan-lend-me-a-tenor-4d3baa",
-      "name": "Lend Me a Tenor",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts",
-        "theater"
-      ],
-      "shortDescription": "\"Lend Me a Tenor\" is a Tony Award-winning farce by Ken Ludwig, set in 1934 Cleveland, about the chaos that ensues when the Cleveland Grand Opera Company's star tenor,...",
-      "address": "Colonial Playhouse, Aldan, PA",
-      "town": "Aldan",
-      "lat": 39.916243,
-      "lng": -75.294573,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-25",
-      "endDate": "2026-10-11",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://colonialplayhouse.net/lend-me-a-tenor/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/41_m5a63-UyJLoBEGqGeGw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sat, Sun, Sep 25 - Oct 11",
-      "nextDate": "2026-09-25",
-      "dates": [
-        "2026-09-25",
-        "2026-09-26",
-        "2026-09-27",
-        "2026-10-02",
-        "2026-10-03",
-        "2026-10-04",
-        "2026-10-09",
-        "2026-10-10",
-        "2026-10-11"
-      ],
-      "occurrences": 9
-    },
-    {
-      "id": "ev-wayne-main-line-kef-night-at-118-north-737abf",
-      "name": "Main Line KEF Night at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Main Line KEF Night at 118 North Friday, September 25, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/2123931695134039/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IjtRj7LUUUeLyfBQnUe_zA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 25",
-      "nextDate": "2026-09-25",
-      "dates": [
-        "2026-09-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-newtown-post-dolly-parton-party-09c6cc",
-      "name": "Newtown Post: Dolly Parton Party",
-      "category": "events",
-      "subcategories": [
-        "destinations"
-      ],
-      "shortDescription": "Newtown Post: Dolly Parton Party",
-      "address": "Newtown Post, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/220822T170928%7CYpvGGxyf3UiqiB0Cr0Vvuw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 25",
-      "nextDate": "2026-09-25",
-      "dates": [
-        "2026-09-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-newtown-square-farmers-market-82ee6b",
-      "name": "Newtown Square Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "farmers-market",
-        "food-drink",
-        "live-music",
-        "markets"
-      ],
-      "shortDescription": "The Newtown Square Farmers Market is moving to a new location this year!",
-      "address": "Garrett Williamson, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.972995,
-      "lng": -75.418764,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "http://facebook.com/NewtownSquareFarmersMarket",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3z7dGbZ3hUq5SvVxMJxAvQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 25",
-      "nextDate": "2026-09-25",
-      "dates": [
-        "2026-09-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
-      "name": "One Time Adult Wheel Class",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "visual-arts"
-      ],
-      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-25",
-      "endDate": "2026-09-27",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154443/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Sep 25 - Sep 27",
-      "nextDate": "2026-09-25",
-      "dates": [
-        "2026-09-25",
-        "2026-09-26",
-        "2026-09-27"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-bryn-mawr-parents-association-walking-club-f7aed6",
-      "name": "Parents' Association Walking Club",
-      "category": "events",
-      "subcategories": [
-        "fitness",
-        "lifestyle",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Parents' Association Walking Club at a Delco venue in Bryn Mawr.",
-      "address": "Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.027634,
-      "lng": -75.356119,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-25",
-      "endDate": "2026-10-02",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.agnesirwin.org/quick-links/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/670f2b1b-f9f8-4837-a38b-885449bc6bb3.medium.PNG",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fridays, Sep 25 - Oct 2",
-      "nextDate": "2026-09-25",
-      "dates": [
-        "2026-09-25",
-        "2026-10-02"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-newtown-square-soccer-3rd-team-boys-v-marple-13a4f7",
-      "name": "Soccer - 3rd Team Boys v Marple",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - 3rd Team Boys v Marple",
-      "address": "Reape Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4bb46c0c-ec2a-4799-b30b-fd9cf072ae19.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 25",
-      "nextDate": "2026-09-25",
-      "dates": [
-        "2026-09-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-jv-girls-v-penn-charter-92aaf8",
-      "name": "Soccer - JV Girls v Penn Charter",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - JV Girls v Penn Charter",
-      "address": "Field E, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4b8401df-8242-4a6e-a069-2ec28d0848c9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 25",
-      "nextDate": "2026-09-25",
-      "dates": [
-        "2026-09-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-tennis-jv-girls-v-western-reserve-4092d3",
-      "name": "Tennis - JV Girls v Western Reserve",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Tennis - JV Girls v Western Reserve",
-      "address": "Tennis Courts, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a8fe3b31-5555-4a70-820b-bb59e79bce97.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 25",
-      "nextDate": "2026-09-25",
-      "dates": [
-        "2026-09-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-villanova-theatre-presents-the-moors-f94750",
-      "name": "Villanova Theatre Presents The Moors",
-      "category": "events",
-      "subcategories": [
-        "performing-arts",
-        "theater"
-      ],
-      "shortDescription": "On the desolate English moors, a household of women guards its secrets with the same quiet care it devotes to everything else.",
-      "address": "The Mullen Center for the Performing Arts at Villanova University - Court Theatre, Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.036706,
-      "lng": -75.344557,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-25",
-      "endDate": "2026-10-04",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanovatheatre.org/the-moors/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/GiDeR7SDGkmE5RTOl_xOpQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "7 dates, Sep 25 - Oct 4",
-      "nextDate": "2026-09-25",
-      "dates": [
-        "2026-09-25",
-        "2026-09-26",
-        "2026-09-27",
-        "2026-10-01",
-        "2026-10-02",
-        "2026-10-03",
-        "2026-10-04"
-      ],
-      "occurrences": 7
-    },
-    {
-      "id": "ev-newtown-square-volleyball-jv-baldwin-6829a3",
-      "name": "Volleyball - JV @ Baldwin",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Volleyball - JV @ Baldwin",
-      "address": "The Baldwin School, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e669d12a-a6ec-4151-8c5f-9397f6aae3d7.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 25",
-      "nextDate": "2026-09-25",
-      "dates": [
-        "2026-09-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-water-polo-beast-of-the-east-1acae5",
-      "name": "Water Polo Beast of the East",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Water Polo Beast of the East",
-      "address": "Burke Natatorium, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5654b9b5-1ff3-43be-b479-f97bf3acc72a.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 25",
-      "nextDate": "2026-09-25",
-      "dates": [
-        "2026-09-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-swarthmore-widener-pride-women-s-volleyball-vs-d-4b93bc",
-      "name": "Widener Pride: Women's Volleyball vs DeSales",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Women's Volleyball vs DeSales",
-      "address": "Swarthmore, PA",
-      "town": "Swarthmore",
-      "lat": 39.90206,
-      "lng": -75.34991,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14544&amp;sport_id=13",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7df57544-f36c-4258-bdb8-55ca1ace2cf6.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sep 25",
-      "nextDate": "2026-09-25",
-      "dates": [
-        "2026-09-25"
-      ],
-      "occurrences": 1
-    },
     {
       "id": "ev-havertown-14th-annual-haverford-music-festival-e011ff",
       "name": "14th Annual Haverford Music Festival",
@@ -827,6 +44,80 @@
         "2026-09-26"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
+      "name": "2026 Gene Capaldi Lens on Litter Photo Contest",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "holiday",
+        "visual-arts"
+      ],
+      "shortDescription": "An annual litter photo contest; not intended to glorify litter but to bring attention to the litter problem in communities in Pennsylvania.",
+      "address": "Rose Tree Park, Hunt Club, 1521 North Providence Road, Media, PA",
+      "town": "Media",
+      "lat": 39.91678,
+      "lng": -75.38769,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-26",
+      "endDate": "2026-10-31",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://prc.org/what-we-do/lens-on-litter-contest/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/EFSYwNi2eEyfCncurQHucg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Sep 26 - Oct 31",
+      "nextDate": "2026-09-26",
+      "dates": [
+        "2026-09-26",
+        "2026-09-27",
+        "2026-09-28",
+        "2026-09-29",
+        "2026-09-30",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31"
+      ],
+      "occurrences": 36
     },
     {
       "id": "ev-glen-mills-bird-walks-d33ffe",
@@ -870,6 +161,47 @@
         "2026-12-19"
       ],
       "occurrences": 4
+    },
+    {
+      "id": "ev-newtown-square-cyo-football-game-fed17b",
+      "name": "CYO Football- Game",
+      "category": "events",
+      "subcategories": [
+        "games",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "CYO Football- Game at Smith Field in Newtown Square.",
+      "address": "Smith Field, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-26",
+      "endDate": "2026-10-10",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7aa12362-ddd3-40dd-909b-d1a9312ca654.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Saturdays, Sep 26 - Oct 10",
+      "nextDate": "2026-09-26",
+      "dates": [
+        "2026-09-26",
+        "2026-10-03",
+        "2026-10-10"
+      ],
+      "occurrences": 3
     },
     {
       "id": "ev-newtown-square-cross-country-girls-whippets-invi-c6ec6c",
@@ -993,7 +325,7 @@
       "occurrences": 4
     },
     {
-      "id": "ev-wayne-jay-buchanan-at-118-north-b24d8e",
+      "id": "ev-wayne-jay-buchanan-at-118-north-eaf9f4",
       "name": "Jay Buchanan at 118 North",
       "category": "events",
       "subcategories": [
@@ -1001,10 +333,10 @@
         "performing-arts"
       ],
       "shortDescription": "Jay Buchanan at 118 North Saturday, September 26, 2026 Doors: 7:30 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -1109,6 +441,52 @@
       "occurrences": 1
     },
     {
+      "id": "ev-aldan-lend-me-a-tenor-4d3baa",
+      "name": "Lend Me a Tenor",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "\"Lend Me a Tenor\" is a Tony Award-winning farce by Ken Ludwig, set in 1934 Cleveland, about the chaos that ensues when the Cleveland Grand Opera Company's star tenor,...",
+      "address": "Colonial Playhouse, Aldan, PA",
+      "town": "Aldan",
+      "lat": 39.916243,
+      "lng": -75.294573,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-26",
+      "endDate": "2026-10-11",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://colonialplayhouse.net/lend-me-a-tenor/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/41_m5a63-UyJLoBEGqGeGw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Sat, Sun, Sep 26 - Oct 11",
+      "nextDate": "2026-09-26",
+      "dates": [
+        "2026-09-26",
+        "2026-09-27",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11"
+      ],
+      "occurrences": 8
+    },
+    {
       "id": "ev-wayne-minecraft-acorn-archery-presented-by-array-adbee3",
       "name": "Minecraft Acorn Archery: Presented by Arrayscape Gaming",
       "category": "events",
@@ -1146,6 +524,45 @@
         "2026-09-26"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
+      "name": "One Time Adult Wheel Class",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "visual-arts"
+      ],
+      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-26",
+      "endDate": "2026-09-27",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154443/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Sep 26 - Sep 27",
+      "nextDate": "2026-09-26",
+      "dates": [
+        "2026-09-26",
+        "2026-09-27"
+      ],
+      "occurrences": 2
     },
     {
       "id": "ev-wallingford-patrick-connors-and-friends-gallery-12da16",
@@ -1341,7 +758,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-skeletor-karaoke-at-118-north-99f465",
+      "id": "ev-wayne-skeletor-karaoke-at-118-north-d4de1e",
       "name": "Skeletor Karaoke at 118 North",
       "category": "events",
       "subcategories": [
@@ -1350,10 +767,10 @@
         "performing-arts"
       ],
       "shortDescription": "Skeletor Karaoke at 118 North Saturday, September 26, 2026 Doors & Show: 10:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -1532,6 +949,48 @@
       ]
     },
     {
+      "id": "ev-villanova-villanova-theatre-presents-the-moors-f94750",
+      "name": "Villanova Theatre Presents The Moors",
+      "category": "events",
+      "subcategories": [
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "On the desolate English moors, a household of women guards its secrets with the same quiet care it devotes to everything else.",
+      "address": "The Mullen Center for the Performing Arts at Villanova University - Court Theatre, Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.036706,
+      "lng": -75.344557,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-26",
+      "endDate": "2026-10-04",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://villanovatheatre.org/the-moors/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/GiDeR7SDGkmE5RTOl_xOpQ.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "6 dates, Sep 26 - Oct 4",
+      "nextDate": "2026-09-26",
+      "dates": [
+        "2026-09-26",
+        "2026-09-27",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04"
+      ],
+      "occurrences": 6
+    },
+    {
       "id": "ev-villanova-villanova-university-football-vs-colga-430acf",
       "name": "Villanova University Football vs Colgate",
       "category": "events",
@@ -1596,6 +1055,44 @@
       "website": "https://villanova.com/calendar.aspx?game_id=17847&amp;sport_id=6",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2515a632-7c00-42f3-8b27-d68699bb216f.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Sep 26",
+      "nextDate": "2026-09-26",
+      "dates": [
+        "2026-09-26"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-villanova-villanova-university-softball-vs-blue-1710ff",
+      "name": "Villanova University Softball vs Blue-White Intersquad",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Villanova University Softball vs Blue-White Intersquad",
+      "address": "Villanova Softball Complex, Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.03176,
+      "lng": -75.34903,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-26",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://villanova.com/calendar.aspx?game_id=17880&amp;sport_id=13",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/be4ab81a-0e8b-4347-9440-21025f6e3fee.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -1881,46 +1378,6 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-joseph-parsons-7ba801",
-      "name": "Joseph Parsons",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "“Dynamic, intense and intoxicating” - Radio Bremen \"Something of a quiet revelation\" - Uncut “Experienced dealer in emotions” -Musik Express",
-      "address": "118 North, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-27",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/107955307?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/guKr3FCyS0WPD1M-ji31iw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Sep 27",
-      "nextDate": "2026-09-27",
-      "dates": [
-        "2026-09-27"
-      ],
-      "occurrences": 1
-    },
-    {
       "id": "ev-media-levate-piano-trio-da0015",
       "name": "Levate Piano Trio",
       "category": "events",
@@ -1959,7 +1416,47 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-on-the-lash-at-118-north-dfe209",
+      "id": "ev-wayne-matinee-joseph-parsons-friends-at-118-nort-0d842d",
+      "name": "Matinee: Joseph Parsons & Friends at 118 North",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Matinee: Joseph Parsons & Friends at 118 North Sunday, September 27, 2026 Doors: 2:00 PM | Show: 3:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-27",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1982200792417523/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/guKr3FCyS0WPD1M-ji31iw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Sep 27",
+      "nextDate": "2026-09-27",
+      "dates": [
+        "2026-09-27"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-on-the-lash-at-118-north-f261f1",
       "name": "On the Lash at 118 North",
       "category": "events",
       "subcategories": [
@@ -1967,10 +1464,10 @@
         "performing-arts"
       ],
       "shortDescription": "On the Lash at 118 North Sunday, September 27, 2026 Doors: 6:00 PM | Show: 7:00 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -3943,7 +3440,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-open-mic-w-hezekiah-jones-at-118-north-19aa93",
+      "id": "ev-wayne-open-mic-w-hezekiah-jones-at-118-north-0714dd",
       "name": "Open Mic w/ Hezekiah Jones at 118 North",
       "category": "events",
       "subcategories": [
@@ -3952,10 +3449,10 @@
         "performing-arts"
       ],
       "shortDescription": "Open Mic w/ Hezekiah Jones at 118 North Wednesday, September 30, 2026 Doors: 5:30 PM | Signups: 6:30 PM | Show: 7:00 PM 21+ Unless Accompanied by Parent or Legal...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -5056,6 +4553,45 @@
       "occurrences": 1
     },
     {
+      "id": "ev-bryn-mawr-parents-association-walking-club-f7aed6",
+      "name": "Parents' Association Walking Club",
+      "category": "events",
+      "subcategories": [
+        "fitness",
+        "lifestyle",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Parents' Association Walking Club at a Delco venue in Bryn Mawr.",
+      "address": "Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.027634,
+      "lng": -75.356119,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-02",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.agnesirwin.org/quick-links/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/670f2b1b-f9f8-4837-a38b-885449bc6bb3.medium.PNG",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Oct 2",
+      "nextDate": "2026-10-02",
+      "dates": [
+        "2026-10-02"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-soccer-jv-girls-sch-737943",
       "name": "Soccer - JV Girls @ SCH",
       "category": "events",
@@ -5132,7 +4668,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-speedball-the-nightclerks-tom-petty-tribut-17f375",
+      "id": "ev-wayne-speedball-the-nightclerks-tom-petty-tribut-74e6d1",
       "name": "Speedball & the Nightclerks: Tom Petty Tribute at 118 North",
       "category": "events",
       "subcategories": [
@@ -5140,10 +4676,10 @@
         "performing-arts"
       ],
       "shortDescription": "Speedball & the Nightclerks: Tom Petty Tribute at 118 North Friday, October 2, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -5684,7 +5220,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-undone-a-tribute-to-weezer-at-118-north-3c7f3a",
+      "id": "ev-wayne-undone-a-tribute-to-weezer-at-118-north-c7e218",
       "name": "Undone: A Tribute to Weezer at 118 North",
       "category": "events",
       "subcategories": [
@@ -5692,10 +5228,10 @@
         "performing-arts"
       ],
       "shortDescription": "Undone: A Tribute to Weezer at 118 North Saturday, October 3, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -5880,7 +5416,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-allison-eide-at-118-north-179471",
+      "id": "ev-wayne-allison-eide-at-118-north-3fcd29",
       "name": "Allison Eide at 118 North",
       "category": "events",
       "subcategories": [
@@ -5888,10 +5424,10 @@
         "performing-arts"
       ],
       "shortDescription": "Allison Eide at 118 North Sunday, October 4, 2026 Doors: 6:00 PM | Show: 7:00 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -5953,7 +5489,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-mark-schultz-the-wayne-rangers-at-118-nort-0f24c8",
+      "id": "ev-wayne-mark-schultz-the-wayne-rangers-at-118-nort-2b4d80",
       "name": "Mark Schultz & the Wayne Rangers at 118 North",
       "category": "events",
       "subcategories": [
@@ -5961,10 +5497,10 @@
         "performing-arts"
       ],
       "shortDescription": "Mark Schultz & the Wayne Rangers at 118 North Sunday, October 4, 2026 Doors: 2:00 PM | Show: 3:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -7091,7 +6627,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-ruthie-foster-at-118-north-02dd4b",
+      "id": "ev-wayne-ruthie-foster-at-118-north-55bd26",
       "name": "Ruthie Foster at 118 North",
       "category": "events",
       "subcategories": [
@@ -7099,10 +6635,10 @@
         "performing-arts"
       ],
       "shortDescription": "Ruthie Foster at 118 North Wednesday, October 7, 2026 Doors: 5:30 PM | Show: 7:30 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -7437,7 +6973,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-morgan-treni-the-landscapes-at-118-north-44ccf9",
+      "id": "ev-wayne-morgan-treni-the-landscapes-at-118-north-5007ef",
       "name": "Morgan Treni & The Landscapes at 118 North",
       "category": "events",
       "subcategories": [
@@ -7445,10 +6981,10 @@
         "performing-arts"
       ],
       "shortDescription": "Morgan Treni & The Landscapes at 118 North with Emily Drinker Thursday, October 8, 2026 Doors: 6:00 PM | Show: 8:00 PM 21+ Tickets >> https://tixr.com/pr/social/199794",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -7971,7 +7507,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-the-e-street-shuffle-a-tribute-to-the-boss-0e1462",
+      "id": "ev-wayne-the-e-street-shuffle-a-tribute-to-the-boss-b35ba4",
       "name": "The E Street Shuffle: A Tribute to The Boss at 118 North",
       "category": "events",
       "subcategories": [
@@ -7979,10 +7515,10 @@
         "performing-arts"
       ],
       "shortDescription": "The E Street Shuffle: A Tribute to The Boss at 118 North Friday, October 9, 2026 Doors: 7:30 PM | Show: 8:30 PM 21+ Unless Accompanied by Parent or Legal Guardian...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -8313,7 +7849,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-ndichu-at-118-north-896e35",
+      "id": "ev-wayne-ndichu-at-118-north-5f94d2",
       "name": "Ndichu at 118 North",
       "category": "events",
       "subcategories": [
@@ -8321,10 +7857,10 @@
         "performing-arts"
       ],
       "shortDescription": "Ndichu at 118 North with Loose & Alright Saturday, October 10, 2026 Doors: 6:30 PM | Show: 7:30 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -9410,6 +8946,57 @@
       "occurrences": 1
     },
     {
+      "id": "ev-media-misery-179fa7",
+      "name": "Misery",
+      "category": "events",
+      "subcategories": [
+        "halloween",
+        "holiday",
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "After a devastating car accident leaves novelist Paul Sheldon stranded in a remote cabin, he awakens under the care of Annie Wilkes, his self-proclaimed “number one...",
+      "address": "Hedgerow Theatre, Media, PA",
+      "town": "Media",
+      "lat": 39.897539,
+      "lng": -75.386668,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-14",
+      "endDate": "2026-11-01",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "(610) 565-4211",
+      "website": "https://www.hedgerowtheatre.org/misery",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OtyxLaPmVUKxIC-56D9MWw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "12 dates, Oct 14 - Nov 1",
+      "nextDate": "2026-10-14",
+      "dates": [
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "occurrences": 12
+    },
+    {
       "id": "ev-wayne-patron-french-provencal-culinary-evening-w-14989d",
       "name": "Patron French Provencal Culinary Evening with Chef Patrick & Nina Gauthron and Sommelier Michael Walsh",
       "category": "events",
@@ -9879,7 +9466,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-organ-fairchild-at-118-north-fea783",
+      "id": "ev-wayne-organ-fairchild-at-118-north-750958",
       "name": "Organ Fairchild at 118 North",
       "category": "events",
       "subcategories": [
@@ -9887,10 +9474,10 @@
         "performing-arts"
       ],
       "shortDescription": "Organ Fairchild at 118 North with Munk Friday, October 16, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Tickets >> https://tixr.com/pr/social/198633",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -10073,7 +9660,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-sicard-hollow-at-118-north-c4a88b",
+      "id": "ev-wayne-sicard-hollow-at-118-north-b0155b",
       "name": "Sicard Hollow at 118 North",
       "category": "events",
       "subcategories": [
@@ -10081,10 +9668,10 @@
         "performing-arts"
       ],
       "shortDescription": "Sicard Hollow at 118 North with Tin Nanny Saturday, October 17, 2026 Doors 7:00 PM | Show 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -10264,7 +9851,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-wxpn-welcomes-rhett-miller-at-118-north-cf81f7",
+      "id": "ev-wayne-wxpn-welcomes-rhett-miller-at-118-north-9fa5fe",
       "name": "WXPN Welcomes: Rhett Miller at 118 North",
       "category": "events",
       "subcategories": [
@@ -10272,10 +9859,10 @@
         "performing-arts"
       ],
       "shortDescription": "WXPN Welcomes: Rhett Miller at 118 North with Don DiLego Saturday, October 17, 2026 Doors: 2:00 PM | Show: 3:00 PM 21+ Unless Accompanied by Parent or Legal Guardian...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -11795,7 +11382,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-the-young-fresh-fellows-at-118-north-5b9058",
+      "id": "ev-wayne-the-young-fresh-fellows-at-118-north-28a2c1",
       "name": "The Young Fresh Fellows at 118 North",
       "category": "events",
       "subcategories": [
@@ -11803,10 +11390,10 @@
         "performing-arts"
       ],
       "shortDescription": "The Young Fresh Fellows at 118 North With The No Good Crowd Wednesday, October 21, 2026 Doors: 5:30 PM | Show: 7:30 PM 21+ Unless Accompanied by a Parent or Guardian...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -11871,7 +11458,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-bloom-decay-band-grateful-dead-tribute-at-dc036b",
+      "id": "ev-wayne-bloom-decay-band-grateful-dead-tribute-at-a2fb35",
       "name": "Bloom & Decay Band - Grateful Dead Tribute at 118 North",
       "category": "events",
       "subcategories": [
@@ -11881,10 +11468,10 @@
         "parks-gardens"
       ],
       "shortDescription": "Bloom & Decay Band - Grateful Dead Tribute at 118 North Thursday, October 22, 2026 Doors: 6:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -12298,7 +11885,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-little-lies-a-tribute-to-fleetwood-mac-at-7a3f6d",
+      "id": "ev-wayne-little-lies-a-tribute-to-fleetwood-mac-at-aa0edb",
       "name": "Little Lies: A Tribute to Fleetwood Mac at 118 North",
       "category": "events",
       "subcategories": [
@@ -12306,10 +11893,10 @@
         "performing-arts"
       ],
       "shortDescription": "Little Lies: A Tribute to Fleetwood Mac at 118 North Friday, October 23, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -13077,7 +12664,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-plush-in-the-box-90s-grunge-alternative-tr-2952a5",
+      "id": "ev-wayne-plush-in-the-box-90s-grunge-alternative-tr-1a29ed",
       "name": "Plush In The Box: 90s Grunge & Alternative Tribute at 118 North",
       "category": "events",
       "subcategories": [
@@ -13085,10 +12672,10 @@
         "performing-arts"
       ],
       "shortDescription": "Plush In The Box: 90s Grunge & Alternative Tribute at 118 North Saturday, October 24, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by a Parent or Minor...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -13115,7 +12702,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-riot-nerd-presents-video-bingo-horror-edit-994059",
+      "id": "ev-wayne-riot-nerd-presents-video-bingo-horror-edit-203da1",
       "name": "Riot Nerd Presents: Video Bingo - Horror Edition at 118 North",
       "category": "events",
       "subcategories": [
@@ -13124,10 +12711,10 @@
         "performing-arts"
       ],
       "shortDescription": "Riot Nerd Presents: Video Bingo - Horror Edition at 118 North Saturday, October 24, 2026 Doors: 3:00 PM | Show: 4:00 PM 21+ Unless Accompanied by Parent or Legal...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -13744,7 +13331,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-wxpn-welcomes-little-barrie-at-118-north-23aac7",
+      "id": "ev-wayne-wxpn-welcomes-little-barrie-at-118-north-8c307c",
       "name": "WXPN Welcomes: Little Barrie at 118 North",
       "category": "events",
       "subcategories": [
@@ -13752,10 +13339,10 @@
         "performing-arts"
       ],
       "shortDescription": "WXPN Welcomes: Little Barrie at 118 North Sunday, October 25, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -14506,7 +14093,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-the-nth-power-at-118-north-71155b",
+      "id": "ev-wayne-the-nth-power-at-118-north-7530b8",
       "name": "The Nth Power at 118 North",
       "category": "events",
       "subcategories": [
@@ -14514,10 +14101,10 @@
         "performing-arts"
       ],
       "shortDescription": "The Nth Power at 118 North with Arnetta Johnson Wednesday, October 28, 2026 Doors: 5:30 PM | Show: 7:30 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -14818,7 +14405,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-hunter-flynn-at-118-north-3af588",
+      "id": "ev-wayne-hunter-flynn-at-118-north-b7d29a",
       "name": "Hunter Flynn at 118 North",
       "category": "events",
       "subcategories": [
@@ -14828,10 +14415,10 @@
         "sports-outdoors"
       ],
       "shortDescription": "Hunter Flynn at 118 North Thursday, October 29, 2026 Doors: 6:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -15127,7 +14714,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-griffin-william-sherry-at-118-north-8c536d",
+      "id": "ev-wayne-griffin-william-sherry-at-118-north-ef0207",
       "name": "Griffin William Sherry at 118 North",
       "category": "events",
       "subcategories": [
@@ -15135,10 +14722,10 @@
         "performing-arts"
       ],
       "shortDescription": "Griffin William Sherry at 118 North with Max Bartos Friday, October 30, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -16242,7 +15829,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-friends-of-jerry-at-118-north-849c0f",
+      "id": "ev-wayne-friends-of-jerry-at-118-north-919819",
       "name": "Friends of Jerry at 118 North",
       "category": "events",
       "subcategories": [
@@ -16250,10 +15837,10 @@
         "performing-arts"
       ],
       "shortDescription": "Friends of Jerry at 118 North Thursday, November 5, 2026 Doors: 6:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -16547,7 +16134,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-dale-and-the-zdubs-rdgldgrn-at-118-north-ea9214",
+      "id": "ev-wayne-dale-and-the-zdubs-rdgldgrn-at-118-north-6e6c41",
       "name": "Dale and the ZDubs + RDGLDGRN at 118 North",
       "category": "events",
       "subcategories": [
@@ -16555,10 +16142,10 @@
         "performing-arts"
       ],
       "shortDescription": "Dale and the ZDubs + RDGLDGRN at 118 North with FeelFree Saturday, November 7, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -16850,7 +16437,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-wxpn-welcomes-michaela-anne-at-118-north-71285c",
+      "id": "ev-wayne-wxpn-welcomes-michaela-anne-at-118-north-7ddb85",
       "name": "WXPN Welcomes: Michaela Anne at 118 North",
       "category": "events",
       "subcategories": [
@@ -16858,10 +16445,10 @@
         "performing-arts"
       ],
       "shortDescription": "WXPN Welcomes: Michaela Anne at 118 North Wednesday, November 11, 2026 Doors: 5:30 PM | Show: 7:30 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -17044,7 +16631,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-what-would-jerry-do-at-118-north-3aa8c7",
+      "id": "ev-wayne-what-would-jerry-do-at-118-north-fe752b",
       "name": "What Would Jerry Do? at 118 North",
       "category": "events",
       "subcategories": [
@@ -17052,10 +16639,10 @@
         "performing-arts"
       ],
       "shortDescription": "What Would Jerry Do? at 118 North Thursday, November 12, 2026 Doors: 6:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -17152,7 +16739,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-rigometrics-at-118-north-73ca66",
+      "id": "ev-wayne-rigometrics-at-118-north-b01b10",
       "name": "Rigometrics at 118 North",
       "category": "events",
       "subcategories": [
@@ -17160,10 +16747,10 @@
         "performing-arts"
       ],
       "shortDescription": "Rigometrics at 118 North with Freelance Sweatpants Friday, November 13, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -17346,7 +16933,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-houseplant-at-118-north-a72453",
+      "id": "ev-wayne-houseplant-at-118-north-20c417",
       "name": "Houseplant at 118 North",
       "category": "events",
       "subcategories": [
@@ -17354,10 +16941,10 @@
         "performing-arts"
       ],
       "shortDescription": "Houseplant at 118 North Saturday, November 14, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -17462,6 +17049,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-wesley-stace-at-118-north-63174b",
+      "name": "Wesley Stace at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Wesley Stace at 118 North Saturday, November 14, 2026 Doors: 3:00 PM | Show: 4:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-14",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1580409430282901/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9ffd6ad4-a5fe-4ee8-a746-02776a158996.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 14",
+      "nextDate": "2026-11-14",
+      "dates": [
+        "2026-11-14"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-chester-widener-pride-football-vs-delaware-valle-d21034",
       "name": "Widener Pride: Football vs Delaware Valley - Keystone Cup & Senior Day",
       "category": "events",
@@ -17502,7 +17127,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-aj-lee-blue-summit-at-118-north-0df915",
+      "id": "ev-wayne-aj-lee-blue-summit-at-118-north-63f1a4",
       "name": "AJ Lee & Blue Summit at 118 North",
       "category": "events",
       "subcategories": [
@@ -17510,10 +17135,10 @@
         "performing-arts"
       ],
       "shortDescription": "AJ Lee & Blue Summit at 118 North with The Cody Sisters Sunday, November 15, 2026 Doors: 5:30 PM | Show: 7:30 PM 21+ Unless Accompanied by a Parent or Guardian Tickets...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -17767,7 +17392,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-zendog-10th-anniversary-show-at-118-north-d0f04b",
+      "id": "ev-wayne-zendog-10th-anniversary-show-at-118-north-337263",
       "name": "Zendog - 10th Anniversary Show at 118 North",
       "category": "events",
       "subcategories": [
@@ -17776,10 +17401,10 @@
         "performing-arts"
       ],
       "shortDescription": "Zendog - 10th Anniversary Show at 118 North Thursday, November 19, 2026 Doors: 6:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -17844,7 +17469,7 @@
       ]
     },
     {
-      "id": "ev-wayne-smash-palace-at-118-north-50441b",
+      "id": "ev-wayne-smash-palace-at-118-north-052361",
       "name": "Smash Palace at 118 North",
       "category": "events",
       "subcategories": [
@@ -17852,10 +17477,10 @@
         "performing-arts"
       ],
       "shortDescription": "Smash Palace at 118 North with Brother Starling Friday, November 20, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -18039,7 +17664,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-the-miners-at-118-north-29495d",
+      "id": "ev-wayne-the-miners-at-118-north-ca8474",
       "name": "The Miners at 118 North",
       "category": "events",
       "subcategories": [
@@ -18047,10 +17672,10 @@
         "performing-arts"
       ],
       "shortDescription": "The Miners at 118 North Saturday, November 21, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -18077,7 +17702,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-wanderlust-at-118-north-e6cf04",
+      "id": "ev-wayne-wanderlust-at-118-north-60373c",
       "name": "Wanderlust at 118 North",
       "category": "events",
       "subcategories": [
@@ -18085,10 +17710,10 @@
         "performing-arts"
       ],
       "shortDescription": "Wanderlust at 118 North Saturday, November 21, 2026 Doors: 3:00 PM | Show: 4:00 PM 21+ Tickets >> https://tixr.com/pr/social/199184",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -18311,7 +17936,7 @@
       "occurrences": 2
     },
     {
-      "id": "ev-wayne-an-american-classic-bruce-vs-petty-at-118-549493",
+      "id": "ev-wayne-an-american-classic-bruce-vs-petty-at-118-adb6a4",
       "name": "An American Classic: Bruce vs Petty at 118 North",
       "category": "events",
       "subcategories": [
@@ -18321,10 +17946,10 @@
         "sports-outdoors"
       ],
       "shortDescription": "An American Classic: Bruce vs Petty Ft. Born to Run Down The Dream at 118 North Saturday, November 28, 2026 Doors 7:00pm | Show 8:00pm 21+ Unless Accompanied By A Parent...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -18390,7 +18015,7 @@
       ]
     },
     {
-      "id": "ev-wayne-hired-hands-the-eagles-friends-tribute-ban-750d4a",
+      "id": "ev-wayne-hired-hands-the-eagles-friends-tribute-ban-c3ed18",
       "name": "Hired Hands: The Eagles & Friends Tribute Band at 118 North",
       "category": "events",
       "subcategories": [
@@ -18399,10 +18024,10 @@
         "performing-arts"
       ],
       "shortDescription": "Hired Hands: The Eagles & Friends Tribute Band at 118 North Sunday, November 29, 2026 Doors: 6:30 PM | Show: 7:30 PM 21+ Unless Accompanied by Parent or Legal Guardian...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -18429,7 +18054,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-kenn-kweder-the-men-from-wawa-at-118-north-3b1fa3",
+      "id": "ev-wayne-kenn-kweder-the-men-from-wawa-at-118-north-71f444",
       "name": "Kenn Kweder & the Men From Wawa at 118 North",
       "category": "events",
       "subcategories": [
@@ -18437,10 +18062,10 @@
         "performing-arts"
       ],
       "shortDescription": "Kenn Kweder & the Men From Wawa at 118 North Sunday, November 29, 2026 Doors: 3:00 PM | Show: 4:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -18504,7 +18129,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-four-lean-hounds-at-118-north-517d54",
+      "id": "ev-wayne-four-lean-hounds-at-118-north-58c2a0",
       "name": "Four Lean Hounds at 118 North",
       "category": "events",
       "subcategories": [
@@ -18512,10 +18137,10 @@
         "performing-arts"
       ],
       "shortDescription": "Four Lean Hounds at 118 North Thursday, December 3, 2026 Doors: 6:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -18698,7 +18323,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-s-carey-solo-with-strings-at-118-north-ec6443",
+      "id": "ev-wayne-s-carey-solo-with-strings-at-118-north-a0fc89",
       "name": "S. Carey - Solo with Strings at 118 North",
       "category": "events",
       "subcategories": [
@@ -18706,10 +18331,10 @@
         "performing-arts"
       ],
       "shortDescription": "S. Carey - Solo with Strings at 118 North Saturday, December 5, 2026 Doors: 2:00 PM | Show: 3:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -19197,7 +18822,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-the-29ers-holiday-bazaar-at-118-north-f3d67a",
+      "id": "ev-wayne-the-29ers-holiday-bazaar-at-118-north-1ae0f3",
       "name": "The '29ers Holiday Bazaar at 118 North",
       "category": "events",
       "subcategories": [
@@ -19207,10 +18832,10 @@
         "holiday-market"
       ],
       "shortDescription": "The '29ers Holiday Bazaar at 118 North Saturday, December 12, 2026 Doors: 3:00 PM | Show: 4:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -19277,7 +18902,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-fireside-collective-at-118-north-65b633",
+      "id": "ev-wayne-fireside-collective-at-118-north-0316c5",
       "name": "Fireside Collective at 118 North",
       "category": "events",
       "subcategories": [
@@ -19287,10 +18912,10 @@
         "performing-arts"
       ],
       "shortDescription": "Fireside Collective at 118 North Sunday, December 13, 2026 Doors: 6:30 PM | Show: 7:30 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -19625,7 +19250,7 @@
       "occurrences": 3
     },
     {
-      "id": "ev-wayne-basic-cable-nye-dance-party-at-118-north-dc65b2",
+      "id": "ev-wayne-basic-cable-nye-dance-party-at-118-north-e09531",
       "name": "Basic Cable NYE Dance Party at 118 North",
       "category": "events",
       "subcategories": [
@@ -19635,10 +19260,10 @@
         "performing-arts"
       ],
       "shortDescription": "Basic Cable NYE Dance Party at 118 North Thursday, December 31, 2026 Doors: 7:00 PM | Show: 9:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "Wayne, PA",
+      "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
-      "lat": 40.04494,
-      "lng": -75.3882,
+      "lat": 40.044905,
+      "lng": -75.388148,
       "priceTier": 0,
       "tags": [
         "free",
@@ -21147,7 +20772,7 @@
       ],
       "hours": {},
       "startDate": "2027-03-11",
-      "endDate": "",
+      "endDate": "2027-03-12",
       "recurring": "none",
       "venueId": "",
       "phone": "",
@@ -21158,10 +20783,166 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Thu, Mar 11",
+      "schedule": "Daily, Mar 11 - Mar 12",
       "nextDate": "2027-03-11",
       "dates": [
-        "2027-03-11"
+        "2027-03-11",
+        "2027-03-12"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "ev-aldan-agatha-christie-s-a-murder-is-announced-099f96",
+      "name": "Agatha Christie's A Murder is Announced",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "In the quiet, little village of Chipping Cleghorn, an announcement in the local newspaper causes a stir among the residents.",
+      "address": "Colonial Playhouse, Aldan, PA",
+      "town": "Aldan",
+      "lat": 39.916243,
+      "lng": -75.294573,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-21",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://colonialplayhouse.net/a-murder-is-announced/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/nIWNYZAnXkeWu4T7tnoswA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "3 dates, Mar 12 - Mar 21",
+      "nextDate": "2027-03-12",
+      "dates": [
+        "2027-03-12",
+        "2027-03-20",
+        "2027-03-21"
+      ],
+      "occurrences": 3
+    },
+    {
+      "id": "ev-aldan-dividing-the-estate-5b210f",
+      "name": "Dividing the Estate",
+      "category": "events",
+      "subcategories": [
+        "family",
+        "performing-arts",
+        "special-audience"
+      ],
+      "shortDescription": "As a wealthy Texas family's future hangs in the balance, long-buried tensions rise to the surface.",
+      "address": "Colonial Playhouse, Aldan, PA",
+      "town": "Aldan",
+      "lat": 39.916243,
+      "lng": -75.294573,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-21",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://colonialplayhouse.net/dividing-estate/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OQLDEkiOmE2pv9uDnbRTwQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "3 dates, Mar 12 - Mar 21",
+      "nextDate": "2027-03-12",
+      "dates": [
+        "2027-03-12",
+        "2027-03-20",
+        "2027-03-21"
+      ],
+      "occurrences": 3
+    },
+    {
+      "id": "ev-lansdowne-the-magical-music-of-harry-potter-live-1dd142",
+      "name": "The Magical Music of Harry Potter - Live in Concert",
+      "category": "events",
+      "subcategories": [
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Presented by a special guest star from films!Experience the best Oscar-nominated music from the Harry Potter films in a unique concert evening with The Magical Film...",
+      "address": "Lansdowne Theater, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.939389,
+      "lng": -75.27231,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-12",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.etix.com/ticket/p/86500573/the-magical-music-of-harry-potter-live-in-concert-lansdowne-lansdowne-theater",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Iz4gXJq3AES8rmBSTDWBUQ.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Mar 12",
+      "nextDate": "2027-03-12",
+      "dates": [
+        "2027-03-12"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-lansdowne-the-music-of-hans-zimmer-others-live-i-ae2959",
+      "name": "The Music of Hans Zimmer & Others – Live in Concert",
+      "category": "events",
+      "subcategories": [
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Presented by a Pirate from Pirates of the Caribbean!Experience the symphonic world of Hans Zimmer with music from James Bond, The Lion King, The Pirates of the...",
+      "address": "Lansdowne Theater, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.939389,
+      "lng": -75.27231,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-12",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.etix.com/ticket/p/96873769/the-music-of-hans-zimmer-others-live-in-concert-lansdowne-lansdowne-theater",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7kx1pWURbEGGqcosHpRMJA.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Mar 12",
+      "nextDate": "2027-03-12",
+      "dates": [
+        "2027-03-12"
       ],
       "occurrences": 1
     },
@@ -21200,85 +20981,6 @@
       "dates": [
         "2027-03-16"
       ]
-    },
-    {
-      "id": "ev-aldan-agatha-christie-s-a-murder-is-announced-099f96",
-      "name": "Agatha Christie's A Murder is Announced",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "In the quiet, little village of Chipping Cleghorn, an announcement in the local newspaper causes a stir among the residents.",
-      "address": "Colonial Playhouse, Aldan, PA",
-      "town": "Aldan",
-      "lat": 39.916243,
-      "lng": -75.294573,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2027-03-19",
-      "endDate": "2027-03-21",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://colonialplayhouse.net/a-murder-is-announced/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/nIWNYZAnXkeWu4T7tnoswA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Mar 19 - Mar 21",
-      "nextDate": "2027-03-19",
-      "dates": [
-        "2027-03-19",
-        "2027-03-20",
-        "2027-03-21"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-aldan-dividing-the-estate-5b210f",
-      "name": "Dividing the Estate",
-      "category": "events",
-      "subcategories": [
-        "family",
-        "performing-arts",
-        "special-audience"
-      ],
-      "shortDescription": "As a wealthy Texas family's future hangs in the balance, long-buried tensions rise to the surface.",
-      "address": "Colonial Playhouse, Aldan, PA",
-      "town": "Aldan",
-      "lat": 39.916243,
-      "lng": -75.294573,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2027-03-19",
-      "endDate": "2027-03-21",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://colonialplayhouse.net/dividing-estate/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OQLDEkiOmE2pv9uDnbRTwQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Mar 19 - Mar 21",
-      "nextDate": "2027-03-19",
-      "dates": [
-        "2027-03-19",
-        "2027-03-20",
-        "2027-03-21"
-      ],
-      "occurrences": 3
     },
     {
       "id": "ev-wallingford-2nd-edition-of-international-confere-f9e1ba",
