@@ -1,50 +1,9 @@
 {
   "version": 1,
-  "scraped_at": "2026-09-26T13:48:07.178744+00:00",
+  "scraped_at": "2026-09-27T14:46:13.479770+00:00",
   "horizon_days": 180,
-  "event_count": 558,
+  "event_count": 539,
   "listings": [
-    {
-      "id": "ev-havertown-14th-annual-haverford-music-festival-e011ff",
-      "name": "14th Annual Haverford Music Festival",
-      "category": "events",
-      "subcategories": [
-        "beer",
-        "concert",
-        "crafts",
-        "destinations"
-      ],
-      "shortDescription": "WXPN Welcomes The Haverford Music Festival will feature a full day’s worth of entertainment, headlined by Grammy Award–nominated singer-songwriter Shannon McNally; the...",
-      "address": "Havertown, PA",
-      "town": "Havertown",
-      "lat": 39.98963,
-      "lng": -75.308865,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-09-26",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/4598886920435668/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/aCFIhalbpESVCs6GZ85ICQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 26",
-      "nextDate": "2026-09-26",
-      "dates": [
-        "2026-09-26"
-      ],
-      "occurrences": 1
-    },
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
       "name": "2026 Gene Capaldi Lens on Litter Photo Contest",
@@ -65,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-09-26",
+      "startDate": "2026-09-27",
       "endDate": "2026-10-31",
       "recurring": "none",
       "venueId": "",
@@ -77,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Sep 26 - Oct 31",
-      "nextDate": "2026-09-26",
+      "schedule": "Daily, Sep 27 - Oct 31",
+      "nextDate": "2026-09-27",
       "dates": [
-        "2026-09-26",
         "2026-09-27",
         "2026-09-28",
         "2026-09-29",
@@ -117,1228 +75,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 36
-    },
-    {
-      "id": "ev-glen-mills-bird-walks-d33ffe",
-      "name": "Bird Walks",
-      "category": "events",
-      "subcategories": [
-        "nature",
-        "outdoor-recreation",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Newlin Grist Mill and Wild Birds Unlimited (Glen Mills) have teamed up to explore the wonderful world of bird life!",
-      "address": "Newlin Grist Mill, Glen Mills, PA",
-      "town": "Glen Mills",
-      "lat": 39.890529,
-      "lng": -75.506043,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-09-26",
-      "endDate": "2026-12-19",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://newlingristmill.org/bird-walks/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/AuYeeb8Vr0-G-xfSB_aimg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Saturdays, Sep 26 - Dec 19",
-      "nextDate": "2026-09-26",
-      "dates": [
-        "2026-09-26",
-        "2026-10-31",
-        "2026-11-28",
-        "2026-12-19"
-      ],
-      "occurrences": 4
-    },
-    {
-      "id": "ev-newtown-square-cyo-football-game-fed17b",
-      "name": "CYO Football- Game",
-      "category": "events",
-      "subcategories": [
-        "games",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "CYO Football- Game at Smith Field in Newtown Square.",
-      "address": "Smith Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-26",
-      "endDate": "2026-10-10",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7aa12362-ddd3-40dd-909b-d1a9312ca654.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Saturdays, Sep 26 - Oct 10",
-      "nextDate": "2026-09-26",
-      "dates": [
-        "2026-09-26",
-        "2026-10-03",
-        "2026-10-10"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-newtown-square-cross-country-girls-whippets-invi-c6ec6c",
-      "name": "Cross Country - Girls @ Whippets Invitational",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Cross Country - Girls @ Whippets Invitational",
-      "address": "B. Reed Henderson High School, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-26",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2515a632-7c00-42f3-8b27-d68699bb216f.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 26",
-      "nextDate": "2026-09-26",
-      "dates": [
-        "2026-09-26"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-football-varsity-v-li-lutheran-550601",
-      "name": "Football - Varsity v LI Lutheran",
-      "category": "events",
-      "subcategories": [
-        "faith",
-        "lifestyle",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Football - Varsity v LI Lutheran",
-      "address": "Smith Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-26",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2cc33cba-3382-4f23-9030-5f91033b83c3.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 26",
-      "nextDate": "2026-09-26",
-      "dates": [
-        "2026-09-26"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-glen-mills-habitat-stewards-7411d3",
-      "name": "Habitat Stewards",
-      "category": "events",
-      "subcategories": [
-        "nature",
-        "outdoor-recreation",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Help us make our park a better place for wildlife and people!",
-      "address": "Newlin Grist Mill, Glen Mills, PA",
-      "town": "Glen Mills",
-      "lat": 39.890529,
-      "lng": -75.506043,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-09-26",
-      "endDate": "2026-12-12",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://newlingristmill.org/habitat-stewards/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/O-Y2Bs_Wak2KG7bfvcoJpQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Saturdays, Sep 26 - Dec 12",
-      "nextDate": "2026-09-26",
-      "dates": [
-        "2026-09-26",
-        "2026-10-31",
-        "2026-11-28",
-        "2026-12-12"
-      ],
-      "occurrences": 4
-    },
-    {
-      "id": "ev-wayne-jay-buchanan-at-118-north-eaf9f4",
-      "name": "Jay Buchanan at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Jay Buchanan at 118 North Saturday, September 26, 2026 Doors: 7:30 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-26",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1587683539683424/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ag6z2qVV4ESvc3rJ28oksQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 26",
-      "nextDate": "2026-09-26",
-      "dates": [
-        "2026-09-26"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "lansdowne-farmers-market-lansdowne",
-      "name": "Lansdowne Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "farmers market",
-        "seasonal"
-      ],
-      "shortDescription": "Seasonal Saturday farmers market in Lansdowne selling local produce, baked goods, and handmade items.",
-      "address": "N Lansdowne Ave, Lansdowne, PA 19050",
-      "town": "Lansdowne",
-      "lat": 39.9385,
-      "lng": -75.2725,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "group"
-      ],
-      "featured": true,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "schedule": "Saturdays, summer-fall",
-      "recurring": "weekly",
-      "nextDate": "2026-09-26",
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-09-26"
-      ]
-    },
-    {
-      "id": "ev-villanova-lara-herscovitch-4e6105",
-      "name": "Lara Herscovitch",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "musical"
-      ],
-      "shortDescription": "Musical Lairs House Concert, reservations required, doors open 630, $25-30 suggested donation. http://www.musicallairs.org",
-      "address": "Musical Lairs, Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03733,
-      "lng": -75.34908,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-26",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/107179186?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/afmjqFHBtEeZSMTn19w1tQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 26",
-      "nextDate": "2026-09-26",
-      "dates": [
-        "2026-09-26"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-aldan-lend-me-a-tenor-4d3baa",
-      "name": "Lend Me a Tenor",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts",
-        "theater"
-      ],
-      "shortDescription": "\"Lend Me a Tenor\" is a Tony Award-winning farce by Ken Ludwig, set in 1934 Cleveland, about the chaos that ensues when the Cleveland Grand Opera Company's star tenor,...",
-      "address": "Colonial Playhouse, Aldan, PA",
-      "town": "Aldan",
-      "lat": 39.916243,
-      "lng": -75.294573,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-26",
-      "endDate": "2026-10-11",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://colonialplayhouse.net/lend-me-a-tenor/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/41_m5a63-UyJLoBEGqGeGw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sat, Sun, Sep 26 - Oct 11",
-      "nextDate": "2026-09-26",
-      "dates": [
-        "2026-09-26",
-        "2026-09-27",
-        "2026-10-02",
-        "2026-10-03",
-        "2026-10-04",
-        "2026-10-09",
-        "2026-10-10",
-        "2026-10-11"
-      ],
-      "occurrences": 8
-    },
-    {
-      "id": "ev-wayne-minecraft-acorn-archery-presented-by-array-adbee3",
-      "name": "Minecraft Acorn Archery: Presented by Arrayscape Gaming",
-      "category": "events",
-      "subcategories": [
-        "games",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Winsor Room - Grades 3rd-6th - Registration required Ignite kids' competitive spirit with our thrilling Acorn Archery!",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-26",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17420676",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7f9d4d05-9ee5-4393-8d4b-45ae24c7d1b8.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 26",
-      "nextDate": "2026-09-26",
-      "dates": [
-        "2026-09-26"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
-      "name": "One Time Adult Wheel Class",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "visual-arts"
-      ],
-      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-26",
-      "endDate": "2026-09-27",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154443/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Sep 26 - Sep 27",
-      "nextDate": "2026-09-26",
-      "dates": [
-        "2026-09-26",
-        "2026-09-27"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-wallingford-patrick-connors-and-friends-gallery-12da16",
-      "name": "Patrick Connors and Friends Gallery Talk",
-      "category": "events",
-      "subcategories": [
-        "learning",
-        "talks-lectures",
-        "visual-arts"
-      ],
-      "shortDescription": "Learn about Patrick Connors: his life, his art, his legacy.",
-      "address": "Community Arts Center, Wallingford, PA",
-      "town": "Wallingford",
-      "lat": 39.908927,
-      "lng": -75.365674,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-26",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://communityartscenter.org/events/?pno=",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_wIb-RUrSkSbk9_2-f6MXw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 26",
-      "nextDate": "2026-09-26",
-      "dates": [
-        "2026-09-26"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-peak-season-autumn-botanical-field-journal-12ec8a",
-      "name": "Peak Season: Autumn Botanical Field Journal with Margaret Saylor",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "parks-gardens",
-        "visual-arts"
-      ],
-      "shortDescription": "Late September is the year's most generous moment for the sketchbook artist.",
-      "address": "Wayne Art Center, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.03894,
-      "lng": -75.394446,
-      "priceTier": 3,
-      "tags": [
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-09-26",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://wayneart.org/events/2139/peak-season-autumn-botanical-field-journal-with-margaret-saylor",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/K-5I85VZvEK6nsnZqfSYyA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 26",
-      "nextDate": "2026-09-26",
-      "dates": [
-        "2026-09-26"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-philadelphia-union-vs-orlando-city-sc-36a543",
-      "name": "Philadelphia Union vs. Orlando City SC",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Philadelphia Union vs. Orlando City SC at Subaru Park in Chester.",
-      "address": "Subaru Park, Chester, PA",
-      "town": "Chester",
-      "lat": 39.832686,
-      "lng": -75.378395,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-26",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-859-3100",
-      "website": "",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/EWkGz8meEEC_sHpwGWtexw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 26",
-      "nextDate": "2026-09-26",
-      "dates": [
-        "2026-09-26"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ridley-park-farmers-market",
-      "name": "Ridley Park Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "market",
-        "seasonal"
-      ],
-      "shortDescription": "Seasonal Saturday market in Ridley Park selling produce, baked goods, and local products through the warmer months.",
-      "schedule": "Saturdays, June-October",
-      "recurring": "weekly",
-      "nextDate": "2026-09-26",
-      "address": "105 E Ward St, Ridley Park, PA 19078",
-      "town": "Ridley Park",
-      "lat": 39.8815,
-      "lng": -75.3238,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "kid-friendly"
-      ],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-09-26"
-      ]
-    },
-    {
-      "id": "ev-drexel-hill-rush-hour-caribbean-night-00f5c8",
-      "name": "Rush Hour Caribbean Night",
-      "category": "events",
-      "subcategories": [
-        "dance",
-        "performing-arts"
-      ],
-      "shortDescription": "Come rep where you from .. grab a dancing partner like old times .. bring ya flags , bring your accent .. we wanna see how you party",
-      "address": "Casey's Drexel Hill, Drexel Hill, PA",
-      "town": "Drexel Hill",
-      "lat": 39.959937,
-      "lng": -75.288952,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-26",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/rush-hour-caribbean-night-tickets-2001004833322",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/POfptGTEFEKrbKh2Ia5thw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 26",
-      "nextDate": "2026-09-26",
-      "dates": [
-        "2026-09-26"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-skeletor-karaoke-at-118-north-d4de1e",
-      "name": "Skeletor Karaoke at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "open-mic",
-        "performing-arts"
-      ],
-      "shortDescription": "Skeletor Karaoke at 118 North Saturday, September 26, 2026 Doors & Show: 10:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-26",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/2953938791619739/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/tRmytiFtikKwAGmdx04f6g.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 26",
-      "nextDate": "2026-09-26",
-      "dates": [
-        "2026-09-26"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-varsity-boys-v-gilman-87bcf7",
-      "name": "Soccer - Varsity Boys v Gilman",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - Varsity Boys v Gilman",
-      "address": "Alumni Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-26",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5245d79e-4890-4dba-8b48-8a1090c252b9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 26",
-      "nextDate": "2026-09-26",
-      "dates": [
-        "2026-09-26"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "springfield-farmers-market",
-      "name": "Springfield Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "market",
-        "seasonal"
-      ],
-      "shortDescription": "Springfield's seasonal outdoor market offers fresh produce, flowers, and local goods on weekends through summer and fall.",
-      "schedule": "Weekends, summer-fall",
-      "recurring": "weekly",
-      "nextDate": "2026-09-26",
-      "address": "Springfield, PA 19064",
-      "town": "Springfield",
-      "lat": 39.9312,
-      "lng": -75.3479,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "kid-friendly"
-      ],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-09-26"
-      ]
-    },
-    {
-      "id": "ev-swarthmore-swarthmore-college-field-hockey-vs-mu-de7483",
-      "name": "Swarthmore College Field Hockey vs Muhlenberg College",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Swarthmore College Field Hockey vs Muhlenberg College\\nStreaming Video: https://www.centennialconference.tv/swarthmoreathletics/\\n",
-      "address": "Clothier Field Stadium, Swarthmore, PA",
-      "town": "Swarthmore",
-      "lat": 39.90206,
-      "lng": -75.34991,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-26",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://swarthmoreathletics.com/calendar.aspx?game_id=31081&sport_id=2",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b04bdf65-d71d-4a5a-a43a-cf4f24a1e822.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 26",
-      "nextDate": "2026-09-26",
-      "dates": [
-        "2026-09-26"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "swarthmore-farmers-market-swarthmore",
-      "name": "Swarthmore Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "farmers market",
-        "seasonal"
-      ],
-      "shortDescription": "Weekly warm-season market in Swarthmore featuring regional farmers, food vendors, and live music.",
-      "address": "Swarthmore Town Center, Swarthmore, PA 19081",
-      "town": "Swarthmore",
-      "lat": 39.903,
-      "lng": -75.349,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "group"
-      ],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "schedule": "Saturdays, warm season",
-      "recurring": "weekly",
-      "nextDate": "2026-09-26",
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-09-26"
-      ]
-    },
-    {
-      "id": "ev-villanova-villanova-theatre-presents-the-moors-f94750",
-      "name": "Villanova Theatre Presents The Moors",
-      "category": "events",
-      "subcategories": [
-        "performing-arts",
-        "theater"
-      ],
-      "shortDescription": "On the desolate English moors, a household of women guards its secrets with the same quiet care it devotes to everything else.",
-      "address": "The Mullen Center for the Performing Arts at Villanova University - Court Theatre, Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.036706,
-      "lng": -75.344557,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-26",
-      "endDate": "2026-10-04",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanovatheatre.org/the-moors/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/GiDeR7SDGkmE5RTOl_xOpQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "6 dates, Sep 26 - Oct 4",
-      "nextDate": "2026-09-26",
-      "dates": [
-        "2026-09-26",
-        "2026-09-27",
-        "2026-10-01",
-        "2026-10-02",
-        "2026-10-03",
-        "2026-10-04"
-      ],
-      "occurrences": 6
-    },
-    {
-      "id": "ev-villanova-villanova-university-football-vs-colga-430acf",
-      "name": "Villanova University Football vs Colgate",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Villanova University Football vs Colgate Tickets: https://villanova.evenue.net/event/FB26/02",
-      "address": "Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03176,
-      "lng": -75.34903,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-26",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanova.com/calendar.aspx?game_id=17565&amp;sport_id=3",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b589a407-62da-4341-bcf8-21c843bb5002.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 26",
-      "nextDate": "2026-09-26",
-      "dates": [
-        "2026-09-26"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-villanova-university-men-s-cross-count-8c7049",
-      "name": "Villanova University Men's Cross Country at Meadows Challenge",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Villanova University Men's Cross Country at Meadows Challenge",
-      "address": "Princeton, Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03176,
-      "lng": -75.34903,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-26",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanova.com/calendar.aspx?game_id=17847&amp;sport_id=6",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2515a632-7c00-42f3-8b27-d68699bb216f.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 26",
-      "nextDate": "2026-09-26",
-      "dates": [
-        "2026-09-26"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-villanova-university-softball-vs-blue-1710ff",
-      "name": "Villanova University Softball vs Blue-White Intersquad",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Villanova University Softball vs Blue-White Intersquad",
-      "address": "Villanova Softball Complex, Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03176,
-      "lng": -75.34903,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-26",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanova.com/calendar.aspx?game_id=17880&amp;sport_id=13",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/be4ab81a-0e8b-4347-9440-21025f6e3fee.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 26",
-      "nextDate": "2026-09-26",
-      "dates": [
-        "2026-09-26"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-villanova-university-women-s-soccer-vs-772cbf",
-      "name": "Villanova University Women's Soccer vs St. John's University",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Villanova University Women's Soccer vs St. John's University",
-      "address": "Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03176,
-      "lng": -75.34903,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-26",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanova.com/calendar.aspx?game_id=17775&amp;sport_id=18",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5245d79e-4890-4dba-8b48-8a1090c252b9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 26",
-      "nextDate": "2026-09-26",
-      "dates": [
-        "2026-09-26"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-villanova-wildcats-football-vs-colgate-07e0b0",
-      "name": "Villanova Wildcats Football vs. Colgate University Raiders Football",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Villanova Wildcats Football vs. Colgate University Raiders Football at Villanova Stadium in Villanova.",
-      "address": "Villanova Stadium, Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03494,
-      "lng": -75.34058,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-26",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cdY2IvTGd0mqVlS8paqDYw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 26",
-      "nextDate": "2026-09-26",
-      "dates": [
-        "2026-09-26"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-water-polo-varsity-boys-beast-of-1953ae",
-      "name": "Water Polo - Varsity Boys Beast of the East",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Water Polo - Varsity Boys Beast of the East",
-      "address": "Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-26",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/359768a4-b327-4b56-9756-8467f4ba4030.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 26",
-      "nextDate": "2026-09-26",
-      "dates": [
-        "2026-09-26"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-widener-pride-field-hockey-vs-montclair-36d1d7",
-      "name": "Widener Pride: Field Hockey vs Montclair State",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Field Hockey vs Montclair State Streaming Video: https://gomacsports.tv/widenerpride/",
-      "address": "Edith R. Dixon Field, Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-26",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14446&amp;sport_id=9",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ec02e2a0-a935-4331-916c-5ba19bffa75b.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 26",
-      "nextDate": "2026-09-26",
-      "dates": [
-        "2026-09-26"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-widener-pride-men-s-soccer-vs-misericord-a44336",
-      "name": "Widener Pride: Men's Soccer vs Misericordia",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Men's Soccer vs Misericordia Streaming Video: https://gomacsports.tv/widenerpride/",
-      "address": "Elizabeth J. Hirschmann Field at Leslie C. Quick Jr. Stadium, Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-26",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14396&amp;sport_id=7",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b4f13205-36d4-456b-a2cd-4c796b529819.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 26",
-      "nextDate": "2026-09-26",
-      "dates": [
-        "2026-09-26"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-swarthmore-widener-pride-women-s-volleyball-vs-s-3594ce",
-      "name": "Widener Pride: Women's Volleyball vs Salisbury",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Women's Volleyball vs Salisbury",
-      "address": "Swarthmore, PA",
-      "town": "Swarthmore",
-      "lat": 39.90206,
-      "lng": -75.34991,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-26",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14545&amp;sport_id=13",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c0a9941a-c1ec-4e56-aed9-a08e58729f67.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sep 26",
-      "nextDate": "2026-09-26",
-      "dates": [
-        "2026-09-26"
-      ],
-      "occurrences": 1
+      "occurrences": 35
     },
     {
       "id": "ev-lansdowne-bread-salt-drawing-experience-ef1301",
@@ -1376,6 +113,51 @@
         "2026-09-27"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-aldan-lend-me-a-tenor-4d3baa",
+      "name": "Lend Me a Tenor",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "\"Lend Me a Tenor\" is a Tony Award-winning farce by Ken Ludwig, set in 1934 Cleveland, about the chaos that ensues when the Cleveland Grand Opera Company's star tenor,...",
+      "address": "Colonial Playhouse, Aldan, PA",
+      "town": "Aldan",
+      "lat": 39.916243,
+      "lng": -75.294573,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-27",
+      "endDate": "2026-10-11",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://colonialplayhouse.net/lend-me-a-tenor/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/41_m5a63-UyJLoBEGqGeGw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Sat, Sun, Sep 27 - Oct 11",
+      "nextDate": "2026-09-27",
+      "dates": [
+        "2026-09-27",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11"
+      ],
+      "occurrences": 7
     },
     {
       "id": "ev-media-levate-piano-trio-da0015",
@@ -1482,6 +264,44 @@
       "website": "https://www.facebook.com/events/929248463455509/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/I1oeNKJI8EuIAIyvuql1Ng.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Sep 27",
+      "nextDate": "2026-09-27",
+      "dates": [
+        "2026-09-27"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
+      "name": "One Time Adult Wheel Class",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "visual-arts"
+      ],
+      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-27",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/154443/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -1717,6 +537,85 @@
       "nextDate": "2026-09-27",
       "dates": [
         "2026-09-27"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-villanova-villanova-theatre-presents-the-moors-f94750",
+      "name": "Villanova Theatre Presents The Moors",
+      "category": "events",
+      "subcategories": [
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "On the desolate English moors, a household of women guards its secrets with the same quiet care it devotes to everything else.",
+      "address": "The Mullen Center for the Performing Arts at Villanova University - Court Theatre, Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.036706,
+      "lng": -75.344557,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-27",
+      "endDate": "2026-10-04",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://villanovatheatre.org/the-moors/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/GiDeR7SDGkmE5RTOl_xOpQ.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "5 dates, Sep 27 - Oct 4",
+      "nextDate": "2026-09-27",
+      "dates": [
+        "2026-09-27",
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04"
+      ],
+      "occurrences": 5
+    },
+    {
+      "id": "ev-wayne-3d-printer-for-teens-b6e34c",
+      "name": "3D Printer for Teens",
+      "category": "events",
+      "subcategories": [
+        "special-audience"
+      ],
+      "shortDescription": "Drop in to use the 3D printer. First come, first served. For grades 6-12. Teen Room",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-28",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17529574",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f8c07f5c-600d-4b4d-b145-085ea8475199.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mon, Sep 28",
+      "nextDate": "2026-09-28",
+      "dates": [
+        "2026-09-28"
       ],
       "occurrences": 1
     },
@@ -2268,6 +1167,50 @@
         "2026-09-28"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-yoga-for-all-ages-10d418",
+      "name": "Yoga For All Ages",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "family",
+        "fitness",
+        "learning"
+      ],
+      "shortDescription": "Yoga for all ages Mondays, 9/28, 10/26, 11/23, 12/28 7:00pm-8:00pm Winsor Room Class is free!",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-09-28",
+      "endDate": "2026-12-28",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17559946",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b1998c8e-1669-4f37-a93a-b60812435940.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mondays, Sep 28 - Dec 28",
+      "nextDate": "2026-09-28",
+      "dates": [
+        "2026-09-28",
+        "2026-10-26",
+        "2026-11-23",
+        "2026-12-28"
+      ],
+      "occurrences": 4
     },
     {
       "id": "ev-media-a-day-in-the-life-of-me-13a90f",
@@ -4203,7 +3146,7 @@
       ],
       "hours": {},
       "startDate": "2026-10-01",
-      "endDate": "2027-03-11",
+      "endDate": "2027-03-25",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -4214,7 +3157,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Thursdays, Oct 1 - Mar 11",
+      "schedule": "Thursdays, Oct 1 - Mar 25",
       "nextDate": "2026-10-01",
       "dates": [
         "2026-10-01",
@@ -4240,9 +3183,10 @@
         "2027-02-18",
         "2027-02-25",
         "2027-03-04",
-        "2027-03-11"
+        "2027-03-11",
+        "2027-03-25"
       ],
-      "occurrences": 24
+      "occurrences": 25
     },
     {
       "id": "ev-newtown-square-volleyball-ms-a-v-shipley-c8d437",
@@ -4903,6 +3847,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-newtown-square-cyo-football-game-fed17b",
+      "name": "CYO Football- Game",
+      "category": "events",
+      "subcategories": [
+        "games",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "CYO Football- Game at Smith Field in Newtown Square.",
+      "address": "Smith Field, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-10",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7aa12362-ddd3-40dd-909b-d1a9312ca654.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Saturdays, Oct 3 - Oct 10",
+      "nextDate": "2026-10-03",
+      "dates": [
+        "2026-10-03",
+        "2026-10-10"
+      ],
+      "occurrences": 2
+    },
+    {
       "id": "ev-chester-environmental-youth-corps-b667f7",
       "name": "Environmental Youth Corps",
       "category": "events",
@@ -4985,6 +3969,44 @@
       "occurrences": 1
     },
     {
+      "id": "lansdowne-farmers-market-lansdowne",
+      "name": "Lansdowne Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "farmers market",
+        "seasonal"
+      ],
+      "shortDescription": "Seasonal Saturday farmers market in Lansdowne selling local produce, baked goods, and handmade items.",
+      "address": "N Lansdowne Ave, Lansdowne, PA 19050",
+      "town": "Lansdowne",
+      "lat": 39.9385,
+      "lng": -75.2725,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "group"
+      ],
+      "featured": true,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "schedule": "Saturdays, summer-fall",
+      "recurring": "weekly",
+      "nextDate": "2026-10-03",
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-10-03"
+      ]
+    },
+    {
       "id": "ev-wayne-line-into-color-not-revealing-everything-w-2a3002",
       "name": "Line Into Color-Not Revealing Everything with Abby Ober",
       "category": "events",
@@ -5063,6 +4085,44 @@
       "occurrences": 1
     },
     {
+      "id": "ridley-park-farmers-market",
+      "name": "Ridley Park Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "market",
+        "seasonal"
+      ],
+      "shortDescription": "Seasonal Saturday market in Ridley Park selling produce, baked goods, and local products through the warmer months.",
+      "schedule": "Saturdays, June-October",
+      "recurring": "weekly",
+      "nextDate": "2026-10-03",
+      "address": "105 E Ward St, Ridley Park, PA 19078",
+      "town": "Ridley Park",
+      "lat": 39.8815,
+      "lng": -75.3238,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "kid-friendly"
+      ],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-10-03"
+      ]
+    },
+    {
       "id": "ev-swarthmore-spc-fall-fair-the-whole-church-welcom-a8169b",
       "name": "SPC Fall Fair: The Whole Church Welcoming the Whole Community",
       "category": "events",
@@ -5105,6 +4165,44 @@
       "occurrences": 1
     },
     {
+      "id": "springfield-farmers-market",
+      "name": "Springfield Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "market",
+        "seasonal"
+      ],
+      "shortDescription": "Springfield's seasonal outdoor market offers fresh produce, flowers, and local goods on weekends through summer and fall.",
+      "schedule": "Weekends, summer-fall",
+      "recurring": "weekly",
+      "nextDate": "2026-10-03",
+      "address": "Springfield, PA 19064",
+      "town": "Springfield",
+      "lat": 39.9312,
+      "lng": -75.3479,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "kid-friendly"
+      ],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-10-03"
+      ]
+    },
+    {
       "id": "ev-media-summer-movie-night-monsters-inc-67407d",
       "name": "Summer Movie Night - Monsters Inc",
       "category": "events",
@@ -5141,6 +4239,44 @@
         "2026-10-03"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "swarthmore-farmers-market-swarthmore",
+      "name": "Swarthmore Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "farmers market",
+        "seasonal"
+      ],
+      "shortDescription": "Weekly warm-season market in Swarthmore featuring regional farmers, food vendors, and live music.",
+      "address": "Swarthmore Town Center, Swarthmore, PA 19081",
+      "town": "Swarthmore",
+      "lat": 39.903,
+      "lng": -75.349,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "group"
+      ],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "schedule": "Saturdays, warm season",
+      "recurring": "weekly",
+      "nextDate": "2026-10-03",
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-10-03"
+      ]
     },
     {
       "id": "ev-wayne-teen-workshop-jewelry-ring-in-a-day-with-c-ade050",
@@ -8031,6 +7167,43 @@
       "website": "https://swarthmoreathletics.com/calendar.aspx?game_id=31101&sport_id=18",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f5a7f77d-0c51-4a57-a1ba-4bad118eb6f1.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 10",
+      "nextDate": "2026-10-10",
+      "dates": [
+        "2026-10-10"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-time-to-shine-artist-opening-reception-5296ba",
+      "name": "Time to Shine Artist Opening Reception",
+      "category": "events",
+      "subcategories": [
+        "visual-arts"
+      ],
+      "shortDescription": "Time to Shine Artist Opening Reception at Gryphon Cafe in Wayne.",
+      "address": "Gryphon Cafe, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044316,
+      "lng": -75.388226,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-10",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/CcZet6xALkmnQM-T_IYNEw.medium.jpg",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -14866,6 +14039,48 @@
       "occurrences": 1
     },
     {
+      "id": "ev-glen-mills-bird-walks-d33ffe",
+      "name": "Bird Walks",
+      "category": "events",
+      "subcategories": [
+        "nature",
+        "outdoor-recreation",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Newlin Grist Mill and Wild Birds Unlimited (Glen Mills) have teamed up to explore the wonderful world of bird life!",
+      "address": "Newlin Grist Mill, Glen Mills, PA",
+      "town": "Glen Mills",
+      "lat": 39.890529,
+      "lng": -75.506043,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-10-31",
+      "endDate": "2026-12-19",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://newlingristmill.org/bird-walks/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/AuYeeb8Vr0-G-xfSB_aimg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Saturdays, Oct 31 - Dec 19",
+      "nextDate": "2026-10-31",
+      "dates": [
+        "2026-10-31",
+        "2026-11-28",
+        "2026-12-19"
+      ],
+      "occurrences": 3
+    },
+    {
       "id": "ev-newtown-square-cross-country-girls-paisaa-champs-f733b1",
       "name": "Cross Country - Girls @ PAISAA Champs",
       "category": "events",
@@ -14902,6 +14117,48 @@
         "2026-10-31"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-glen-mills-habitat-stewards-7411d3",
+      "name": "Habitat Stewards",
+      "category": "events",
+      "subcategories": [
+        "nature",
+        "outdoor-recreation",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Help us make our park a better place for wildlife and people!",
+      "address": "Newlin Grist Mill, Glen Mills, PA",
+      "town": "Glen Mills",
+      "lat": 39.890529,
+      "lng": -75.506043,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-10-31",
+      "endDate": "2026-12-12",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://newlingristmill.org/habitat-stewards/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/O-Y2Bs_Wak2KG7bfvcoJpQ.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Saturdays, Oct 31 - Dec 12",
+      "nextDate": "2026-10-31",
+      "dates": [
+        "2026-10-31",
+        "2026-11-28",
+        "2026-12-12"
+      ],
+      "occurrences": 3
     },
     {
       "id": "ev-wayne-starting-strong-building-a-painting-from-t-b3a3fe",
@@ -20772,7 +20029,7 @@
       ],
       "hours": {},
       "startDate": "2027-03-11",
-      "endDate": "2027-03-12",
+      "endDate": "2027-03-13",
       "recurring": "none",
       "venueId": "",
       "phone": "",
@@ -20783,13 +20040,14 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Mar 11 - Mar 12",
+      "schedule": "Daily, Mar 11 - Mar 13",
       "nextDate": "2027-03-11",
       "dates": [
         "2027-03-11",
-        "2027-03-12"
+        "2027-03-12",
+        "2027-03-13"
       ],
-      "occurrences": 2
+      "occurrences": 3
     },
     {
       "id": "ev-aldan-agatha-christie-s-a-murder-is-announced-099f96",
@@ -20823,7 +20081,7 @@
       "nextDate": "2027-03-12",
       "dates": [
         "2027-03-12",
-        "2027-03-20",
+        "2027-03-13",
         "2027-03-21"
       ],
       "occurrences": 3
@@ -20865,7 +20123,7 @@
       "nextDate": "2027-03-12",
       "dates": [
         "2027-03-12",
-        "2027-03-20",
+        "2027-03-13",
         "2027-03-21"
       ],
       "occurrences": 3
