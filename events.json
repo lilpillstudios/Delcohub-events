@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-09-27T14:46:13.479770+00:00",
+  "scraped_at": "2026-09-28T17:43:28.623003+00:00",
   "horizon_days": 180,
-  "event_count": 539,
+  "event_count": 531,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-09-27",
+      "startDate": "2026-09-28",
       "endDate": "2026-10-31",
       "recurring": "none",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Sep 27 - Oct 31",
-      "nextDate": "2026-09-27",
+      "schedule": "Daily, Sep 28 - Oct 31",
+      "nextDate": "2026-09-28",
       "dates": [
-        "2026-09-27",
         "2026-09-28",
         "2026-09-29",
         "2026-09-30",
@@ -75,511 +74,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 35
-    },
-    {
-      "id": "ev-lansdowne-bread-salt-drawing-experience-ef1301",
-      "name": "Bread & Salt Drawing Experience",
-      "category": "events",
-      "subcategories": [
-        "visual-arts"
-      ],
-      "shortDescription": "With food as the inspiration, participants will engage in a still life sketch club inspired by the Bread and Salt exhibition.",
-      "address": "2020 Gallery, Lansdowne, PA",
-      "town": "Lansdowne",
-      "lat": 39.935459,
-      "lng": -75.272392,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-27",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/bread-salt-drawing-experience-tickets-2000729245030",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7NAly9cyXEKE5SRFP2JY9g.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Sep 27",
-      "nextDate": "2026-09-27",
-      "dates": [
-        "2026-09-27"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-aldan-lend-me-a-tenor-4d3baa",
-      "name": "Lend Me a Tenor",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts",
-        "theater"
-      ],
-      "shortDescription": "\"Lend Me a Tenor\" is a Tony Award-winning farce by Ken Ludwig, set in 1934 Cleveland, about the chaos that ensues when the Cleveland Grand Opera Company's star tenor,...",
-      "address": "Colonial Playhouse, Aldan, PA",
-      "town": "Aldan",
-      "lat": 39.916243,
-      "lng": -75.294573,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-27",
-      "endDate": "2026-10-11",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://colonialplayhouse.net/lend-me-a-tenor/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/41_m5a63-UyJLoBEGqGeGw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sat, Sun, Sep 27 - Oct 11",
-      "nextDate": "2026-09-27",
-      "dates": [
-        "2026-09-27",
-        "2026-10-02",
-        "2026-10-03",
-        "2026-10-04",
-        "2026-10-09",
-        "2026-10-10",
-        "2026-10-11"
-      ],
-      "occurrences": 7
-    },
-    {
-      "id": "ev-media-levate-piano-trio-da0015",
-      "name": "Levate Piano Trio",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Mozart, Divertimento in Bb Piazzolla, Four Seasons Mendelssohn, Piano Trio in d minor Classically trained musicians excited to share their mastery of violin, cello, and...",
-      "address": "St. Mary Magdalene Church, Media, PA",
-      "town": "Media",
-      "lat": 39.946343,
-      "lng": -75.408261,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-27",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://levatetrio.com/events/vq68ggndeauegbgak7wi2e8ic8hmyb",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IAb1ajeHdkSHC_bP8bSaJQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Sep 27",
-      "nextDate": "2026-09-27",
-      "dates": [
-        "2026-09-27"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-matinee-joseph-parsons-friends-at-118-nort-0d842d",
-      "name": "Matinee: Joseph Parsons & Friends at 118 North",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Matinee: Joseph Parsons & Friends at 118 North Sunday, September 27, 2026 Doors: 2:00 PM | Show: 3:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-27",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1982200792417523/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/guKr3FCyS0WPD1M-ji31iw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Sep 27",
-      "nextDate": "2026-09-27",
-      "dates": [
-        "2026-09-27"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-on-the-lash-at-118-north-f261f1",
-      "name": "On the Lash at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "On the Lash at 118 North Sunday, September 27, 2026 Doors: 6:00 PM | Show: 7:00 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-27",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/929248463455509/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/I1oeNKJI8EuIAIyvuql1Ng.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Sep 27",
-      "nextDate": "2026-09-27",
-      "dates": [
-        "2026-09-27"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-adult-wheel-class-252a18",
-      "name": "One Time Adult Wheel Class",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "visual-arts"
-      ],
-      "shortDescription": "Join Blue Skies Pottery for a one-time introductory wheel-throwing class (90 minutes).",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-27",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/154443/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yWP94N3kn0WQWiaGgfmdrg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Sep 27",
-      "nextDate": "2026-09-27",
-      "dates": [
-        "2026-09-27"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-painting-beautiful-landscapes-on-location-4dbc96",
-      "name": "Painting Beautiful Landscapes On Location with Marc Anderson",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "visual-arts"
-      ],
-      "shortDescription": "Learn how to paint beautiful landscapes on location!",
-      "address": "Wayne Art Center, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.03894,
-      "lng": -75.394446,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-27",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://wayneart.org/events/2100/painting-beautiful-landscapes-on-location-with-marc-anderson",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/TSMbcDeNP0W8dj73xUB7Ew.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Sep 27",
-      "nextDate": "2026-09-27",
-      "dates": [
-        "2026-09-27"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-park-clean-up-96adb4",
-      "name": "Park Clean-Up",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "volunteering"
-      ],
-      "shortDescription": "Park Clean-Up at Heritage Park at 5th and Broomall in Media.",
-      "address": "Heritage Park at 5th and Broomall, Media, PA",
-      "town": "Media",
-      "lat": 39.91678,
-      "lng": -75.38769,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-27",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.mediaborough.com/calendar.aspx?EID=2996",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5158b597-ded0-4f45-9b50-979221b639e6.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Sep 27",
-      "nextDate": "2026-09-27",
-      "dates": [
-        "2026-09-27"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-rooted-a-women-s-wellness-retreat-1f40f9",
-      "name": "ROOTED: A Women's Wellness Retreat",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "festival",
-        "fitness",
-        "health-wellness"
-      ],
-      "shortDescription": "ROOTED: A Women’s Wellness Retreat is a half-day experience designed to help women and gender-diverse participants move, learn, connect, and reconnect with themselves.",
-      "address": "Tyler Arboretum, Media, PA",
-      "town": "Media",
-      "lat": 39.935841,
-      "lng": -75.429977,
-      "priceTier": 3,
-      "tags": [
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-09-27",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "(610) 566-9134",
-      "website": "https://www.mindfulmovementphysicaltherapy.com/rooted-2026",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/whfjXHI00ESV3vwFrvI9dw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Sep 27",
-      "nextDate": "2026-09-27",
-      "dates": [
-        "2026-09-27"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-still-life-in-the-interior-with-peter-van-eb800a",
-      "name": "Still Life in the Interior with Peter Van Dyck",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Still-life in the Interior (or Still-life in Context)",
-      "address": "Wayne Art Center, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.03894,
-      "lng": -75.394446,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-27",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://wayneart.org/events/2113/still-life-in-the-interior-with-peter-van-dyck",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cifgJJ3D-UawcW8uR8JDrA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Sep 27",
-      "nextDate": "2026-09-27",
-      "dates": [
-        "2026-09-27"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-the-bourbon-buttercream-social-a20d3b",
-      "name": "The Bourbon & Buttercream Social",
-      "category": "events",
-      "subcategories": [
-        "crafts",
-        "food",
-        "food-drink"
-      ],
-      "shortDescription": "Join us for an unforgettable evening where handcrafted desserts meet expertly curated bourbon pairings in a warm, intimate setting.",
-      "address": "Kings Mills, Media, PA",
-      "town": "Media",
-      "lat": 39.890539,
-      "lng": -75.431039,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-27",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/the-bourbon-buttercream-social-tickets-1992696865968",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/AfQPHS-s80uBU7RpjTG4qA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Sep 27",
-      "nextDate": "2026-09-27",
-      "dates": [
-        "2026-09-27"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wallingford-tri-state-jazz-society-concert-black-9e4949",
-      "name": "Tri State Jazz Society Concert - Blackbird Society Orchestra",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "The 12- to 14-piece Blackbird Society Orchestra has become one of Tri-State's favorites.",
-      "address": "Community Arts Center, Wallingford, PA",
-      "town": "Wallingford",
-      "lat": 39.908927,
-      "lng": -75.365674,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-27",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://communityartscenter.org/events/?pno=",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/AEVAWD96QUSe_-Wiy48NhQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Sep 27",
-      "nextDate": "2026-09-27",
-      "dates": [
-        "2026-09-27"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-villanova-theatre-presents-the-moors-f94750",
-      "name": "Villanova Theatre Presents The Moors",
-      "category": "events",
-      "subcategories": [
-        "performing-arts",
-        "theater"
-      ],
-      "shortDescription": "On the desolate English moors, a household of women guards its secrets with the same quiet care it devotes to everything else.",
-      "address": "The Mullen Center for the Performing Arts at Villanova University - Court Theatre, Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.036706,
-      "lng": -75.344557,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-09-27",
-      "endDate": "2026-10-04",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanovatheatre.org/the-moors/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/GiDeR7SDGkmE5RTOl_xOpQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "5 dates, Sep 27 - Oct 4",
-      "nextDate": "2026-09-27",
-      "dates": [
-        "2026-09-27",
-        "2026-10-01",
-        "2026-10-02",
-        "2026-10-03",
-        "2026-10-04"
-      ],
-      "occurrences": 5
+      "occurrences": 34
     },
     {
       "id": "ev-wayne-3d-printer-for-teens-b6e34c",
@@ -669,9 +164,10 @@
         "2027-02-22",
         "2027-03-01",
         "2027-03-08",
+        "2027-03-15",
         "2027-03-22"
       ],
-      "occurrences": 18
+      "occurrences": 19
     },
     {
       "id": "ev-newtown-square-field-hockey-ms-a-v-villa-maria-ab6dc4",
@@ -1580,9 +1076,10 @@
         "2027-02-23",
         "2027-03-02",
         "2027-03-09",
+        "2027-03-16",
         "2027-03-23"
       ],
-      "occurrences": 25
+      "occurrences": 26
     },
     {
       "id": "ev-bryn-mawr-parents-association-mahjong-open-play-f4fb55",
@@ -1798,9 +1295,10 @@
         "2027-02-23",
         "2027-03-02",
         "2027-03-09",
+        "2027-03-16",
         "2027-03-23"
       ],
-      "occurrences": 25
+      "occurrences": 26
     },
     {
       "id": "ev-wayne-uncuffed-potential-free-your-mind-change-y-360cd3",
@@ -3006,6 +2504,50 @@
       "occurrences": 1
     },
     {
+      "id": "ev-bryn-mawr-one-time-adult-wheel-class-edcc01",
+      "name": "One Time Adult Wheel Class",
+      "category": "events",
+      "subcategories": [
+        "arts"
+      ],
+      "shortDescription": "Join our one time class to learn the basics of wheel throwing!",
+      "address": "Blue Skies Pottery - Bryn Mawr, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-01",
+      "endDate": "2026-11-26",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/160849/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SvgMJsHbeESUI8oHFgSYBw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thursdays, Oct 1 - Nov 26",
+      "nextDate": "2026-10-01",
+      "dates": [
+        "2026-10-01",
+        "2026-10-08",
+        "2026-10-15",
+        "2026-10-22",
+        "2026-10-29",
+        "2026-11-05",
+        "2026-11-12",
+        "2026-11-19",
+        "2026-11-26"
+      ],
+      "occurrences": 9
+    },
+    {
       "id": "ev-wayne-preschool-storytime-craft-ages-3-5-years-7202f3",
       "name": "Preschool Storytime & Craft (Ages 3-5 years)",
       "category": "events",
@@ -3184,9 +2726,50 @@
         "2027-02-25",
         "2027-03-04",
         "2027-03-11",
+        "2027-03-18",
         "2027-03-25"
       ],
-      "occurrences": 25
+      "occurrences": 26
+    },
+    {
+      "id": "ev-villanova-villanova-theatre-presents-the-moors-f94750",
+      "name": "Villanova Theatre Presents The Moors",
+      "category": "events",
+      "subcategories": [
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "On the desolate English moors, a household of women guards its secrets with the same quiet care it devotes to everything else.",
+      "address": "The Mullen Center for the Performing Arts at Villanova University - Court Theatre, Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.036706,
+      "lng": -75.344557,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-04",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://villanovatheatre.org/the-moors/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/GiDeR7SDGkmE5RTOl_xOpQ.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Oct 1 - Oct 4",
+      "nextDate": "2026-10-01",
+      "dates": [
+        "2026-10-01",
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04"
+      ],
+      "occurrences": 4
     },
     {
       "id": "ev-newtown-square-volleyball-ms-a-v-shipley-c8d437",
@@ -3419,6 +3002,50 @@
         "2026-10-02"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-aldan-lend-me-a-tenor-4d3baa",
+      "name": "Lend Me a Tenor",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "\"Lend Me a Tenor\" is a Tony Award-winning farce by Ken Ludwig, set in 1934 Cleveland, about the chaos that ensues when the Cleveland Grand Opera Company's star tenor,...",
+      "address": "Colonial Playhouse, Aldan, PA",
+      "town": "Aldan",
+      "lat": 39.916243,
+      "lng": -75.294573,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-02",
+      "endDate": "2026-10-11",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://colonialplayhouse.net/lend-me-a-tenor/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/41_m5a63-UyJLoBEGqGeGw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Sat, Sun, Oct 2 - Oct 11",
+      "nextDate": "2026-10-02",
+      "dates": [
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11"
+      ],
+      "occurrences": 6
     },
     {
       "id": "ev-newtown-square-postponed-water-polo-jv-boys-ga-b2b5f8",
@@ -18864,6 +18491,47 @@
       "occurrences": 1
     },
     {
+      "id": "ev-bryn-mawr-middle-school-division-director-winter-2d2d2d",
+      "name": "Middle School Division Director Winter Update",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "film",
+        "learning",
+        "special-audience"
+      ],
+      "shortDescription": "Middle School Division Director Winter Update at The Agnes Irwin School in Bryn Mawr.",
+      "address": "The Agnes Irwin School, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.028689,
+      "lng": -75.350103,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-19",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-801-1869",
+      "website": "https://agnesirwin-org.zoom.us/j/96007583960",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2ed69edc-742c-437f-9653-e15465e4c53e.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Jan 19",
+      "nextDate": "2027-01-19",
+      "dates": [
+        "2027-01-19"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-upper-school-welcome-reception-02f58c",
       "name": "Upper School Welcome Reception",
       "category": "events",
@@ -20029,7 +19697,7 @@
       ],
       "hours": {},
       "startDate": "2027-03-11",
-      "endDate": "2027-03-13",
+      "endDate": "2027-03-12",
       "recurring": "none",
       "venueId": "",
       "phone": "",
@@ -20040,14 +19708,13 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Mar 11 - Mar 13",
+      "schedule": "Daily, Mar 11 - Mar 12",
       "nextDate": "2027-03-11",
       "dates": [
         "2027-03-11",
-        "2027-03-12",
-        "2027-03-13"
+        "2027-03-12"
       ],
-      "occurrences": 3
+      "occurrences": 2
     },
     {
       "id": "ev-aldan-agatha-christie-s-a-murder-is-announced-099f96",
@@ -20066,8 +19733,8 @@
       ],
       "hours": {},
       "startDate": "2027-03-12",
-      "endDate": "2027-03-21",
-      "recurring": "none",
+      "endDate": "2027-03-26",
+      "recurring": "weekly",
       "venueId": "",
       "phone": "",
       "website": "https://colonialplayhouse.net/a-murder-is-announced/",
@@ -20077,56 +19744,16 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "3 dates, Mar 12 - Mar 21",
+      "schedule": "Fri, Sat, Sun, Mar 12 - Mar 26",
       "nextDate": "2027-03-12",
       "dates": [
         "2027-03-12",
-        "2027-03-13",
-        "2027-03-21"
+        "2027-03-19",
+        "2027-03-20",
+        "2027-03-21",
+        "2027-03-26"
       ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-aldan-dividing-the-estate-5b210f",
-      "name": "Dividing the Estate",
-      "category": "events",
-      "subcategories": [
-        "family",
-        "performing-arts",
-        "special-audience"
-      ],
-      "shortDescription": "As a wealthy Texas family's future hangs in the balance, long-buried tensions rise to the surface.",
-      "address": "Colonial Playhouse, Aldan, PA",
-      "town": "Aldan",
-      "lat": 39.916243,
-      "lng": -75.294573,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2027-03-12",
-      "endDate": "2027-03-21",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://colonialplayhouse.net/dividing-estate/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OQLDEkiOmE2pv9uDnbRTwQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "3 dates, Mar 12 - Mar 21",
-      "nextDate": "2027-03-12",
-      "dates": [
-        "2027-03-12",
-        "2027-03-13",
-        "2027-03-21"
-      ],
-      "occurrences": 3
+      "occurrences": 5
     },
     {
       "id": "ev-lansdowne-the-magical-music-of-harry-potter-live-1dd142",
@@ -20239,6 +19866,84 @@
       "dates": [
         "2027-03-16"
       ]
+    },
+    {
+      "id": "ev-newtown-square-scheduling-assemblies-for-rising-a2d88f",
+      "name": "Scheduling Assemblies for Rising 10,11 and 12th",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Scheduling Assemblies for Rising 10,11 and 12th",
+      "address": "Theater - Carrafiell Theater, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-16",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Mar 16",
+      "nextDate": "2027-03-16",
+      "dates": [
+        "2027-03-16"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-aldan-dividing-the-estate-5b210f",
+      "name": "Dividing the Estate",
+      "category": "events",
+      "subcategories": [
+        "family",
+        "performing-arts",
+        "special-audience"
+      ],
+      "shortDescription": "As a wealthy Texas family's future hangs in the balance, long-buried tensions rise to the surface.",
+      "address": "Colonial Playhouse, Aldan, PA",
+      "town": "Aldan",
+      "lat": 39.916243,
+      "lng": -75.294573,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-19",
+      "endDate": "2027-03-26",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://colonialplayhouse.net/dividing-estate/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OQLDEkiOmE2pv9uDnbRTwQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Sat, Sun, Mar 19 - Mar 26",
+      "nextDate": "2027-03-19",
+      "dates": [
+        "2027-03-19",
+        "2027-03-20",
+        "2027-03-21",
+        "2027-03-26"
+      ],
+      "occurrences": 4
     },
     {
       "id": "ev-wallingford-2nd-edition-of-international-confere-f9e1ba",
