@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-10-01T16:32:38.919490+00:00",
+  "scraped_at": "2026-10-02T15:53:49.635948+00:00",
   "horizon_days": 180,
-  "event_count": 506,
+  "event_count": 499,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-10-01",
+      "startDate": "2026-10-02",
       "endDate": "2026-10-31",
       "recurring": "none",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Oct 1 - Oct 31",
-      "nextDate": "2026-10-01",
+      "schedule": "Daily, Oct 2 - Oct 31",
+      "nextDate": "2026-10-02",
       "dates": [
-        "2026-10-01",
         "2026-10-02",
         "2026-10-03",
         "2026-10-04",
@@ -71,712 +70,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 31
-    },
-    {
-      "id": "ev-newtown-square-field-hockey-jv-v-smyrna-de-d2d8ea",
-      "name": "Field Hockey - JV v Smyrna (DE)",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Field Hockey - JV v Smyrna (DE) at Buggy Field (Field F) in Newtown Square.",
-      "address": "Buggy Field (Field F), Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-01",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b04bdf65-d71d-4a5a-a43a-cf4f24a1e822.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 1",
-      "nextDate": "2026-10-01",
-      "dates": [
-        "2026-10-01"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-field-hockey-varsity-v-smyrna-de-2b23e3",
-      "name": "Field Hockey - Varsity v Smyrna (DE)",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Field Hockey - Varsity v Smyrna (DE)",
-      "address": "Buggy Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-01",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b04bdf65-d71d-4a5a-a43a-cf4f24a1e822.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 1",
-      "nextDate": "2026-10-01",
-      "dates": [
-        "2026-10-01"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-girls-soccer-team-dinner-23af5a",
-      "name": "Girls Soccer Team Dinner",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Girls Soccer Team Dinner at Tierney Dining Hall - Ott Alcove in Newtown Square.",
-      "address": "Tierney Dining Hall - Ott Alcove, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-01",
-      "endDate": "2026-11-02",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a93e9a02-c48d-41d9-ade1-09d562fd5404.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "3 dates, Oct 1 - Nov 2",
-      "nextDate": "2026-10-01",
-      "dates": [
-        "2026-10-01",
-        "2026-10-23",
-        "2026-11-02"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-media-keep-the-change-757203",
-      "name": "Keep the Change",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "KEEP THE CHANGE BAND was founded in 2011 by Jeff Perlman along with former member Rowland Adamoli.",
-      "address": "Stephen's On State, Media, PA",
-      "town": "Media",
-      "lat": 39.918301,
-      "lng": -75.391304,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-01",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/108709037?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cf7b575e-9163-4377-aa9d-54d6f1017ad9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 1",
-      "nextDate": "2026-10-01",
-      "dates": [
-        "2026-10-01"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-adult-wheel-class-edcc01",
-      "name": "One Time Adult Wheel Class",
-      "category": "events",
-      "subcategories": [
-        "arts"
-      ],
-      "shortDescription": "Join our one time class to learn the basics of wheel throwing!",
-      "address": "Blue Skies Pottery - Bryn Mawr, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-01",
-      "endDate": "2026-11-26",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/160849/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SvgMJsHbeESUI8oHFgSYBw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thursdays, Oct 1 - Nov 26",
-      "nextDate": "2026-10-01",
-      "dates": [
-        "2026-10-01",
-        "2026-10-08",
-        "2026-10-15",
-        "2026-10-22",
-        "2026-10-29",
-        "2026-11-05",
-        "2026-11-12",
-        "2026-11-19",
-        "2026-11-26"
-      ],
-      "occurrences": 9
-    },
-    {
-      "id": "ev-wayne-preschool-storytime-craft-ages-3-5-years-7202f3",
-      "name": "Preschool Storytime & Craft (Ages 3-5 years)",
-      "category": "events",
-      "subcategories": [
-        "crafts",
-        "kids",
-        "literary-arts",
-        "music"
-      ],
-      "shortDescription": "Ages 3 - 5 years Winsor Room - Registration required Stories, songs, and movement activities to help your young child engage with literature in a safe, social setting.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-10-01",
-      "endDate": "2026-10-08",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17420478",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c537856d-867f-43e4-8bdd-b49297ef9405.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thursdays, Oct 1 - Oct 8",
-      "nextDate": "2026-10-01",
-      "dates": [
-        "2026-10-01",
-        "2026-10-08"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-newtown-square-soccer-boys-ms-a-v-malvern-ed208e",
-      "name": "Soccer - Boys MS A v Malvern",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - Boys MS A v Malvern",
-      "address": "Stone Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-01",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4b8401df-8242-4a6e-a069-2ec28d0848c9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 1",
-      "nextDate": "2026-10-01",
-      "dates": [
-        "2026-10-01"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-boys-ms-b-v-malvern-8923b4",
-      "name": "Soccer - Boys MS B v Malvern",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - Boys MS B v Malvern",
-      "address": "Stone Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-01",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b4f13205-36d4-456b-a2cd-4c796b529819.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 1",
-      "nextDate": "2026-10-01",
-      "dates": [
-        "2026-10-01"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-ms-boys-c-gfs-2446b4",
-      "name": "Soccer - MS Boys C @ GFS",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - MS Boys C @ GFS at Germantown Friends School in Newtown Square.",
-      "address": "Germantown Friends School, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-01",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f5a7f77d-0c51-4a57-a1ba-4bad118eb6f1.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 1",
-      "nextDate": "2026-10-01",
-      "dates": [
-        "2026-10-01"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-tech-help-classes-for-adults-55-2-3pm-and-0a69df",
-      "name": "Tech Help Classes for Adults 55 (2-3pm) and Walk-In Help (3-4pm)",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "classes",
-        "fitness",
-        "learning"
-      ],
-      "shortDescription": "Tech Help Classes for Adults 55 Thursday, 10/1, 11/5, 12/3 Class 2-3pm Walkin-in 3-4 Conference Room Francis Lyons is Wayne Senior Center's 'Digital Navigator', offering...",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-01",
-      "endDate": "2026-12-03",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17605152",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3cb0182a-32ed-447f-8670-a1b9d369e732.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thursdays, Oct 1 - Dec 3",
-      "nextDate": "2026-10-01",
-      "dates": [
-        "2026-10-01",
-        "2026-11-05",
-        "2026-12-03"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-newtown-square-tennis-3rd-team-girls-v-bishop-sh-dd5156",
-      "name": "Tennis - 3rd Team Girls v Bishop Shanahan",
-      "category": "events",
-      "subcategories": [
-        "faith",
-        "lifestyle",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Tennis - 3rd Team Girls v Bishop Shanahan",
-      "address": "Tennis Courts, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-01",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/70d24c21-85cc-4d12-ae22-b05d7ac3c967.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 1",
-      "nextDate": "2026-10-01",
-      "dates": [
-        "2026-10-01"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-drexel-hill-thursday-karaoke-at-casey-s-restaura-4579c1",
-      "name": "Thursday Karaoke at Casey's Restaurant (Drexel Hill - Delaware County",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink",
-        "open-mic",
-        "performing-arts"
-      ],
-      "shortDescription": "Sing your heart out at Casey's Restaurant every Thursday night with some karaoke fun in Drexel Hill, Delaware County, PA! Starts at 8pm.",
-      "address": "Casey's Saloon & Restaurant, Drexel Hill, PA",
-      "town": "Drexel Hill",
-      "lat": 39.960126,
-      "lng": -75.288562,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-01",
-      "endDate": "2027-03-25",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/thursday-karaoke-at-caseys-restaurant-drexel-hill-delaware-county-pa-tickets-1061653848239",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pgpVzPSpoUaADfBllel6lw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thursdays, Oct 1 - Mar 25",
-      "nextDate": "2026-10-01",
-      "dates": [
-        "2026-10-01",
-        "2026-10-08",
-        "2026-10-15",
-        "2026-10-22",
-        "2026-10-29",
-        "2026-11-05",
-        "2026-11-12",
-        "2026-11-19",
-        "2026-11-26",
-        "2026-12-03",
-        "2026-12-10",
-        "2026-12-17",
-        "2026-12-24",
-        "2026-12-31",
-        "2027-01-07",
-        "2027-01-14",
-        "2027-01-21",
-        "2027-01-28",
-        "2027-02-04",
-        "2027-02-11",
-        "2027-02-18",
-        "2027-02-25",
-        "2027-03-04",
-        "2027-03-18",
-        "2027-03-25"
-      ],
-      "occurrences": 25
-    },
-    {
-      "id": "ev-wayne-toddler-storytime-ages-2-3-years-67d052",
-      "name": "Toddler Storytime (Ages 2 - 3 years)",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "kids",
-        "learning",
-        "lifestyle"
-      ],
-      "shortDescription": "Ages 2 - 3 years - Winsor Room Stories, songs, and movement activities to help your young child engage with literature in a safe, social setting.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-10-01",
-      "endDate": "2026-10-08",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17420042",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fe5023d6-7e53-42a2-b2aa-b93e19cac158.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thursdays, Oct 1 - Oct 8",
-      "nextDate": "2026-10-01",
-      "dates": [
-        "2026-10-01",
-        "2026-10-08"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-villanova-villanova-theatre-presents-the-moors-f94750",
-      "name": "Villanova Theatre Presents The Moors",
-      "category": "events",
-      "subcategories": [
-        "performing-arts",
-        "theater"
-      ],
-      "shortDescription": "On the desolate English moors, a household of women guards its secrets with the same quiet care it devotes to everything else.",
-      "address": "The Mullen Center for the Performing Arts at Villanova University - Court Theatre, Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.036706,
-      "lng": -75.344557,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-01",
-      "endDate": "2026-10-04",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanovatheatre.org/the-moors/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/GiDeR7SDGkmE5RTOl_xOpQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Oct 1 - Oct 4",
-      "nextDate": "2026-10-01",
-      "dates": [
-        "2026-10-01",
-        "2026-10-02",
-        "2026-10-03",
-        "2026-10-04"
-      ],
-      "occurrences": 4
-    },
-    {
-      "id": "ev-newtown-square-volleyball-ms-a-v-shipley-c8d437",
-      "name": "Volleyball MS A v Shipley",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Volleyball MS A v Shipley",
-      "address": "O'Neill Gym, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-01",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e669d12a-a6ec-4151-8c5f-9397f6aae3d7.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 1",
-      "nextDate": "2026-10-01",
-      "dates": [
-        "2026-10-01"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-volleyball-ms-b-v-shipley-475951",
-      "name": "Volleyball MS B v Shipley",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Volleyball MS B v Shipley",
-      "address": "O'Neill Gym, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-01",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1c5f516e-c648-44bf-ba17-ce3f5c2af91a.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 1",
-      "nextDate": "2026-10-01",
-      "dates": [
-        "2026-10-01"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-widener-pride-women-s-volleyball-vs-wash-50ee45",
-      "name": "Widener Pride: Women's Volleyball vs Washington College",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Women's Volleyball vs Washington College Streaming Video: https://gomacsports.tv/widenerpride/",
-      "address": "Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-01",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14548&amp;sport_id=13",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dee4e760-757d-432f-bfdd-cc2dc29297b9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 1",
-      "nextDate": "2026-10-01",
-      "dates": [
-        "2026-10-01"
-      ],
-      "occurrences": 1
+      "occurrences": 30
     },
     {
       "id": "ev-concordville-bats-the-mysterious-creatures-of-th-13967c",
@@ -1388,6 +682,45 @@
         "2026-10-02"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-villanova-villanova-theatre-presents-the-moors-f94750",
+      "name": "Villanova Theatre Presents The Moors",
+      "category": "events",
+      "subcategories": [
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "On the desolate English moors, a household of women guards its secrets with the same quiet care it devotes to everything else.",
+      "address": "The Mullen Center for the Performing Arts at Villanova University - Court Theatre, Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.036706,
+      "lng": -75.344557,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-02",
+      "endDate": "2026-10-04",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://villanovatheatre.org/the-moors/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/GiDeR7SDGkmE5RTOl_xOpQ.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Oct 2 - Oct 4",
+      "nextDate": "2026-10-02",
+      "dates": [
+        "2026-10-02",
+        "2026-10-03",
+        "2026-10-04"
+      ],
+      "occurrences": 3
     },
     {
       "id": "ev-villanova-villanova-university-men-s-soccer-vs-u-c9f530",
@@ -3490,7 +2823,7 @@
       ],
       "hours": {},
       "startDate": "2026-10-06",
-      "endDate": "2027-03-23",
+      "endDate": "2027-03-30",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -3501,7 +2834,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Tuesdays, Oct 6 - Mar 23",
+      "schedule": "Tuesdays, Oct 6 - Mar 30",
       "nextDate": "2026-10-06",
       "dates": [
         "2026-10-06",
@@ -3527,9 +2860,10 @@
         "2027-02-23",
         "2027-03-02",
         "2027-03-09",
-        "2027-03-23"
+        "2027-03-23",
+        "2027-03-30"
       ],
-      "occurrences": 24
+      "occurrences": 25
     },
     {
       "id": "ev-bryn-mawr-parents-association-mahjong-open-play-f4fb55",
@@ -3782,7 +3116,7 @@
       ],
       "hours": {},
       "startDate": "2026-10-06",
-      "endDate": "2027-03-23",
+      "endDate": "2027-03-30",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -3793,7 +3127,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Tuesdays, Oct 6 - Mar 23",
+      "schedule": "Tuesdays, Oct 6 - Mar 30",
       "nextDate": "2026-10-06",
       "dates": [
         "2026-10-06",
@@ -3819,9 +3153,10 @@
         "2027-02-23",
         "2027-03-02",
         "2027-03-09",
-        "2027-03-23"
+        "2027-03-23",
+        "2027-03-30"
       ],
-      "occurrences": 24
+      "occurrences": 25
     },
     {
       "id": "ev-wayne-uap-cases-of-interest-and-intrigue-from-bl-7f38be",
@@ -4665,6 +4000,91 @@
       "occurrences": 1
     },
     {
+      "id": "ev-bryn-mawr-one-time-adult-wheel-class-edcc01",
+      "name": "One Time Adult Wheel Class",
+      "category": "events",
+      "subcategories": [
+        "arts"
+      ],
+      "shortDescription": "Join our one time class to learn the basics of wheel throwing!",
+      "address": "Blue Skies Pottery - Bryn Mawr, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-08",
+      "endDate": "2026-11-26",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/160849/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SvgMJsHbeESUI8oHFgSYBw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thursdays, Oct 8 - Nov 26",
+      "nextDate": "2026-10-08",
+      "dates": [
+        "2026-10-08",
+        "2026-10-15",
+        "2026-10-22",
+        "2026-10-29",
+        "2026-11-05",
+        "2026-11-12",
+        "2026-11-19",
+        "2026-11-26"
+      ],
+      "occurrences": 8
+    },
+    {
+      "id": "ev-wayne-preschool-storytime-craft-ages-3-5-years-7202f3",
+      "name": "Preschool Storytime & Craft (Ages 3-5 years)",
+      "category": "events",
+      "subcategories": [
+        "crafts",
+        "kids",
+        "literary-arts",
+        "music"
+      ],
+      "shortDescription": "Ages 3 - 5 years Winsor Room - Registration required Stories, songs, and movement activities to help your young child engage with literature in a safe, social setting.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-10-08",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17420479",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c537856d-867f-43e4-8bdd-b49297ef9405.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Oct 8",
+      "nextDate": "2026-10-08",
+      "dates": [
+        "2026-10-08"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-princeton-alumni-social-954428",
       "name": "Princeton Alumni Social",
       "category": "events",
@@ -4917,6 +4337,111 @@
       "website": "https://wayneart.org/events/2148/spanish-tapas-with-robert-peters-winery-wine-pairing-with-karen-bentz",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1ABDa_2Zok6pJ1FvZidNMg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Oct 8",
+      "nextDate": "2026-10-08",
+      "dates": [
+        "2026-10-08"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-drexel-hill-thursday-karaoke-at-casey-s-restaura-4579c1",
+      "name": "Thursday Karaoke at Casey's Restaurant (Drexel Hill - Delaware County",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink",
+        "open-mic",
+        "performing-arts"
+      ],
+      "shortDescription": "Sing your heart out at Casey's Restaurant every Thursday night with some karaoke fun in Drexel Hill, Delaware County, PA! Starts at 8pm.",
+      "address": "Casey's Saloon & Restaurant, Drexel Hill, PA",
+      "town": "Drexel Hill",
+      "lat": 39.960126,
+      "lng": -75.288562,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-08",
+      "endDate": "2027-03-25",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/thursday-karaoke-at-caseys-restaurant-drexel-hill-delaware-county-pa-tickets-1061653848239",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pgpVzPSpoUaADfBllel6lw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thursdays, Oct 8 - Mar 25",
+      "nextDate": "2026-10-08",
+      "dates": [
+        "2026-10-08",
+        "2026-10-15",
+        "2026-10-22",
+        "2026-10-29",
+        "2026-11-05",
+        "2026-11-12",
+        "2026-11-19",
+        "2026-11-26",
+        "2026-12-03",
+        "2026-12-10",
+        "2026-12-17",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07",
+        "2027-01-14",
+        "2027-01-21",
+        "2027-01-28",
+        "2027-02-04",
+        "2027-02-11",
+        "2027-02-18",
+        "2027-02-25",
+        "2027-03-04",
+        "2027-03-11",
+        "2027-03-25"
+      ],
+      "occurrences": 24
+    },
+    {
+      "id": "ev-wayne-toddler-storytime-ages-2-3-years-67d052",
+      "name": "Toddler Storytime (Ages 2 - 3 years)",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "kids",
+        "learning",
+        "lifestyle"
+      ],
+      "shortDescription": "Ages 2 - 3 years - Winsor Room Stories, songs, and movement activities to help your young child engage with literature in a safe, social setting.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-10-08",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17420043",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fe5023d6-7e53-42a2-b2aa-b93e19cac158.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -9635,6 +9160,47 @@
       "occurrences": 1
     },
     {
+      "id": "ev-newtown-square-girls-soccer-team-dinner-23af5a",
+      "name": "Girls Soccer Team Dinner",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Girls Soccer Team Dinner at Tierney Dining Hall - Ott Alcove in Newtown Square.",
+      "address": "Tierney Dining Hall - Ott Alcove, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-23",
+      "endDate": "2026-11-02",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a93e9a02-c48d-41d9-ade1-09d562fd5404.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "2 dates, Oct 23 - Nov 2",
+      "nextDate": "2026-10-23",
+      "dates": [
+        "2026-10-23",
+        "2026-11-02"
+      ],
+      "occurrences": 2
+    },
+    {
       "id": "ev-wayne-little-lies-a-tribute-to-fleetwood-mac-at-aa0edb",
       "name": "Little Lies: A Tribute to Fleetwood Mac at 118 North",
       "category": "events",
@@ -9854,6 +9420,46 @@
       "website": "https://www.eventbrite.com/e/stars-under-the-stars-tickets-1999848057374",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dWTC6VUY_UmYTzqFWa1YmQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Oct 23",
+      "nextDate": "2026-10-23",
+      "dates": [
+        "2026-10-23"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-bryn-mawr-step-afrika-at-villanova-homecoming-20-06fc36",
+      "name": "Step Afrika! at Villanova Homecoming 2026",
+      "category": "events",
+      "subcategories": [
+        "dance",
+        "destinations",
+        "lifestyle",
+        "literary-arts"
+      ],
+      "shortDescription": "This Homecoming, Villanova Student Performing Arts is bringing Step Afrika!",
+      "address": "Villanova University, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.033914,
+      "lng": -75.339735,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-23",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1329363675816844/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1q5Dz0YVLEqc3equQndO9w.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -13014,6 +12620,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-media-tales-from-poe-2cf278",
+      "name": "Tales from Poe",
+      "category": "events",
+      "subcategories": [
+        "halloween",
+        "holiday",
+        "literary-arts",
+        "performing-arts"
+      ],
+      "shortDescription": "This Halloween, journey into the dark imagination of one of horror’s greatest masterminds, Edgar Allan Poe.",
+      "address": "Hedgerow Theatre, Media, PA",
+      "town": "Media",
+      "lat": 39.897539,
+      "lng": -75.386668,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-31",
+      "endDate": "2026-11-01",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "(610) 565-4211",
+      "website": "https://www.hedgerowtheatre.org/talesfrompoe2026",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/lRez_EKp6U6OX-AOMKma-g.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Oct 31 - Nov 1",
+      "nextDate": "2026-10-31",
+      "dates": [
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "occurrences": 2
+    },
+    {
       "id": "ev-chester-widener-pride-football-vs-stevenson-e143a6",
       "name": "Widener Pride: Football vs Stevenson",
       "category": "events",
@@ -13857,6 +13503,48 @@
         "2026-11-05"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-tech-help-classes-for-adults-55-2-3pm-and-0a69df",
+      "name": "Tech Help Classes for Adults 55 (2-3pm) and Walk-In Help (3-4pm)",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "classes",
+        "fitness",
+        "learning"
+      ],
+      "shortDescription": "Tech Help Classes for Adults 55 Thursday, 11/5, 12/3 Class 2-3pm Walkin-in 3-4 Conference Room Francis Lyons is Wayne Senior Center's 'Digital Navigator', offering...",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-05",
+      "endDate": "2026-12-03",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17605291",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3cb0182a-32ed-447f-8670-a1b9d369e732.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thursdays, Nov 5 - Dec 3",
+      "nextDate": "2026-11-05",
+      "dates": [
+        "2026-11-05",
+        "2026-12-03"
+      ],
+      "occurrences": 2
     },
     {
       "id": "ev-wayne-alla-prima-painting-4-fridays-with-georgan-11bb00",
@@ -15346,23 +15034,25 @@
       "category": "events",
       "subcategories": [
         "music",
+        "nightlife",
         "performing-arts"
       ],
-      "shortDescription": "Lansdowne Folk Club presents Dan Navarro, singer/songwriter, producer, and arts advocate on Thursday, November 19, 2026.",
+      "shortDescription": "With a career spanning decades and more than a dozen albums, Grammy Nominated Songwriter (\"We Belong\") Dan Navarro is currently on tour in support of his album, \"Horizon...",
       "address": "Lansdowne Folk Club, Lansdowne, PA",
       "town": "Lansdowne",
-      "lat": 39.935566,
-      "lng": -75.272017,
+      "lat": 39.935639,
+      "lng": -75.271746,
       "priceTier": 2,
       "tags": [
-        "group"
+        "group",
+        "open-late"
       ],
       "hours": {},
       "startDate": "2026-11-19",
       "endDate": "",
       "recurring": "none",
       "venueId": "",
-      "phone": "",
+      "phone": "484-466-6213",
       "website": "https://folkclub.org",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cDhkJPVsRUqwVY919UkJmQ.medium.jpg",
@@ -18855,6 +18545,44 @@
       "nextDate": "2027-03-06",
       "dates": [
         "2027-03-06"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-ms-spring-play-performance-06fe10",
+      "name": "MS Spring Play Performance",
+      "category": "events",
+      "subcategories": [
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "MS Spring Play Performance",
+      "address": "Black Box-Ridgway Theater, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-11",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2359805a-4335-4631-9bdd-3b9f717c613d.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Mar 11",
+      "nextDate": "2027-03-11",
+      "dates": [
+        "2027-03-11"
       ],
       "occurrences": 1
     },
