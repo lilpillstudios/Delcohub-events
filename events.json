@@ -1,853 +1,9 @@
 {
   "version": 1,
-  "scraped_at": "2026-10-02T15:53:49.635948+00:00",
+  "scraped_at": "2026-10-03T14:21:52.562053+00:00",
   "horizon_days": 180,
-  "event_count": 499,
+  "event_count": 504,
   "listings": [
-    {
-      "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
-      "name": "2026 Gene Capaldi Lens on Litter Photo Contest",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "holiday",
-        "visual-arts"
-      ],
-      "shortDescription": "An annual litter photo contest; not intended to glorify litter but to bring attention to the litter problem in communities in Pennsylvania.",
-      "address": "Rose Tree Park, Hunt Club, 1521 North Providence Road, Media, PA",
-      "town": "Media",
-      "lat": 39.91678,
-      "lng": -75.38769,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-02",
-      "endDate": "2026-10-31",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://prc.org/what-we-do/lens-on-litter-contest/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/EFSYwNi2eEyfCncurQHucg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Oct 2 - Oct 31",
-      "nextDate": "2026-10-02",
-      "dates": [
-        "2026-10-02",
-        "2026-10-03",
-        "2026-10-04",
-        "2026-10-05",
-        "2026-10-06",
-        "2026-10-07",
-        "2026-10-08",
-        "2026-10-09",
-        "2026-10-10",
-        "2026-10-11",
-        "2026-10-12",
-        "2026-10-13",
-        "2026-10-14",
-        "2026-10-15",
-        "2026-10-16",
-        "2026-10-17",
-        "2026-10-18",
-        "2026-10-19",
-        "2026-10-20",
-        "2026-10-21",
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-24",
-        "2026-10-25",
-        "2026-10-26",
-        "2026-10-27",
-        "2026-10-28",
-        "2026-10-29",
-        "2026-10-30",
-        "2026-10-31"
-      ],
-      "occurrences": 30
-    },
-    {
-      "id": "ev-concordville-bats-the-mysterious-creatures-of-th-13967c",
-      "name": "Bats: The Mysterious Creatures of the Night",
-      "category": "events",
-      "subcategories": [
-        "nature",
-        "outdoor-recreation",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Learn about the wondrous world of bats!",
-      "address": "Wild Birds Unlimited, Concordville, PA",
-      "town": "Concordville",
-      "lat": 39.886097,
-      "lng": -75.531148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-10-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/bats-the-mysterious-creatures-of-the-night-tickets-1984520134143",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/EtREhHyt7UGGQmeGPVbxoQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 2",
-      "nextDate": "2026-10-02",
-      "dates": [
-        "2026-10-02"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-bums-in-the-attic-6cc92f",
-      "name": "Bums in the Attic",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "In collaboration with Burlap and Bean, Hedgerow Theatre's concert series returns on October 2 with Bums in the Attic!",
-      "address": "Hedgerow Theatre, Media, PA",
-      "town": "Media",
-      "lat": 39.897539,
-      "lng": -75.386668,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "(610) 565-4211",
-      "website": "https://www.hedgerowtheatre.org/bums-in-the-attic",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/jzDFmyIKpkKroaEjPA6Akw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 2",
-      "nextDate": "2026-10-02",
-      "dates": [
-        "2026-10-02"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-engineering-mini-camp-for-high-school-st-3c81b7",
-      "name": "Engineering Mini Camp For High School Students",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning"
-      ],
-      "shortDescription": "Widener's School of Engineering invites local high school student to campus to learn about the different engineering disciplines with interactive activities.",
-      "address": "Kirkbride Hall, Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.widener.edu/events?page=0",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/72af3a5e-7c3f-4a49-a9ff-db6c6738a7c4.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 2",
-      "nextDate": "2026-10-02",
-      "dates": [
-        "2026-10-02"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-clifton-heights-first-friday-s-at-illusions-banq-247c1a",
-      "name": "FIRST FRIDAY'S AT Illusions Banquet Hall and Sports Bar",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Kick back and vibe every first Friday at Illusions Banquet Hall & Sports Bar—good times guaranteed!",
-      "address": "Illusions Banquet Hall and Sports Bar, Clifton Heights, PA",
-      "town": "Clifton Heights",
-      "lat": 39.92717,
-      "lng": -75.303846,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/first-fridays-at-illusions-banquet-hall-and-sports-bar-tickets-2000811127944",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/UrJxvj1Y8k-J_YLnRJtu9w.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 2",
-      "nextDate": "2026-10-02",
-      "dates": [
-        "2026-10-02"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-field-hockey-jv-v-sch-2a4abe",
-      "name": "Field Hockey - JV v SCH",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Field Hockey - JV v SCH at Buggy Field (Field F) in Newtown Square.",
-      "address": "Buggy Field (Field F), Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b04bdf65-d71d-4a5a-a43a-cf4f24a1e822.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 2",
-      "nextDate": "2026-10-02",
-      "dates": [
-        "2026-10-02"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-field-hockey-varsity-v-sch-15058b",
-      "name": "Field Hockey - Varsity v SCH",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Field Hockey - Varsity v SCH",
-      "address": "Buggy Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b04bdf65-d71d-4a5a-a43a-cf4f24a1e822.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 2",
-      "nextDate": "2026-10-02",
-      "dates": [
-        "2026-10-02"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-aldan-lend-me-a-tenor-4d3baa",
-      "name": "Lend Me a Tenor",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts",
-        "theater"
-      ],
-      "shortDescription": "\"Lend Me a Tenor\" is a Tony Award-winning farce by Ken Ludwig, set in 1934 Cleveland, about the chaos that ensues when the Cleveland Grand Opera Company's star tenor,...",
-      "address": "Colonial Playhouse, Aldan, PA",
-      "town": "Aldan",
-      "lat": 39.916243,
-      "lng": -75.294573,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-02",
-      "endDate": "2026-10-11",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://colonialplayhouse.net/lend-me-a-tenor/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/41_m5a63-UyJLoBEGqGeGw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sat, Sun, Oct 2 - Oct 11",
-      "nextDate": "2026-10-02",
-      "dates": [
-        "2026-10-02",
-        "2026-10-03",
-        "2026-10-04",
-        "2026-10-09",
-        "2026-10-10",
-        "2026-10-11"
-      ],
-      "occurrences": 6
-    },
-    {
-      "id": "ev-newtown-square-newtown-post-ls-first-friday-6c9778",
-      "name": "Newtown Post: LS First Friday",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Newtown Post: LS First Friday",
-      "address": "Newtown Post, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 2",
-      "nextDate": "2026-10-02",
-      "dates": [
-        "2026-10-02"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-postponed-water-polo-jv-boys-ga-b2b5f8",
-      "name": "POSTPONED: Water Polo - JV Boys @ GA",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "POSTPONED: Water Polo - JV Boys @ GA",
-      "address": "Germantown Academy, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f9de544e-a936-4ae7-96c0-fc7f0d2460e7.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 2",
-      "nextDate": "2026-10-02",
-      "dates": [
-        "2026-10-02"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-postponed-water-polo-varsity-girl-b3fe50",
-      "name": "POSTPONED: Water Polo - Varsity Girls @ GA",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "POSTPONED: Water Polo - Varsity Girls @ GA",
-      "address": "Germantown Academy, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1c5f516e-c648-44bf-ba17-ce3f5c2af91a.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 2",
-      "nextDate": "2026-10-02",
-      "dates": [
-        "2026-10-02"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-parents-association-walking-club-f7aed6",
-      "name": "Parents' Association Walking Club",
-      "category": "events",
-      "subcategories": [
-        "fitness",
-        "lifestyle",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Parents' Association Walking Club at a Delco venue in Bryn Mawr.",
-      "address": "Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.027634,
-      "lng": -75.356119,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.agnesirwin.org/quick-links/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/670f2b1b-f9f8-4837-a38b-885449bc6bb3.medium.PNG",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 2",
-      "nextDate": "2026-10-02",
-      "dates": [
-        "2026-10-02"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-jv-girls-sch-737943",
-      "name": "Soccer - JV Girls @ SCH",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - JV Girls @ SCH at Springside Chestnut Hill Academy in Newtown Square.",
-      "address": "Springside Chestnut Hill Academy, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/469bd39d-8063-41c7-8f6c-2f23de9f535d.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 2",
-      "nextDate": "2026-10-02",
-      "dates": [
-        "2026-10-02"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-varsity-girls-v-sch-3787c5",
-      "name": "Soccer - Varsity Girls v SCH",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - Varsity Girls v SCH",
-      "address": "Class of '76 Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f5a7f77d-0c51-4a57-a1ba-4bad118eb6f1.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 2",
-      "nextDate": "2026-10-02",
-      "dates": [
-        "2026-10-02"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-speedball-the-nightclerks-tom-petty-tribut-74e6d1",
-      "name": "Speedball & the Nightclerks: Tom Petty Tribute at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Speedball & the Nightclerks: Tom Petty Tribute at 118 North Friday, October 2, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian...",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/2445225385924145/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OsIJpXlY7ESKBamGURs_Wg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 2",
-      "nextDate": "2026-10-02",
-      "dates": [
-        "2026-10-02"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-springfield-substitoothfairy-presents-a-night-to-4e6943",
-      "name": "SubstiToothFairy Presents: A Night To Remember- Celebration For A Cause",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "performing-arts"
-      ],
-      "shortDescription": "Join SubstiToothFairy and Dr. Brady Smith for dental comedy, community, a great cause, and a first look at our new technology!",
-      "address": "Springfield Country Club, Springfield, PA",
-      "town": "Springfield",
-      "lat": 39.925851,
-      "lng": -75.350892,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/substitoothfairy-presents-a-night-to-remember-celebration-for-a-cause-tickets-1994693472873",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3-2-zRz0jkSkMSery_Rs_g.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 2",
-      "nextDate": "2026-10-02",
-      "dates": [
-        "2026-10-02"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-lansdowne-the-rocky-horror-picture-show-451dcd",
-      "name": "The Rocky Horror Picture Show",
-      "category": "events",
-      "subcategories": [
-        "musical",
-        "performing-arts",
-        "theater"
-      ],
-      "shortDescription": "The Rocky Horror Picture Show, the longest-running theatrical release in film history, embarks on a live Spooktacular Shadow Cast featuring original cast member, Barry...",
-      "address": "The Lansdowne Theater, Lansdowne, PA",
-      "town": "Lansdowne",
-      "lat": 39.939389,
-      "lng": -75.27231,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://brepresents.com/event/the-rocky-horror-picture-show/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5-X2QJS82kWURnzsKKawRg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 2",
-      "nextDate": "2026-10-02",
-      "dates": [
-        "2026-10-02"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-villanova-theatre-presents-the-moors-f94750",
-      "name": "Villanova Theatre Presents The Moors",
-      "category": "events",
-      "subcategories": [
-        "performing-arts",
-        "theater"
-      ],
-      "shortDescription": "On the desolate English moors, a household of women guards its secrets with the same quiet care it devotes to everything else.",
-      "address": "The Mullen Center for the Performing Arts at Villanova University - Court Theatre, Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.036706,
-      "lng": -75.344557,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-02",
-      "endDate": "2026-10-04",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanovatheatre.org/the-moors/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/GiDeR7SDGkmE5RTOl_xOpQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Oct 2 - Oct 4",
-      "nextDate": "2026-10-02",
-      "dates": [
-        "2026-10-02",
-        "2026-10-03",
-        "2026-10-04"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-villanova-villanova-university-men-s-soccer-vs-u-c9f530",
-      "name": "Villanova University Men's Soccer vs University of Connecticut",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Villanova University Men's Soccer vs University of Connecticut TV: ESPN+",
-      "address": "Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03176,
-      "lng": -75.34903,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanova.com/calendar.aspx?game_id=17757&amp;sport_id=9",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f5a7f77d-0c51-4a57-a1ba-4bad118eb6f1.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 2",
-      "nextDate": "2026-10-02",
-      "dates": [
-        "2026-10-02"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-villanova-university-women-s-tennis-vs-f289e7",
-      "name": "Villanova University Women's Tennis vs Villanova Invitational",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Villanova University Women's Tennis vs Villanova Invitational",
-      "address": "Villanova Tennis Complex, Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03176,
-      "lng": -75.34903,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-02",
-      "endDate": "2026-10-04",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanova.com/calendar.aspx?game_id=17895&amp;sport_id=20",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/02c0fa5b-6877-4ac3-902d-d8531b975a10.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Oct 2 - Oct 4",
-      "nextDate": "2026-10-02",
-      "dates": [
-        "2026-10-02",
-        "2026-10-03",
-        "2026-10-04"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-bryn-mawr-youth-one-time-classes-c8c2e5",
-      "name": "Youth One-Time Classes",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "visual-arts"
-      ],
-      "shortDescription": "$80 Per Person / Ages 9 and up Friday, Oct 2, 2026 / 5:30 PM - 7:00 PM (EDT) Join our one time class to learn the basics of wheel throwing!",
-      "address": "Blue Skies Pottery - Bryn Mawr, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-02",
-      "endDate": "2026-11-27",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/160853/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pbI4ypXkz062b8lEfv8Ztg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fridays, Oct 2 - Nov 27",
-      "nextDate": "2026-10-02",
-      "dates": [
-        "2026-10-02",
-        "2026-10-09",
-        "2026-10-16",
-        "2026-10-23",
-        "2026-10-30",
-        "2026-11-06",
-        "2026-11-13",
-        "2026-11-20",
-        "2026-11-27"
-      ],
-      "occurrences": 9
-    },
     {
       "id": "ev-media-endeavour-by-joseph-mooney-sculpture-reded-6cfe7d",
       "name": "\"Endeavour\" by Joseph Mooney Sculpture Rededication",
@@ -885,6 +41,73 @@
         "2026-10-03"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
+      "name": "2026 Gene Capaldi Lens on Litter Photo Contest",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "holiday",
+        "visual-arts"
+      ],
+      "shortDescription": "An annual litter photo contest; not intended to glorify litter but to bring attention to the litter problem in communities in Pennsylvania.",
+      "address": "Rose Tree Park, Hunt Club, 1521 North Providence Road, Media, PA",
+      "town": "Media",
+      "lat": 39.91678,
+      "lng": -75.38769,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-31",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://prc.org/what-we-do/lens-on-litter-contest/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/EFSYwNi2eEyfCncurQHucg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Oct 3 - Oct 31",
+      "nextDate": "2026-10-03",
+      "dates": [
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-05",
+        "2026-10-06",
+        "2026-10-07",
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31"
+      ],
+      "occurrences": 29
     },
     {
       "id": "ev-newtown-square-cyo-football-game-fed17b",
@@ -1045,6 +268,49 @@
       "dates": [
         "2026-10-03"
       ]
+    },
+    {
+      "id": "ev-aldan-lend-me-a-tenor-4d3baa",
+      "name": "Lend Me a Tenor",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "\"Lend Me a Tenor\" is a Tony Award-winning farce by Ken Ludwig, set in 1934 Cleveland, about the chaos that ensues when the Cleveland Grand Opera Company's star tenor,...",
+      "address": "Colonial Playhouse, Aldan, PA",
+      "town": "Aldan",
+      "lat": 39.916243,
+      "lng": -75.294573,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-11",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://colonialplayhouse.net/lend-me-a-tenor/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/41_m5a63-UyJLoBEGqGeGw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Sat, Sun, Oct 3 - Oct 11",
+      "nextDate": "2026-10-03",
+      "dates": [
+        "2026-10-03",
+        "2026-10-04",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11"
+      ],
+      "occurrences": 5
     },
     {
       "id": "ev-wayne-line-into-color-not-revealing-everything-w-2a3002",
@@ -1434,6 +700,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-villanova-villanova-theatre-presents-the-moors-f94750",
+      "name": "Villanova Theatre Presents The Moors",
+      "category": "events",
+      "subcategories": [
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "On the desolate English moors, a household of women guards its secrets with the same quiet care it devotes to everything else.",
+      "address": "The Mullen Center for the Performing Arts at Villanova University - Court Theatre, Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.036706,
+      "lng": -75.344557,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-04",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://villanovatheatre.org/the-moors/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/GiDeR7SDGkmE5RTOl_xOpQ.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Oct 3 - Oct 4",
+      "nextDate": "2026-10-03",
+      "dates": [
+        "2026-10-03",
+        "2026-10-04"
+      ],
+      "occurrences": 2
+    },
+    {
       "id": "ev-villanova-villanova-university-football-vs-morga-6b1dda",
       "name": "Villanova University Football vs Morgan State",
       "category": "events",
@@ -1548,6 +852,47 @@
         "2026-10-03"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-villanova-villanova-university-women-s-tennis-vs-f289e7",
+      "name": "Villanova University Women's Tennis vs Villanova Invitational",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Villanova University Women's Tennis vs Villanova Invitational",
+      "address": "Villanova Tennis Complex, Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.03176,
+      "lng": -75.34903,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-04",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://villanova.com/calendar.aspx?game_id=17896&amp;sport_id=20",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/70d24c21-85cc-4d12-ae22-b05d7ac3c967.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Oct 3 - Oct 4",
+      "nextDate": "2026-10-03",
+      "dates": [
+        "2026-10-03",
+        "2026-10-04"
+      ],
+      "occurrences": 2
     },
     {
       "id": "ev-villanova-villanova-university-women-s-volleybal-9163c3",
@@ -3194,6 +2539,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-villanova-villanova-university-men-s-soccer-vs-u-59cdb8",
+      "name": "Villanova University Men's Soccer vs University of New Haven",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Villanova University Men's Soccer vs University of New Haven TV: ESPN+",
+      "address": "Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.03176,
+      "lng": -75.34903,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://villanova.com/calendar.aspx?game_id=17758&amp;sport_id=9",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b4f13205-36d4-456b-a2cd-4c796b529819.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Oct 6",
+      "nextDate": "2026-10-06",
+      "dates": [
+        "2026-10-06"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-volleyball-ms-girls-b-v-agnes-irw-eedca1",
       "name": "Volleyball - MS Girls B v Agnes Irwin",
       "category": "events",
@@ -4805,6 +4188,51 @@
         "2026-10-09"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-bryn-mawr-youth-one-time-classes-c8c2e5",
+      "name": "Youth One-Time Classes",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "visual-arts"
+      ],
+      "shortDescription": "$80 Per Person / Ages 9 and up Friday, Oct 2, 2026 / 5:30 PM - 7:00 PM (EDT) Join our one time class to learn the basics of wheel throwing!",
+      "address": "Blue Skies Pottery - Bryn Mawr, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-09",
+      "endDate": "2026-11-27",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/160853/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pbI4ypXkz062b8lEfv8Ztg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fridays, Oct 9 - Nov 27",
+      "nextDate": "2026-10-09",
+      "dates": [
+        "2026-10-09",
+        "2026-10-16",
+        "2026-10-23",
+        "2026-10-30",
+        "2026-11-06",
+        "2026-11-13",
+        "2026-11-20",
+        "2026-11-27"
+      ],
+      "occurrences": 8
     },
     {
       "id": "ev-wayne-carving-out-the-light-subtractive-charcoal-e0c475",
@@ -7347,6 +6775,46 @@
       "website": "https://widenerpride.com/calendar.aspx?game_id=14452&amp;sport_id=9",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b04bdf65-d71d-4a5a-a43a-cf4f24a1e822.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 17",
+      "nextDate": "2026-10-17",
+      "dates": [
+        "2026-10-17"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-widener-pride-women-s-volleyball-vs-unio-fb8761",
+      "name": "Widener Pride: Women's Volleyball vs Union",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Women's Volleyball vs Union Streaming Video: https://gomacsports.tv/widenerpride/",
+      "address": "Rochester, Chester, PA",
+      "town": "Chester",
+      "lat": 39.84956,
+      "lng": -75.35575,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-17",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://widenerpride.com/calendar.aspx?game_id=14681&amp;sport_id=13",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e669d12a-a6ec-4151-8c5f-9397f6aae3d7.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -13734,6 +13202,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chester-widener-pride-women-s-basketball-vs-cent-234002",
+      "name": "Widener Pride: Women's Basketball vs Centenary vs Salisbury - Hosted by Widener University",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Women's Basketball vs Centenary vs Salisbury - Hosted by Widener University Streaming Video: https://gomacsports.tv/widenerpride/ Tickets:...",
+      "address": "Schwartz Center, Chester, PA",
+      "town": "Chester",
+      "lat": 39.84956,
+      "lng": -75.35575,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://widenerpride.com/calendar.aspx?game_id=14677&amp;sport_id=8",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/94f14392-5a57-4160-b378-7b637cfb697d.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Nov 6",
+      "nextDate": "2026-11-06",
+      "dates": [
+        "2026-11-06"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-chester-widener-pride-women-s-basketball-vs-tip-54c45a",
       "name": "Widener Pride: Women's Basketball vs Tip Off Tournament",
       "category": "events",
@@ -13742,7 +13250,7 @@
         "sports",
         "sports-outdoors"
       ],
-      "shortDescription": "Women's Basketball vs Tip Off Tournament Streaming Video: https://gomacsports.tv/widenerpride/",
+      "shortDescription": "Women's Basketball vs Marywood Streaming Video: https://gomacsports.tv/widenerpride/ Tickets:...",
       "address": "Schwartz Center, Chester, PA",
       "town": "Chester",
       "lat": 39.84956,
@@ -14528,6 +14036,86 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chester-widener-pride-men-s-basketball-vs-haverf-1bb55c",
+      "name": "Widener Pride: Men's Basketball vs Haverford",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Men's Basketball vs Haverford Streaming Video: https://gomacsports.tv/widenerpride/",
+      "address": "Schwartz Center, Chester, PA",
+      "town": "Chester",
+      "lat": 39.84956,
+      "lng": -75.35575,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-13",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://widenerpride.com/calendar.aspx?game_id=14652&amp;sport_id=3",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/71fb6e77-be06-4af3-87c9-8c3c6563f966.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Nov 13",
+      "nextDate": "2026-11-13",
+      "dates": [
+        "2026-11-13"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-widener-pride-men-s-basketball-vs-rpi-vs-7913af",
+      "name": "Widener Pride: Men's Basketball vs RPI vs Rutgers-Newark - Hosted by Widener University",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Men's Basketball vs RPI vs Rutgers-Newark - Hosted by Widener University Streaming Video: https://gomacsports.tv/widenerpride/",
+      "address": "Schwartz Center, Chester, PA",
+      "town": "Chester",
+      "lat": 39.84956,
+      "lng": -75.35575,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-13",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://widenerpride.com/calendar.aspx?game_id=14675&amp;sport_id=3",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eea3008d-a0ef-4003-9897-ba4228e0a5e2.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Nov 13",
+      "nextDate": "2026-11-13",
+      "dates": [
+        "2026-11-13"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-media-annual-senior-luncheon-08fa48",
       "name": "Annual Senior Luncheon",
       "category": "events",
@@ -14880,6 +14468,88 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chester-widener-pride-men-s-basketball-vs-champi-882d9a",
+      "name": "Widener Pride: Men's Basketball vs Championship Game",
+      "category": "events",
+      "subcategories": [
+        "games",
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Men's Basketball vs Championship Game Streaming Video: https://gomacsports.tv/widenerpride/",
+      "address": "Schwartz Center, Chester, PA",
+      "town": "Chester",
+      "lat": 39.84956,
+      "lng": -75.35575,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-14",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://widenerpride.com/calendar.aspx?game_id=14676&amp;sport_id=3",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cd7fcb1c-2598-4537-95d4-c5aef83193b9.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 14",
+      "nextDate": "2026-11-14",
+      "dates": [
+        "2026-11-14"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-widener-pride-men-s-basketball-vs-consol-0edf93",
+      "name": "Widener Pride: Men's Basketball vs Consolation Game",
+      "category": "events",
+      "subcategories": [
+        "games",
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Men's Basketball vs Consolation Game Streaming Video: https://gomacsports.tv/widenerpride/",
+      "address": "Schwartz Center, Chester, PA",
+      "town": "Chester",
+      "lat": 39.84956,
+      "lng": -75.35575,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-14",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://widenerpride.com/calendar.aspx?game_id=14674&amp;sport_id=3",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d79fec9e-625d-494a-8623-ed009ee58656.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 14",
+      "nextDate": "2026-11-14",
+      "dates": [
+        "2026-11-14"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-aj-lee-blue-summit-at-118-north-63f1a4",
       "name": "AJ Lee & Blue Summit at 118 North",
       "category": "events",
@@ -15017,6 +14687,46 @@
       "website": "https://wayneart.org/events/2154/photography-on-location-with-laura-ducceschi",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Mcx5uqkRVEGXzVVDZRNzmQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Nov 18",
+      "nextDate": "2026-11-18",
+      "dates": [
+        "2026-11-18"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-widener-pride-men-s-basketball-vs-chatha-012d86",
+      "name": "Widener Pride: Men's Basketball vs Chatham",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Men's Basketball vs Chatham Streaming Video: https://gomacsports.tv/widenerpride/",
+      "address": "Schwartz Center, Chester, PA",
+      "town": "Chester",
+      "lat": 39.84956,
+      "lng": -75.35575,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-18",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://widenerpride.com/calendar.aspx?game_id=14653&amp;sport_id=3",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dce3bfdb-89e5-4b34-a3fc-0a2507a30f0e.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -15847,6 +15557,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chester-widener-pride-men-s-basketball-vs-easter-e89c6f",
+      "name": "Widener Pride: Men's Basketball vs Eastern",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Men's Basketball vs Eastern Streaming Video: https://gomacsports.tv/widenerpride/",
+      "address": "Schwartz Center, Chester, PA",
+      "town": "Chester",
+      "lat": 39.84956,
+      "lng": -75.35575,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-02",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://widenerpride.com/calendar.aspx?game_id=14656&amp;sport_id=3",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/440b5bad-552b-44ee-a8d7-224f5016a0e0.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Dec 2",
+      "nextDate": "2026-12-02",
+      "dates": [
+        "2026-12-02"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-lansdowne-david-jacobs-strain-and-bob-beach-at-l-1ae628",
       "name": "David Jacobs-Strain and Bob Beach at Lansdowne Folk Club",
       "category": "events",
@@ -16617,6 +16367,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chester-widener-pride-men-s-basketball-vs-hood-815653",
+      "name": "Widener Pride: Men's Basketball vs Hood",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Men's Basketball vs Hood Streaming Video: https://gomacsports.tv/widenerpride/",
+      "address": "Schwartz Center, Chester, PA",
+      "town": "Chester",
+      "lat": 39.84956,
+      "lng": -75.35575,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-12",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://widenerpride.com/calendar.aspx?game_id=14658&amp;sport_id=3",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/94f14392-5a57-4160-b378-7b637cfb697d.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Dec 12",
+      "nextDate": "2026-12-12",
+      "dates": [
+        "2026-12-12"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-chester-widener-pride-women-s-basketball-vs-hood-d1f0a0",
       "name": "Widener Pride: Women's Basketball vs Hood",
       "category": "events",
@@ -16812,6 +16602,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chester-widener-pride-men-s-basketball-vs-gallau-9568bf",
+      "name": "Widener Pride: Men's Basketball vs Gallaudet",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Men's Basketball vs Gallaudet Streaming Video: https://gomacsports.tv/widenerpride/",
+      "address": "Schwartz Center, Chester, PA",
+      "town": "Chester",
+      "lat": 39.84956,
+      "lng": -75.35575,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-14",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://widenerpride.com/calendar.aspx?game_id=14659&amp;sport_id=3",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5b5aeea4-791b-4732-b870-55f870e5cb21.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mon, Dec 14",
+      "nextDate": "2026-12-14",
+      "dates": [
+        "2026-12-14"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-alumni-college-event-a82b73",
       "name": "Alumni College Event",
       "category": "events",
@@ -16837,6 +16667,46 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/51fb3e9f-8aca-4381-a3f0-b5a499fcbeac.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Dec 17",
+      "nextDate": "2026-12-17",
+      "dates": [
+        "2026-12-17"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-widener-pride-men-s-basketball-vs-immacu-3846f3",
+      "name": "Widener Pride: Men's Basketball vs Immaculata",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Men's Basketball vs Immaculata Streaming Video: https://gomacsports.tv/widenerpride/",
+      "address": "Schwartz Center, Chester, PA",
+      "town": "Chester",
+      "lat": 39.84956,
+      "lng": -75.35575,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-17",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://widenerpride.com/calendar.aspx?game_id=14660&amp;sport_id=3",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/aa5bfa61-658d-4e5c-8c9b-146f36f52107.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -17080,6 +16950,46 @@
       "nextDate": "2026-12-31",
       "dates": [
         "2026-12-31"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-widener-pride-men-s-basketball-vs-albrig-f7841c",
+      "name": "Widener Pride: Men's Basketball vs Albright",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Men's Basketball vs Albright Streaming Video: https://gomacsports.tv/widenerpride/",
+      "address": "Schwartz Center, Chester, PA",
+      "town": "Chester",
+      "lat": 39.84956,
+      "lng": -75.35575,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-09",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://widenerpride.com/calendar.aspx?game_id=14662&amp;sport_id=3",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eea3008d-a0ef-4003-9897-ba4228e0a5e2.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Jan 9",
+      "nextDate": "2027-01-09",
+      "dates": [
+        "2027-01-09"
       ],
       "occurrences": 1
     },
@@ -17441,6 +17351,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chester-widener-pride-men-s-basketball-vs-alvern-6e4927",
+      "name": "Widener Pride: Men's Basketball vs Alvernia",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Men's Basketball vs Alvernia Streaming Video: https://gomacsports.tv/widenerpride/",
+      "address": "Schwartz Center, Chester, PA",
+      "town": "Chester",
+      "lat": 39.84956,
+      "lng": -75.35575,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-20",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://widenerpride.com/calendar.aspx?game_id=14665&amp;sport_id=3",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/71fb6e77-be06-4af3-87c9-8c3c6563f966.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Jan 20",
+      "nextDate": "2027-01-20",
+      "dates": [
+        "2027-01-20"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-aldan-almost-maine-8a9e4c",
       "name": "Almost, Maine",
       "category": "events",
@@ -17547,6 +17497,46 @@
       "website": "https://www.eventbrite.com/e/murder-mystery-dinner-at-folsom-fire-co-tickets-1999943739562",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/j0OuOMpW9ESYq-QLAwNJmw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Jan 23",
+      "nextDate": "2027-01-23",
+      "dates": [
+        "2027-01-23"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-widener-pride-men-s-basketball-vs-steven-1a497e",
+      "name": "Widener Pride: Men's Basketball vs Stevenson",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Men's Basketball vs Stevenson Streaming Video: https://gomacsports.tv/widenerpride/",
+      "address": "Schwartz Center, Chester, PA",
+      "town": "Chester",
+      "lat": 39.84956,
+      "lng": -75.35575,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-23",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://widenerpride.com/calendar.aspx?game_id=14666&amp;sport_id=3",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d79fec9e-625d-494a-8623-ed009ee58656.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -17940,6 +17930,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chester-widener-pride-men-s-basketball-vs-messia-d6282c",
+      "name": "Widener Pride: Men's Basketball vs Messiah",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Men's Basketball vs Messiah Streaming Video: https://gomacsports.tv/widenerpride/",
+      "address": "Schwartz Center, Chester, PA",
+      "town": "Chester",
+      "lat": 39.84956,
+      "lng": -75.35575,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-02-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://widenerpride.com/calendar.aspx?game_id=14669&amp;sport_id=3",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cd7fcb1c-2598-4537-95d4-c5aef83193b9.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Feb 6",
+      "nextDate": "2027-02-06",
+      "dates": [
+        "2027-02-06"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-chester-widener-pride-women-s-basketball-vs-mess-3086dd",
       "name": "Widener Pride: Women's Basketball vs Messiah",
       "category": "events",
@@ -18054,6 +18084,46 @@
       "nextDate": "2027-02-07",
       "dates": [
         "2027-02-07"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-widener-pride-men-s-basketball-vs-york-276222",
+      "name": "Widener Pride: Men's Basketball vs York",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Men's Basketball vs York Streaming Video: https://gomacsports.tv/widenerpride/",
+      "address": "Schwartz Center, Chester, PA",
+      "town": "Chester",
+      "lat": 39.84956,
+      "lng": -75.35575,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-02-10",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://widenerpride.com/calendar.aspx?game_id=14670&amp;sport_id=3",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dce3bfdb-89e5-4b34-a3fc-0a2507a30f0e.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Feb 10",
+      "nextDate": "2027-02-10",
+      "dates": [
+        "2027-02-10"
       ],
       "occurrences": 1
     },
@@ -18326,6 +18396,86 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chester-widener-pride-men-s-basketball-vs-neuman-362c17",
+      "name": "Widener Pride: Men's Basketball vs Neumann",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Men's Basketball vs Neumann Streaming Video: https://gomacsports.tv/widenerpride/",
+      "address": "Schwartz Center, Chester, PA",
+      "town": "Chester",
+      "lat": 39.84956,
+      "lng": -75.35575,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-02-20",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://widenerpride.com/calendar.aspx?game_id=14673&amp;sport_id=3",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/440b5bad-552b-44ee-a8d7-224f5016a0e0.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Feb 20",
+      "nextDate": "2027-02-20",
+      "dates": [
+        "2027-02-20"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-widener-pride-women-s-basketball-vs-neum-7a9fee",
+      "name": "Widener Pride: Women's Basketball vs Neumann",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Women's Basketball vs Neumann Streaming Video: https://gomacsports.tv/widenerpride/",
+      "address": "Schwartz Center, Chester, PA",
+      "town": "Chester",
+      "lat": 39.84956,
+      "lng": -75.35575,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-02-20",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://widenerpride.com/calendar.aspx?game_id=14649&amp;sport_id=8",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/94f14392-5a57-4160-b378-7b637cfb697d.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Feb 20",
+      "nextDate": "2027-02-20",
+      "dates": [
+        "2027-02-20"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-open-mic-night-9683d3",
       "name": "Open Mic Night",
       "category": "events",
@@ -18568,7 +18718,7 @@
       ],
       "hours": {},
       "startDate": "2027-03-11",
-      "endDate": "",
+      "endDate": "2027-03-12",
       "recurring": "none",
       "venueId": "",
       "phone": "",
@@ -18579,10 +18729,172 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Thu, Mar 11",
+      "schedule": "Daily, Mar 11 - Mar 12",
       "nextDate": "2027-03-11",
       "dates": [
-        "2027-03-11"
+        "2027-03-11",
+        "2027-03-12"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "ev-aldan-agatha-christie-s-a-murder-is-announced-099f96",
+      "name": "Agatha Christie's A Murder is Announced",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "In the quiet, little village of Chipping Cleghorn, an announcement in the local newspaper causes a stir among the residents.",
+      "address": "Colonial Playhouse, Aldan, PA",
+      "town": "Aldan",
+      "lat": 39.916243,
+      "lng": -75.294573,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-28",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://colonialplayhouse.net/a-murder-is-announced/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/nIWNYZAnXkeWu4T7tnoswA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "6 dates, Mar 12 - Mar 28",
+      "nextDate": "2027-03-12",
+      "dates": [
+        "2027-03-12",
+        "2027-03-20",
+        "2027-03-21",
+        "2027-03-26",
+        "2027-03-27",
+        "2027-03-28"
+      ],
+      "occurrences": 6
+    },
+    {
+      "id": "ev-aldan-dividing-the-estate-5b210f",
+      "name": "Dividing the Estate",
+      "category": "events",
+      "subcategories": [
+        "family",
+        "performing-arts",
+        "special-audience"
+      ],
+      "shortDescription": "As a wealthy Texas family's future hangs in the balance, long-buried tensions rise to the surface.",
+      "address": "Colonial Playhouse, Aldan, PA",
+      "town": "Aldan",
+      "lat": 39.916243,
+      "lng": -75.294573,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-28",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://colonialplayhouse.net/dividing-estate/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OQLDEkiOmE2pv9uDnbRTwQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "6 dates, Mar 12 - Mar 28",
+      "nextDate": "2027-03-12",
+      "dates": [
+        "2027-03-12",
+        "2027-03-20",
+        "2027-03-21",
+        "2027-03-26",
+        "2027-03-27",
+        "2027-03-28"
+      ],
+      "occurrences": 6
+    },
+    {
+      "id": "ev-lansdowne-the-magical-music-of-harry-potter-live-1dd142",
+      "name": "The Magical Music of Harry Potter - Live in Concert",
+      "category": "events",
+      "subcategories": [
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Presented by a special guest star from films!Experience the best Oscar-nominated music from the Harry Potter films in a unique concert evening with The Magical Film...",
+      "address": "Lansdowne Theater, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.939389,
+      "lng": -75.27231,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-12",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.etix.com/ticket/p/86500573/the-magical-music-of-harry-potter-live-in-concert-lansdowne-lansdowne-theater",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Iz4gXJq3AES8rmBSTDWBUQ.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Mar 12",
+      "nextDate": "2027-03-12",
+      "dates": [
+        "2027-03-12"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-lansdowne-the-music-of-hans-zimmer-others-live-i-ae2959",
+      "name": "The Music of Hans Zimmer & Others – Live in Concert",
+      "category": "events",
+      "subcategories": [
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Presented by a Pirate from Pirates of the Caribbean!Experience the symphonic world of Hans Zimmer with music from James Bond, The Lion King, The Pirates of the...",
+      "address": "Lansdowne Theater, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.939389,
+      "lng": -75.27231,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-12",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.etix.com/ticket/p/96873769/the-music-of-hans-zimmer-others-live-in-concert-lansdowne-lansdowne-theater",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7kx1pWURbEGGqcosHpRMJA.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Mar 12",
+      "nextDate": "2027-03-12",
+      "dates": [
+        "2027-03-12"
       ],
       "occurrences": 1
     },
@@ -18621,91 +18933,6 @@
       "dates": [
         "2027-03-16"
       ]
-    },
-    {
-      "id": "ev-aldan-agatha-christie-s-a-murder-is-announced-099f96",
-      "name": "Agatha Christie's A Murder is Announced",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "In the quiet, little village of Chipping Cleghorn, an announcement in the local newspaper causes a stir among the residents.",
-      "address": "Colonial Playhouse, Aldan, PA",
-      "town": "Aldan",
-      "lat": 39.916243,
-      "lng": -75.294573,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2027-03-19",
-      "endDate": "2027-03-28",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://colonialplayhouse.net/a-murder-is-announced/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/nIWNYZAnXkeWu4T7tnoswA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sat, Sun, Mar 19 - Mar 28",
-      "nextDate": "2027-03-19",
-      "dates": [
-        "2027-03-19",
-        "2027-03-20",
-        "2027-03-21",
-        "2027-03-26",
-        "2027-03-27",
-        "2027-03-28"
-      ],
-      "occurrences": 6
-    },
-    {
-      "id": "ev-aldan-dividing-the-estate-5b210f",
-      "name": "Dividing the Estate",
-      "category": "events",
-      "subcategories": [
-        "family",
-        "performing-arts",
-        "special-audience"
-      ],
-      "shortDescription": "As a wealthy Texas family's future hangs in the balance, long-buried tensions rise to the surface.",
-      "address": "Colonial Playhouse, Aldan, PA",
-      "town": "Aldan",
-      "lat": 39.916243,
-      "lng": -75.294573,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2027-03-19",
-      "endDate": "2027-03-28",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://colonialplayhouse.net/dividing-estate/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OQLDEkiOmE2pv9uDnbRTwQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sat, Sun, Mar 19 - Mar 28",
-      "nextDate": "2027-03-19",
-      "dates": [
-        "2027-03-19",
-        "2027-03-20",
-        "2027-03-21",
-        "2027-03-26",
-        "2027-03-27",
-        "2027-03-28"
-      ],
-      "occurrences": 6
     },
     {
       "id": "ev-wallingford-2nd-edition-of-international-confere-f9e1ba",
