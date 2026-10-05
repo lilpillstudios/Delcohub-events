@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-10-04T14:52:33.737517+00:00",
+  "scraped_at": "2026-10-05T18:35:16.781901+00:00",
   "horizon_days": 180,
-  "event_count": 495,
+  "event_count": 498,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-10-04",
+      "startDate": "2026-10-05",
       "endDate": "2026-10-31",
       "recurring": "none",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Oct 4 - Oct 31",
-      "nextDate": "2026-10-04",
+      "schedule": "Daily, Oct 5 - Oct 31",
+      "nextDate": "2026-10-05",
       "dates": [
-        "2026-10-04",
         "2026-10-05",
         "2026-10-06",
         "2026-10-07",
@@ -68,476 +67,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 28
-    },
-    {
-      "id": "ev-wayne-allison-eide-at-118-north-3fcd29",
-      "name": "Allison Eide at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Allison Eide at 118 North Sunday, October 4, 2026 Doors: 6:00 PM | Show: 7:00 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1056396210664216/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/wsObqzjI-km5zDiGfL4Cuw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Oct 4",
-      "nextDate": "2026-10-04",
-      "dates": [
-        "2026-10-04"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-delco-10-miler-0803e0",
-      "name": "Delco 10-Miler",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Delco 10-Miler at Union Yards in Chester.",
-      "address": "Union Yards, Chester, PA",
-      "town": "Chester",
-      "lat": 39.834372,
-      "lng": -75.379858,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.chestercity.com/event/delco-10-miler-2/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/y4i4jyKSoUCa5lNjYSZ1rA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Oct 4",
-      "nextDate": "2026-10-04",
-      "dates": [
-        "2026-10-04"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-havertown-historic-grange-estate-spooky-tours-3e5c9f",
-      "name": "Historic Grange Estate Spooky Tours",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "festival",
-        "halloween",
-        "holiday"
-      ],
-      "shortDescription": "Enjoy spooky tours at the Historic Grange Estate in Havertown. A 17th century mansion meticulously decorated for Halloween. Plus 9 acres of grounds to explore!",
-      "address": "Grange Estate, Havertown, PA",
-      "town": "Havertown",
-      "lat": 39.976832,
-      "lng": -75.284808,
-      "priceTier": 1,
-      "tags": [
-        "group",
-        "historic",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-10-04",
-      "endDate": "2026-10-18",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/thegrangeestate.net/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2HNFbWBIG0m-t0nuIun2vA.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sundays, Oct 4 - Oct 18",
-      "nextDate": "2026-10-04",
-      "dates": [
-        "2026-10-04",
-        "2026-10-11",
-        "2026-10-18"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-media-horses-hooves-historical-homes-6d2af0",
-      "name": "Horses, Hooves, & Historical Homes",
-      "category": "events",
-      "subcategories": [
-        "animals",
-        "destinations"
-      ],
-      "shortDescription": "Horses, Hooves, & Historical Homes at Delaware County Historical Society in Media.",
-      "address": "Delaware County Historical Society, Media, PA",
-      "town": "Media",
-      "lat": 39.919238,
-      "lng": -75.389521,
-      "priceTier": 2,
-      "tags": [
-        "group",
-        "historic"
-      ],
-      "hours": {},
-      "startDate": "2026-10-04",
-      "endDate": "2026-10-20",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-750-0622",
-      "website": "https://www.delawareohiohistory.org/uncategorized/horses-hooves-and-historical-homes/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/EyRkzbkJhUmtlueNJtgcpA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "2 dates, Oct 4 - Oct 20",
-      "nextDate": "2026-10-04",
-      "dates": [
-        "2026-10-04",
-        "2026-10-20"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-aldan-lend-me-a-tenor-4d3baa",
-      "name": "Lend Me a Tenor",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts",
-        "theater"
-      ],
-      "shortDescription": "\"Lend Me a Tenor\" is a Tony Award-winning farce by Ken Ludwig, set in 1934 Cleveland, about the chaos that ensues when the Cleveland Grand Opera Company's star tenor,...",
-      "address": "Colonial Playhouse, Aldan, PA",
-      "town": "Aldan",
-      "lat": 39.916243,
-      "lng": -75.294573,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-04",
-      "endDate": "2026-10-11",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://colonialplayhouse.net/lend-me-a-tenor/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/41_m5a63-UyJLoBEGqGeGw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sat, Sun, Oct 4 - Oct 11",
-      "nextDate": "2026-10-04",
-      "dates": [
-        "2026-10-04",
-        "2026-10-09",
-        "2026-10-10",
-        "2026-10-11"
-      ],
-      "occurrences": 4
-    },
-    {
-      "id": "ev-wayne-mark-schultz-the-wayne-rangers-at-118-nort-2b4d80",
-      "name": "Mark Schultz & the Wayne Rangers at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Mark Schultz & the Wayne Rangers at 118 North Sunday, October 4, 2026 Doors: 2:00 PM | Show: 3:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1365792508996794/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/VBmzsnXa5EuwG8f3nuv79w.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Oct 4",
-      "nextDate": "2026-10-04",
-      "dates": [
-        "2026-10-04"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-springfield-springfield-twp-presents-springfield-94fae4",
-      "name": "Springfield Twp. Presents - Springfield ROCKS!",
-      "category": "events",
-      "subcategories": [
-        "family",
-        "nature",
-        "outdoor-recreation",
-        "performing-arts"
-      ],
-      "shortDescription": "Join us for our annual Family Fun Day – Springfield ROCKS!",
-      "address": "Township Building, Springfield, PA",
-      "town": "Springfield",
-      "lat": 39.931567,
-      "lng": -75.328436,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-10-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.springfielddelco.org/event/springfield-twp-presents-springfield-rocks/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dKLKN9YN1EqM2zZBBAQ6lw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Oct 4",
-      "nextDate": "2026-10-04",
-      "dates": [
-        "2026-10-04"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-the-nude-portrait-with-scott-noel-91d119",
-      "name": "The Nude Portrait with Scott Noel",
-      "category": "events",
-      "subcategories": [
-        "visual-arts"
-      ],
-      "shortDescription": "The workshop will run for two full days. Our interest is whether two distinct pictorial genres, the portrait and the nude figure, can challenge each other and make each...",
-      "address": "Wayne Art Center, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.03894,
-      "lng": -75.394446,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://wayneart.org/events/2120/the-nude-portrait-with-scott-noel",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1QcKDT3PtUunTHf6enwWJQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Oct 4",
-      "nextDate": "2026-10-04",
-      "dates": [
-        "2026-10-04"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-devon-tri-county-concerts-opens-its-season-oct-4-87a12d",
-      "name": "Tri-County Concerts opens its season Oct. 4 with pianist Avery Gagliano",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "We’re excited to open this season’s Emerging Artists Series with the amazing Avery Gagliano on October 4 at 3 pm at Main Line Unitarian Church, performing piano works by...",
-      "address": "Main Line Unitarian Church, Devon, PA",
-      "town": "Devon",
-      "lat": 40.029923,
-      "lng": -75.407229,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.tricountyconcerts.org/emerging_artists",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/k0ObiY_1z0iSviym7un_kA.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Oct 4",
-      "nextDate": "2026-10-04",
-      "dates": [
-        "2026-10-04"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-villanova-theatre-presents-the-moors-f94750",
-      "name": "Villanova Theatre Presents The Moors",
-      "category": "events",
-      "subcategories": [
-        "performing-arts",
-        "theater"
-      ],
-      "shortDescription": "On the desolate English moors, a household of women guards its secrets with the same quiet care it devotes to everything else.",
-      "address": "The Mullen Center for the Performing Arts at Villanova University - Court Theatre, Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.036706,
-      "lng": -75.344557,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanovatheatre.org/the-moors/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/GiDeR7SDGkmE5RTOl_xOpQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Oct 4",
-      "nextDate": "2026-10-04",
-      "dates": [
-        "2026-10-04"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-villanova-university-women-s-tennis-vs-f289e7",
-      "name": "Villanova University Women's Tennis vs Villanova Invitational",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Villanova University Women's Tennis vs Villanova Invitational",
-      "address": "Villanova Tennis Complex, Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03176,
-      "lng": -75.34903,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanova.com/calendar.aspx?game_id=17898&amp;sport_id=20",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/04fa80b1-2d66-4998-85f4-d6341970bb46.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Oct 4",
-      "nextDate": "2026-10-04",
-      "dates": [
-        "2026-10-04"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-volunteer-with-the-delaware-county-histori-9e8a41",
-      "name": "Volunteer with the Delaware County Historical Society",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "volunteering"
-      ],
-      "shortDescription": "Volunteer with the Delaware County Historical Society at Delaware County Historical Society in Media.",
-      "address": "Delaware County Historical Society, Media, PA",
-      "town": "Media",
-      "lat": 39.919238,
-      "lng": -75.389521,
-      "priceTier": 3,
-      "tags": [
-        "group",
-        "historic"
-      ],
-      "hours": {},
-      "startDate": "2026-10-04",
-      "endDate": "2026-10-21",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-750-0622",
-      "website": "https://www.DelawareOhioHistory.org/volunteer/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/uefNlpndaU2UdGn8bgEUuA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "4 dates, Oct 4 - Oct 21",
-      "nextDate": "2026-10-04",
-      "dates": [
-        "2026-10-04",
-        "2026-10-09",
-        "2026-10-20",
-        "2026-10-21"
-      ],
-      "occurrences": 4
+      "occurrences": 27
     },
     {
       "id": "ev-aston-dcs-symphony-explorers-da8136",
@@ -1463,10 +993,11 @@
         "2027-02-23",
         "2027-03-02",
         "2027-03-09",
+        "2027-03-16",
         "2027-03-23",
         "2027-03-30"
       ],
-      "occurrences": 25
+      "occurrences": 26
     },
     {
       "id": "ev-bryn-mawr-parents-association-mahjong-open-play-f4fb55",
@@ -1756,10 +1287,11 @@
         "2027-02-23",
         "2027-03-02",
         "2027-03-09",
+        "2027-03-16",
         "2027-03-23",
         "2027-03-30"
       ],
-      "occurrences": 25
+      "occurrences": 26
     },
     {
       "id": "ev-wayne-uap-cases-of-interest-and-intrigue-from-bl-7f38be",
@@ -2185,6 +1717,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-newtown-square-newtown-post-us-parent-coffee-57acee",
+      "name": "Newtown Post: US Parent Coffee",
+      "category": "events",
+      "subcategories": [
+        "food-drink",
+        "lifestyle"
+      ],
+      "shortDescription": "Newtown Post: US Parent Coffee",
+      "address": "Newtown Post, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-07",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0a54b847-18a3-4fad-9263-4e416bf37162.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Oct 7",
+      "nextDate": "2026-10-07",
+      "dates": [
+        "2026-10-07"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-postponed-water-polo-girls-varsit-89f09c",
       "name": "POSTPONED: Water Polo - Girls Varsity @ GA",
       "category": "events",
@@ -2221,6 +1791,51 @@
         "2026-10-07"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-preschool-spanish-class-c931c2",
+      "name": "Preschool Spanish Class",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "kids",
+        "learning",
+        "lifestyle"
+      ],
+      "shortDescription": "Peter Rabbit Storytime Room - Registration required Ages 2 1/2 - 5 In this 4-week interactive storytime series, students will be introduced to greetings, colors,...",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-10-07",
+      "endDate": "2026-10-28",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17665687",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d1926d25-2547-4dc4-9b38-3d15ddbf7d15.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wednesdays, Oct 7 - Oct 28",
+      "nextDate": "2026-10-07",
+      "dates": [
+        "2026-10-07",
+        "2026-10-14",
+        "2026-10-21",
+        "2026-10-28"
+      ],
+      "occurrences": 4
     },
     {
       "id": "ev-wayne-ruthie-foster-at-118-north-55bd26",
@@ -2327,6 +1942,44 @@
       "website": "https://swarthmoreathletics.com/calendar.aspx?game_id=31100&sport_id=18",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5245d79e-4890-4dba-8b48-8a1090c252b9.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Oct 7",
+      "nextDate": "2026-10-07",
+      "dates": [
+        "2026-10-07"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-tennis-3rd-team-girls-rustin-088b49",
+      "name": "Tennis - 3rd Team Girls @ Rustin",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Tennis - 3rd Team Girls @ Rustin",
+      "address": "Bayard Rustin High School, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-07",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/02c0fa5b-6877-4ac3-902d-d8531b975a10.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -2455,6 +2108,41 @@
       "occurrences": 1
     },
     {
+      "id": "ev-newtown-square-1st-gr-field-trip-osmian-calderon-0f0393",
+      "name": "1st Gr Field Trip (Osmian/Calderon)",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "1st Gr Field Trip (Osmian/Calderon)",
+      "address": "Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-08",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/815b1ccf-c698-45a3-9874-2420baff5007.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Oct 8",
+      "nextDate": "2026-10-08",
+      "dates": [
+        "2026-10-08"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-denise-brown-for-my-sister-nicole-5db420",
       "name": "Denise Brown, \"For My Sister Nicole\"",
       "category": "events",
@@ -2526,6 +2214,41 @@
         "2026-12-10"
       ],
       "occurrences": 3
+    },
+    {
+      "id": "ev-newtown-square-k-field-trip-91f8f6",
+      "name": "K Field Trip",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "K Field Trip at a Delco venue in Newtown Square.",
+      "address": "Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-08",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bbbbd562-8dd2-4c7f-9a4b-dbe81f083ecd.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Oct 8",
+      "nextDate": "2026-10-08",
+      "dates": [
+        "2026-10-08"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-media-mac-original-play-reading-series-to-get-to-cbb18d",
@@ -3048,10 +2771,11 @@
         "2027-02-25",
         "2027-03-04",
         "2027-03-11",
+        "2027-03-18",
         "2027-03-25",
         "2027-04-01"
       ],
-      "occurrences": 25
+      "occurrences": 26
     },
     {
       "id": "ev-wayne-toddler-storytime-ages-2-3-years-67d052",
@@ -3136,6 +2860,51 @@
       "occurrences": 2
     },
     {
+      "id": "ev-wayne-halloween-costume-exchange-16f14f",
+      "name": "Halloween Costume Exchange",
+      "category": "events",
+      "subcategories": [
+        "halloween",
+        "holiday",
+        "kids",
+        "literary-arts"
+      ],
+      "shortDescription": "Donation Drop-off: September 14 - October 7 - Children's Desk Costume Shopping: Friday, October 9, 9 AM - 6 PM Saturday, October 10, 9 AM - 5 PM Sunday, October 11, 1-5...",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-12",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17665816",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/acc35a6b-583b-4614-ad52-1b445886c9c7.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Oct 9 - Oct 12",
+      "nextDate": "2026-10-09",
+      "dates": [
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12"
+      ],
+      "occurrences": 4
+    },
+    {
       "id": "ev-chester-homecoming-3641a5",
       "name": "Homecoming",
       "category": "events",
@@ -3172,6 +2941,47 @@
         "2026-10-10"
       ],
       "occurrences": 2
+    },
+    {
+      "id": "ev-aldan-lend-me-a-tenor-4d3baa",
+      "name": "Lend Me a Tenor",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "\"Lend Me a Tenor\" is a Tony Award-winning farce by Ken Ludwig, set in 1934 Cleveland, about the chaos that ensues when the Cleveland Grand Opera Company's star tenor,...",
+      "address": "Colonial Playhouse, Aldan, PA",
+      "town": "Aldan",
+      "lat": 39.916243,
+      "lng": -75.294573,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-11",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://colonialplayhouse.net/lend-me-a-tenor/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/41_m5a63-UyJLoBEGqGeGw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Oct 9 - Oct 11",
+      "nextDate": "2026-10-09",
+      "dates": [
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11"
+      ],
+      "occurrences": 3
     },
     {
       "id": "ev-wayne-reading-rocks-a-music-dance-and-comedy-sho-7179e6",
@@ -3397,6 +3207,84 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1c5f516e-c648-44bf-ba17-ce3f5c2af91a.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Oct 9",
+      "nextDate": "2026-10-09",
+      "dates": [
+        "2026-10-09"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-media-volunteer-with-the-delaware-county-histori-9e8a41",
+      "name": "Volunteer with the Delaware County Historical Society",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "volunteering"
+      ],
+      "shortDescription": "Volunteer with the Delaware County Historical Society at Delaware County Historical Society in Media.",
+      "address": "Delaware County Historical Society, Media, PA",
+      "town": "Media",
+      "lat": 39.919238,
+      "lng": -75.389521,
+      "priceTier": 3,
+      "tags": [
+        "group",
+        "historic"
+      ],
+      "hours": {},
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-21",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-750-0622",
+      "website": "https://www.DelawareOhioHistory.org/volunteer/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/uefNlpndaU2UdGn8bgEUuA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "3 dates, Oct 9 - Oct 21",
+      "nextDate": "2026-10-09",
+      "dates": [
+        "2026-10-09",
+        "2026-10-20",
+        "2026-10-21"
+      ],
+      "occurrences": 3
+    },
+    {
+      "id": "ev-newtown-square-water-polo-varsity-boys-lawrencev-3355f9",
+      "name": "Water Polo - Varsity Boys @ Lawrenceville",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Water Polo - Varsity Boys @ Lawrenceville",
+      "address": "The Lawrenceville School, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-09",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f9de544e-a936-4ae7-96c0-fc7f0d2460e7.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -3645,6 +3533,43 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-first-draft-a-group-for-writers-ffd746",
+      "name": "First Draft: A Group for Writers",
+      "category": "events",
+      "subcategories": [
+        "literary-arts"
+      ],
+      "shortDescription": "First Draft: A Group for Writers Saturdays, 10/10 11:00am Conference Room Need inspiration or a boost of confidence when it comes to writing?",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-10",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17477498",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d272002b-470e-4716-9652-8b95fbe53e67.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 10",
+      "nextDate": "2026-10-10",
+      "dates": [
+        "2026-10-10"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-chester-frankie-qui-ones-6c1a0c",
       "name": "Frankie Quiñones",
       "category": "events",
@@ -3872,6 +3797,45 @@
       "dates": [
         "2026-10-10"
       ]
+    },
+    {
+      "id": "ev-wayne-silent-read-in-fec78c",
+      "name": "Silent Read-In",
+      "category": "events",
+      "subcategories": [
+        "literary-arts",
+        "special-audience"
+      ],
+      "shortDescription": "October 10th is Let Freedom Read Day, the end of Banned Books Week (10/4-10/10).",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-10",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17537109",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/827bdf69-b576-446a-a4e1-d3f5630cc02a.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 10",
+      "nextDate": "2026-10-10",
+      "dates": [
+        "2026-10-10"
+      ],
+      "occurrences": 1
     },
     {
       "id": "springfield-farmers-market",
@@ -4301,6 +4265,86 @@
       "occurrences": 1
     },
     {
+      "id": "ev-newtown-square-football-prospect-day-06e9f8",
+      "name": "Football Prospect Day",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Football Prospect Day at Smith Field in Newtown Square.",
+      "address": "Smith Field, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-11",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e2439a77-9511-4393-a8be-b5da490cc5c3.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Oct 11",
+      "nextDate": "2026-10-11",
+      "dates": [
+        "2026-10-11"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-havertown-historic-grange-estate-spooky-tours-3e5c9f",
+      "name": "Historic Grange Estate Spooky Tours",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "festival",
+        "halloween",
+        "holiday"
+      ],
+      "shortDescription": "Enjoy spooky tours at the Historic Grange Estate in Havertown. A 17th century mansion meticulously decorated for Halloween. Plus 9 acres of grounds to explore!",
+      "address": "Grange Estate, Havertown, PA",
+      "town": "Havertown",
+      "lat": 39.976832,
+      "lng": -75.284808,
+      "priceTier": 1,
+      "tags": [
+        "group",
+        "historic",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-18",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/thegrangeestate.net/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2HNFbWBIG0m-t0nuIun2vA.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sundays, Oct 11 - Oct 18",
+      "nextDate": "2026-10-11",
+      "dates": [
+        "2026-10-11",
+        "2026-10-18"
+      ],
+      "occurrences": 2
+    },
+    {
       "id": "ev-chester-homecooking-a-gallery-brunch-90a922",
       "name": "HomeCooking: A Gallery Brunch",
       "category": "events",
@@ -4328,6 +4372,46 @@
       "website": "https://www.eventbrite.com/e/homecooking-a-gallery-brunch-tickets-2001876067206",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/j3fp4YFwm0yr94r0z6Nz6w.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Oct 11",
+      "nextDate": "2026-10-11",
+      "dates": [
+        "2026-10-11"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-introduction-to-dungeons-dragons-teens-02eeb1",
+      "name": "Introduction to Dungeons & Dragons (Teens)",
+      "category": "events",
+      "subcategories": [
+        "games",
+        "learning",
+        "special-audience"
+      ],
+      "shortDescription": "Curious about D&D? Learn how to play! Create a character and go on an adventure.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-11",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17498109",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e8a2318c-ba52-47cf-9ea2-50deafa7617d.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -4428,10 +4512,11 @@
         "2027-02-22",
         "2027-03-01",
         "2027-03-08",
+        "2027-03-15",
         "2027-03-22",
         "2027-03-29"
       ],
-      "occurrences": 18
+      "occurrences": 19
     },
     {
       "id": "ev-newtown-square-football-jv-v-malvern-e636e6",
@@ -4917,7 +5002,7 @@
       ],
       "hours": {},
       "startDate": "2026-10-14",
-      "endDate": "2027-03-08",
+      "endDate": "2027-04-02",
       "recurring": "seasonal",
       "venueId": "",
       "phone": "",
@@ -4928,7 +5013,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Select dates, Oct 14 - Mar 8",
+      "schedule": "Select dates, Oct 14 - Apr 2",
       "nextDate": "2026-10-14",
       "dates": [
         "2026-10-14",
@@ -4937,9 +5022,10 @@
         "2027-01-28",
         "2027-02-09",
         "2027-02-23",
-        "2027-03-08"
+        "2027-03-08",
+        "2027-04-02"
       ],
-      "occurrences": 7
+      "occurrences": 8
     },
     {
       "id": "ev-wayne-gentle-yoga-and-meditation-135d96",
@@ -6994,6 +7080,44 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ec02e2a0-a935-4331-916c-5ba19bffa75b.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Oct 20",
+      "nextDate": "2026-10-20",
+      "dates": [
+        "2026-10-20"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-media-horses-hooves-historical-homes-6d2af0",
+      "name": "Horses, Hooves, & Historical Homes",
+      "category": "events",
+      "subcategories": [
+        "animals",
+        "destinations"
+      ],
+      "shortDescription": "Horses, Hooves, & Historical Homes at Delaware County Historical Society in Media.",
+      "address": "Delaware County Historical Society, Media, PA",
+      "town": "Media",
+      "lat": 39.919238,
+      "lng": -75.389521,
+      "priceTier": 2,
+      "tags": [
+        "group",
+        "historic"
+      ],
+      "hours": {},
+      "startDate": "2026-10-20",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-750-0622",
+      "website": "https://www.delawareohiohistory.org/uncategorized/horses-hooves-and-historical-homes/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/EyRkzbkJhUmtlueNJtgcpA.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -18367,7 +18491,7 @@
       ],
       "hours": {},
       "startDate": "2027-03-11",
-      "endDate": "2027-03-13",
+      "endDate": "2027-03-12",
       "recurring": "none",
       "venueId": "",
       "phone": "",
@@ -18378,99 +18502,13 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Mar 11 - Mar 13",
+      "schedule": "Daily, Mar 11 - Mar 12",
       "nextDate": "2027-03-11",
       "dates": [
         "2027-03-11",
-        "2027-03-12",
-        "2027-03-13"
+        "2027-03-12"
       ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-aldan-agatha-christie-s-a-murder-is-announced-099f96",
-      "name": "Agatha Christie's A Murder is Announced",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "In the quiet, little village of Chipping Cleghorn, an announcement in the local newspaper causes a stir among the residents.",
-      "address": "Colonial Playhouse, Aldan, PA",
-      "town": "Aldan",
-      "lat": 39.916243,
-      "lng": -75.294573,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2027-03-12",
-      "endDate": "2027-03-28",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://colonialplayhouse.net/a-murder-is-announced/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/nIWNYZAnXkeWu4T7tnoswA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "6 dates, Mar 12 - Mar 28",
-      "nextDate": "2027-03-12",
-      "dates": [
-        "2027-03-12",
-        "2027-03-13",
-        "2027-03-21",
-        "2027-03-26",
-        "2027-03-27",
-        "2027-03-28"
-      ],
-      "occurrences": 6
-    },
-    {
-      "id": "ev-aldan-dividing-the-estate-5b210f",
-      "name": "Dividing the Estate",
-      "category": "events",
-      "subcategories": [
-        "family",
-        "performing-arts",
-        "special-audience"
-      ],
-      "shortDescription": "As a wealthy Texas family's future hangs in the balance, long-buried tensions rise to the surface.",
-      "address": "Colonial Playhouse, Aldan, PA",
-      "town": "Aldan",
-      "lat": 39.916243,
-      "lng": -75.294573,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2027-03-12",
-      "endDate": "2027-03-28",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://colonialplayhouse.net/dividing-estate/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OQLDEkiOmE2pv9uDnbRTwQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "6 dates, Mar 12 - Mar 28",
-      "nextDate": "2027-03-12",
-      "dates": [
-        "2027-03-12",
-        "2027-03-13",
-        "2027-03-21",
-        "2027-03-26",
-        "2027-03-27",
-        "2027-03-28"
-      ],
-      "occurrences": 6
+      "occurrences": 2
     },
     {
       "id": "ev-lansdowne-the-magical-music-of-harry-potter-live-1dd142",
@@ -18499,44 +18537,6 @@
       "website": "https://www.etix.com/ticket/p/86500573/the-magical-music-of-harry-potter-live-in-concert-lansdowne-lansdowne-theater",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Iz4gXJq3AES8rmBSTDWBUQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Mar 12",
-      "nextDate": "2027-03-12",
-      "dates": [
-        "2027-03-12"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-lansdowne-the-music-of-hans-zimmer-others-live-i-ae2959",
-      "name": "The Music of Hans Zimmer & Others – Live in Concert",
-      "category": "events",
-      "subcategories": [
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Presented by a Pirate from Pirates of the Caribbean!Experience the symphonic world of Hans Zimmer with music from James Bond, The Lion King, The Pirates of the...",
-      "address": "Lansdowne Theater, Lansdowne, PA",
-      "town": "Lansdowne",
-      "lat": 39.939389,
-      "lng": -75.27231,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2027-03-12",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.etix.com/ticket/p/96873769/the-music-of-hans-zimmer-others-live-in-concert-lansdowne-lansdowne-theater",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7kx1pWURbEGGqcosHpRMJA.medium.jpg",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -18583,6 +18583,126 @@
       "dates": [
         "2027-03-16"
       ]
+    },
+    {
+      "id": "ev-newtown-square-scheduling-assemblies-for-rising-a2d88f",
+      "name": "Scheduling Assemblies for Rising 10,11 and 12th",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Scheduling Assemblies for Rising 10,11 and 12th",
+      "address": "Theater - Carrafiell Theater, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-16",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Mar 16",
+      "nextDate": "2027-03-16",
+      "dates": [
+        "2027-03-16"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-aldan-agatha-christie-s-a-murder-is-announced-099f96",
+      "name": "Agatha Christie's A Murder is Announced",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "In the quiet, little village of Chipping Cleghorn, an announcement in the local newspaper causes a stir among the residents.",
+      "address": "Colonial Playhouse, Aldan, PA",
+      "town": "Aldan",
+      "lat": 39.916243,
+      "lng": -75.294573,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-19",
+      "endDate": "2027-03-28",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://colonialplayhouse.net/a-murder-is-announced/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/nIWNYZAnXkeWu4T7tnoswA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Sat, Sun, Mar 19 - Mar 28",
+      "nextDate": "2027-03-19",
+      "dates": [
+        "2027-03-19",
+        "2027-03-20",
+        "2027-03-21",
+        "2027-03-26",
+        "2027-03-27",
+        "2027-03-28"
+      ],
+      "occurrences": 6
+    },
+    {
+      "id": "ev-aldan-dividing-the-estate-5b210f",
+      "name": "Dividing the Estate",
+      "category": "events",
+      "subcategories": [
+        "family",
+        "performing-arts",
+        "special-audience"
+      ],
+      "shortDescription": "As a wealthy Texas family's future hangs in the balance, long-buried tensions rise to the surface.",
+      "address": "Colonial Playhouse, Aldan, PA",
+      "town": "Aldan",
+      "lat": 39.916243,
+      "lng": -75.294573,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-19",
+      "endDate": "2027-03-28",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://colonialplayhouse.net/dividing-estate/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OQLDEkiOmE2pv9uDnbRTwQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Sat, Sun, Mar 19 - Mar 28",
+      "nextDate": "2027-03-19",
+      "dates": [
+        "2027-03-19",
+        "2027-03-20",
+        "2027-03-21",
+        "2027-03-26",
+        "2027-03-27",
+        "2027-03-28"
+      ],
+      "occurrences": 6
     },
     {
       "id": "ev-wallingford-2nd-edition-of-international-confere-f9e1ba",
