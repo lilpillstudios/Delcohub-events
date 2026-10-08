@@ -1,699 +1,9 @@
 {
   "version": 1,
-  "scraped_at": "2026-10-07T16:39:46.589623+00:00",
+  "scraped_at": "2026-10-08T16:37:46.354763+00:00",
   "horizon_days": 180,
-  "event_count": 475,
+  "event_count": 464,
   "listings": [
-    {
-      "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
-      "name": "2026 Gene Capaldi Lens on Litter Photo Contest",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "holiday",
-        "visual-arts"
-      ],
-      "shortDescription": "An annual litter photo contest; not intended to glorify litter but to bring attention to the litter problem in communities in Pennsylvania.",
-      "address": "Rose Tree Park, Hunt Club, 1521 North Providence Road, Media, PA",
-      "town": "Media",
-      "lat": 39.91678,
-      "lng": -75.38769,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-07",
-      "endDate": "2026-10-31",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://prc.org/what-we-do/lens-on-litter-contest/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/EFSYwNi2eEyfCncurQHucg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Oct 7 - Oct 31",
-      "nextDate": "2026-10-07",
-      "dates": [
-        "2026-10-07",
-        "2026-10-08",
-        "2026-10-09",
-        "2026-10-10",
-        "2026-10-11",
-        "2026-10-12",
-        "2026-10-13",
-        "2026-10-14",
-        "2026-10-15",
-        "2026-10-16",
-        "2026-10-17",
-        "2026-10-18",
-        "2026-10-19",
-        "2026-10-20",
-        "2026-10-21",
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-24",
-        "2026-10-25",
-        "2026-10-26",
-        "2026-10-27",
-        "2026-10-28",
-        "2026-10-29",
-        "2026-10-30",
-        "2026-10-31"
-      ],
-      "occurrences": 25
-    },
-    {
-      "id": "ev-bryn-mawr-7-week-adult-wheel-course-05bbee",
-      "name": "7-Week Adult Wheel Course",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "visual-arts"
-      ],
-      "shortDescription": "Our All Levels wheel courses are perfect for students ranging from beginners to potters who have spent substantial time on the wheel.",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-07",
-      "endDate": "2026-10-28",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/160851/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/37q4cJtwzEGTPozJcpOSiQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wednesdays, Oct 7 - Oct 28",
-      "nextDate": "2026-10-07",
-      "dates": [
-        "2026-10-07",
-        "2026-10-14",
-        "2026-10-21",
-        "2026-10-28"
-      ],
-      "occurrences": 4
-    },
-    {
-      "id": "ev-wayne-chess-club-634d75",
-      "name": "Chess Club",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "games",
-        "health-wellness",
-        "learning"
-      ],
-      "shortDescription": "Chess Club at Radnor Memorial Library Wednesdays, 9/2/26 through 12/30/26 (10/14 and 10/21 Chess Club moves upstairs, Rms.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-07",
-      "endDate": "2026-11-18",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17289533",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eea63be5-c4d3-46d5-9632-af64e5f10861.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wednesdays, Oct 7 - Nov 18",
-      "nextDate": "2026-10-07",
-      "dates": [
-        "2026-10-07",
-        "2026-10-28",
-        "2026-11-04",
-        "2026-11-11",
-        "2026-11-18"
-      ],
-      "occurrences": 5
-    },
-    {
-      "id": "media-dining-under-the-stars",
-      "name": "Dining Under the Stars",
-      "category": "events",
-      "subcategories": [
-        "food-festival",
-        "street-dining"
-      ],
-      "shortDescription": "Media's signature warm-weather event closing State Street so restaurants serve al fresco dinners under string lights.",
-      "address": "State St, Media, PA 19063",
-      "town": "Media",
-      "lat": 39.9166,
-      "lng": -75.388,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "date",
-        "group",
-        "family"
-      ],
-      "hours": {},
-      "startDate": "",
-      "endDate": "",
-      "recurring": "weekly",
-      "venueId": "media-state-street-district",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "schedule": "Wednesdays, June-August",
-      "nextDate": "2026-10-07",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-10-07"
-      ]
-    },
-    {
-      "id": "ev-newtown-square-field-hockey-ms-a-v-notre-dame-f8ea24",
-      "name": "Field Hockey - MS A v Notre Dame",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Field Hockey - MS A v Notre Dame",
-      "address": "Buggy Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-07",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b04bdf65-d71d-4a5a-a43a-cf4f24a1e822.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Oct 7",
-      "nextDate": "2026-10-07",
-      "dates": [
-        "2026-10-07"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-letters-to-the-world-a-conversation-on-6db418",
-      "name": "Letters to the World: A Conversation on the History of Papal Encyclicals",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Pope Leo XIV’s first encyclical, Magnifica Humanitas, made waves with its attention to issues of labor, AI, warfare and legacies of slavery.",
-      "address": "Villanova Theatre - Topper Theatre, Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.033416,
-      "lng": -75.341933,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "historic"
-      ],
-      "hours": {},
-      "startDate": "2026-10-07",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://bit.ly/4yzDvWz",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/MgGkvSRnHk6E8b4T9pyYDA.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Oct 7",
-      "nextDate": "2026-10-07",
-      "dates": [
-        "2026-10-07"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wallingford-mad-poets-society-reading-e76ffe",
-      "name": "Mad Poets Society Reading",
-      "category": "events",
-      "subcategories": [
-        "literary-arts"
-      ],
-      "shortDescription": "For more information on who will be reading go to https://www.madpoetssociety.com",
-      "address": "Community Arts Center, Wallingford, PA",
-      "town": "Wallingford",
-      "lat": 39.908927,
-      "lng": -75.365674,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-07",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://communityartscenter.org/events/?pno=",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/I5hy8nk9Wk2ZscZnfII-qg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Oct 7",
-      "nextDate": "2026-10-07",
-      "dates": [
-        "2026-10-07"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-newtown-post-us-parent-coffee-57acee",
-      "name": "Newtown Post: US Parent Coffee",
-      "category": "events",
-      "subcategories": [
-        "food-drink",
-        "lifestyle"
-      ],
-      "shortDescription": "Newtown Post: US Parent Coffee",
-      "address": "Newtown Post, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-07",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0a54b847-18a3-4fad-9263-4e416bf37162.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Oct 7",
-      "nextDate": "2026-10-07",
-      "dates": [
-        "2026-10-07"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-postponed-water-polo-girls-varsit-89f09c",
-      "name": "POSTPONED: Water Polo - Girls Varsity @ GA",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "POSTPONED: Water Polo - Girls Varsity @ GA",
-      "address": "Germantown Academy, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-07",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/359768a4-b327-4b56-9756-8467f4ba4030.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Oct 7",
-      "nextDate": "2026-10-07",
-      "dates": [
-        "2026-10-07"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-preschool-spanish-class-c931c2",
-      "name": "Preschool Spanish Class",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "kids",
-        "learning",
-        "lifestyle"
-      ],
-      "shortDescription": "Peter Rabbit Storytime Room - Registration required Ages 2 1/2 - 5 In this 4-week interactive storytime series, students will be introduced to greetings, colors,...",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-10-07",
-      "endDate": "2026-10-28",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17665687",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d1926d25-2547-4dc4-9b38-3d15ddbf7d15.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wednesdays, Oct 7 - Oct 28",
-      "nextDate": "2026-10-07",
-      "dates": [
-        "2026-10-07",
-        "2026-10-14",
-        "2026-10-21",
-        "2026-10-28"
-      ],
-      "occurrences": 4
-    },
-    {
-      "id": "ev-wayne-ruthie-foster-at-118-north-55bd26",
-      "name": "Ruthie Foster at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Ruthie Foster at 118 North Wednesday, October 7, 2026 Doors: 5:30 PM | Show: 7:30 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-07",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/2486280341849165/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/wDkrNnMlnE6nAnvgDYjAuQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Oct 7",
-      "nextDate": "2026-10-07",
-      "dates": [
-        "2026-10-07"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-girls-ms-a-notre-dame-222d77",
-      "name": "Soccer - Girls MS A @ Notre Dame",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - Girls MS A @ Notre Dame",
-      "address": "Academy of Notre Dame de Namur, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-07",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/890273d5-60d0-444d-b73a-b8cd330e83a8.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Oct 7",
-      "nextDate": "2026-10-07",
-      "dates": [
-        "2026-10-07"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-swarthmore-swarthmore-college-women-s-soccer-vs-746a37",
-      "name": "Swarthmore College Women's Soccer vs Muhlenberg College - Pride Night",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Swarthmore College Women's Soccer vs Muhlenberg College - Pride Night\\nStreaming Video: https://www.centennialconference.tv/swarthmoreathletics/\\n",
-      "address": "Clothier Field Stadium, Swarthmore, PA",
-      "town": "Swarthmore",
-      "lat": 39.90206,
-      "lng": -75.34991,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-07",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://swarthmoreathletics.com/calendar.aspx?game_id=31100&sport_id=18",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5245d79e-4890-4dba-8b48-8a1090c252b9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Oct 7",
-      "nextDate": "2026-10-07",
-      "dates": [
-        "2026-10-07"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-tennis-3rd-team-girls-rustin-088b49",
-      "name": "Tennis - 3rd Team Girls @ Rustin",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Tennis - 3rd Team Girls @ Rustin",
-      "address": "Bayard Rustin High School, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-07",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/02c0fa5b-6877-4ac3-902d-d8531b975a10.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Oct 7",
-      "nextDate": "2026-10-07",
-      "dates": [
-        "2026-10-07"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-villanova-university-women-s-soccer-vs-1d35a4",
-      "name": "Villanova University Women's Soccer vs Xavier University",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Villanova University Women's Soccer vs Xavier University",
-      "address": "Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03176,
-      "lng": -75.34903,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-07",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanova.com/calendar.aspx?game_id=17778&amp;sport_id=18",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/469bd39d-8063-41c7-8f6c-2f23de9f535d.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Oct 7",
-      "nextDate": "2026-10-07",
-      "dates": [
-        "2026-10-07"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-volleyball-ms-a-v-baldwin-1645f3",
-      "name": "Volleyball MS A v Baldwin",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Volleyball MS A v Baldwin",
-      "address": "O'Neill Gym, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-07",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7df57544-f36c-4258-bdb8-55ca1ace2cf6.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Oct 7",
-      "nextDate": "2026-10-07",
-      "dates": [
-        "2026-10-07"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-volleyball-ms-b-v-baldwin-36af61",
-      "name": "Volleyball MS B v Baldwin",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Volleyball MS B v Baldwin",
-      "address": "O'Neill Gym, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-07",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dee4e760-757d-432f-bfdd-cc2dc29297b9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Oct 7",
-      "nextDate": "2026-10-07",
-      "dates": [
-        "2026-10-07"
-      ],
-      "occurrences": 1
-    },
     {
       "id": "ev-newtown-square-1st-gr-field-trip-osmian-calderon-0f0393",
       "name": "1st Gr Field Trip (Osmian/Calderon)",
@@ -728,6 +38,68 @@
         "2026-10-08"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
+      "name": "2026 Gene Capaldi Lens on Litter Photo Contest",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "holiday",
+        "visual-arts"
+      ],
+      "shortDescription": "An annual litter photo contest; not intended to glorify litter but to bring attention to the litter problem in communities in Pennsylvania.",
+      "address": "Rose Tree Park, Hunt Club, 1521 North Providence Road, Media, PA",
+      "town": "Media",
+      "lat": 39.91678,
+      "lng": -75.38769,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-08",
+      "endDate": "2026-10-31",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://prc.org/what-we-do/lens-on-litter-contest/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/EFSYwNi2eEyfCncurQHucg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Oct 8 - Oct 31",
+      "nextDate": "2026-10-08",
+      "dates": [
+        "2026-10-08",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-11",
+        "2026-10-12",
+        "2026-10-13",
+        "2026-10-14",
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18",
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31"
+      ],
+      "occurrences": 24
     },
     {
       "id": "ev-wayne-denise-brown-for-my-sister-nicole-5db420",
@@ -1357,12 +729,11 @@
         "2027-02-18",
         "2027-02-25",
         "2027-03-04",
-        "2027-03-11",
         "2027-03-18",
         "2027-03-25",
         "2027-04-01"
       ],
-      "occurrences": 26
+      "occurrences": 25
     },
     {
       "id": "ev-wayne-toddler-storytime-ages-2-3-years-67d052",
@@ -3051,6 +2422,48 @@
       "occurrences": 2
     },
     {
+      "id": "ev-wayne-artful-wellness-with-miss-philadelphia-s-t-768552",
+      "name": "Artful Wellness with Miss Philadelphia's Teen 2026",
+      "category": "events",
+      "subcategories": [
+        "health-wellness",
+        "kids",
+        "lifestyle",
+        "literary-arts"
+      ],
+      "shortDescription": "Peter Rabbit Storytime Room - No registration required All ages Visit with the 2026 Miss Philadelphia's Teen, Ksenya Wong, of Malvern, PA!",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-10-12",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17666159",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c5524bb5-b9ec-4797-8e80-6d01a3ab7815.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mon, Oct 12",
+      "nextDate": "2026-10-12",
+      "dates": [
+        "2026-10-12"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-havertown-delaware-county-camera-club-meeting-64c172",
       "name": "Delaware County Camera Club Meeting",
       "category": "events",
@@ -3069,7 +2482,7 @@
       ],
       "hours": {},
       "startDate": "2026-10-12",
-      "endDate": "2027-03-29",
+      "endDate": "2027-04-05",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -3080,7 +2493,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Mondays, Oct 12 - Mar 29",
+      "schedule": "Mondays, Oct 12 - Apr 5",
       "nextDate": "2026-10-12",
       "dates": [
         "2026-10-12",
@@ -3100,9 +2513,10 @@
         "2027-03-01",
         "2027-03-08",
         "2027-03-22",
-        "2027-03-29"
+        "2027-03-29",
+        "2027-04-05"
       ],
-      "occurrences": 18
+      "occurrences": 19
     },
     {
       "id": "ev-newtown-square-football-jv-v-malvern-e636e6",
@@ -3825,6 +3239,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-bryn-mawr-7-week-adult-wheel-course-05bbee",
+      "name": "7-Week Adult Wheel Course",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "visual-arts"
+      ],
+      "shortDescription": "Our All Levels wheel courses are perfect for students ranging from beginners to potters who have spent substantial time on the wheel.",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-28",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/160851/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/37q4cJtwzEGTPozJcpOSiQ.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wednesdays, Oct 14 - Oct 28",
+      "nextDate": "2026-10-14",
+      "dates": [
+        "2026-10-14",
+        "2026-10-21",
+        "2026-10-28"
+      ],
+      "occurrences": 3
+    },
+    {
       "id": "ev-newtown-square-college-counseling-class-dccb7e",
       "name": "College Counseling Class",
       "category": "events",
@@ -3868,6 +3322,46 @@
         "2027-04-02"
       ],
       "occurrences": 8
+    },
+    {
+      "id": "media-dining-under-the-stars",
+      "name": "Dining Under the Stars",
+      "category": "events",
+      "subcategories": [
+        "food-festival",
+        "street-dining"
+      ],
+      "shortDescription": "Media's signature warm-weather event closing State Street so restaurants serve al fresco dinners under string lights.",
+      "address": "State St, Media, PA 19063",
+      "town": "Media",
+      "lat": 39.9166,
+      "lng": -75.388,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "date",
+        "group",
+        "family"
+      ],
+      "hours": {},
+      "startDate": "",
+      "endDate": "",
+      "recurring": "weekly",
+      "venueId": "media-state-street-district",
+      "phone": "",
+      "website": "",
+      "images": [],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "schedule": "Wednesdays, June-August",
+      "nextDate": "2026-10-14",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-10-14"
+      ]
     },
     {
       "id": "ev-wayne-gentle-yoga-and-meditation-135d96",
@@ -4115,6 +3609,50 @@
         "2027-01-14"
       ],
       "occurrences": 2
+    },
+    {
+      "id": "ev-wayne-preschool-spanish-class-c931c2",
+      "name": "Preschool Spanish Class",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "kids",
+        "learning",
+        "lifestyle"
+      ],
+      "shortDescription": "Peter Rabbit Storytime Room - Registration required Ages 2 1/2 - 5 In this 4-week interactive storytime series, students will be introduced to greetings, colors,...",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-28",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17665688",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d1926d25-2547-4dc4-9b38-3d15ddbf7d15.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wednesdays, Oct 14 - Oct 28",
+      "nextDate": "2026-10-14",
+      "dates": [
+        "2026-10-14",
+        "2026-10-21",
+        "2026-10-28"
+      ],
+      "occurrences": 3
     },
     {
       "id": "ev-bryn-mawr-tennis-middle-school-a-5aaffe",
@@ -5474,6 +5012,46 @@
       "website": "https://wayneart.org/events/2152/philadelphia-water-color-society-126th-international-exhibition-of-works-on-paper-reception-awards",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/jasOikyqok-V4CAtXpN6OQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Oct 18",
+      "nextDate": "2026-10-18",
+      "dates": [
+        "2026-10-18"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-glen-mills-pony-rides-and-fall-festival-4fd868",
+      "name": "Pony Rides and Fall Festival",
+      "category": "events",
+      "subcategories": [
+        "animals",
+        "destinations",
+        "farms",
+        "festival"
+      ],
+      "shortDescription": "Celebrate the season with a day of family fun featuring pony rides, hayrides, and a hobby horse course.",
+      "address": "Shadow Creek Farm, Glen Mills, PA",
+      "town": "Glen Mills",
+      "lat": 39.919505,
+      "lng": -75.491352,
+      "priceTier": 2,
+      "tags": [
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-10-18",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "4843010560",
+      "website": "https://shadowcreekfarm.com/fall-fest",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/thEPvOtHLkObaJTc_LVZ3w.medium.jpg",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -9590,6 +9168,49 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-chess-club-634d75",
+      "name": "Chess Club",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "games",
+        "health-wellness",
+        "learning"
+      ],
+      "shortDescription": "Chess Club at Radnor Memorial Library Wednesdays, 9/2/26 through 12/30/26 2:00-5:00pm Winsor Room Delaware Valley Chess Club meets at RML, weekly on Wednesdays.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-28",
+      "endDate": "2026-11-18",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17289474",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eea63be5-c4d3-46d5-9632-af64e5f10861.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wednesdays, Oct 28 - Nov 18",
+      "nextDate": "2026-10-28",
+      "dates": [
+        "2026-10-28",
+        "2026-11-04",
+        "2026-11-11",
+        "2026-11-18"
+      ],
+      "occurrences": 4
+    },
+    {
       "id": "ev-newtown-square-denver-alumni-social-5d0e7a",
       "name": "Denver Alumni Social",
       "category": "events",
@@ -11443,6 +11064,40 @@
       "nextDate": "2026-11-03",
       "dates": [
         "2026-11-03"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-mark-dewitt-lanyon-lost-chester-county-98c30c",
+      "name": "Mark DeWitt Lanyon, Lost Chester County",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Join us for an evening of local history",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-04",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://www.eventbrite.com/e/mark-dewitt-lanyon-lost-chester-county-tickets-2002304410392",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a68dvZRAw0CGXy1lBAjx-Q.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Nov 4",
+      "nextDate": "2026-11-04",
+      "dates": [
+        "2026-11-04"
       ],
       "occurrences": 1
     },
@@ -14765,6 +14420,48 @@
       "occurrences": 1
     },
     {
+      "id": "ev-glen-mills-snowflake-stroll-2026-at-glen-eagle-s-675031",
+      "name": "Snowflake Stroll 2026 at Glen Eagle Square",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "family",
+        "festival",
+        "holiday"
+      ],
+      "shortDescription": "Celebrate the season at Glen Eagle Square’s Snowflake Stroll on Saturday, December 5, 2026, from 1:00 PM – 5:00 PM!",
+      "address": "Glen Mills, PA",
+      "town": "Glen Mills",
+      "lat": 39.864438,
+      "lng": -75.542433,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-12-05",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.gleneaglesquare.com/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/hJ5WbdokHkGww6b1z2kE7A.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Dec 5",
+      "nextDate": "2026-12-05",
+      "dates": [
+        "2026-12-05"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-craftforms-2026-jurors-talks-74367b",
       "name": "CraftForms 2026 Jurors Talks",
       "category": "events",
@@ -17598,209 +17295,6 @@
       "occurrences": 1
     },
     {
-      "id": "ev-newtown-square-ms-spring-play-performance-06fe10",
-      "name": "MS Spring Play Performance",
-      "category": "events",
-      "subcategories": [
-        "performing-arts",
-        "theater"
-      ],
-      "shortDescription": "MS Spring Play Performance",
-      "address": "Black Box-Ridgway Theater, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2027-03-11",
-      "endDate": "2027-03-13",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2359805a-4335-4631-9bdd-3b9f717c613d.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Mar 11 - Mar 13",
-      "nextDate": "2027-03-11",
-      "dates": [
-        "2027-03-11",
-        "2027-03-12",
-        "2027-03-13"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-aldan-agatha-christie-s-a-murder-is-announced-099f96",
-      "name": "Agatha Christie's A Murder is Announced",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "In the quiet, little village of Chipping Cleghorn, an announcement in the local newspaper causes a stir among the residents.",
-      "address": "Colonial Playhouse, Aldan, PA",
-      "town": "Aldan",
-      "lat": 39.916243,
-      "lng": -75.294573,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2027-03-12",
-      "endDate": "2027-03-28",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://colonialplayhouse.net/a-murder-is-announced/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/nIWNYZAnXkeWu4T7tnoswA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sat, Sun, Mar 12 - Mar 28",
-      "nextDate": "2027-03-12",
-      "dates": [
-        "2027-03-12",
-        "2027-03-19",
-        "2027-03-20",
-        "2027-03-21",
-        "2027-03-26",
-        "2027-03-27",
-        "2027-03-28"
-      ],
-      "occurrences": 7
-    },
-    {
-      "id": "ev-aldan-dividing-the-estate-5b210f",
-      "name": "Dividing the Estate",
-      "category": "events",
-      "subcategories": [
-        "family",
-        "performing-arts",
-        "special-audience"
-      ],
-      "shortDescription": "As a wealthy Texas family's future hangs in the balance, long-buried tensions rise to the surface.",
-      "address": "Colonial Playhouse, Aldan, PA",
-      "town": "Aldan",
-      "lat": 39.916243,
-      "lng": -75.294573,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2027-03-12",
-      "endDate": "2027-03-28",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://colonialplayhouse.net/dividing-estate/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OQLDEkiOmE2pv9uDnbRTwQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Sat, Sun, Mar 12 - Mar 28",
-      "nextDate": "2027-03-12",
-      "dates": [
-        "2027-03-12",
-        "2027-03-19",
-        "2027-03-20",
-        "2027-03-21",
-        "2027-03-26",
-        "2027-03-27",
-        "2027-03-28"
-      ],
-      "occurrences": 7
-    },
-    {
-      "id": "ev-lansdowne-the-magical-music-of-harry-potter-live-1dd142",
-      "name": "The Magical Music of Harry Potter - Live in Concert",
-      "category": "events",
-      "subcategories": [
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Presented by a special guest star from films!Experience the best Oscar-nominated music from the Harry Potter films in a unique concert evening with The Magical Film...",
-      "address": "Lansdowne Theater, Lansdowne, PA",
-      "town": "Lansdowne",
-      "lat": 39.939389,
-      "lng": -75.27231,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2027-03-12",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.etix.com/ticket/p/86500573/the-magical-music-of-harry-potter-live-in-concert-lansdowne-lansdowne-theater",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Iz4gXJq3AES8rmBSTDWBUQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Mar 12",
-      "nextDate": "2027-03-12",
-      "dates": [
-        "2027-03-12"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-lansdowne-the-music-of-hans-zimmer-others-live-i-ae2959",
-      "name": "The Music of Hans Zimmer & Others – Live in Concert",
-      "category": "events",
-      "subcategories": [
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Presented by a Pirate from Pirates of the Caribbean!Experience the symphonic world of Hans Zimmer with music from James Bond, The Lion King, The Pirates of the...",
-      "address": "Lansdowne Theater, Lansdowne, PA",
-      "town": "Lansdowne",
-      "lat": 39.939389,
-      "lng": -75.27231,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2027-03-12",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.etix.com/ticket/p/96873769/the-music-of-hans-zimmer-others-live-in-concert-lansdowne-lansdowne-theater",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7kx1pWURbEGGqcosHpRMJA.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Mar 12",
-      "nextDate": "2027-03-12",
-      "dates": [
-        "2027-03-12"
-      ],
-      "occurrences": 1
-    },
-    {
       "id": "media-restaurant-week",
       "name": "Media Restaurant Week",
       "category": "events",
@@ -17835,6 +17329,91 @@
       "dates": [
         "2027-03-16"
       ]
+    },
+    {
+      "id": "ev-aldan-agatha-christie-s-a-murder-is-announced-099f96",
+      "name": "Agatha Christie's A Murder is Announced",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "In the quiet, little village of Chipping Cleghorn, an announcement in the local newspaper causes a stir among the residents.",
+      "address": "Colonial Playhouse, Aldan, PA",
+      "town": "Aldan",
+      "lat": 39.916243,
+      "lng": -75.294573,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-19",
+      "endDate": "2027-03-28",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://colonialplayhouse.net/a-murder-is-announced/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/nIWNYZAnXkeWu4T7tnoswA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Sat, Sun, Mar 19 - Mar 28",
+      "nextDate": "2027-03-19",
+      "dates": [
+        "2027-03-19",
+        "2027-03-20",
+        "2027-03-21",
+        "2027-03-26",
+        "2027-03-27",
+        "2027-03-28"
+      ],
+      "occurrences": 6
+    },
+    {
+      "id": "ev-aldan-dividing-the-estate-5b210f",
+      "name": "Dividing the Estate",
+      "category": "events",
+      "subcategories": [
+        "family",
+        "performing-arts",
+        "special-audience"
+      ],
+      "shortDescription": "As a wealthy Texas family's future hangs in the balance, long-buried tensions rise to the surface.",
+      "address": "Colonial Playhouse, Aldan, PA",
+      "town": "Aldan",
+      "lat": 39.916243,
+      "lng": -75.294573,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-19",
+      "endDate": "2027-03-28",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://colonialplayhouse.net/dividing-estate/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OQLDEkiOmE2pv9uDnbRTwQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Sat, Sun, Mar 19 - Mar 28",
+      "nextDate": "2027-03-19",
+      "dates": [
+        "2027-03-19",
+        "2027-03-20",
+        "2027-03-21",
+        "2027-03-26",
+        "2027-03-27",
+        "2027-03-28"
+      ],
+      "occurrences": 6
     },
     {
       "id": "ev-wallingford-2nd-edition-of-international-confere-f9e1ba",
