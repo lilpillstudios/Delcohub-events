@@ -1,44 +1,9 @@
 {
   "version": 1,
-  "scraped_at": "2026-10-08T16:37:46.354763+00:00",
+  "scraped_at": "2026-10-09T16:20:56.709933+00:00",
   "horizon_days": 180,
-  "event_count": 464,
+  "event_count": 452,
   "listings": [
-    {
-      "id": "ev-newtown-square-1st-gr-field-trip-osmian-calderon-0f0393",
-      "name": "1st Gr Field Trip (Osmian/Calderon)",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "1st Gr Field Trip (Osmian/Calderon)",
-      "address": "Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/815b1ccf-c698-45a3-9874-2420baff5007.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 8",
-      "nextDate": "2026-10-08",
-      "dates": [
-        "2026-10-08"
-      ],
-      "occurrences": 1
-    },
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
       "name": "2026 Gene Capaldi Lens on Litter Photo Contest",
@@ -59,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-10-08",
+      "startDate": "2026-10-09",
       "endDate": "2026-10-31",
       "recurring": "none",
       "venueId": "",
@@ -71,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Oct 8 - Oct 31",
-      "nextDate": "2026-10-08",
+      "schedule": "Daily, Oct 9 - Oct 31",
+      "nextDate": "2026-10-09",
       "dates": [
-        "2026-10-08",
         "2026-10-09",
         "2026-10-10",
         "2026-10-11",
@@ -99,683 +63,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 24
-    },
-    {
-      "id": "ev-wayne-denise-brown-for-my-sister-nicole-5db420",
-      "name": "Denise Brown, \"For My Sister Nicole\"",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Main Point Books and The Saturday Club welcome you to this very special event",
-      "address": "The Saturday Club, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.043474,
-      "lng": -75.3893,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/denise-brown-for-my-sister-nicole-tickets-1998671830247",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/oguqie01tUWaQEFVlffuvQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 8",
-      "nextDate": "2026-10-08",
-      "dates": [
-        "2026-10-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-game-night-cf0a5d",
-      "name": "Game Night",
-      "category": "events",
-      "subcategories": [
-        "games"
-      ],
-      "shortDescription": "Game Night at Parlor (Mansion) Room in Media.",
-      "address": "Parlor (Mansion) Room, Media, PA",
-      "town": "Media",
-      "lat": 39.920906,
-      "lng": -75.38843,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-08",
-      "endDate": "2026-12-10",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.mediaborough.com/calendar.aspx?EID=2708",
-      "images": [],
-      "imageUrl": "",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thursdays, Oct 8 - Dec 10",
-      "nextDate": "2026-10-08",
-      "dates": [
-        "2026-10-08",
-        "2026-11-12",
-        "2026-12-10"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-newtown-square-k-field-trip-91f8f6",
-      "name": "K Field Trip",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "K Field Trip at a Delco venue in Newtown Square.",
-      "address": "Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bbbbd562-8dd2-4c7f-9a4b-dbe81f083ecd.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 8",
-      "nextDate": "2026-10-08",
-      "dates": [
-        "2026-10-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-mac-original-play-reading-series-to-get-to-cbb18d",
-      "name": "MAC original Play Reading Series: To Get to the Other Side by Julie Zaffarano",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "literary-arts",
-        "performing-arts",
-        "special-audience"
-      ],
-      "shortDescription": "MAC original Play Reading Series: To Get to the Other Side by Julie Zaffarano",
-      "address": "Media Fellowship House, Media, PA",
-      "town": "Media",
-      "lat": 39.916227,
-      "lng": -75.390155,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.mediaartscouncil.org/calendar/mac-original-play-reading-series-to-get-to-the-other-side-by-julie-zaffarano",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/TsdWbGgDz0COeZAVKuojSQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 8",
-      "nextDate": "2026-10-08",
-      "dates": [
-        "2026-10-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-morgan-treni-the-landscapes-at-118-north-5007ef",
-      "name": "Morgan Treni & The Landscapes at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Morgan Treni & The Landscapes at 118 North with Emily Drinker Thursday, October 8, 2026 Doors: 6:00 PM | Show: 8:00 PM 21+ Tickets >> https://tixr.com/pr/social/199794",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1689864218907439/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/FAIca8ddiU6B8PmhF0yBXg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 8",
-      "nextDate": "2026-10-08",
-      "dates": [
-        "2026-10-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-swarthmore-myles-bullen-everybody-s-worried-abou-09cb11",
-      "name": "Myles Bullen & Everybody's Worried About Owen",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Myles Bullen & Everybody's Worried About Owen perform in Swarthmore, PA! All ages",
-      "address": "Warehouse3Live, Swarthmore, PA",
-      "town": "Swarthmore",
-      "lat": 39.901413,
-      "lng": -75.349694,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/myles-bullen-everybodys-worried-about-owen-tickets-1993754951731",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/F7InRAtZL0-8lEN36o1Ttw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 8",
-      "nextDate": "2026-10-08",
-      "dates": [
-        "2026-10-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-adult-wheel-class-edcc01",
-      "name": "One Time Adult Wheel Class",
-      "category": "events",
-      "subcategories": [
-        "arts"
-      ],
-      "shortDescription": "Join our one time class to learn the basics of wheel throwing!",
-      "address": "Blue Skies Pottery - Bryn Mawr, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-08",
-      "endDate": "2026-11-26",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/160849/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SvgMJsHbeESUI8oHFgSYBw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thursdays, Oct 8 - Nov 26",
-      "nextDate": "2026-10-08",
-      "dates": [
-        "2026-10-08",
-        "2026-10-15",
-        "2026-10-22",
-        "2026-10-29",
-        "2026-11-05",
-        "2026-11-12",
-        "2026-11-19",
-        "2026-11-26"
-      ],
-      "occurrences": 8
-    },
-    {
-      "id": "ev-wayne-preschool-storytime-craft-ages-3-5-years-7202f3",
-      "name": "Preschool Storytime & Craft (Ages 3-5 years)",
-      "category": "events",
-      "subcategories": [
-        "crafts",
-        "kids",
-        "literary-arts",
-        "music"
-      ],
-      "shortDescription": "Ages 3 - 5 years Winsor Room - Registration required Stories, songs, and movement activities to help your young child engage with literature in a safe, social setting.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-10-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17420479",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c537856d-867f-43e4-8bdd-b49297ef9405.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 8",
-      "nextDate": "2026-10-08",
-      "dates": [
-        "2026-10-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-princeton-alumni-social-954428",
-      "name": "Princeton Alumni Social",
-      "category": "events",
-      "subcategories": [
-        "destinations"
-      ],
-      "shortDescription": "Princeton Alumni Social at a Delco venue in Newtown Square.",
-      "address": "Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/51fb3e9f-8aca-4381-a3f0-b5a499fcbeac.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 8",
-      "nextDate": "2026-10-08",
-      "dates": [
-        "2026-10-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-3rds-boys-v-ga-caeb0e",
-      "name": "Soccer - 3rds Boys v GA",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - 3rds Boys v GA at Field C in Newtown Square.",
-      "address": "Field C, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/469bd39d-8063-41c7-8f6c-2f23de9f535d.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 8",
-      "nextDate": "2026-10-08",
-      "dates": [
-        "2026-10-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-boys-ms-a-v-ga-389381",
-      "name": "Soccer - Boys MS A v GA",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - Boys MS A v GA at Stone Field in Newtown Square.",
-      "address": "Stone Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/890273d5-60d0-444d-b73a-b8cd330e83a8.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 8",
-      "nextDate": "2026-10-08",
-      "dates": [
-        "2026-10-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-boys-ms-b-v-ga-01122f",
-      "name": "Soccer - Boys MS B v GA",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - Boys MS B v GA at Stone Field in Newtown Square.",
-      "address": "Stone Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4bb46c0c-ec2a-4799-b30b-fd9cf072ae19.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 8",
-      "nextDate": "2026-10-08",
-      "dates": [
-        "2026-10-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-jv-girls-v-notre-dame-bb7214",
-      "name": "Soccer - JV Girls v Notre Dame",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - JV Girls v Notre Dame",
-      "address": "Class of '76 Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b4f13205-36d4-456b-a2cd-4c796b529819.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 8",
-      "nextDate": "2026-10-08",
-      "dates": [
-        "2026-10-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-varsity-girls-notre-dame-d5518a",
-      "name": "Soccer - Varsity Girls @ Notre Dame",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - Varsity Girls @ Notre Dame",
-      "address": "Academy of Notre Dame de Namur, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4bb46c0c-ec2a-4799-b30b-fd9cf072ae19.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 8",
-      "nextDate": "2026-10-08",
-      "dates": [
-        "2026-10-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-spanish-tapas-with-robert-peters-winery-wi-952580",
-      "name": "Spanish Tapas with Robert Peters Winery Wine Pairing with Karen Bentz",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink"
-      ],
-      "shortDescription": "Join Chef Karen Bentz for a hands-on cooking experience exploring Spanish Tapas with wine pairing by Robert Peters Winery.",
-      "address": "Wayne Art Center, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.03894,
-      "lng": -75.394446,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://wayneart.org/events/2148/spanish-tapas-with-robert-peters-winery-wine-pairing-with-karen-bentz",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1ABDa_2Zok6pJ1FvZidNMg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 8",
-      "nextDate": "2026-10-08",
-      "dates": [
-        "2026-10-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-drexel-hill-thursday-karaoke-at-casey-s-restaura-4579c1",
-      "name": "Thursday Karaoke at Casey's Restaurant (Drexel Hill - Delaware County",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink",
-        "open-mic",
-        "performing-arts"
-      ],
-      "shortDescription": "Sing your heart out at Casey's Restaurant every Thursday night with some karaoke fun in Drexel Hill, Delaware County, PA! Starts at 8pm.",
-      "address": "Casey's Saloon & Restaurant, Drexel Hill, PA",
-      "town": "Drexel Hill",
-      "lat": 39.960126,
-      "lng": -75.288562,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-08",
-      "endDate": "2027-04-01",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/thursday-karaoke-at-caseys-restaurant-drexel-hill-delaware-county-pa-tickets-1061653848239",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pgpVzPSpoUaADfBllel6lw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thursdays, Oct 8 - Apr 1",
-      "nextDate": "2026-10-08",
-      "dates": [
-        "2026-10-08",
-        "2026-10-15",
-        "2026-10-22",
-        "2026-10-29",
-        "2026-11-05",
-        "2026-11-12",
-        "2026-11-19",
-        "2026-11-26",
-        "2026-12-03",
-        "2026-12-10",
-        "2026-12-17",
-        "2026-12-24",
-        "2026-12-31",
-        "2027-01-07",
-        "2027-01-14",
-        "2027-01-21",
-        "2027-01-28",
-        "2027-02-04",
-        "2027-02-11",
-        "2027-02-18",
-        "2027-02-25",
-        "2027-03-04",
-        "2027-03-18",
-        "2027-03-25",
-        "2027-04-01"
-      ],
-      "occurrences": 25
-    },
-    {
-      "id": "ev-wayne-toddler-storytime-ages-2-3-years-67d052",
-      "name": "Toddler Storytime (Ages 2 - 3 years)",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "kids",
-        "learning",
-        "lifestyle"
-      ],
-      "shortDescription": "Ages 2 - 3 years - Winsor Room Stories, songs, and movement activities to help your young child engage with literature in a safe, social setting.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-10-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17420043",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fe5023d6-7e53-42a2-b2aa-b93e19cac158.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 8",
-      "nextDate": "2026-10-08",
-      "dates": [
-        "2026-10-08"
-      ],
-      "occurrences": 1
+      "occurrences": 23
     },
     {
       "id": "ev-swarthmore-find-your-way-services-llc-9th-annual-546e18",
@@ -2785,7 +2073,7 @@
       ],
       "hours": {},
       "startDate": "2026-10-13",
-      "endDate": "2027-03-30",
+      "endDate": "2027-04-06",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -2796,7 +2084,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Tuesdays, Oct 13 - Mar 30",
+      "schedule": "Tuesdays, Oct 13 - Apr 6",
       "nextDate": "2026-10-13",
       "dates": [
         "2026-10-13",
@@ -2822,9 +2110,10 @@
         "2027-03-02",
         "2027-03-09",
         "2027-03-23",
-        "2027-03-30"
+        "2027-03-30",
+        "2027-04-06"
       ],
-      "occurrences": 24
+      "occurrences": 25
     },
     {
       "id": "ev-bryn-mawr-parents-association-mahjong-open-play-f4fb55",
@@ -3934,6 +3223,48 @@
       "occurrences": 1
     },
     {
+      "id": "ev-bryn-mawr-one-time-adult-wheel-class-edcc01",
+      "name": "One Time Adult Wheel Class",
+      "category": "events",
+      "subcategories": [
+        "arts"
+      ],
+      "shortDescription": "Join our one time class to learn the basics of wheel throwing!",
+      "address": "Blue Skies Pottery - Bryn Mawr, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-15",
+      "endDate": "2026-11-26",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/160849/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SvgMJsHbeESUI8oHFgSYBw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thursdays, Oct 15 - Nov 26",
+      "nextDate": "2026-10-15",
+      "dates": [
+        "2026-10-15",
+        "2026-10-22",
+        "2026-10-29",
+        "2026-11-05",
+        "2026-11-12",
+        "2026-11-19",
+        "2026-11-26"
+      ],
+      "occurrences": 7
+    },
+    {
       "id": "ev-marple-soccer-3rd-team-boys-9e024c",
       "name": "Soccer - 3rd Team Boys",
       "category": "events",
@@ -4009,6 +3340,69 @@
         "2026-10-15"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-drexel-hill-thursday-karaoke-at-casey-s-restaura-4579c1",
+      "name": "Thursday Karaoke at Casey's Restaurant (Drexel Hill - Delaware County",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink",
+        "open-mic",
+        "performing-arts"
+      ],
+      "shortDescription": "Sing your heart out at Casey's Restaurant every Thursday night with some karaoke fun in Drexel Hill, Delaware County, PA! Starts at 8pm.",
+      "address": "Casey's Saloon & Restaurant, Drexel Hill, PA",
+      "town": "Drexel Hill",
+      "lat": 39.960126,
+      "lng": -75.288562,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-15",
+      "endDate": "2027-04-01",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/thursday-karaoke-at-caseys-restaurant-drexel-hill-delaware-county-pa-tickets-1061653848239",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pgpVzPSpoUaADfBllel6lw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thursdays, Oct 15 - Apr 1",
+      "nextDate": "2026-10-15",
+      "dates": [
+        "2026-10-15",
+        "2026-10-22",
+        "2026-10-29",
+        "2026-11-05",
+        "2026-11-12",
+        "2026-11-19",
+        "2026-11-26",
+        "2026-12-03",
+        "2026-12-10",
+        "2026-12-17",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07",
+        "2027-01-14",
+        "2027-01-21",
+        "2027-01-28",
+        "2027-02-04",
+        "2027-02-11",
+        "2027-02-18",
+        "2027-02-25",
+        "2027-03-04",
+        "2027-03-11",
+        "2027-03-25",
+        "2027-04-01"
+      ],
+      "occurrences": 24
     },
     {
       "id": "ev-chester-dj-mania-pre-homecoming-party-bfc0d2",
@@ -12368,6 +11762,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-media-game-night-cf0a5d",
+      "name": "Game Night",
+      "category": "events",
+      "subcategories": [
+        "games"
+      ],
+      "shortDescription": "Game Night at Parlor (Mansion) Room in Media.",
+      "address": "Parlor (Mansion) Room, Media, PA",
+      "town": "Media",
+      "lat": 39.920906,
+      "lng": -75.38843,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-12",
+      "endDate": "2026-12-10",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.mediaborough.com/calendar.aspx?EID=2709",
+      "images": [],
+      "imageUrl": "",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thursdays, Nov 12 - Dec 10",
+      "nextDate": "2026-11-12",
+      "dates": [
+        "2026-11-12",
+        "2026-12-10"
+      ],
+      "occurrences": 2
+    },
+    {
       "id": "ev-newtown-square-philadelphia-alumni-happy-hour-890e2b",
       "name": "Philadelphia Alumni Happy Hour",
       "category": "events",
@@ -14332,6 +13764,45 @@
       "website": "https://wayneart.org/events/2174/family-day-of-clay-elf-planter",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/VKlv0Nt040GbPIkfrWVGbQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Dec 5",
+      "nextDate": "2026-12-05",
+      "dates": [
+        "2026-12-05"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-sharon-hill-holiday-bazaar-b7ac85",
+      "name": "Holiday Bazaar",
+      "category": "events",
+      "subcategories": [
+        "christmas",
+        "holiday",
+        "holiday-market"
+      ],
+      "shortDescription": "Neighbor to Neighbor CDC is hoosting a holiday bazaar on Saturday, December 5 from 11am to 3pm.",
+      "address": "FABC Annex, Sharon Hill, PA",
+      "town": "Sharon Hill",
+      "lat": 39.89984,
+      "lng": -75.269051,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-05",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "6104618140",
+      "website": "",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7d28f81b-28c1-4437-911f-7039a3394156.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -17295,6 +16766,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-newtown-square-ms-spring-play-performance-06fe10",
+      "name": "MS Spring Play Performance",
+      "category": "events",
+      "subcategories": [
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "MS Spring Play Performance",
+      "address": "Black Box-Ridgway Theater, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-11",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2359805a-4335-4631-9bdd-3b9f717c613d.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Mar 11",
+      "nextDate": "2027-03-11",
+      "dates": [
+        "2027-03-11"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "media-restaurant-week",
       "name": "Media Restaurant Week",
       "category": "events",
@@ -17523,6 +17032,45 @@
       "dates": [
         "2027-03-27"
       ]
+    },
+    {
+      "id": "ev-chester-ceu-leaning-into-discomfort-cf215a",
+      "name": "CEU: Leaning into Discomfort",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "special-audience"
+      ],
+      "shortDescription": "This session focuses on complex trauma and how to navigate working with human trafficking victims and survivors. The presentation explores human traff",
+      "address": "Chester, PA",
+      "town": "Chester",
+      "lat": 39.84956,
+      "lng": -75.35575,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-04-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.widener.edu/events/ceu-leaning-discomfort-providing-effective-care-youth-and-teen-victims-human-trafficking",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/45828d3b-e5de-4764-95b0-8ef9ef3bb863.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Apr 6",
+      "nextDate": "2027-04-06",
+      "dates": [
+        "2027-04-06"
+      ],
+      "occurrences": 1
     },
     {
       "id": "swarthmore-rotary-fun-fair",
