@@ -1,47 +1,9 @@
 {
   "version": 1,
-  "scraped_at": "2026-10-13T17:00:41.960039+00:00",
+  "scraped_at": "2026-10-14T14:34:38.501110+00:00",
   "horizon_days": 180,
-  "event_count": 442,
+  "event_count": 436,
   "listings": [
-    {
-      "id": "ev-swarthmore-men-s-soccer-cairn-vs-penn-st-brandyw-f01095",
-      "name": "(Men's Soccer) Cairn vs. Penn St. Brandywine",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "(Men's Soccer) Cairn vs. Penn St. Brandywine at a Delco venue in Swarthmore.",
-      "address": "Swarthmore, PA",
-      "town": "Swarthmore",
-      "lat": 39.90206,
-      "lng": -75.34991,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-13",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "http://www.psubrandywineathletics.com/landing/index",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4b8401df-8242-4a6e-a069-2ec28d0848c9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Oct 13",
-      "nextDate": "2026-10-13",
-      "dates": [
-        "2026-10-13"
-      ],
-      "occurrences": 1
-    },
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
       "name": "2026 Gene Capaldi Lens on Litter Photo Contest",
@@ -62,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-10-13",
+      "startDate": "2026-10-14",
       "endDate": "2026-10-31",
       "recurring": "none",
       "venueId": "",
@@ -74,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Oct 13 - Oct 31",
-      "nextDate": "2026-10-13",
+      "schedule": "Daily, Oct 14 - Oct 31",
+      "nextDate": "2026-10-14",
       "dates": [
-        "2026-10-13",
         "2026-10-14",
         "2026-10-15",
         "2026-10-16",
@@ -97,486 +58,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 19
-    },
-    {
-      "id": "ev-chester-oldies-in-the-park-a0e86f",
-      "name": "Oldies in the Park",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "destinations",
-        "music",
-        "outdoor-concert"
-      ],
-      "shortDescription": "Oldies in the Park at Ethel Waters Park in Chester.",
-      "address": "Ethel Waters Park, Chester, PA",
-      "town": "Chester",
-      "lat": 39.846465,
-      "lng": -75.358842,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-10-13",
-      "endDate": "2027-04-06",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.chestercity.com/event/oldies-in-the-park-2/2026-10-13/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/o6XxL0PM3kaE6hDXOaFfuw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Oct 13 - Apr 6",
-      "nextDate": "2026-10-13",
-      "dates": [
-        "2026-10-13",
-        "2026-10-20",
-        "2026-10-27",
-        "2026-11-03",
-        "2026-11-10",
-        "2026-11-17",
-        "2026-11-24",
-        "2026-12-01",
-        "2026-12-08",
-        "2026-12-15",
-        "2026-12-22",
-        "2026-12-29",
-        "2027-01-05",
-        "2027-01-12",
-        "2027-01-19",
-        "2027-01-26",
-        "2027-02-02",
-        "2027-02-09",
-        "2027-02-16",
-        "2027-02-23",
-        "2027-03-02",
-        "2027-03-09",
-        "2027-03-16",
-        "2027-03-23",
-        "2027-03-30",
-        "2027-04-06"
-      ],
-      "occurrences": 26
-    },
-    {
-      "id": "ev-bryn-mawr-parents-association-mahjong-open-play-f4fb55",
-      "name": "Parents' Association Mahjong Open Play",
-      "category": "events",
-      "subcategories": [
-        "games",
-        "lifestyle"
-      ],
-      "shortDescription": "Parents' Association Mahjong Open Play at a Delco venue in Bryn Mawr.",
-      "address": "Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.027634,
-      "lng": -75.356119,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-13",
-      "endDate": "2026-10-27",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.agnesirwin.org/quick-links/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7b06ea32-047e-4854-a846-b1eea534918e.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Oct 13 - Oct 27",
-      "nextDate": "2026-10-13",
-      "dates": [
-        "2026-10-13",
-        "2026-10-20",
-        "2026-10-27"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-wayne-radlit-book-club-4f7dca",
-      "name": "Radlit Book Club",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "literary-arts"
-      ],
-      "shortDescription": "Join us for a discussion of Smoke Gets In Your Eyes: And Other Lessons from the Crematory, by Caitlin Doughty.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-13",
-      "endDate": "2026-12-08",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17212570",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/81b8ac86-9575-4bf0-a8e3-7382ef984a0f.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Oct 13 - Dec 8",
-      "nextDate": "2026-10-13",
-      "dates": [
-        "2026-10-13",
-        "2026-11-10",
-        "2026-12-08"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-newtown-square-soccer-jv-girls-v-ga-972eb8",
-      "name": "Soccer - JV Girls v GA",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - JV Girls v GA at Field E in Newtown Square.",
-      "address": "Field E, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-13",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5245d79e-4890-4dba-8b48-8a1090c252b9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Oct 13",
-      "nextDate": "2026-10-13",
-      "dates": [
-        "2026-10-13"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-tennis-jv-girls-v-baldwin-dd2594",
-      "name": "Tennis - JV Girls v Baldwin",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Tennis - JV Girls v Baldwin",
-      "address": "Tennis Courts, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-13",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/04fa80b1-2d66-4998-85f4-d6341970bb46.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Oct 13",
-      "nextDate": "2026-10-13",
-      "dates": [
-        "2026-10-13"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-tennis-varsity-girls-baldwin-921142",
-      "name": "Tennis - Varsity Girls @ Baldwin",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Tennis - Varsity Girls @ Baldwin",
-      "address": "The Baldwin School, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-13",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/32fdb0b1-62e2-4caa-99bf-6ebff0b0241c.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Oct 13",
-      "nextDate": "2026-10-13",
-      "dates": [
-        "2026-10-13"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-holmes-tuesday-karaoke-at-haggertys-in-holmes-pa-3b255e",
-      "name": "Tuesday Karaoke at Haggertys in Holmes, PA (Delaware County",
-      "category": "events",
-      "subcategories": [
-        "open-mic",
-        "performing-arts"
-      ],
-      "shortDescription": "Karaoke is Every Tuesday at Haggertys in Homes, PA (Delaware County, PA) Karaoke starts at 8pm.",
-      "address": "Haggerty's Cafe, Holmes, PA",
-      "town": "Holmes",
-      "lat": 39.899696,
-      "lng": -75.305652,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-13",
-      "endDate": "2027-03-30",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/tuesday-karaoke-at-haggertys-in-holmes-pa-delaware-county-pa-tickets-1225315845679",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/g_89wQtSp0Sz9smp4PcgxA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Oct 13 - Mar 30",
-      "nextDate": "2026-10-13",
-      "dates": [
-        "2026-10-13",
-        "2026-10-20",
-        "2026-10-27",
-        "2026-11-03",
-        "2026-11-10",
-        "2026-11-17",
-        "2026-11-24",
-        "2026-12-01",
-        "2026-12-08",
-        "2026-12-15",
-        "2026-12-22",
-        "2026-12-29",
-        "2027-01-05",
-        "2027-01-12",
-        "2027-01-19",
-        "2027-01-26",
-        "2027-02-02",
-        "2027-02-09",
-        "2027-02-16",
-        "2027-02-23",
-        "2027-03-02",
-        "2027-03-09",
-        "2027-03-16",
-        "2027-03-23",
-        "2027-03-30"
-      ],
-      "occurrences": 25
-    },
-    {
-      "id": "ev-chester-u-s-women-s-national-team-v-spain-presen-b95432",
-      "name": "U.S. Women's National Team v Spain presented by AT&T",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Fans age 2 and older will require a ticket. There will be no re-entry. Prices are subject to change. U.S. Soccer prefers Visa. For more info visit ussoccer.com",
-      "address": "Subaru Park, Chester, PA",
-      "town": "Chester",
-      "lat": 39.832686,
-      "lng": -75.378395,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-13",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-859-3100",
-      "website": "",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/52d17c4d-471f-42ec-bbff-6cdb9ac5ce9a.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Oct 13",
-      "nextDate": "2026-10-13",
-      "dates": [
-        "2026-10-13"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-volleyball-jv-v-baldwin-82f28d",
-      "name": "Volleyball - JV v Baldwin",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Volleyball - JV v Baldwin",
-      "address": "O'Neill Gym, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-13",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/41303adc-6311-419e-8756-cc69b17d8c41.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Oct 13",
-      "nextDate": "2026-10-13",
-      "dates": [
-        "2026-10-13"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-volleyball-varsity-v-baldwin-a9dfc4",
-      "name": "Volleyball - Varsity v Baldwin",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Volleyball - Varsity v Baldwin",
-      "address": "O'Neill Gym, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-13",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c0a9941a-c1ec-4e56-aed9-a08e58729f67.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Oct 13",
-      "nextDate": "2026-10-13",
-      "dates": [
-        "2026-10-13"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-widener-pride-men-s-soccer-vs-alvernia-7fa4f8",
-      "name": "Widener Pride: Men's Soccer vs Alvernia",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Men's Soccer vs Alvernia Streaming Video: https://gomacsports.tv/widenerpride/",
-      "address": "Elizabeth J. Hirschmann Field at Leslie C. Quick Jr. Stadium, Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-13",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14401&amp;sport_id=7",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f5a7f77d-0c51-4a57-a1ba-4bad118eb6f1.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Oct 13",
-      "nextDate": "2026-10-13",
-      "dates": [
-        "2026-10-13"
-      ],
-      "occurrences": 1
+      "occurrences": 18
     },
     {
       "id": "ev-bryn-mawr-7-week-adult-wheel-course-05bbee",
@@ -3888,6 +3370,110 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chester-oldies-in-the-park-a0e86f",
+      "name": "Oldies in the Park",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "destinations",
+        "music",
+        "outdoor-concert"
+      ],
+      "shortDescription": "Oldies in the Park at Ethel Waters Park in Chester.",
+      "address": "Ethel Waters Park, Chester, PA",
+      "town": "Chester",
+      "lat": 39.846465,
+      "lng": -75.358842,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-10-20",
+      "endDate": "2027-04-06",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.chestercity.com/event/oldies-in-the-park-2/2026-10-20/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/o6XxL0PM3kaE6hDXOaFfuw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Oct 20 - Apr 6",
+      "nextDate": "2026-10-20",
+      "dates": [
+        "2026-10-20",
+        "2026-10-27",
+        "2026-11-03",
+        "2026-11-10",
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05",
+        "2027-01-12",
+        "2027-01-19",
+        "2027-01-26",
+        "2027-02-02",
+        "2027-02-09",
+        "2027-02-16",
+        "2027-02-23",
+        "2027-03-02",
+        "2027-03-09",
+        "2027-03-16",
+        "2027-03-23",
+        "2027-03-30",
+        "2027-04-06"
+      ],
+      "occurrences": 25
+    },
+    {
+      "id": "ev-bryn-mawr-parents-association-mahjong-open-play-f4fb55",
+      "name": "Parents' Association Mahjong Open Play",
+      "category": "events",
+      "subcategories": [
+        "games",
+        "lifestyle"
+      ],
+      "shortDescription": "Parents' Association Mahjong Open Play at a Delco venue in Bryn Mawr.",
+      "address": "Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.027634,
+      "lng": -75.356119,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-20",
+      "endDate": "2026-10-27",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.agnesirwin.org/quick-links/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7b06ea32-047e-4854-a846-b1eea534918e.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Oct 20 - Oct 27",
+      "nextDate": "2026-10-20",
+      "dates": [
+        "2026-10-20",
+        "2026-10-27"
+      ],
+      "occurrences": 2
+    },
+    {
       "id": "ev-media-senior-dine-around-3a364f",
       "name": "Senior Dine Around",
       "category": "events",
@@ -4078,6 +3664,67 @@
         "2026-10-20"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-holmes-tuesday-karaoke-at-haggertys-in-holmes-pa-3b255e",
+      "name": "Tuesday Karaoke at Haggertys in Holmes, PA (Delaware County",
+      "category": "events",
+      "subcategories": [
+        "open-mic",
+        "performing-arts"
+      ],
+      "shortDescription": "Karaoke is Every Tuesday at Haggertys in Homes, PA (Delaware County, PA) Karaoke starts at 8pm.",
+      "address": "Haggerty's Cafe, Holmes, PA",
+      "town": "Holmes",
+      "lat": 39.899696,
+      "lng": -75.305652,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-20",
+      "endDate": "2027-03-30",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/tuesday-karaoke-at-haggertys-in-holmes-pa-delaware-county-pa-tickets-1225315845679",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/g_89wQtSp0Sz9smp4PcgxA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Oct 20 - Mar 30",
+      "nextDate": "2026-10-20",
+      "dates": [
+        "2026-10-20",
+        "2026-10-27",
+        "2026-11-03",
+        "2026-11-10",
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05",
+        "2027-01-12",
+        "2027-01-19",
+        "2027-01-26",
+        "2027-02-02",
+        "2027-02-09",
+        "2027-02-16",
+        "2027-02-23",
+        "2027-03-02",
+        "2027-03-09",
+        "2027-03-16",
+        "2027-03-23",
+        "2027-03-30"
+      ],
+      "occurrences": 24
     },
     {
       "id": "ev-newtown-square-volleyball-jv-v-ga-27bbdf",
@@ -10242,6 +9889,45 @@
       "occurrences": 1
     },
     {
+      "id": "ev-media-big-fire-band-794ac1",
+      "name": "Big Fire Band",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Reggae & Roots, Country Soul & Jazz .",
+      "address": "Shere-E-Punjab Indian Restaurant, Media, PA",
+      "town": "Media",
+      "lat": 39.918127,
+      "lng": -75.392515,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-07",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/big-fire-band-tickets-2003261976498",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/kcNbYaAGr029UfpX09BhJg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 7",
+      "nextDate": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-lansdowne-billy-price-band-c813df",
       "name": "Billy Price Band",
       "category": "events",
@@ -10930,6 +10616,46 @@
         "2026-11-10"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-radlit-book-club-4f7dca",
+      "name": "Radlit Book Club",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "literary-arts"
+      ],
+      "shortDescription": "Join us for a discussion of Holidays On Ice, by David Sedaris. All are welcome. No registration necessary. Led by local librarian Jessica Richter.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-10",
+      "endDate": "2026-12-08",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17212585",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/81b8ac86-9575-4bf0-a8e3-7382ef984a0f.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Nov 10 - Dec 8",
+      "nextDate": "2026-11-10",
+      "dates": [
+        "2026-11-10",
+        "2026-12-08"
+      ],
+      "occurrences": 2
     },
     {
       "id": "ev-wayne-wxpn-welcomes-michaela-anne-at-118-north-7ddb85",
@@ -14790,6 +14516,44 @@
       "nextDate": "2027-01-19",
       "dates": [
         "2027-01-19"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-lansdowne-richard-thompson-band-d2089f",
+      "name": "Richard Thompson & Band",
+      "category": "events",
+      "subcategories": [
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "WXPN Welcomes Richard Thompson & Band Hippies, Thugs and Heroes Tour with Clayton Linthicum & Quinn Bachand Wednesday, January 20, 2027 7:30pm / Doors at 6:30pm...",
+      "address": "Lansdowne Theater, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.939419,
+      "lng": -75.272179,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-20",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.etix.com/ticket/p/82561482/richard-thompson-band-lansdowne-lansdowne-theater",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/exqHtzemDEm5tNktDRYKvQ.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Jan 20",
+      "nextDate": "2027-01-20",
+      "dates": [
+        "2027-01-20"
       ],
       "occurrences": 1
     },
