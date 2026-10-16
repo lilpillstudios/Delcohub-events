@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-10-15T14:13:48.447838+00:00",
+  "scraped_at": "2026-10-16T14:02:50.516491+00:00",
   "horizon_days": 180,
-  "event_count": 471,
+  "event_count": 489,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-10-15",
+      "startDate": "2026-10-16",
       "endDate": "2026-10-31",
       "recurring": "none",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Oct 15 - Oct 31",
-      "nextDate": "2026-10-15",
+      "schedule": "Daily, Oct 16 - Oct 31",
+      "nextDate": "2026-10-16",
       "dates": [
-        "2026-10-15",
         "2026-10-16",
         "2026-10-17",
         "2026-10-18",
@@ -57,394 +56,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 17
-    },
-    {
-      "id": "ev-newtown-square-football-team-dinner-192290",
-      "name": "Football Team Dinner",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Football Team Dinner at Tierney Dining Hall - Ott Alcove in Newtown Square.",
-      "address": "Tierney Dining Hall - Ott Alcove, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-15",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/018303ac-f872-419b-86e8-d64b71af256b.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 15",
-      "nextDate": "2026-10-15",
-      "dates": [
-        "2026-10-15"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-golf-varsity-boys-haverford-meet-3d1745",
-      "name": "Golf - Varsity Boys @ Haverford Meet",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Golf - Varsity Boys @ Haverford Meet",
-      "address": "Gulph Mills Golf Club, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-15",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0c20b087-5f3f-4d97-8041-f6db12f9e8c8.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 15",
-      "nextDate": "2026-10-15",
-      "dates": [
-        "2026-10-15"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-lecture-paul-cezanne-with-william-perthes-042211",
-      "name": "Lecture: Paul Cezanne with William Perthes",
-      "category": "events",
-      "subcategories": [
-        "learning",
-        "talks-lectures"
-      ],
-      "shortDescription": "Lecture: Paul Cezanne: Father of Modern Painting",
-      "address": "Wayne Art Center, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.03894,
-      "lng": -75.394446,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-15",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://wayneart.org/events/2141/lecture-paul-cezanne-with-william-perthes",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/klmMjsJZvUW3JrY6Hfhmyg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 15",
-      "nextDate": "2026-10-15",
-      "dates": [
-        "2026-10-15"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-misery-179fa7",
-      "name": "Misery",
-      "category": "events",
-      "subcategories": [
-        "halloween",
-        "holiday",
-        "performing-arts",
-        "theater"
-      ],
-      "shortDescription": "After a devastating car accident leaves novelist Paul Sheldon stranded in a remote cabin, he awakens under the care of Annie Wilkes, his self-proclaimed “number one...",
-      "address": "Hedgerow Theatre, Media, PA",
-      "town": "Media",
-      "lat": 39.897539,
-      "lng": -75.386668,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-15",
-      "endDate": "2026-11-01",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "(610) 565-4211",
-      "website": "https://www.hedgerowtheatre.org/misery",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OtyxLaPmVUKxIC-56D9MWw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "11 dates, Oct 15 - Nov 1",
-      "nextDate": "2026-10-15",
-      "dates": [
-        "2026-10-15",
-        "2026-10-16",
-        "2026-10-17",
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-24",
-        "2026-10-25",
-        "2026-10-29",
-        "2026-10-30",
-        "2026-10-31",
-        "2026-11-01"
-      ],
-      "occurrences": 11
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-adult-wheel-class-edcc01",
-      "name": "One Time Adult Wheel Class",
-      "category": "events",
-      "subcategories": [
-        "arts"
-      ],
-      "shortDescription": "Join our one time class to learn the basics of wheel throwing!",
-      "address": "Blue Skies Pottery - Bryn Mawr, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-15",
-      "endDate": "2026-11-26",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/160849/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SvgMJsHbeESUI8oHFgSYBw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thursdays, Oct 15 - Nov 26",
-      "nextDate": "2026-10-15",
-      "dates": [
-        "2026-10-15",
-        "2026-10-22",
-        "2026-10-29",
-        "2026-11-05",
-        "2026-11-12",
-        "2026-11-19",
-        "2026-11-26"
-      ],
-      "occurrences": 7
-    },
-    {
-      "id": "ev-marple-soccer-3rd-team-boys-9e024c",
-      "name": "Soccer - 3rd Team Boys",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - 3rd Team Boys @ Marple",
-      "address": "Marple Newtown High School, Marple, PA",
-      "town": "Marple",
-      "lat": 39.97761,
-      "lng": -75.37853,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-15",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/890273d5-60d0-444d-b73a-b8cd330e83a8.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 15",
-      "nextDate": "2026-10-15",
-      "dates": [
-        "2026-10-15"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-lansdowne-stayin-alive-one-night-of-the-bee-gees-578b99",
-      "name": "Stayin Alive: One Night of the Bee Gees",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "STAYIN' ALIVE offers to their audiences the songs and sights of a full Bee Gees play list, singing blockbusters such as \"Night Fever\", \"Jive Talkin'\", \"How Deep Is Your...",
-      "address": "Lansdowne Theater, Lansdowne, PA",
-      "town": "Lansdowne",
-      "lat": 39.939389,
-      "lng": -75.27231,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-15",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://brepresents.com/event/stayin-alive-bee-gees-lansdowne-2026-10-15/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/rwa-kXSv30-_HXYILLByuQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 15",
-      "nextDate": "2026-10-15",
-      "dates": [
-        "2026-10-15"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-tail-waggin-tutors-70c78c",
-      "name": "Tail Waggin' Tutors",
-      "category": "events",
-      "subcategories": [
-        "lifestyle",
-        "literary-arts"
-      ],
-      "shortDescription": "Peter Rabbit Room - Registration required - Grades K-5th Practice reading to therapy dogs Benny and Chewy.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-15",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17666198",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0f2575b7-6157-40f2-9d56-21499a4ccb9a.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 15",
-      "nextDate": "2026-10-15",
-      "dates": [
-        "2026-10-15"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-drexel-hill-thursday-karaoke-at-casey-s-restaura-4579c1",
-      "name": "Thursday Karaoke at Casey's Restaurant (Drexel Hill - Delaware County",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink",
-        "open-mic",
-        "performing-arts"
-      ],
-      "shortDescription": "Sing your heart out at Casey's Restaurant every Thursday night with some karaoke fun in Drexel Hill, Delaware County, PA! Starts at 8pm.",
-      "address": "Casey's Saloon & Restaurant, Drexel Hill, PA",
-      "town": "Drexel Hill",
-      "lat": 39.960126,
-      "lng": -75.288562,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-15",
-      "endDate": "2027-04-08",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/thursday-karaoke-at-caseys-restaurant-drexel-hill-delaware-county-pa-tickets-1061653848239",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pgpVzPSpoUaADfBllel6lw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thursdays, Oct 15 - Apr 8",
-      "nextDate": "2026-10-15",
-      "dates": [
-        "2026-10-15",
-        "2026-10-22",
-        "2026-10-29",
-        "2026-11-05",
-        "2026-11-12",
-        "2026-11-19",
-        "2026-11-26",
-        "2026-12-03",
-        "2026-12-10",
-        "2026-12-17",
-        "2026-12-24",
-        "2026-12-31",
-        "2027-01-07",
-        "2027-01-14",
-        "2027-01-21",
-        "2027-01-28",
-        "2027-02-04",
-        "2027-02-11",
-        "2027-02-18",
-        "2027-02-25",
-        "2027-03-04",
-        "2027-03-11",
-        "2027-03-18",
-        "2027-03-25",
-        "2027-04-01",
-        "2027-04-08"
-      ],
-      "occurrences": 26
+      "occurrences": 16
     },
     {
       "id": "ev-chester-dj-mania-pre-homecoming-party-bfc0d2",
@@ -605,6 +217,55 @@
       "occurrences": 1
     },
     {
+      "id": "ev-media-misery-179fa7",
+      "name": "Misery",
+      "category": "events",
+      "subcategories": [
+        "halloween",
+        "holiday",
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "After a devastating car accident leaves novelist Paul Sheldon stranded in a remote cabin, he awakens under the care of Annie Wilkes, his self-proclaimed “number one...",
+      "address": "Hedgerow Theatre, Media, PA",
+      "town": "Media",
+      "lat": 39.897539,
+      "lng": -75.386668,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-16",
+      "endDate": "2026-11-01",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "(610) 565-4211",
+      "website": "https://www.hedgerowtheatre.org/misery",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OtyxLaPmVUKxIC-56D9MWw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "10 dates, Oct 16 - Nov 1",
+      "nextDate": "2026-10-16",
+      "dates": [
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "occurrences": 10
+    },
+    {
       "id": "ev-wayne-organ-fairchild-at-118-north-750958",
       "name": "Organ Fairchild at 118 North",
       "category": "events",
@@ -631,6 +292,83 @@
       "website": "https://www.facebook.com/events/28476129768638400/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/147538cb-cf1e-4619-a8e9-82cd87b3b011.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Oct 16",
+      "nextDate": "2026-10-16",
+      "dates": [
+        "2026-10-16"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-bryn-mawr-sonic-serenity-gong-sound-bath-71ddd6",
+      "name": "Sonic Serenity - Gong Sound Bath",
+      "category": "events",
+      "subcategories": [
+        "faith",
+        "lifestyle"
+      ],
+      "shortDescription": "Chill out and vibe with deep gong sounds for total relaxation and good vibes!",
+      "address": "Medley Arts Center, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.02467,
+      "lng": -75.326,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-16",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/sonic-serenity-gong-sound-bath-tickets-2002949878003",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d1uaQHJ8nEySw5y_a0fZEA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Oct 16",
+      "nextDate": "2026-10-16",
+      "dates": [
+        "2026-10-16"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-villanova-villanova-university-women-s-volleybal-089637",
+      "name": "Villanova University Women's Volleyball vs Creighton",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Villanova University Women's Volleyball vs Creighton Streaming Video:...",
+      "address": "Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.03176,
+      "lng": -75.34903,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-16",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://villanova.com/calendar.aspx?game_id=17725&amp;sport_id=22",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7df57544-f36c-4258-bdb8-55ca1ace2cf6.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -1344,22 +1082,24 @@
       "occurrences": 1
     },
     {
-      "id": "ev-villanova-villanova-university-men-s-basketball-10b2a8",
-      "name": "Villanova University Men's Basketball vs George Mason University (Exh.)",
+      "id": "ev-villanova-villanova-university-swimming-diving-v-962296",
+      "name": "Villanova University Swimming & Diving vs University of Connecticut (W)",
       "category": "events",
       "subcategories": [
+        "outdoor-recreation",
         "sports",
         "sports-outdoors"
       ],
-      "shortDescription": "Villanova University Men's Basketball vs George Mason University (Exh.)",
-      "address": "Finneran Pavilion, Villanova, PA",
+      "shortDescription": "Villanova University Swimming & Diving vs University of Connecticut (W) Streaming Video:...",
+      "address": "Villanova, PA",
       "town": "Villanova",
-      "lat": 40.033811,
-      "lng": -75.335447,
+      "lat": 40.03176,
+      "lng": -75.34903,
       "priceTier": 0,
       "tags": [
         "free",
-        "group"
+        "group",
+        "outdoor"
       ],
       "hours": {},
       "startDate": "2026-10-17",
@@ -1367,9 +1107,9 @@
       "recurring": "none",
       "venueId": "",
       "phone": "",
-      "website": "https://villanova.com/calendar.aspx?game_id=17862&amp;sport_id=5",
+      "website": "https://villanova.com/calendar.aspx?game_id=17819&amp;sport_id=24",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dce3bfdb-89e5-4b34-a3fc-0a2507a30f0e.medium.png",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/264b2604-bef3-458e-bd7c-bfee9f6243e2.medium.PNG",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -1723,6 +1463,45 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8bf306d9-b494-4e94-913c-046924f0c492.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Oct 18",
+      "nextDate": "2026-10-18",
+      "dates": [
+        "2026-10-18"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-clifton-heights-chef-ken-s-eagles-watch-party-fi-24599f",
+      "name": "Chef Ken's Eagles Watch Party Fish Fry",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink",
+        "games",
+        "sports"
+      ],
+      "shortDescription": "Eagles Game .. Pool Tournament Fish Fry",
+      "address": "Rose Bar, Clifton Heights, PA",
+      "town": "Clifton Heights",
+      "lat": 39.929822,
+      "lng": -75.295409,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-18",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/chef-kens-eagles-watch-party-fish-fry-tickets-2002831294316",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8dpGTg7HNEWkTaQFGzrDjQ.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -3020,7 +2799,7 @@
       ],
       "hours": {},
       "startDate": "2026-10-20",
-      "endDate": "2027-04-06",
+      "endDate": "2027-04-13",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -3031,7 +2810,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Tuesdays, Oct 20 - Apr 6",
+      "schedule": "Tuesdays, Oct 20 - Apr 13",
       "nextDate": "2026-10-20",
       "dates": [
         "2026-10-20",
@@ -3058,9 +2837,10 @@
         "2027-03-16",
         "2027-03-23",
         "2027-03-30",
-        "2027-04-06"
+        "2027-04-06",
+        "2027-04-13"
       ],
-      "occurrences": 25
+      "occurrences": 26
     },
     {
       "id": "ev-bryn-mawr-parents-association-mahjong-open-play-f4fb55",
@@ -4245,6 +4025,47 @@
       "occurrences": 1
     },
     {
+      "id": "ev-bryn-mawr-one-time-adult-wheel-class-edcc01",
+      "name": "One Time Adult Wheel Class",
+      "category": "events",
+      "subcategories": [
+        "arts"
+      ],
+      "shortDescription": "Join our one time class to learn the basics of wheel throwing!",
+      "address": "Blue Skies Pottery - Bryn Mawr, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-22",
+      "endDate": "2026-11-26",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/160849/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SvgMJsHbeESUI8oHFgSYBw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thursdays, Oct 22 - Nov 26",
+      "nextDate": "2026-10-22",
+      "dates": [
+        "2026-10-22",
+        "2026-10-29",
+        "2026-11-05",
+        "2026-11-12",
+        "2026-11-19",
+        "2026-11-26"
+      ],
+      "occurrences": 6
+    },
+    {
       "id": "ev-lansdowne-rupert-wates-0ee1c8",
       "name": "Rupert Wates",
       "category": "events",
@@ -4361,6 +4182,70 @@
         "2026-10-22"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-drexel-hill-thursday-karaoke-at-casey-s-restaura-4579c1",
+      "name": "Thursday Karaoke at Casey's Restaurant (Drexel Hill - Delaware County",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink",
+        "open-mic",
+        "performing-arts"
+      ],
+      "shortDescription": "Sing your heart out at Casey's Restaurant every Thursday night with some karaoke fun in Drexel Hill, Delaware County, PA! Starts at 8pm.",
+      "address": "Casey's Saloon & Restaurant, Drexel Hill, PA",
+      "town": "Drexel Hill",
+      "lat": 39.960126,
+      "lng": -75.288562,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-22",
+      "endDate": "2027-04-08",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/thursday-karaoke-at-caseys-restaurant-drexel-hill-delaware-county-pa-tickets-1061653848239",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pgpVzPSpoUaADfBllel6lw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thursdays, Oct 22 - Apr 8",
+      "nextDate": "2026-10-22",
+      "dates": [
+        "2026-10-22",
+        "2026-10-29",
+        "2026-11-05",
+        "2026-11-12",
+        "2026-11-19",
+        "2026-11-26",
+        "2026-12-03",
+        "2026-12-10",
+        "2026-12-17",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07",
+        "2027-01-14",
+        "2027-01-21",
+        "2027-01-28",
+        "2027-02-04",
+        "2027-02-11",
+        "2027-02-18",
+        "2027-02-25",
+        "2027-03-04",
+        "2027-03-11",
+        "2027-03-18",
+        "2027-03-25",
+        "2027-04-01",
+        "2027-04-08"
+      ],
+      "occurrences": 25
     },
     {
       "id": "ev-lansdowne-toad-and-the-wet-sprocket-6357c4",
@@ -4541,6 +4426,43 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2fff97a3-047c-47d2-96aa-bfde3d79cc11.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Oct 23",
+      "nextDate": "2026-10-23",
+      "dates": [
+        "2026-10-23"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-havertown-comedy-at-the-kettle-edaf8e",
+      "name": "Comedy at the Kettle",
+      "category": "events",
+      "subcategories": [
+        "comedy",
+        "performing-arts"
+      ],
+      "shortDescription": "Join us for a night of hilarity on Friday October 23rd at the Kettle in Havertown! BYOB",
+      "address": "Havertown, PA",
+      "town": "Havertown",
+      "lat": 39.978656,
+      "lng": -75.30398,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-23",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/comedy-at-the-kettle-tickets-2003041365645",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/PGY-ife7f06gYr6awevyEA.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -5136,46 +5058,6 @@
       "occurrences": 1
     },
     {
-      "id": "ev-villanova-villanova-university-women-s-volleybal-5db606",
-      "name": "Villanova University Women's Volleyball vs St. John's",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Villanova University Women's Volleyball vs St. John's",
-      "address": "Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03176,
-      "lng": -75.34903,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-23",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanova.com/calendar.aspx?game_id=17726&amp;sport_id=22",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dee4e760-757d-432f-bfdd-cc2dc29297b9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 23",
-      "nextDate": "2026-10-23",
-      "dates": [
-        "2026-10-23"
-      ],
-      "occurrences": 1
-    },
-    {
       "id": "ev-newtown-square-volleyball-ms-a-v-notre-dame-d3ed18",
       "name": "Volleyball MS A v Notre Dame",
       "category": "events",
@@ -5396,6 +5278,44 @@
       "website": "https://brepresents.com/event/ashley-mcbryde/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/vOk848JCKEybcLgOVTjSsg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 24",
+      "nextDate": "2026-10-24",
+      "dates": [
+        "2026-10-24"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-aldan-craft-chill-188aa9",
+      "name": "Craft & Chill",
+      "category": "events",
+      "subcategories": [
+        "crafts",
+        "special-audience"
+      ],
+      "shortDescription": "A safe space for women to make new connections while crafting away",
+      "address": "Aldan, PA",
+      "town": "Aldan",
+      "lat": 39.927566,
+      "lng": -75.280798,
+      "priceTier": 2,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-24",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/craft-chill-tickets-2003302402413",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/FIrgXQJp402dAZAfozPM9w.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -5803,6 +5723,45 @@
       "occurrences": 1
     },
     {
+      "id": "ev-clifton-heights-philly-ward-40a-chicken-fish-fry-502ab5",
+      "name": "Philly Ward 40A: Chicken & Fish Fry Fundraiser",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "food",
+        "food-drink",
+        "fundraiser"
+      ],
+      "shortDescription": "Join us for Philly Ward 40A’s tasty Chicken & Fish Fry Fundraiser – good eats and great vibes!",
+      "address": "Illusions Banquet Hall and Sports Bar, Clifton Heights, PA",
+      "town": "Clifton Heights",
+      "lat": 39.92717,
+      "lng": -75.303846,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-24",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/philly-ward-40a-chicken-fish-fry-fundraiser-tickets-2002758744317",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/EXtJCupiL0C3hISSp5dvjg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 24",
+      "nextDate": "2026-10-24",
+      "dates": [
+        "2026-10-24"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-plush-in-the-box-90s-grunge-alternative-tr-1a29ed",
       "name": "Plush In The Box: 90s Grunge & Alternative Tribute at 118 North",
       "category": "events",
@@ -6041,7 +6000,7 @@
         "sports",
         "sports-outdoors"
       ],
-      "shortDescription": "Villanova University Football vs Lehigh Tickets: https://villanova.evenue.net/event/FB26/04",
+      "shortDescription": "Villanova University Football vs Lehigh TV: ESPN+ Streaming Audio: https://www.iheart.com/live/villanova-sports-radio-network-9070/ Tickets:...",
       "address": "Villanova, PA",
       "town": "Villanova",
       "lat": 40.03176,
@@ -6079,7 +6038,7 @@
         "sports",
         "sports-outdoors"
       ],
-      "shortDescription": "Villanova University Men's Soccer vs Georgetown University TV: ESPN+",
+      "shortDescription": "Villanova University Men's Soccer vs Georgetown University TV: ESPN+ Streaming Video: https://www.espn.com/watch/",
       "address": "Villanova, PA",
       "town": "Villanova",
       "lat": 40.03176,
@@ -6098,6 +6057,44 @@
       "website": "https://villanova.com/calendar.aspx?game_id=17761&amp;sport_id=9",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4bb46c0c-ec2a-4799-b30b-fd9cf072ae19.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 24",
+      "nextDate": "2026-10-24",
+      "dates": [
+        "2026-10-24"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-villanova-villanova-university-softball-vs-lehig-c1b938",
+      "name": "Villanova University Softball vs Lehigh University",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Villanova University Softball vs Lehigh University",
+      "address": "Villanova Softball Complex, Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.03176,
+      "lng": -75.34903,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-24",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://villanova.com/calendar.aspx?game_id=17886&amp;sport_id=13",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/724da31c-1b28-4723-b664-c1c1ca0e567f.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -6266,6 +6263,46 @@
       "nextDate": "2026-10-24",
       "dates": [
         "2026-10-24"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-20-off-early-bird-2026-delco-autism-awar-191f67",
+      "name": "20% off - Early Bird - 2026 Delco Autism Awareness Fashion Week",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "health-wellness",
+        "lifestyle",
+        "special-audience"
+      ],
+      "shortDescription": "Join us for a feel-good event celebrating autism awareness, neurodiverse communities, and amazing locally-based designer talent!",
+      "address": "Primepoint Club, Chester, PA",
+      "town": "Chester",
+      "lat": 39.833307,
+      "lng": -75.378474,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-25",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/20-off-early-bird-2026-delco-autism-awareness-fashion-week-tickets-2003183631165",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/A7cKPjXN10y_BWrSd1OKDQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Oct 25",
+      "nextDate": "2026-10-25",
+      "dates": [
+        "2026-10-25"
       ],
       "occurrences": 1
     },
@@ -6583,6 +6620,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-wally-smith-organ-trio-at-118-north-1fdb78",
+      "name": "Wally Smith Organ Trio at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Wally Smith Organ Trio at 118 North Sunday, October 25, 2026 Doors & Show: 4:00 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-25",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/2732388190552225/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cB7Pj-BHfU6dcvbFweIERw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Oct 25",
+      "nextDate": "2026-10-25",
+      "dates": [
+        "2026-10-25"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-cancelled-soccer-3rds-boys-ga-1cf62f",
       "name": "CANCELLED: Soccer - 3rds Boys @ GA",
       "category": "events",
@@ -6854,6 +6929,60 @@
         "2026-10-26"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-toddler-storytime-ages-2-3-years-67d052",
+      "name": "Toddler Storytime (Ages 2 - 3 years)",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "kids",
+        "learning",
+        "lifestyle"
+      ],
+      "shortDescription": "Ages 2 - 3 years - Winsor Room Stories, songs, and movement activities to help your young child engage with literature in a safe, social setting.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-10-26",
+      "endDate": "2026-12-17",
+      "recurring": "seasonal",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17721348",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fe5023d6-7e53-42a2-b2aa-b93e19cac158.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Select dates, Oct 26 - Dec 17",
+      "nextDate": "2026-10-26",
+      "dates": [
+        "2026-10-26",
+        "2026-10-29",
+        "2026-11-02",
+        "2026-11-05",
+        "2026-11-09",
+        "2026-11-12",
+        "2026-11-16",
+        "2026-11-19",
+        "2026-11-23",
+        "2026-12-07",
+        "2026-12-10",
+        "2026-12-14",
+        "2026-12-17"
+      ],
+      "occurrences": 13
     },
     {
       "id": "ev-wayne-yoga-for-all-ages-10d418",
@@ -7632,15 +7761,16 @@
       "occurrences": 1
     },
     {
-      "id": "ev-villanova-villanova-university-women-s-soccer-vs-37e8b9",
-      "name": "Villanova University Women's Soccer vs DePaul University",
+      "id": "ev-villanova-villanova-university-women-s-soccer-vs-6b7036",
+      "name": "Villanova University Women's Soccer vs DePaul University - Halloween Game",
       "category": "events",
       "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
+        "games",
+        "halloween",
+        "holiday",
+        "special-audience"
       ],
-      "shortDescription": "Villanova University Women's Soccer vs DePaul University",
+      "shortDescription": "Villanova University Women's Soccer vs DePaul University - Halloween Game TV: ESPN+",
       "address": "Villanova, PA",
       "town": "Villanova",
       "lat": 40.03176,
@@ -8215,6 +8345,43 @@
       "occurrences": 1
     },
     {
+      "id": "ev-lansdowne-the-speakeasy-at-bluesouth-9a0b19",
+      "name": "The Speakeasy at BlueSouth",
+      "category": "events",
+      "subcategories": [
+        "open-mic",
+        "performing-arts"
+      ],
+      "shortDescription": "The Speakeasy at Blue South is an open mic for artists ready to perform and people looking for a good vibe to start their night.",
+      "address": "Blue South, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.939087,
+      "lng": -75.272732,
+      "priceTier": 1,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-29",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/the-speakeasy-at-bluesouth-tickets-2003015595566",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/AXsauMZwL0Km7oRxbOZUGw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Oct 29",
+      "nextDate": "2026-10-29",
+      "dates": [
+        "2026-10-29"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-lansdowne-boney-james-7ccadf",
       "name": "Boney James",
       "category": "events",
@@ -8563,6 +8730,45 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-dean-company-10th-anniversary-show-at-118-35b75a",
+      "name": "Dean & Company: 10th Anniversary Show at 118 North",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Dean & Company: 10th Anniversary Show at 118 North with We Live On Saturday, October 31, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-31",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1762866324859899/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0e5ffa12-76de-4091-84e4-050aee7d4e56.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 31",
+      "nextDate": "2026-10-31",
+      "dates": [
+        "2026-10-31"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-glen-mills-habitat-stewards-7411d3",
       "name": "Habitat Stewards",
       "category": "events",
@@ -8761,6 +8967,42 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chester-the-wdas-live-hbcu-day-party-experience-42342c",
+      "name": "THE WDAS LIVE \"HBCU\" DAY PARTY EXPERIENCE",
+      "category": "events",
+      "subcategories": [
+        "destinations"
+      ],
+      "shortDescription": "WDAS LIVE \"HBCU\" DAY PARTY EXPERIENCE FROM THE EVENT CENTER AT HARRAH'S CASINO, CHESTER, PA, SATURDAY OCT 31, 2026, 4PM-10PM",
+      "address": "Harrah's Philadelphia Casino & Racetrack, Chester, PA",
+      "town": "Chester",
+      "lat": 39.850841,
+      "lng": -75.348627,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-31",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/the-wdas-live-hbcu-day-party-experience-tickets-2001428805434",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/nVnWzMLL5EGeFaklevV-hg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 31",
+      "nextDate": "2026-10-31",
+      "dates": [
+        "2026-10-31"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-media-tales-from-poe-2cf278",
       "name": "Tales from Poe",
       "category": "events",
@@ -8808,7 +9050,7 @@
         "sports",
         "sports-outdoors"
       ],
-      "shortDescription": "Villanova University Men's Soccer vs University of Akron TV: ESPN+",
+      "shortDescription": "Villanova University Men's Soccer vs University of Akron TV: ESPN+ Streaming Video: https://www.espn.com/watch/",
       "address": "Villanova, PA",
       "town": "Villanova",
       "lat": 40.03176,
@@ -8981,6 +9223,44 @@
       "website": "https://wayneart.org/events/2129/foundations-of-the-portrait-with-ellen-cooper",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/MFCDVWvrs0eO8zb-SLL-gg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Nov 1",
+      "nextDate": "2026-11-01",
+      "dates": [
+        "2026-11-01"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-jesse-james-deconto-the-pinkerton-raid-ant-e2da6c",
+      "name": "Jesse James DeConto (The Pinkerton Raid) + Antar Goodwin at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Jesse James DeConto (The Pinkerton Raid) + Antar Goodwin at 118 North with Claire Wellin (of San Fermin) Sunday, November 1, 2026 Doors: 6:00 PM | Show: 7:00 PM 21+...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-01",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1650218269859943/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dfbc8e82-cbbc-45df-b109-75d61c56c4ed.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -9673,46 +9953,6 @@
       "occurrences": 1
     },
     {
-      "id": "ev-villanova-villanova-university-swimming-diving-v-2d8739",
-      "name": "Villanova University Swimming & Diving vs University of Pennsylvania (W)",
-      "category": "events",
-      "subcategories": [
-        "outdoor-recreation",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Villanova University Swimming & Diving vs University of Pennsylvania (W)",
-      "address": "Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03176,
-      "lng": -75.34903,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-11-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanova.com/calendar.aspx?game_id=17821&amp;sport_id=24",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4ce5c2aa-9694-47f3-b1df-eaef5c32cd30.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 4",
-      "nextDate": "2026-11-04",
-      "dates": [
-        "2026-11-04"
-      ],
-      "occurrences": 1
-    },
-    {
       "id": "ev-chester-widener-pride-women-s-volleyball-vs-neum-581571",
       "name": "Widener Pride: Women's Volleyball vs Neumann",
       "category": "events",
@@ -10124,6 +10364,44 @@
       "website": "https://www.widener.edu/events/interest-engineering-workshops-biomedical-electrical-mechanical-robotics",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/28499b9f-804b-40d6-928a-c0eba0b74f69.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Nov 6",
+      "nextDate": "2026-11-06",
+      "dates": [
+        "2026-11-06"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-kelsey-waldon-at-118-north-6e0fcc",
+      "name": "Kelsey Waldon at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Kelsey Waldon at 118 North with Candi Jenkins Friday, November 6, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1313956287326439/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a5bb07a2-7451-461c-a708-a4ee484b5c26.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -10608,7 +10886,7 @@
         "sports",
         "sports-outdoors"
       ],
-      "shortDescription": "Villanova University Football vs Richmond Tickets: https://villanova.evenue.net/event/FB26/05",
+      "shortDescription": "Villanova University Football vs Richmond TV: ESPN+ Streaming Audio: https://www.iheart.com/live/villanova-sports-radio-network-9070/ Tickets:...",
       "address": "Villanova, PA",
       "town": "Villanova",
       "lat": 40.03176,
@@ -10639,15 +10917,16 @@
       "occurrences": 1
     },
     {
-      "id": "ev-villanova-villanova-university-women-s-soccer-vs-538a70",
-      "name": "Villanova University Women's Soccer vs University of Connecticut",
+      "id": "ev-villanova-villanova-university-women-s-soccer-vs-d0f178",
+      "name": "Villanova University Women's Soccer vs University of Connecticut - Alumni Day",
       "category": "events",
       "subcategories": [
+        "destinations",
         "special-audience",
         "sports",
         "sports-outdoors"
       ],
-      "shortDescription": "Villanova University Women's Soccer vs University of Connecticut",
+      "shortDescription": "Villanova University Women's Soccer vs University of Connecticut - Alumni Day TV: ESPN+",
       "address": "Villanova, PA",
       "town": "Villanova",
       "lat": 40.03176,
@@ -11483,6 +11762,46 @@
       "nextDate": "2026-11-12",
       "dates": [
         "2026-11-12"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-all-school-pep-rally-7e01a1",
+      "name": "All-School Pep Rally",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "All-School Pep Rally at O'Neill Gym in Newtown Square.",
+      "address": "O'Neill Gym, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-13",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/6cab5fdd-d012-42f3-a90c-d33c6f941452.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Nov 13",
+      "nextDate": "2026-11-13",
+      "dates": [
+        "2026-11-13"
       ],
       "occurrences": 1
     },
@@ -12649,6 +12968,42 @@
       "occurrences": 2
     },
     {
+      "id": "ev-springfield-twp-delaware-county-the-garden-club-b22156",
+      "name": "The Garden Club Of Springfield November Meeting",
+      "category": "events",
+      "subcategories": [
+        "civic"
+      ],
+      "shortDescription": "The Garden Club of Springfield next meeting will be held on November 18, 2026 at 9:30 AM at 1st Presbyterian Church, Springfield.",
+      "address": "1st Presbyterian Church Springfield, Springfield Twp (Delaware county), PA",
+      "town": "Springfield Twp (Delaware county)",
+      "lat": 39.935649,
+      "lng": -75.334252,
+      "priceTier": 1,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-18",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/FZ-Eqz2JqEaF1-FHKSjTlA.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Nov 18",
+      "nextDate": "2026-11-18",
+      "dates": [
+        "2026-11-18"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-chester-widener-pride-men-s-basketball-vs-chatha-012d86",
       "name": "Widener Pride: Men's Basketball vs Chatham",
       "category": "events",
@@ -13232,6 +13587,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-michael-mcdermott-at-118-north-e9a470",
+      "name": "Michael McDermott at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Michael McDermott at 118 North Sunday, November 22, 2026 Doors: 5:30 PM | Show: 7:30 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-22",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/4610565232500179/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ae3b5cbf-d92f-4c24-96b9-cf5c90b02fac.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Nov 22",
+      "nextDate": "2026-11-22",
+      "dates": [
+        "2026-11-22"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-ms-pie-race-field-house-if-rainin-0565b6",
       "name": "MS Pie Race (Field House, if raining)",
       "category": "events",
@@ -13268,6 +13661,45 @@
       "nextDate": "2026-11-24",
       "dates": [
         "2026-11-24"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-concrete-charlie-thanksgiving-eve-throwdow-9acde4",
+      "name": "CONCRETE CHARLIE: Thanksgiving Eve Throwdown at 118 North",
+      "category": "events",
+      "subcategories": [
+        "holiday",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "CONCRETE CHARLIE: Thanksgiving Eve Throwdown at 118 North Wednesday, November 25, 2026 Doors: 6:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-25",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1988017951834254/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/822044a4-859a-47eb-80e9-fcfc8d892ddd.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Nov 25",
+      "nextDate": "2026-11-25",
+      "dates": [
+        "2026-11-25"
       ],
       "occurrences": 1
     },
@@ -13862,6 +14294,48 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-kid-davis-the-bullets-pawnshop-roses-at-11-e9a64b",
+      "name": "Kid Davis & The Bullets + Pawnshop Roses at 118 North",
+      "category": "events",
+      "subcategories": [
+        "kids",
+        "music",
+        "performing-arts",
+        "special-audience"
+      ],
+      "shortDescription": "Kid Davis & The Bullets + Pawnshop Roses at 118 North Saturday, December 5, 2026 Need a ride from Delaware?",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-12-05",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/2341974703308178/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/607f2af6-c086-49dc-82f3-0baba78bda84.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Dec 5",
+      "nextDate": "2026-12-05",
+      "dates": [
+        "2026-12-05"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-made-in-philadelphia-a-celebration-of-cont-207005",
       "name": "Made in Philadelphia, A Celebration of Contemporary Craft Preview Party & Awards",
       "category": "events",
@@ -13968,6 +14442,46 @@
       "website": "https://www.gleneaglesquare.com/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/hJ5WbdokHkGww6b1z2kE7A.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Dec 5",
+      "nextDate": "2026-12-05",
+      "dates": [
+        "2026-12-05"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-clifton-heights-the-gift-of-laughter-comedy-show-465a9d",
+      "name": "The Gift of Laughter Comedy Show",
+      "category": "events",
+      "subcategories": [
+        "comedy",
+        "family",
+        "performing-arts",
+        "special-audience"
+      ],
+      "shortDescription": "Join us for a family-friendly night of comedy, magic, food & fun featuring comedian Sean Clay, a comedy magician, and a special guest!",
+      "address": "Clifton Heights, PA",
+      "town": "Clifton Heights",
+      "lat": 39.92869,
+      "lng": -75.295325,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-05",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/the-gift-of-laughter-comedy-show-tickets-2002486444862",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Tk3WBF2oH0aIIu2rO14ZIg.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -14327,6 +14841,83 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-tall-heights-at-118-north-da22aa",
+      "name": "Tall Heights at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Tall Heights at 118 North Wednesday, December 9, 2026 Doors: 5:30 PM | Show: 7:30 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-09",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1808567000280163/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9ffd6ad4-a5fe-4ee8-a746-02776a158996.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Dec 9",
+      "nextDate": "2026-12-09",
+      "dates": [
+        "2026-12-09"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-villanova-villanova-university-men-s-basketball-c83aef",
+      "name": "Villanova University Men's Basketball vs FDU",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Villanova University Men's Basketball vs FDU TV: truTV Radio: Villanova Sports Radio Network",
+      "address": "Finneran Pavilion, Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.033811,
+      "lng": -75.335447,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-29",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://villanova.com/calendar.aspx?game_id=17874&amp;sport_id=5",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/440b5bad-552b-44ee-a8d7-224f5016a0e0.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "2 dates, Dec 9 - Dec 29",
+      "nextDate": "2026-12-09",
+      "dates": [
+        "2026-12-09",
+        "2026-12-29"
+      ],
+      "occurrences": 2
+    },
+    {
       "id": "ev-wayne-holiday-appetizers-wine-with-stoney-run-wi-35c6a8",
       "name": "Holiday Appetizers & Wine with Stoney Run Winery with Karen Bentz",
       "category": "events",
@@ -14427,6 +15018,46 @@
       "website": "https://www.etix.com/ticket/p/98897703/home-for-the-holidaysall4onesheena-eastonruben-studdardand-lindsey-webster-lansdowne-lansdowne-theater",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yczAGsRl50yipXvV417FFQ.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Dec 11",
+      "nextDate": "2026-12-11",
+      "dates": [
+        "2026-12-11"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-the-wankers-holiday-show-at-118-north-eacb40",
+      "name": "The Wankers (Holiday Show) at 118 North",
+      "category": "events",
+      "subcategories": [
+        "christmas",
+        "holiday",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "The Wankers (Holiday Show) at 118 North Friday, December 11, 2026 Doors: 8:30 PM | Show: 9:30 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-11",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/2529950807483630/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/87f3cdb4-c348-4f38-a11b-1714adaa6991.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -14902,6 +15533,44 @@
       "nextDate": "2026-12-18",
       "dates": [
         "2026-12-18"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-brown-sugar-rolling-stones-tribute-at-118-7d557a",
+      "name": "Brown Sugar (Rolling Stones Tribute) at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Brown Sugar (Rolling Stones Tribute) at 118 North Saturday, December 19, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-19",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1612534300273255/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/hlx-kF16zUyt-96ASIIplA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Dec 19",
+      "nextDate": "2026-12-19",
+      "dates": [
+        "2026-12-19"
       ],
       "occurrences": 1
     },
@@ -15798,6 +16467,45 @@
       "website": "https://www.eventbrite.com/e/murder-mystery-dinner-at-folsom-fire-co-tickets-1999943739562",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/j0OuOMpW9ESYq-QLAwNJmw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Jan 23",
+      "nextDate": "2027-01-23",
+      "dates": [
+        "2027-01-23"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-villanova-villanova-university-swimming-diving-a-644c49",
+      "name": "Villanova University Swimming & Diving at West Virginia University (M)",
+      "category": "events",
+      "subcategories": [
+        "outdoor-recreation",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Villanova University Swimming & Diving at West Virginia University (M)",
+      "address": "Morgantown, Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.03176,
+      "lng": -75.34903,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2027-01-23",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://villanova.com/calendar.aspx?game_id=17937&amp;sport_id=24",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2f635bca-56db-4ae1-88ac-07af3d4026dd.medium.PNG",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
