@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-10-16T14:02:50.516491+00:00",
+  "scraped_at": "2026-10-17T13:02:58.486261+00:00",
   "horizon_days": 180,
-  "event_count": 489,
+  "event_count": 484,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-10-16",
+      "startDate": "2026-10-17",
       "endDate": "2026-10-31",
       "recurring": "none",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Oct 16 - Oct 31",
-      "nextDate": "2026-10-16",
+      "schedule": "Daily, Oct 17 - Oct 31",
+      "nextDate": "2026-10-17",
       "dates": [
-        "2026-10-16",
         "2026-10-17",
         "2026-10-18",
         "2026-10-19",
@@ -56,373 +55,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 16
-    },
-    {
-      "id": "ev-chester-dj-mania-pre-homecoming-party-bfc0d2",
-      "name": "DJ MANIA: PRE-HOMECOMING PARTY",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Chester Homecoming weekend starts Friday! DJ Mania brings 3 DJ matchups, different eras, different sounds, and one unforgettable Homecoming",
-      "address": "Harrah's Philadelphia Casino and Racetrack - A Caesars Rewards Destination, Chester, PA",
-      "town": "Chester",
-      "lat": 39.849962,
-      "lng": -75.34766,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-16",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/dj-mania-pre-homecoming-party-tickets-2000042372576",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5DCCGSr0SkmtT9quQaw5aw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 16",
-      "nextDate": "2026-10-16",
-      "dates": [
-        "2026-10-16"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-havertown-dara-lynn-17f11e",
-      "name": "Dara Lynn",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Dara is a singer and guitarist based in Delco, PA.",
-      "address": "Llanerch Country Club, Havertown, PA",
-      "town": "Havertown",
-      "lat": 39.969899,
-      "lng": -75.31416,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-16",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/108065295?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/DAzISL-Wg02xoAP0CDQTPQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 16",
-      "nextDate": "2026-10-16",
-      "dates": [
-        "2026-10-16"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-field-hockey-jv-v-hill-school-1d6784",
-      "name": "Field Hockey - JV v Hill School",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Field Hockey - JV v Hill School at Buggy Field (Field F) in Newtown Square.",
-      "address": "Buggy Field (Field F), Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-16",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ec02e2a0-a935-4331-916c-5ba19bffa75b.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 16",
-      "nextDate": "2026-10-16",
-      "dates": [
-        "2026-10-16"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-field-hockey-varsity-v-hill-schoo-6e6ccc",
-      "name": "Field Hockey - Varsity v Hill School",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Field Hockey - Varsity v Hill School at Buggy Field (Field F) in Newtown Square.",
-      "address": "Buggy Field (Field F), Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-16",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b04bdf65-d71d-4a5a-a43a-cf4f24a1e822.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 16",
-      "nextDate": "2026-10-16",
-      "dates": [
-        "2026-10-16"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-misery-179fa7",
-      "name": "Misery",
-      "category": "events",
-      "subcategories": [
-        "halloween",
-        "holiday",
-        "performing-arts",
-        "theater"
-      ],
-      "shortDescription": "After a devastating car accident leaves novelist Paul Sheldon stranded in a remote cabin, he awakens under the care of Annie Wilkes, his self-proclaimed “number one...",
-      "address": "Hedgerow Theatre, Media, PA",
-      "town": "Media",
-      "lat": 39.897539,
-      "lng": -75.386668,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-16",
-      "endDate": "2026-11-01",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "(610) 565-4211",
-      "website": "https://www.hedgerowtheatre.org/misery",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OtyxLaPmVUKxIC-56D9MWw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "10 dates, Oct 16 - Nov 1",
-      "nextDate": "2026-10-16",
-      "dates": [
-        "2026-10-16",
-        "2026-10-17",
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-24",
-        "2026-10-25",
-        "2026-10-29",
-        "2026-10-30",
-        "2026-10-31",
-        "2026-11-01"
-      ],
-      "occurrences": 10
-    },
-    {
-      "id": "ev-wayne-organ-fairchild-at-118-north-750958",
-      "name": "Organ Fairchild at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Organ Fairchild at 118 North with Munk Friday, October 16, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Tickets >> https://tixr.com/pr/social/198633",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-16",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/28476129768638400/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/147538cb-cf1e-4619-a8e9-82cd87b3b011.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 16",
-      "nextDate": "2026-10-16",
-      "dates": [
-        "2026-10-16"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-sonic-serenity-gong-sound-bath-71ddd6",
-      "name": "Sonic Serenity - Gong Sound Bath",
-      "category": "events",
-      "subcategories": [
-        "faith",
-        "lifestyle"
-      ],
-      "shortDescription": "Chill out and vibe with deep gong sounds for total relaxation and good vibes!",
-      "address": "Medley Arts Center, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.02467,
-      "lng": -75.326,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-16",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/sonic-serenity-gong-sound-bath-tickets-2002949878003",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d1uaQHJ8nEySw5y_a0fZEA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 16",
-      "nextDate": "2026-10-16",
-      "dates": [
-        "2026-10-16"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-villanova-university-women-s-volleybal-089637",
-      "name": "Villanova University Women's Volleyball vs Creighton",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Villanova University Women's Volleyball vs Creighton Streaming Video:...",
-      "address": "Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03176,
-      "lng": -75.34903,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-16",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanova.com/calendar.aspx?game_id=17725&amp;sport_id=22",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7df57544-f36c-4258-bdb8-55ca1ace2cf6.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 16",
-      "nextDate": "2026-10-16",
-      "dates": [
-        "2026-10-16"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-youth-one-time-classes-c8c2e5",
-      "name": "Youth One-Time Classes",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "visual-arts"
-      ],
-      "shortDescription": "$80 Per Person / Ages 9 and up Friday, Oct 2, 2026 / 5:30 PM - 7:00 PM (EDT) Join our one time class to learn the basics of wheel throwing!",
-      "address": "Blue Skies Pottery - Bryn Mawr, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-16",
-      "endDate": "2026-11-27",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/160853/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pbI4ypXkz062b8lEfv8Ztg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fridays, Oct 16 - Nov 27",
-      "nextDate": "2026-10-16",
-      "dates": [
-        "2026-10-16",
-        "2026-10-23",
-        "2026-10-30",
-        "2026-11-06",
-        "2026-11-13",
-        "2026-11-20",
-        "2026-11-27"
-      ],
-      "occurrences": 7
+      "occurrences": 15
     },
     {
       "id": "ev-media-barnaby-bright-in-concert-b81cfa",
@@ -654,6 +287,54 @@
         "2026-10-17"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-media-misery-179fa7",
+      "name": "Misery",
+      "category": "events",
+      "subcategories": [
+        "halloween",
+        "holiday",
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "After a devastating car accident leaves novelist Paul Sheldon stranded in a remote cabin, he awakens under the care of Annie Wilkes, his self-proclaimed “number one...",
+      "address": "Hedgerow Theatre, Media, PA",
+      "town": "Media",
+      "lat": 39.897539,
+      "lng": -75.386668,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-17",
+      "endDate": "2026-11-01",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "(610) 565-4211",
+      "website": "https://www.hedgerowtheatre.org/misery",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OtyxLaPmVUKxIC-56D9MWw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "9 dates, Oct 17 - Nov 1",
+      "nextDate": "2026-10-17",
+      "dates": [
+        "2026-10-17",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "occurrences": 9
     },
     {
       "id": "ev-wayne-once-upon-a-garden-storytime-at-chanticlee-5c2e93",
@@ -5058,6 +4739,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-villanova-villanova-university-women-s-volleybal-5db606",
+      "name": "Villanova University Women's Volleyball vs St. John's",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Villanova University Women's Volleyball vs St. John's",
+      "address": "Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.03176,
+      "lng": -75.34903,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-23",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://villanova.com/calendar.aspx?game_id=17726&amp;sport_id=22",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dee4e760-757d-432f-bfdd-cc2dc29297b9.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Oct 23",
+      "nextDate": "2026-10-23",
+      "dates": [
+        "2026-10-23"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-volleyball-ms-a-v-notre-dame-d3ed18",
       "name": "Volleyball MS A v Notre Dame",
       "category": "events",
@@ -5212,6 +4933,49 @@
         "2026-10-23"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-bryn-mawr-youth-one-time-classes-c8c2e5",
+      "name": "Youth One-Time Classes",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "visual-arts"
+      ],
+      "shortDescription": "$80 Per Person / Ages 9 and up Friday, Oct 2, 2026 / 5:30 PM - 7:00 PM (EDT) Join our one time class to learn the basics of wheel throwing!",
+      "address": "Blue Skies Pottery - Bryn Mawr, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-23",
+      "endDate": "2026-11-27",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/160853/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pbI4ypXkz062b8lEfv8Ztg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fridays, Oct 23 - Nov 27",
+      "nextDate": "2026-10-23",
+      "dates": [
+        "2026-10-23",
+        "2026-10-30",
+        "2026-11-06",
+        "2026-11-13",
+        "2026-11-20",
+        "2026-11-27"
+      ],
+      "occurrences": 6
     },
     {
       "id": "ev-media-men-s-soccer-penn-st-berks-vs-penn-st-bran-0cbe68",
@@ -12948,7 +12712,7 @@
       ],
       "hours": {},
       "startDate": "2026-11-18",
-      "endDate": "2027-01-06",
+      "endDate": "2027-04-14",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -12959,13 +12723,14 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Wednesdays, Nov 18 - Jan 6",
+      "schedule": "Wednesdays, Nov 18 - Apr 14",
       "nextDate": "2026-11-18",
       "dates": [
         "2026-11-18",
-        "2027-01-06"
+        "2027-01-06",
+        "2027-04-14"
       ],
-      "occurrences": 2
+      "occurrences": 3
     },
     {
       "id": "ev-springfield-twp-delaware-county-the-garden-club-b22156",
@@ -16094,11 +15859,49 @@
       "name": "Western New England University Men's Wrestling at Eastern University",
       "category": "events",
       "subcategories": [
-        "special-audience",
         "sports",
         "sports-outdoors"
       ],
       "shortDescription": "Western New England University Men's Wrestling at Eastern University",
+      "address": "St. Davids, PA",
+      "town": "St. Davids",
+      "lat": 40.04104,
+      "lng": -75.38013,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-15",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wnegoldenbears.com/calendar.aspx?game_id=9921&amp;sport_id=22",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/af34b2d3-fc88-4bcc-add1-f934021f285a.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Jan 15",
+      "nextDate": "2027-01-15",
+      "dates": [
+        "2027-01-15"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-st-davids-western-new-england-university-women-s-7bbd60",
+      "name": "Western New England University Women's Wrestling at Eastern University",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Western New England University Women's Wrestling at Eastern University",
       "address": "St. Davids, PA",
       "town": "St. Davids",
       "lat": 40.04104,
@@ -16115,7 +15918,7 @@
       "recurring": "none",
       "venueId": "",
       "phone": "",
-      "website": "https://wnegoldenbears.com/calendar.aspx?game_id=9921&amp;sport_id=22",
+      "website": "https://wnegoldenbears.com/calendar.aspx?game_id=9901&amp;sport_id=21",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d073d6a7-d630-4bb2-b12c-c8ae987861e5.medium.png",
       "featured": false,
