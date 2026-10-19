@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-10-18T13:22:53.390554+00:00",
+  "scraped_at": "2026-10-19T16:32:38.577048+00:00",
   "horizon_days": 180,
-  "event_count": 467,
+  "event_count": 466,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-10-18",
+      "startDate": "2026-10-19",
       "endDate": "2026-10-31",
       "recurring": "none",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Oct 18 - Oct 31",
-      "nextDate": "2026-10-18",
+      "schedule": "Daily, Oct 19 - Oct 31",
+      "nextDate": "2026-10-19",
       "dates": [
-        "2026-10-18",
         "2026-10-19",
         "2026-10-20",
         "2026-10-21",
@@ -54,361 +53,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 14
-    },
-    {
-      "id": "ev-bryn-mawr-bach-society-ensemble-ba7e60",
-      "name": "Bach Society Ensemble",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "musical",
-        "performing-arts",
-        "theater"
-      ],
-      "shortDescription": "Bach Society Ensemble at a Delco venue in Bryn Mawr.",
-      "address": "Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.00273,
-      "lng": -75.36424,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-18",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/bach-society-ensemble-tickets-1120763546939",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1mcqjLNLOUWxsHDi94cRbA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Oct 18",
-      "nextDate": "2026-10-18",
-      "dates": [
-        "2026-10-18"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-boys-xc-team-meal-f1f68a",
-      "name": "Boys XC Team Meal",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Boys XC Team Meal at Dixon Athletic Center in Newtown Square.",
-      "address": "Dixon Athletic Center, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-18",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8bf306d9-b494-4e94-913c-046924f0c492.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Oct 18",
-      "nextDate": "2026-10-18",
-      "dates": [
-        "2026-10-18"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-clifton-heights-chef-ken-s-eagles-watch-party-fi-24599f",
-      "name": "Chef Ken's Eagles Watch Party Fish Fry",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink",
-        "games",
-        "sports"
-      ],
-      "shortDescription": "Eagles Game .. Pool Tournament Fish Fry",
-      "address": "Rose Bar, Clifton Heights, PA",
-      "town": "Clifton Heights",
-      "lat": 39.929822,
-      "lng": -75.295409,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-18",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/chef-kens-eagles-watch-party-fish-fry-tickets-2002831294316",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8dpGTg7HNEWkTaQFGzrDjQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Oct 18",
-      "nextDate": "2026-10-18",
-      "dates": [
-        "2026-10-18"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-havertown-historic-grange-estate-spooky-tours-3e5c9f",
-      "name": "Historic Grange Estate Spooky Tours",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "festival",
-        "halloween",
-        "holiday"
-      ],
-      "shortDescription": "Enjoy spooky tours at the Historic Grange Estate in Havertown. A 17th century mansion meticulously decorated for Halloween. Plus 9 acres of grounds to explore!",
-      "address": "Grange Estate, Havertown, PA",
-      "town": "Havertown",
-      "lat": 39.976832,
-      "lng": -75.284808,
-      "priceTier": 1,
-      "tags": [
-        "group",
-        "historic",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-10-18",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/thegrangeestate.net/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2HNFbWBIG0m-t0nuIun2vA.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Oct 18",
-      "nextDate": "2026-10-18",
-      "dates": [
-        "2026-10-18"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-glen-mills-pony-rides-fall-festival-61f8ee",
-      "name": "PONY RIDES & FALL FESTIVAL",
-      "category": "events",
-      "subcategories": [
-        "animals",
-        "destinations",
-        "farms",
-        "festival"
-      ],
-      "shortDescription": "Celebrate the season with a day of family fun featuring pony rides, hayrides, and a hobby horse course.",
-      "address": "Shadow Creek Farm, Glen Mills, PA",
-      "town": "Glen Mills",
-      "lat": 39.919505,
-      "lng": -75.491352,
-      "priceTier": 2,
-      "tags": [
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-10-18",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "484-301-0560",
-      "website": "https://shadowcreekfarm.com/fall-fest",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/xJna36H8oEeFc85jfEFqVA.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Oct 18",
-      "nextDate": "2026-10-18",
-      "dates": [
-        "2026-10-18"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-philadelphia-water-color-society-cd4d22",
-      "name": "Philadelphia Water Color Society",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "museums-exhibits",
-        "visual-arts"
-      ],
-      "shortDescription": "Wayne Art Center welcomes the Philadelphia Water Color Society's 126th International Exhibition of Works on Paper to the Davenport, Vidinghoff and Ethel Sergeant Clark...",
-      "address": "Wayne Art Center, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.03894,
-      "lng": -75.394446,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "historic"
-      ],
-      "hours": {},
-      "startDate": "2026-10-18",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://wayneart.org/events/2152/philadelphia-water-color-society-126th-international-exhibition-of-works-on-paper-reception-awards",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/jasOikyqok-V4CAtXpN6OQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Oct 18",
-      "nextDate": "2026-10-18",
-      "dates": [
-        "2026-10-18"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-glen-mills-pony-rides-and-fall-festival-4fd868",
-      "name": "Pony Rides and Fall Festival",
-      "category": "events",
-      "subcategories": [
-        "animals",
-        "destinations",
-        "farms",
-        "festival"
-      ],
-      "shortDescription": "Celebrate the season with a day of family fun featuring pony rides, hayrides, and a hobby horse course.",
-      "address": "Shadow Creek Farm, Glen Mills, PA",
-      "town": "Glen Mills",
-      "lat": 39.919505,
-      "lng": -75.491352,
-      "priceTier": 2,
-      "tags": [
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-10-18",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "4843010560",
-      "website": "https://shadowcreekfarm.com/fall-fest",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/thEPvOtHLkObaJTc_LVZ3w.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Oct 18",
-      "nextDate": "2026-10-18",
-      "dates": [
-        "2026-10-18"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-the-power-of-composition-with-vlad-milan-d-0f2b7c",
-      "name": "The Power of Composition with Vlad Milan Duchev",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "The Power of Composition: Studies, Suggestion, and the Art of Saying More",
-      "address": "Wayne Art Center, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.03894,
-      "lng": -75.394446,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-18",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://wayneart.org/events/2118/the-power-of-composition-with-vlad-milan-duchev",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Tiq2BkT5X02CVZNAUbqd5g.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Oct 18",
-      "nextDate": "2026-10-18",
-      "dates": [
-        "2026-10-18"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-wicked-elizabeth-wilson-460fac",
-      "name": "Wicked Elizabeth Wilson",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Experience the haunting tale of a local crime and tragic loss.",
-      "address": "Colonial Pennsylvania Farmstead, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.968636,
-      "lng": -75.453585,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-18",
-      "endDate": "2026-10-24",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/wicked-elizabeth-wilson-tickets-1999267200014",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RacHoAXvG0uJ3_SubAHFag.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Oct 18 - Oct 24",
-      "nextDate": "2026-10-18",
-      "dates": [
-        "2026-10-18",
-        "2026-10-19",
-        "2026-10-20",
-        "2026-10-21",
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-24"
-      ],
-      "occurrences": 7
+      "occurrences": 13
     },
     {
       "id": "ev-newtown-square-cross-country-girls-inter-ac-cham-0883c1",
@@ -1210,6 +855,45 @@
         "2026-10-19"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-wicked-elizabeth-wilson-460fac",
+      "name": "Wicked Elizabeth Wilson",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Experience the haunting tale of a local crime and tragic loss.",
+      "address": "Colonial Pennsylvania Farmstead, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.968636,
+      "lng": -75.453585,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-19",
+      "endDate": "2026-10-24",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/wicked-elizabeth-wilson-tickets-1999267200014",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RacHoAXvG0uJ3_SubAHFag.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Oct 19 - Oct 24",
+      "nextDate": "2026-10-19",
+      "dates": [
+        "2026-10-19",
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24"
+      ],
+      "occurrences": 6
     },
     {
       "id": "ev-newtown-square-field-hockey-jv-v-penn-charter-cffedc",
@@ -7100,6 +6784,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-radnor-main-line-music-appreciation-society-pres-792563",
+      "name": "Main Line Music Appreciation Society Presents: '70s Singer-Songwriters",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "MLMAS’s eighth session is entitled “Not Folksingers: ‘70s Singer-Songwriters.” In the early 1970s, a new generation of singer-songwriters was emerging that were markedly...",
+      "address": "Bryn Mawr Film Institute, Radnor, PA",
+      "town": "Radnor",
+      "lat": 40.061416,
+      "lng": -75.356005,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-29",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "http://www.mlmas.org",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/BAgzPntl0Ua7N0rHG2m9GA.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Oct 29",
+      "nextDate": "2026-10-29",
+      "dates": [
+        "2026-10-29"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-regional-italian-cuisine-with-stony-run-wi-ded897",
       "name": "Regional Italian Cuisine with Stony Run Winery Wine Pairing with Chef Karen Bentz",
       "category": "events",
@@ -8172,6 +7894,43 @@
       "website": "https://www.eventbrite.com/e/2026-27-lansdowne-symphony-orchestra-season-subscription-tickets-2001699455957",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IwLXrpTzT0aUb0riJ-AuSQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Nov 1",
+      "nextDate": "2026-11-01",
+      "dates": [
+        "2026-11-01"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-claudia-gabel-paradise-book-launch-43a84d",
+      "name": "Claudia Gabel \"Paradise\" Book Launch",
+      "category": "events",
+      "subcategories": [
+        "author-event",
+        "literary-arts"
+      ],
+      "shortDescription": "Main Point welcomes neighbor Claudia Gabel",
+      "address": "Main Point Books, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04479,
+      "lng": -75.388152,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-01",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/claudia-gabel-paradise-book-launch-tickets-2002302242909",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/my3JSWWzTkO9k2m-KmKI2g.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -11728,6 +11487,42 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-fun-and-games-with-connections-editor-wyna-e5f322",
+      "name": "Fun and Games with Connections Editor Wyna Liu & Guest Joel Fagliano",
+      "category": "events",
+      "subcategories": [
+        "games"
+      ],
+      "shortDescription": "You love to play - can you beat the editors?",
+      "address": "Main Point Books, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04479,
+      "lng": -75.388152,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-15",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/fun-and-games-with-connections-editor-wyna-liu-guest-joel-fagliano-tickets-2002310953964",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ZDqSWRzZNU-HQNmDxpssQQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Nov 15",
+      "nextDate": "2026-11-15",
+      "dates": [
+        "2026-11-15"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wallingford-tri-state-jazz-society-concert-kris-0256b5",
       "name": "Tri State Jazz Society Concert - Kris Tokarski - Piano",
       "category": "events",
@@ -12934,6 +12729,43 @@
       "dates": [
         "2026-11-28"
       ]
+    },
+    {
+      "id": "ev-lansdowne-keke-wyatt-case-h-town-meli-sa-morgan-a64384",
+      "name": "Keke Wyatt, Case, H-Town & Meli'Sa Morgan Live at The Lansdowne Theater",
+      "category": "events",
+      "subcategories": [
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "Get ready for an unforgettable night with Keke Wyatt, Case, H-Town & Meli'Sa Morgan live at The Lansdowne!",
+      "address": "Lansdowne Theater, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.939419,
+      "lng": -75.272179,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-28",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/keke-wyatt-case-h-town-melisa-morgan-live-at-the-lansdowne-theater-tickets-2001939004453",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/atUoisxuykKSaORQvNfLag.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 28",
+      "nextDate": "2026-11-28",
+      "dates": [
+        "2026-11-28"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-newtown-square-us-squash-silver-tournament-cca163",
@@ -15662,6 +15494,41 @@
       "occurrences": 1
     },
     {
+      "id": "ev-bryn-mawr-sylvan-consort-the-expanding-consort-f5fb0c",
+      "name": "Sylvan Consort: The expanding consort",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Explore the expressive world of viol consort music as it grows from intimate solo to duo, and expands to a luxuriant 6 part texture in ever",
+      "address": "Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.00273,
+      "lng": -75.36424,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-24",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/sylvan-consort-the-expanding-consort-tickets-2000228851339",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/YiduKTtaSkmK-vrzFv-YQw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Jan 24",
+      "nextDate": "2027-01-24",
+      "dates": [
+        "2027-01-24"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-chester-widener-pride-women-s-basketball-vs-east-67ecca",
       "name": "Widener Pride: Women's Basketball vs Eastern",
       "category": "events",
@@ -17421,6 +17288,42 @@
       "occurrences": 1
     },
     {
+      "id": "ev-philadelphia-complete-facial-aesthetics-philadel-cdd204",
+      "name": "Complete Facial Aesthetics - Philadelphia, PA",
+      "category": "events",
+      "subcategories": [
+        "games"
+      ],
+      "shortDescription": "Get ready to level up your facial aesthetics game with hands-on tips and tricks you won’t want to miss!",
+      "address": "Delta Hotels Philadelphia Airport, Philadelphia, PA",
+      "town": "Philadelphia",
+      "lat": 39.873161,
+      "lng": -75.274877,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-04-09",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/complete-facial-aesthetics-philadelphia-pa-tickets-2002252331623",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/B0YfhrMAVUunyxfwpgN_2Q.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Apr 9",
+      "nextDate": "2027-04-09",
+      "dates": [
+        "2027-04-09"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-k-dino-hall-25e734",
       "name": "K-Dino Hall",
       "category": "events",
@@ -17566,6 +17469,43 @@
       "nextDate": "2027-04-15",
       "dates": [
         "2027-04-15"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-prek-thematic-gallery-1c45a5",
+      "name": "PreK Thematic Gallery",
+      "category": "events",
+      "subcategories": [
+        "visual-arts"
+      ],
+      "shortDescription": "PreK Thematic Gallery at a Delco venue in Newtown Square.",
+      "address": "Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-04-16",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/17b4970c-afbd-45de-8db4-3b11af0fe5c3.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Apr 16",
+      "nextDate": "2027-04-16",
+      "dates": [
+        "2027-04-16"
       ],
       "occurrences": 1
     },
