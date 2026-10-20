@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-10-19T16:32:38.577048+00:00",
+  "scraped_at": "2026-10-20T14:23:07.049271+00:00",
   "horizon_days": 180,
-  "event_count": 466,
+  "event_count": 451,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-10-19",
+      "startDate": "2026-10-20",
       "endDate": "2026-10-31",
       "recurring": "none",
       "venueId": "",
@@ -36,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Oct 19 - Oct 31",
-      "nextDate": "2026-10-19",
+      "schedule": "Daily, Oct 20 - Oct 31",
+      "nextDate": "2026-10-20",
       "dates": [
-        "2026-10-19",
         "2026-10-20",
         "2026-10-21",
         "2026-10-22",
@@ -53,847 +52,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 13
-    },
-    {
-      "id": "ev-newtown-square-cross-country-girls-inter-ac-cham-0883c1",
-      "name": "Cross Country - Girls Inter-Ac Champs",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Cross Country - Boys @ Inter-Ac Champs",
-      "address": "Belmont Plateau, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-19",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eab08c85-6507-46b6-89cb-9dc3711af22d.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Oct 19",
-      "nextDate": "2026-10-19",
-      "dates": [
-        "2026-10-19"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-havertown-delaware-county-camera-club-meeting-64c172",
-      "name": "Delaware County Camera Club Meeting",
-      "category": "events",
-      "subcategories": [
-        "visual-arts"
-      ],
-      "shortDescription": ". Founded in 1937, the club offers a space for local photographers to connect, learn, and showcase their work. Visit delcocameraclub.org for more information.",
-      "address": "Trinity Lutheran Church, Havertown, PA",
-      "town": "Havertown",
-      "lat": 39.972622,
-      "lng": -75.316142,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-19",
-      "endDate": "2027-04-12",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "http://www.delcocameraclub.org",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b15ba93f-e46c-4836-a2f4-7d636c24ab78.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mondays, Oct 19 - Apr 12",
-      "nextDate": "2026-10-19",
-      "dates": [
-        "2026-10-19",
-        "2026-10-26",
-        "2026-11-09",
-        "2026-11-16",
-        "2026-11-23",
-        "2026-11-30",
-        "2027-01-11",
-        "2027-01-18",
-        "2027-01-25",
-        "2027-02-01",
-        "2027-02-08",
-        "2027-02-15",
-        "2027-02-22",
-        "2027-03-01",
-        "2027-03-08",
-        "2027-03-15",
-        "2027-03-22",
-        "2027-03-29",
-        "2027-04-05",
-        "2027-04-12"
-      ],
-      "occurrences": 20
-    },
-    {
-      "id": "ev-newtown-square-field-hockey-ms-a-v-penn-charter-42d643",
-      "name": "Field Hockey - MS A v Penn Charter",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Field Hockey - MS A v Penn Charter",
-      "address": "Buggy Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-19",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ec02e2a0-a935-4331-916c-5ba19bffa75b.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Oct 19",
-      "nextDate": "2026-10-19",
-      "dates": [
-        "2026-10-19"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-field-hockey-ms-b-v-penn-charter-c1a922",
-      "name": "Field Hockey - MS B v Penn Charter",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Field Hockey - MS B v Penn Charter",
-      "address": "Buggy Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-19",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b04bdf65-d71d-4a5a-a43a-cf4f24a1e822.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Oct 19",
-      "nextDate": "2026-10-19",
-      "dates": [
-        "2026-10-19"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-football-jv-sch-a10440",
-      "name": "Football - JV @ SCH",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Football - JV @ SCH at Springside Chestnut Hill Academy in Newtown Square.",
-      "address": "Springside Chestnut Hill Academy, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-19",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eb79c50c-f2f9-4f15-ad39-fc8ba4d56022.medium.PNG",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Oct 19",
-      "nextDate": "2026-10-19",
-      "dates": [
-        "2026-10-19"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-golf-jv-boys-v-haverford-high-mer-71cec1",
-      "name": "Golf - JV Boys v Haverford High @ Merion West",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Golf - JV Boys v Haverford High @ Merion West",
-      "address": "Merion West Country Club, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-19",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9888b715-2dfc-4e70-9fb3-20dacccf6116.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Oct 19",
-      "nextDate": "2026-10-19",
-      "dates": [
-        "2026-10-19"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-glenolden-monday-trivia-night-at-the-fainting-go-c68d01",
-      "name": "Monday Trivia Night at The Fainting Goat (Glenolden - Delaware County",
-      "category": "events",
-      "subcategories": [
-        "animals",
-        "destinations",
-        "farms",
-        "games"
-      ],
-      "shortDescription": "Monday Night Trivia Starts at 7pm at the Fainting Goat in Glenolden, PA. $50 gift card for 1st Place team and $25 for 2nd Place.",
-      "address": "The Fainting Goat Bar and Restaurant, Glenolden, PA",
-      "town": "Glenolden",
-      "lat": 39.903658,
-      "lng": -75.29411,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-19",
-      "endDate": "2026-12-28",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/monday-trivia-night-at-the-fainting-goat-glenolden-delaware-county-pa-tickets-1106985927709",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QD52Na3--EGn6QKh_-aT8g.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mondays, Oct 19 - Dec 28",
-      "nextDate": "2026-10-19",
-      "dates": [
-        "2026-10-19",
-        "2026-10-26",
-        "2026-11-02",
-        "2026-11-09",
-        "2026-11-16",
-        "2026-11-23",
-        "2026-11-30",
-        "2026-12-07",
-        "2026-12-14",
-        "2026-12-21",
-        "2026-12-28"
-      ],
-      "occurrences": 11
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-classes-for-students-with-dis-c07526",
-      "name": "One Time Classes For Students With Disabilities",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "visual-arts"
-      ],
-      "shortDescription": "This class for students with disabilities will be flexible depending on the students' desires, sensory preferences, and interest levels.",
-      "address": "Blue Skies Pottery - Bryn Mawr, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-19",
-      "endDate": "2026-10-26",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/160858/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-VwZEnar5E-ydsD0QboQng.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mondays, Oct 19 - Oct 26",
-      "nextDate": "2026-10-19",
-      "dates": [
-        "2026-10-19",
-        "2026-10-26"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-aston-pumpkin-succulent-planter-workshop-at-2sp-ab4c31",
-      "name": "Pumpkin Succulent Planter Workshop at 2SP Brewing Company",
-      "category": "events",
-      "subcategories": [
-        "drinks",
-        "food-drink",
-        "learning",
-        "workshop"
-      ],
-      "shortDescription": "Grow your creativity and bury your stress with this pumpkin succulent planter workshop!",
-      "address": "2SP Brewing Company, Aston, PA",
-      "town": "Aston",
-      "lat": 39.856095,
-      "lng": -75.403905,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-19",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/pumpkin-succulent-planter-workshop-at-2sp-brewing-company-tickets-1990205517277",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/geAmdidwFEiXNS_cfSKu-A.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Oct 19",
-      "nextDate": "2026-10-19",
-      "dates": [
-        "2026-10-19"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-3rds-boys-v-haverford-6c3476",
-      "name": "Soccer - 3rds Boys v Haverford",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - 3rds Boys v Haverford at Field C in Newtown Square.",
-      "address": "Field C, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-19",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4bb46c0c-ec2a-4799-b30b-fd9cf072ae19.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Oct 19",
-      "nextDate": "2026-10-19",
-      "dates": [
-        "2026-10-19"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-boys-ms-a-v-haverford-4c6d64",
-      "name": "Soccer - Boys MS A v Haverford",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - Boys MS A v Haverford",
-      "address": "Stone Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-19",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f5a7f77d-0c51-4a57-a1ba-4bad118eb6f1.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Oct 19",
-      "nextDate": "2026-10-19",
-      "dates": [
-        "2026-10-19"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-boys-ms-b-v-haverford-56a483",
-      "name": "Soccer - Boys MS B v Haverford",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - Boys MS B v Haverford",
-      "address": "Stone Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-19",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/469bd39d-8063-41c7-8f6c-2f23de9f535d.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Oct 19",
-      "nextDate": "2026-10-19",
-      "dates": [
-        "2026-10-19"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-girls-ms-a-v-penn-charter-37aba6",
-      "name": "Soccer - Girls MS A v Penn Charter",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - Girls MS A v Penn Charter",
-      "address": "Field H, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-19",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4b8401df-8242-4a6e-a069-2ec28d0848c9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Oct 19",
-      "nextDate": "2026-10-19",
-      "dates": [
-        "2026-10-19"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-girls-ms-b-v-penn-charter-1bd0e1",
-      "name": "Soccer - Girls MS B v Penn Charter",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - Girls MS B v Penn Charter",
-      "address": "Field H, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-19",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b4f13205-36d4-456b-a2cd-4c796b529819.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Oct 19",
-      "nextDate": "2026-10-19",
-      "dates": [
-        "2026-10-19"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-ms-c-boys-haverford-f88dd9",
-      "name": "Soccer - MS C Boys @ Haverford",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - MS C Boys @ Haverford",
-      "address": "The Haverford School, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-19",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/890273d5-60d0-444d-b73a-b8cd330e83a8.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Oct 19",
-      "nextDate": "2026-10-19",
-      "dates": [
-        "2026-10-19"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-tennis-girls-ms-a-v-penn-charter-bffc95",
-      "name": "Tennis - Girls MS A v Penn Charter",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Tennis - Girls MS A v Penn Charter",
-      "address": "Tennis Courts, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-19",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ffb39739-ffd2-4683-a282-b3eb46da0a6d.medium.PNG",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Oct 19",
-      "nextDate": "2026-10-19",
-      "dates": [
-        "2026-10-19"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-tennis-middle-school-a-5aaffe",
-      "name": "Tennis - Middle School A",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "special-audience",
-        "sports"
-      ],
-      "shortDescription": "Tennis - Middle School A at The Agnes Irwin School in Bryn Mawr.",
-      "address": "The Agnes Irwin School, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.028689,
-      "lng": -75.350103,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-19",
-      "endDate": "2026-10-26",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-801-1869",
-      "website": "https://www.baldwinschool.org/page/team-page?Team=303002&fromId=249696",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a8fe3b31-5555-4a70-820b-bb59e79bce97.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Wed, Oct 19 - Oct 26",
-      "nextDate": "2026-10-19",
-      "dates": [
-        "2026-10-19",
-        "2026-10-21",
-        "2026-10-26"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-newtown-square-uk-college-consortium-fair-e37c81",
-      "name": "UK College Consortium Fair",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "festival",
-        "street-fair"
-      ],
-      "shortDescription": "UK College Consortium Fair",
-      "address": "Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-10-19",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a20cae2d-ded8-45df-bbbb-518f39cf4b26.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Oct 19",
-      "nextDate": "2026-10-19",
-      "dates": [
-        "2026-10-19"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-volleyball-varsity-o-hara-7a2657",
-      "name": "Volleyball - Varsity @ O'Hara",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Volleyball - Varsity @ O'Hara",
-      "address": "Cardinal O'Hara High School, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-19",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c0a9941a-c1ec-4e56-aed9-a08e58729f67.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Oct 19",
-      "nextDate": "2026-10-19",
-      "dates": [
-        "2026-10-19"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-volleyball-ms-a-notre-dame-2771f8",
-      "name": "Volleyball MS A @ Notre Dame",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Volleyball MS A @ Notre Dame",
-      "address": "Academy of Notre Dame de Namur, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-19",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dee4e760-757d-432f-bfdd-cc2dc29297b9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Oct 19",
-      "nextDate": "2026-10-19",
-      "dates": [
-        "2026-10-19"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-wicked-elizabeth-wilson-460fac",
-      "name": "Wicked Elizabeth Wilson",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Experience the haunting tale of a local crime and tragic loss.",
-      "address": "Colonial Pennsylvania Farmstead, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.968636,
-      "lng": -75.453585,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-19",
-      "endDate": "2026-10-24",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/wicked-elizabeth-wilson-tickets-1999267200014",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RacHoAXvG0uJ3_SubAHFag.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Oct 19 - Oct 24",
-      "nextDate": "2026-10-19",
-      "dates": [
-        "2026-10-19",
-        "2026-10-20",
-        "2026-10-21",
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-24"
-      ],
-      "occurrences": 6
+      "occurrences": 12
     },
     {
       "id": "ev-newtown-square-field-hockey-jv-v-penn-charter-cffedc",
@@ -1751,6 +910,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-newtown-square-wicked-elizabeth-wilson-460fac",
+      "name": "Wicked Elizabeth Wilson",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Experience the haunting tale of a local crime and tragic loss.",
+      "address": "Colonial Pennsylvania Farmstead, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.968636,
+      "lng": -75.453585,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-20",
+      "endDate": "2026-10-24",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/wicked-elizabeth-wilson-tickets-1999267200014",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RacHoAXvG0uJ3_SubAHFag.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Oct 20 - Oct 24",
+      "nextDate": "2026-10-20",
+      "dates": [
+        "2026-10-20",
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24"
+      ],
+      "occurrences": 5
+    },
+    {
       "id": "ev-media-men-s-soccer-wilson-vs-penn-st-brandywine-2ba5dd",
       "name": "(Men's Soccer) Wilson vs. Penn St. Brandywine",
       "category": "events",
@@ -2102,6 +1299,48 @@
         "2026-10-21"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-bryn-mawr-tennis-middle-school-a-5aaffe",
+      "name": "Tennis - Middle School A",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "special-audience",
+        "sports"
+      ],
+      "shortDescription": "Tennis - Middle School A at The Agnes Irwin School in Bryn Mawr.",
+      "address": "The Agnes Irwin School, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.028689,
+      "lng": -75.350103,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-21",
+      "endDate": "2026-10-26",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-801-1869",
+      "website": "https://www.baldwinschool.org/page/team-page?Team=303002&fromId=249696",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a8fe3b31-5555-4a70-820b-bb59e79bce97.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mon, Wed, Oct 21 - Oct 26",
+      "nextDate": "2026-10-21",
+      "dates": [
+        "2026-10-21",
+        "2026-10-26"
+      ],
+      "occurrences": 2
     },
     {
       "id": "ev-wayne-the-young-fresh-fellows-at-118-north-28a2c1",
@@ -5365,6 +4604,61 @@
       "occurrences": 1
     },
     {
+      "id": "ev-havertown-delaware-county-camera-club-meeting-64c172",
+      "name": "Delaware County Camera Club Meeting",
+      "category": "events",
+      "subcategories": [
+        "visual-arts"
+      ],
+      "shortDescription": ". Founded in 1937, the club offers a space for local photographers to connect, learn, and showcase their work. Visit delcocameraclub.org for more information.",
+      "address": "Trinity Lutheran Church, Havertown, PA",
+      "town": "Havertown",
+      "lat": 39.972622,
+      "lng": -75.316142,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-26",
+      "endDate": "2027-04-12",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "http://www.delcocameraclub.org",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b15ba93f-e46c-4836-a2f4-7d636c24ab78.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mondays, Oct 26 - Apr 12",
+      "nextDate": "2026-10-26",
+      "dates": [
+        "2026-10-26",
+        "2026-11-09",
+        "2026-11-16",
+        "2026-11-23",
+        "2026-11-30",
+        "2027-01-11",
+        "2027-01-18",
+        "2027-01-25",
+        "2027-02-01",
+        "2027-02-08",
+        "2027-02-15",
+        "2027-02-22",
+        "2027-03-01",
+        "2027-03-08",
+        "2027-03-15",
+        "2027-03-22",
+        "2027-03-29",
+        "2027-04-05",
+        "2027-04-12"
+      ],
+      "occurrences": 19
+    },
+    {
       "id": "ev-newtown-square-field-hockey-ms-a-sch-6e30f1",
       "name": "Field Hockey - MS A @ SCH",
       "category": "events",
@@ -5467,6 +4761,93 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9888b715-2dfc-4e70-9fb3-20dacccf6116.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mon, Oct 26",
+      "nextDate": "2026-10-26",
+      "dates": [
+        "2026-10-26"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-glenolden-monday-trivia-night-at-the-fainting-go-c68d01",
+      "name": "Monday Trivia Night at The Fainting Goat (Glenolden - Delaware County",
+      "category": "events",
+      "subcategories": [
+        "animals",
+        "destinations",
+        "farms",
+        "games"
+      ],
+      "shortDescription": "Monday Night Trivia Starts at 7pm at the Fainting Goat in Glenolden, PA. $50 gift card for 1st Place team and $25 for 2nd Place.",
+      "address": "The Fainting Goat Bar and Restaurant, Glenolden, PA",
+      "town": "Glenolden",
+      "lat": 39.903658,
+      "lng": -75.29411,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-26",
+      "endDate": "2026-12-28",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/monday-trivia-night-at-the-fainting-goat-glenolden-delaware-county-pa-tickets-1106985927709",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QD52Na3--EGn6QKh_-aT8g.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mondays, Oct 26 - Dec 28",
+      "nextDate": "2026-10-26",
+      "dates": [
+        "2026-10-26",
+        "2026-11-02",
+        "2026-11-09",
+        "2026-11-16",
+        "2026-11-23",
+        "2026-11-30",
+        "2026-12-07",
+        "2026-12-14",
+        "2026-12-21",
+        "2026-12-28"
+      ],
+      "occurrences": 10
+    },
+    {
+      "id": "ev-bryn-mawr-one-time-classes-for-students-with-dis-c07526",
+      "name": "One Time Classes For Students With Disabilities",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "visual-arts"
+      ],
+      "shortDescription": "This class for students with disabilities will be flexible depending on the students' desires, sensory preferences, and interest levels.",
+      "address": "Blue Skies Pottery - Bryn Mawr, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-26",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/160858/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-VwZEnar5E-ydsD0QboQng.medium.jpg",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -17506,6 +16887,44 @@
       "nextDate": "2027-04-16",
       "dates": [
         "2027-04-16"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-lansdowne-steve-hackett-6f0c99",
+      "name": "Steve Hackett",
+      "category": "events",
+      "subcategories": [
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Steve Hackett Best of Genesis & Solo Gems Saturday, April 17, 2027 8:00pm / Doors at 7:00pm Lansdowne Theater 31 N.",
+      "address": "Lansdowne Theater, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.939419,
+      "lng": -75.272179,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-04-17",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.etix.com/ticket/p/77629372/steve-hackett-lansdowne-lansdowne-theater",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bD2zCNIBikSjMbV47ouZYw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Apr 17",
+      "nextDate": "2027-04-17",
+      "dates": [
+        "2027-04-17"
       ],
       "occurrences": 1
     },
