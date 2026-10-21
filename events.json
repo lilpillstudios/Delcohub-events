@@ -1,952 +1,9 @@
 {
   "version": 1,
-  "scraped_at": "2026-10-20T14:23:07.049271+00:00",
+  "scraped_at": "2026-10-21T14:32:55.927736+00:00",
   "horizon_days": 180,
-  "event_count": 451,
+  "event_count": 478,
   "listings": [
-    {
-      "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
-      "name": "2026 Gene Capaldi Lens on Litter Photo Contest",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "holiday",
-        "visual-arts"
-      ],
-      "shortDescription": "An annual litter photo contest; not intended to glorify litter but to bring attention to the litter problem in communities in Pennsylvania.",
-      "address": "Rose Tree Park, Hunt Club, 1521 North Providence Road, Media, PA",
-      "town": "Media",
-      "lat": 39.91678,
-      "lng": -75.38769,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-20",
-      "endDate": "2026-10-31",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://prc.org/what-we-do/lens-on-litter-contest/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/EFSYwNi2eEyfCncurQHucg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Oct 20 - Oct 31",
-      "nextDate": "2026-10-20",
-      "dates": [
-        "2026-10-20",
-        "2026-10-21",
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-24",
-        "2026-10-25",
-        "2026-10-26",
-        "2026-10-27",
-        "2026-10-28",
-        "2026-10-29",
-        "2026-10-30",
-        "2026-10-31"
-      ],
-      "occurrences": 12
-    },
-    {
-      "id": "ev-newtown-square-field-hockey-jv-v-penn-charter-cffedc",
-      "name": "Field Hockey - JV v Penn Charter",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Field Hockey - JV v Penn Charter at Buggy Field (Field F) in Newtown Square.",
-      "address": "Buggy Field (Field F), Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b04bdf65-d71d-4a5a-a43a-cf4f24a1e822.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Oct 20",
-      "nextDate": "2026-10-20",
-      "dates": [
-        "2026-10-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-field-hockey-ms-a-gma-elementary-1fe8d4",
-      "name": "Field Hockey - MS A @ GMA Elementary",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Field Hockey - MS A @ GMA Elementary",
-      "address": "Gwynedd Mercy Academy Elementary, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b04bdf65-d71d-4a5a-a43a-cf4f24a1e822.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Oct 20",
-      "nextDate": "2026-10-20",
-      "dates": [
-        "2026-10-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-field-hockey-varsity-v-penn-chart-cfc044",
-      "name": "Field Hockey - Varsity v Penn Charter",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Field Hockey - Varsity v Penn Charter",
-      "address": "Buggy Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ec02e2a0-a935-4331-916c-5ba19bffa75b.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Oct 20",
-      "nextDate": "2026-10-20",
-      "dates": [
-        "2026-10-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-free-child-ids-with-new-york-life-4a4b72",
-      "name": "Free Child IDs with New York Life",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "family",
-        "kids",
-        "lifestyle"
-      ],
-      "shortDescription": "Children's Area - No registration All ages Family safety starts here!",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-10-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17666446",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b2e5adca-9e87-401b-9a68-d5a753bb528c.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Oct 20",
-      "nextDate": "2026-10-20",
-      "dates": [
-        "2026-10-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-horses-hooves-historical-homes-6d2af0",
-      "name": "Horses, Hooves, & Historical Homes",
-      "category": "events",
-      "subcategories": [
-        "animals",
-        "destinations"
-      ],
-      "shortDescription": "Horses, Hooves, & Historical Homes at Delaware County Historical Society in Media.",
-      "address": "Delaware County Historical Society, Media, PA",
-      "town": "Media",
-      "lat": 39.919238,
-      "lng": -75.389521,
-      "priceTier": 2,
-      "tags": [
-        "group",
-        "historic"
-      ],
-      "hours": {},
-      "startDate": "2026-10-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-750-0622",
-      "website": "https://www.delawareohiohistory.org/uncategorized/horses-hooves-and-historical-homes/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/EyRkzbkJhUmtlueNJtgcpA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Oct 20",
-      "nextDate": "2026-10-20",
-      "dates": [
-        "2026-10-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-liz-karcewski-little-doodles-for-big-feeli-44be71",
-      "name": "Liz Karcewski \"Little Doodles for Big Feelings\"",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Main Point welcomes viral artist Liz Karcewski",
-      "address": "Main Point Books, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.04479,
-      "lng": -75.388152,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/liz-karcewski-little-doodles-for-big-feelings-tickets-1998672944580",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/v4EM-d9Bu0qDdT44xbp0pw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Oct 20",
-      "nextDate": "2026-10-20",
-      "dates": [
-        "2026-10-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-newtown-post-cricut-workshop-fddc92",
-      "name": "Newtown Post: Cricut Workshop",
-      "category": "events",
-      "subcategories": [
-        "crafts",
-        "learning",
-        "workshop"
-      ],
-      "shortDescription": "Newtown Post: Cricut Workshop",
-      "address": "Newtown Post, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3a3e0206-457a-4787-be22-315ebddf7033.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Oct 20",
-      "nextDate": "2026-10-20",
-      "dates": [
-        "2026-10-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-oldies-in-the-park-a0e86f",
-      "name": "Oldies in the Park",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "destinations",
-        "music",
-        "outdoor-concert"
-      ],
-      "shortDescription": "Oldies in the Park at Ethel Waters Park in Chester.",
-      "address": "Ethel Waters Park, Chester, PA",
-      "town": "Chester",
-      "lat": 39.846465,
-      "lng": -75.358842,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-10-20",
-      "endDate": "2027-04-13",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.chestercity.com/event/oldies-in-the-park-2/2026-10-20/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/o6XxL0PM3kaE6hDXOaFfuw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Oct 20 - Apr 13",
-      "nextDate": "2026-10-20",
-      "dates": [
-        "2026-10-20",
-        "2026-10-27",
-        "2026-11-03",
-        "2026-11-10",
-        "2026-11-17",
-        "2026-11-24",
-        "2026-12-01",
-        "2026-12-08",
-        "2026-12-15",
-        "2026-12-22",
-        "2026-12-29",
-        "2027-01-05",
-        "2027-01-12",
-        "2027-01-19",
-        "2027-01-26",
-        "2027-02-02",
-        "2027-02-09",
-        "2027-02-16",
-        "2027-02-23",
-        "2027-03-02",
-        "2027-03-09",
-        "2027-03-16",
-        "2027-03-23",
-        "2027-03-30",
-        "2027-04-06",
-        "2027-04-13"
-      ],
-      "occurrences": 26
-    },
-    {
-      "id": "ev-bryn-mawr-parents-association-mahjong-open-play-f4fb55",
-      "name": "Parents' Association Mahjong Open Play",
-      "category": "events",
-      "subcategories": [
-        "games",
-        "lifestyle"
-      ],
-      "shortDescription": "Parents' Association Mahjong Open Play at a Delco venue in Bryn Mawr.",
-      "address": "Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.027634,
-      "lng": -75.356119,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-20",
-      "endDate": "2026-10-27",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.agnesirwin.org/quick-links/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7b06ea32-047e-4854-a846-b1eea534918e.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Oct 20 - Oct 27",
-      "nextDate": "2026-10-20",
-      "dates": [
-        "2026-10-20",
-        "2026-10-27"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-newtown-square-school-photo-make-up-retake-day-abb8cc",
-      "name": "School Photo Make-Up/Retake Day",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "visual-arts"
-      ],
-      "shortDescription": "School Photo Make-Up/Retake Day",
-      "address": "Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fbf7a0b4-1e3d-4ced-add0-217cbd8db36c.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Oct 20",
-      "nextDate": "2026-10-20",
-      "dates": [
-        "2026-10-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-senior-dine-around-3a364f",
-      "name": "Senior Dine Around",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink",
-        "special-audience"
-      ],
-      "shortDescription": "Senior Dine Around at Bittersweet Kitchen in Media.",
-      "address": "Bittersweet Kitchen, Media, PA",
-      "town": "Media",
-      "lat": 39.918851,
-      "lng": -75.393088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.mediaborough.com/calendar.aspx?EID=2998",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a633282f-461d-4c6f-936c-5c1d7edb4319.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Oct 20",
-      "nextDate": "2026-10-20",
-      "dates": [
-        "2026-10-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-jv-boys-v-ga-96e358",
-      "name": "Soccer - JV Boys v GA",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - JV Boys v GA at Stone Field in Newtown Square.",
-      "address": "Stone Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4b8401df-8242-4a6e-a069-2ec28d0848c9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Oct 20",
-      "nextDate": "2026-10-20",
-      "dates": [
-        "2026-10-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-varsity-boys-v-ga-774cfc",
-      "name": "Soccer - Varsity Boys v GA",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - Varsity Boys v GA",
-      "address": "Alumni Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/469bd39d-8063-41c7-8f6c-2f23de9f535d.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Oct 20",
-      "nextDate": "2026-10-20",
-      "dates": [
-        "2026-10-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-varsity-girls-v-penn-chart-9819fa",
-      "name": "Soccer - Varsity Girls v Penn Charter",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - Varsity Girls v Penn Charter",
-      "address": "Class of '76 Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/890273d5-60d0-444d-b73a-b8cd330e83a8.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Oct 20",
-      "nextDate": "2026-10-20",
-      "dates": [
-        "2026-10-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-tennis-varsity-girls-v-sch-24649f",
-      "name": "Tennis - Varsity Girls v SCH",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Tennis - Varsity Girls v SCH",
-      "address": "Tennis Courts, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ffb39739-ffd2-4683-a282-b3eb46da0a6d.medium.PNG",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Oct 20",
-      "nextDate": "2026-10-20",
-      "dates": [
-        "2026-10-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-holmes-tuesday-karaoke-at-haggertys-in-holmes-pa-3b255e",
-      "name": "Tuesday Karaoke at Haggertys in Holmes, PA (Delaware County",
-      "category": "events",
-      "subcategories": [
-        "open-mic",
-        "performing-arts"
-      ],
-      "shortDescription": "Karaoke is Every Tuesday at Haggertys in Homes, PA (Delaware County, PA) Karaoke starts at 8pm.",
-      "address": "Haggerty's Cafe, Holmes, PA",
-      "town": "Holmes",
-      "lat": 39.899696,
-      "lng": -75.305652,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-20",
-      "endDate": "2027-03-30",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/tuesday-karaoke-at-haggertys-in-holmes-pa-delaware-county-pa-tickets-1225315845679",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/g_89wQtSp0Sz9smp4PcgxA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Oct 20 - Mar 30",
-      "nextDate": "2026-10-20",
-      "dates": [
-        "2026-10-20",
-        "2026-10-27",
-        "2026-11-03",
-        "2026-11-10",
-        "2026-11-17",
-        "2026-11-24",
-        "2026-12-01",
-        "2026-12-08",
-        "2026-12-15",
-        "2026-12-22",
-        "2026-12-29",
-        "2027-01-05",
-        "2027-01-12",
-        "2027-01-19",
-        "2027-01-26",
-        "2027-02-02",
-        "2027-02-09",
-        "2027-02-16",
-        "2027-02-23",
-        "2027-03-02",
-        "2027-03-09",
-        "2027-03-16",
-        "2027-03-23",
-        "2027-03-30"
-      ],
-      "occurrences": 24
-    },
-    {
-      "id": "ev-newtown-square-volleyball-jv-v-ga-27bbdf",
-      "name": "Volleyball - JV v GA",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Volleyball - JV v GA at O'Neill Gym in Newtown Square.",
-      "address": "O'Neill Gym, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7df57544-f36c-4258-bdb8-55ca1ace2cf6.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Oct 20",
-      "nextDate": "2026-10-20",
-      "dates": [
-        "2026-10-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-volleyball-varsity-v-ga-21214d",
-      "name": "Volleyball - Varsity v GA",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Volleyball - Varsity v GA",
-      "address": "O'Neill Gym, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dee4e760-757d-432f-bfdd-cc2dc29297b9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Oct 20",
-      "nextDate": "2026-10-20",
-      "dates": [
-        "2026-10-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-volunteer-with-the-delaware-county-histori-9e8a41",
-      "name": "Volunteer with the Delaware County Historical Society",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "volunteering"
-      ],
-      "shortDescription": "Volunteer with the Delaware County Historical Society at Delaware County Historical Society in Media.",
-      "address": "Delaware County Historical Society, Media, PA",
-      "town": "Media",
-      "lat": 39.919238,
-      "lng": -75.389521,
-      "priceTier": 3,
-      "tags": [
-        "group",
-        "historic"
-      ],
-      "hours": {},
-      "startDate": "2026-10-20",
-      "endDate": "2026-10-21",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-750-0622",
-      "website": "https://www.DelawareOhioHistory.org/volunteer/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/uefNlpndaU2UdGn8bgEUuA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Oct 20 - Oct 21",
-      "nextDate": "2026-10-20",
-      "dates": [
-        "2026-10-20",
-        "2026-10-21"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-newtown-square-water-polo-jv-boys-ga-72ff82",
-      "name": "Water Polo - JV Boys @ GA",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Water Polo - JV Boys @ GA",
-      "address": "Germantown Academy, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5654b9b5-1ff3-43be-b479-f97bf3acc72a.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Oct 20",
-      "nextDate": "2026-10-20",
-      "dates": [
-        "2026-10-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-water-polo-varsity-girls-ga-1e7680",
-      "name": "Water Polo - Varsity Girls @ GA",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Water Polo - Varsity Boys @ GA",
-      "address": "Germantown Academy, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f9de544e-a936-4ae7-96c0-fc7f0d2460e7.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Oct 20",
-      "nextDate": "2026-10-20",
-      "dates": [
-        "2026-10-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-wicked-elizabeth-wilson-460fac",
-      "name": "Wicked Elizabeth Wilson",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Experience the haunting tale of a local crime and tragic loss.",
-      "address": "Colonial Pennsylvania Farmstead, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.968636,
-      "lng": -75.453585,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-20",
-      "endDate": "2026-10-24",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/wicked-elizabeth-wilson-tickets-1999267200014",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RacHoAXvG0uJ3_SubAHFag.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Oct 20 - Oct 24",
-      "nextDate": "2026-10-20",
-      "dates": [
-        "2026-10-20",
-        "2026-10-21",
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-24"
-      ],
-      "occurrences": 5
-    },
     {
       "id": "ev-media-men-s-soccer-wilson-vs-penn-st-brandywine-2ba5dd",
       "name": "(Men's Soccer) Wilson vs. Penn St. Brandywine",
@@ -984,6 +41,55 @@
         "2026-10-21"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
+      "name": "2026 Gene Capaldi Lens on Litter Photo Contest",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "holiday",
+        "visual-arts"
+      ],
+      "shortDescription": "An annual litter photo contest; not intended to glorify litter but to bring attention to the litter problem in communities in Pennsylvania.",
+      "address": "Rose Tree Park, Hunt Club, 1521 North Providence Road, Media, PA",
+      "town": "Media",
+      "lat": 39.91678,
+      "lng": -75.38769,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-21",
+      "endDate": "2026-10-31",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://prc.org/what-we-do/lens-on-litter-contest/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/EFSYwNi2eEyfCncurQHucg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Oct 21 - Oct 31",
+      "nextDate": "2026-10-21",
+      "dates": [
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31"
+      ],
+      "occurrences": 11
     },
     {
       "id": "ev-bryn-mawr-7-week-adult-wheel-course-05bbee",
@@ -1091,6 +197,46 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ec02e2a0-a935-4331-916c-5ba19bffa75b.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Oct 21",
+      "nextDate": "2026-10-21",
+      "dates": [
+        "2026-10-21"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-ardmore-jen-howard-fde25f",
+      "name": "Jen Howard",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Jen Howard is an American singer/songwriter and multi-instrumentalist, born in Prestonsburg, Kentucky.",
+      "address": "Rusty Nail Tavern / Nightclub, Ardmore, PA",
+      "town": "Ardmore",
+      "lat": 39.995645,
+      "lng": -75.301301,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-21",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108621905?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ZBcNh2aAo0Wk5DuCStoHig.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -1301,6 +447,45 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-tech-fun-with-the-meta-quest-vr-headset-3c07f7",
+      "name": "Tech Fun with the Meta Quest VR Headset",
+      "category": "events",
+      "subcategories": [
+        "games",
+        "special-audience"
+      ],
+      "shortDescription": "Drop in to try out the Quest virtual reality headset- play a game, create art, or travel to a virtual world! First come, first served. For grades 6-12. Teen Room",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-21",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17729291",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/28499b9f-804b-40d6-928a-c0eba0b74f69.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Oct 21",
+      "nextDate": "2026-10-21",
+      "dates": [
+        "2026-10-21"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-bryn-mawr-tennis-middle-school-a-5aaffe",
       "name": "Tennis - Middle School A",
       "category": "events",
@@ -1341,6 +526,86 @@
         "2026-10-26"
       ],
       "occurrences": 2
+    },
+    {
+      "id": "ev-swarthmore-the-burroughs-14f9a6",
+      "name": "The Burroughs",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "The Burroughs boldly claim space as leaders of radical communion on dance floors with their latest album.",
+      "address": "WaR3House 3, Swarthmore, PA",
+      "town": "Swarthmore",
+      "lat": 39.901337,
+      "lng": -75.349723,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-21",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108985029?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8ZPAt_Gb4kuuF5VvBHzuWw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Oct 21",
+      "nextDate": "2026-10-21",
+      "dates": [
+        "2026-10-21"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-the-no-good-crowd-the-young-fresh-fellows-245520",
+      "name": "The No Good Crowd & The Young Fresh Fellows",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "The No Good Crowd & The Young Fresh Fellows at 118 NORTH in Wayne.",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-21",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/1039676451?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Xybq6f3aV0mIVY6nCrwNZw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Oct 21",
+      "nextDate": "2026-10-21",
+      "dates": [
+        "2026-10-21"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-wayne-the-young-fresh-fellows-at-118-north-28a2c1",
@@ -1419,6 +684,81 @@
       "occurrences": 1
     },
     {
+      "id": "ev-media-volunteer-with-the-delaware-county-histori-9e8a41",
+      "name": "Volunteer with the Delaware County Historical Society",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "volunteering"
+      ],
+      "shortDescription": "Volunteer with the Delaware County Historical Society at Delaware County Historical Society in Media.",
+      "address": "Delaware County Historical Society, Media, PA",
+      "town": "Media",
+      "lat": 39.919238,
+      "lng": -75.389521,
+      "priceTier": 3,
+      "tags": [
+        "group",
+        "historic"
+      ],
+      "hours": {},
+      "startDate": "2026-10-21",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-750-0622",
+      "website": "https://www.DelawareOhioHistory.org/volunteer/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/uefNlpndaU2UdGn8bgEUuA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Oct 21",
+      "nextDate": "2026-10-21",
+      "dates": [
+        "2026-10-21"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-wicked-elizabeth-wilson-460fac",
+      "name": "Wicked Elizabeth Wilson",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Experience the haunting tale of a local crime and tragic loss.",
+      "address": "Colonial Pennsylvania Farmstead, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.968636,
+      "lng": -75.453585,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-21",
+      "endDate": "2026-10-24",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/wicked-elizabeth-wilson-tickets-1999267200014",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RacHoAXvG0uJ3_SubAHFag.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Oct 21 - Oct 24",
+      "nextDate": "2026-10-21",
+      "dates": [
+        "2026-10-21",
+        "2026-10-22",
+        "2026-10-23",
+        "2026-10-24"
+      ],
+      "occurrences": 4
+    },
+    {
       "id": "ev-newtown-square-affording-ea-webinar-13bbee",
       "name": "Affording EA Webinar",
       "category": "events",
@@ -1487,6 +827,46 @@
       "website": "https://www.facebook.com/events/1401497861927180/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e06af2cc-69c5-4802-be64-c7e8310ad01c.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Oct 22",
+      "nextDate": "2026-10-22",
+      "dates": [
+        "2026-10-22"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-lansdowne-curtis-salgado-fad2b8",
+      "name": "Curtis Salgado",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Award-winning vocalist, instrumentalist and songwriter Curtis Salgado, the man NPR calls “an icon” with “a huge voice,” is revered worldwide for his ability to wring...",
+      "address": "Jamey's House of Music, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.937344,
+      "lng": -75.274493,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-22",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108971111?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Y2iqGfKrY0SG9feko4QI5A.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -1766,6 +1146,45 @@
       "website": "https://www.bandsintown.com/e/107194125?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/rO0jORd-Ekiz4rskRZHl7Q.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Oct 22",
+      "nextDate": "2026-10-22",
+      "dates": [
+        "2026-10-22"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-lansdowne-rupert-wates-at-lansdowne-folk-club-7429d0",
+      "name": "Rupert Wates at Lansdowne Folk Club",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Lansdowne Folk Club presents Rupert Wates, a haunting, melodic acoustic art-folk singer/songwriter, on Thursday, October 22, 2026.",
+      "address": "Lansdowne Folk Club, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.935639,
+      "lng": -75.271746,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-22",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://folkclub.org",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Vj_O3bDcKE6fvC0VvMKpXg.medium.jpg",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -2148,6 +1567,48 @@
       "occurrences": 1
     },
     {
+      "id": "ev-broomall-dara-lynn-98d563",
+      "name": "Dara Lynn",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Dara is a singer and guitarist based in Delco, PA.",
+      "address": "Page and Pour Tavern, Broomall, PA",
+      "town": "Broomall",
+      "lat": 39.982596,
+      "lng": -75.360142,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-23",
+      "endDate": "2026-11-20",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108989060?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/DAzISL-Wg02xoAP0CDQTPQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fridays, Oct 23 - Nov 20",
+      "nextDate": "2026-10-23",
+      "dates": [
+        "2026-10-23",
+        "2026-11-06",
+        "2026-11-20"
+      ],
+      "occurrences": 3
+    },
+    {
       "id": "ev-media-dead-band-93602b",
       "name": "Dead Band",
       "category": "events",
@@ -2490,6 +1951,46 @@
       "website": "https://delcolibraries.libcal.com/event/17666786",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/de8a8d2e-0aee-4a6e-b082-3194ae1b1c25.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Oct 23",
+      "nextDate": "2026-10-23",
+      "dates": [
+        "2026-10-23"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-ryan-zimmerman-music-af1e8a",
+      "name": "Ryan Zimmerman Music",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Ryan Zimmerman is an American Singer/Songwriter and musician from Long Beach Island, NJ best known for his high energy live performances combining elements of Roots...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-23",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108787273?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yqyeJAcy6Eq6n3pwld4ohQ.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -2970,6 +2471,86 @@
       "occurrences": 6
     },
     {
+      "id": "ev-ridley-park-benjamin-louis-de9b89",
+      "name": "benjamin louis",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "musical"
+      ],
+      "shortDescription": "730-1030pm benjamin louis has been driving near and far, singing in bars, and sleeping under stars for the past year.",
+      "address": "Rosemary, Ridley Park, PA",
+      "town": "Ridley Park",
+      "lat": 39.879562,
+      "lng": -75.322884,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-23",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108911391?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IA3nWdR_L02rcv-YmMHa2Q.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Oct 23",
+      "nextDate": "2026-10-23",
+      "dates": [
+        "2026-10-23"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-media-wakelee-11765e",
+      "name": "wakelee",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Join us for a small, intimate album release show with wakelee at Greatest Hits Records & Books celebrating their new album, Under Construction Forever.",
+      "address": "Greatest Hits, Media, PA",
+      "town": "Media",
+      "lat": 39.918178,
+      "lng": -75.389207,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-23",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108924565?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/FybGzutZMUWz0OxU62S2gg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Oct 23",
+      "nextDate": "2026-10-23",
+      "dates": [
+        "2026-10-23"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-media-men-s-soccer-penn-st-berks-vs-penn-st-bran-0cbe68",
       "name": "(Men's Soccer) Penn St.-Berks vs. Penn St. Brandywine",
       "category": "events",
@@ -3072,6 +2653,46 @@
       "website": "https://www.eventbrite.com/e/craft-chill-tickets-2003302402413",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/FIrgXQJp402dAZAfozPM9w.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 24",
+      "nextDate": "2026-10-24",
+      "dates": [
+        "2026-10-24"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-lansdowne-deb-callahan-band-319ecd",
+      "name": "Deb Callahan Band",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "food-drink",
+        "live-music",
+        "music"
+      ],
+      "shortDescription": "Philly's premiere blues venue with great Asian food and drinks!",
+      "address": "Jamey's House of Music, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.937344,
+      "lng": -75.274493,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-24",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/109004983?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SBDkUp7dQkS_ZNWTY0wngg.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -4215,6 +3836,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-swarthmore-brittany-haas-natalie-haas-d8c4ef",
+      "name": "Brittany Haas & Natalie Haas",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "www.brittanyhaas.com Fiddler with Hawktail, Natalie & Brittany Haas, etc.",
+      "address": "Park Avenue Community Center (PAC Center), Swarthmore, PA",
+      "town": "Swarthmore",
+      "lat": 39.901274,
+      "lng": -75.350011,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-25",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108463108?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7j3mP0Lrh0mm3aZUscY8Jg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Oct 25",
+      "nextDate": "2026-10-25",
+      "dates": [
+        "2026-10-25"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-fall-workshop-family-fun-day-with-multiple-814eb0",
       "name": "Fall Workshop Family Fun Day with Multiple Workshops!",
       "category": "events",
@@ -4450,6 +4111,46 @@
         "2026-12-31"
       ],
       "occurrences": 3
+    },
+    {
+      "id": "ev-lansdowne-slim-and-the-south-street-hustle-ca05e9",
+      "name": "Slim and the South Street Hustle",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "food",
+        "food-drink",
+        "live-music"
+      ],
+      "shortDescription": "Come out for the Sunday Blues Brunch and jam!",
+      "address": "Jamey's House of Music, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.937344,
+      "lng": -75.274493,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-25",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108953052?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Hlzic5Y8EUuc1jd8mMvLxA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Oct 25",
+      "nextDate": "2026-10-25",
+      "dates": [
+        "2026-10-25"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-villanova-villanova-university-field-hockey-at-w-f1472b",
@@ -4771,6 +4472,85 @@
         "2026-10-26"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-havertown-midnight-release-party-bd921d",
+      "name": "Midnight Release Party",
+      "category": "events",
+      "subcategories": [
+        "destinations"
+      ],
+      "shortDescription": "Join us for a midnight release party for Sarah J. Mass' highly anticipated new book, A Court of Splintered Harmony!!",
+      "address": "Moore Books, Havertown, PA",
+      "town": "Havertown",
+      "lat": 39.98776,
+      "lng": -75.31189,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-26",
+      "endDate": "2026-10-27",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/midnight-release-party-tickets-2000278182891",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/S6hZ8yosCk6LEn92O1vRGA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Oct 26 - Oct 27",
+      "nextDate": "2026-10-26",
+      "dates": [
+        "2026-10-26",
+        "2026-10-27"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "ev-bryn-mawr-monday-mahjong-beginner-lessons-5e1a9b",
+      "name": "Monday Mahjong Beginner lessons",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "games",
+        "learning"
+      ],
+      "shortDescription": "Monday Mahjong Beginner lessons at a Delco venue in Bryn Mawr.",
+      "address": "Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.027634,
+      "lng": -75.356119,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-26",
+      "endDate": "2026-11-16",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.agnesirwin.org/quick-links/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c62a1ca3-bfc4-43b0-8eb4-324304c1c3c9.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mondays, Oct 26 - Nov 16",
+      "nextDate": "2026-10-26",
+      "dates": [
+        "2026-10-26",
+        "2026-11-02",
+        "2026-11-09",
+        "2026-11-16"
+      ],
+      "occurrences": 4
     },
     {
       "id": "ev-glenolden-monday-trivia-night-at-the-fainting-go-c68d01",
@@ -5189,6 +4969,71 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chester-oldies-in-the-park-a0e86f",
+      "name": "Oldies in the Park",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "destinations",
+        "music",
+        "outdoor-concert"
+      ],
+      "shortDescription": "Oldies in the Park at Ethel Waters Park in Chester.",
+      "address": "Ethel Waters Park, Chester, PA",
+      "town": "Chester",
+      "lat": 39.846465,
+      "lng": -75.358842,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-10-27",
+      "endDate": "2027-04-13",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.chestercity.com/event/oldies-in-the-park-2/2026-10-27/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/o6XxL0PM3kaE6hDXOaFfuw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Oct 27 - Apr 13",
+      "nextDate": "2026-10-27",
+      "dates": [
+        "2026-10-27",
+        "2026-11-03",
+        "2026-11-10",
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05",
+        "2027-01-12",
+        "2027-01-19",
+        "2027-01-26",
+        "2027-02-02",
+        "2027-02-09",
+        "2027-02-16",
+        "2027-02-23",
+        "2027-03-02",
+        "2027-03-09",
+        "2027-03-16",
+        "2027-03-23",
+        "2027-03-30",
+        "2027-04-06",
+        "2027-04-13"
+      ],
+      "occurrences": 25
+    },
+    {
       "id": "ev-newtown-square-parent-community-service-event-86e4d1",
       "name": "Parent Community Service Event",
       "category": "events",
@@ -5229,6 +5074,44 @@
         "2027-04-07"
       ],
       "occurrences": 4
+    },
+    {
+      "id": "ev-bryn-mawr-parents-association-mahjong-open-play-f4fb55",
+      "name": "Parents' Association Mahjong Open Play",
+      "category": "events",
+      "subcategories": [
+        "games",
+        "lifestyle"
+      ],
+      "shortDescription": "Parents' Association Mahjong Open Play at a Delco venue in Bryn Mawr.",
+      "address": "Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.027634,
+      "lng": -75.356119,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-27",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.agnesirwin.org/quick-links/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7b06ea32-047e-4854-a846-b1eea534918e.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Oct 27",
+      "nextDate": "2026-10-27",
+      "dates": [
+        "2026-10-27"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-newtown-square-soccer-jv-girls-v-sch-5ec5b3",
@@ -5346,6 +5229,66 @@
         "2026-10-27"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-holmes-tuesday-karaoke-at-haggertys-in-holmes-pa-3b255e",
+      "name": "Tuesday Karaoke at Haggertys in Holmes, PA (Delaware County",
+      "category": "events",
+      "subcategories": [
+        "open-mic",
+        "performing-arts"
+      ],
+      "shortDescription": "Karaoke is Every Tuesday at Haggertys in Homes, PA (Delaware County, PA) Karaoke starts at 8pm.",
+      "address": "Haggerty's Cafe, Holmes, PA",
+      "town": "Holmes",
+      "lat": 39.899696,
+      "lng": -75.305652,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-27",
+      "endDate": "2027-03-30",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/tuesday-karaoke-at-haggertys-in-holmes-pa-delaware-county-pa-tickets-1225315845679",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/g_89wQtSp0Sz9smp4PcgxA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Oct 27 - Mar 30",
+      "nextDate": "2026-10-27",
+      "dates": [
+        "2026-10-27",
+        "2026-11-03",
+        "2026-11-10",
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05",
+        "2027-01-12",
+        "2027-01-19",
+        "2027-01-26",
+        "2027-02-02",
+        "2027-02-09",
+        "2027-02-16",
+        "2027-02-23",
+        "2027-03-02",
+        "2027-03-09",
+        "2027-03-16",
+        "2027-03-23",
+        "2027-03-30"
+      ],
+      "occurrences": 23
     },
     {
       "id": "ev-chester-widener-pride-men-s-soccer-vs-eastern-d98156",
@@ -5761,6 +5704,46 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a8fe3b31-5555-4a70-820b-bb59e79bce97.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Oct 28",
+      "nextDate": "2026-10-28",
+      "dates": [
+        "2026-10-28"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-the-nth-power-arnetta-johnson-25ca4a",
+      "name": "The Nth Power & Arnetta Johnson",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "The Nth Power performs live at 118 North in Wayne, PA (outside of Philadelphia) on Wednesday, October 28, 2026. Tickets are on sale now!",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-28",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/1039854210?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ab3qJlrcdEaYwc5zCkONBg.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -6662,6 +6645,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-folsom-smash-atoms-band-5200f9",
+      "name": "Smash Atoms Band",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Pop Punk cover band from West Chester, PA—reliving your teenage angst one anthem at a time! Booking: smshatoms@gmail.com",
+      "address": "Tom N Jerry's, Folsom, PA",
+      "town": "Folsom",
+      "lat": 39.880547,
+      "lng": -75.340887,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-30",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108903840?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/HfH30NlXqEKr85dYG8D63w.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Oct 30",
+      "nextDate": "2026-10-30",
+      "dates": [
+        "2026-10-30"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-soccer-varsity-boys-sch-349f62",
       "name": "Soccer - Varsity Boys @ SCH",
       "category": "events",
@@ -6734,6 +6757,46 @@
       "nextDate": "2026-10-30",
       "dates": [
         "2026-10-30"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-lansdowne-benny-turner-real-blues-b1176f",
+      "name": "Benny Turner - Real Blues",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Benny Turner returns to Jamey's as special guest with The Dave Keyes Band!",
+      "address": "Jamey's House of Music, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.937344,
+      "lng": -75.274493,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-31",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108979651?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/zXgcFnkTjkKobpTltJYxNQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 31",
+      "nextDate": "2026-10-31",
+      "dates": [
+        "2026-10-31"
       ],
       "occurrences": 1
     },
@@ -6845,6 +6908,46 @@
       "website": "https://www.facebook.com/events/1762866324859899/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0e5ffa12-76de-4091-84e4-050aee7d4e56.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 31",
+      "nextDate": "2026-10-31",
+      "dates": [
+        "2026-10-31"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-havertown-death-all-her-friends-97310d",
+      "name": "Death & All Her Friends",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "halloween",
+        "holiday",
+        "live-music"
+      ],
+      "shortDescription": "Death & All Her Friends halloween show at the Kelly Center",
+      "address": "Kelly Center, Havertown, PA",
+      "town": "Havertown",
+      "lat": 39.98841,
+      "lng": -75.31308,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-31",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108982976?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/HZ-eVvndJ02sr8Zko172xg.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -7275,6 +7378,46 @@
       "website": "https://www.eventbrite.com/e/2026-27-lansdowne-symphony-orchestra-season-subscription-tickets-2001699455957",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IwLXrpTzT0aUb0riJ-AuSQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Nov 1",
+      "nextDate": "2026-11-01",
+      "dates": [
+        "2026-11-01"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-swarthmore-andrew-neu-97197e",
+      "name": "Andrew Neu",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "destinations",
+        "live-music",
+        "music"
+      ],
+      "shortDescription": "The Swarthmore College Department of Music is proud to present a Centennial Celebration of John Coltrane and Miles Davis on Sunday, November 1st at 7:30pm in the Lang...",
+      "address": "Lang Music Building, Swarthmore, PA",
+      "town": "Swarthmore",
+      "lat": 39.905447,
+      "lng": -75.356191,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-01",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108959170?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/CQtloVMf706rpL8Llq3A9Q.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -8617,6 +8760,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-havertown-peppino-live-in-concert-6f39f6",
+      "name": "Peppino live in concert",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Original compositions for 6 & 12 guitar. Songs from the Old and the New World.",
+      "address": "Kelly Center, Havertown, PA",
+      "town": "Havertown",
+      "lat": 39.98841,
+      "lng": -75.31308,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108304947?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mo20iXgKGEG7KG34rll-8g.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Nov 6",
+      "nextDate": "2026-11-06",
+      "dates": [
+        "2026-11-06"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-chester-widener-pride-women-s-basketball-vs-cent-234002",
       "name": "Widener Pride: Women's Basketball vs Centenary vs Salisbury - Hosted by Widener University",
       "category": "events",
@@ -8838,6 +9021,48 @@
       "website": "https://wayneart.org/events/2127/expressive-abstract-inspired-by-20th-c-painters-with-abby-ober",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/E-6SR3xkg06-KdD4fBh1Wg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 7",
+      "nextDate": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-media-kid-davis-and-the-bullets-9dba21",
+      "name": "Kid Davis and the Bullets",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "kids",
+        "live-music",
+        "music"
+      ],
+      "shortDescription": "Kid Davis & the Bullets are excited to return to Martinique Deux in Media, PA on Saturday, November 7! https://www.martiniquedeux.com. Show starts at 8PM",
+      "address": "Martinique Deux, Media, PA",
+      "town": "Media",
+      "lat": 39.918415,
+      "lng": -75.391665,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-11-07",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108419221?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/M9t9rs_V1U6UUq3481YVnQ.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -9243,6 +9468,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-ghost-of-the-mill-jon-savage-and-the-class-4c7163",
+      "name": "Ghost Of The Mill & Jon Savage and the Classic Rockers",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Jon Savage and the Classic Rockers",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-08",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/1040514735?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OhzXgtjm4USrWxq-F2KMRw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Nov 8",
+      "nextDate": "2026-11-08",
+      "dates": [
+        "2026-11-08"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-glen-mills-needle-felting-with-brianna-ec7db9",
       "name": "Needle Felting with Brianna",
       "category": "events",
@@ -9622,6 +9887,46 @@
         "2026-11-11"
       ],
       "occurrences": 2
+    },
+    {
+      "id": "ev-lansdowne-emanuel-casablanca-1ebef4",
+      "name": "Emanuel Casablanca",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Emanuel Casablanca is an American guitarist and singer-songwriter from Brooklyn, New York.",
+      "address": "Jamey's House of Music, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.937344,
+      "lng": -75.274493,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-11",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108812743?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/n_ecu4Qb1kOUE9QohD16QQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Nov 11",
+      "nextDate": "2026-11-11",
+      "dates": [
+        "2026-11-11"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-wayne-gentle-yoga-and-meditation-135d96",
@@ -10190,6 +10495,46 @@
       "website": "https://brepresents.com/event/rocky-in-concert/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/HTbv1JZ5skSxXDF6hDAqXA.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Nov 13",
+      "nextDate": "2026-11-13",
+      "dates": [
+        "2026-11-13"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-swarthmore-tom-hampton-a0d589",
+      "name": "Tom Hampton",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Tom Hampton's years as a journeyman multi-instrumentalist and sideman are bookended by his origins as a singer and songwriter - he released his critically acclaimed...",
+      "address": "WaR3House 3, Swarthmore, PA",
+      "town": "Swarthmore",
+      "lat": 39.901337,
+      "lng": -75.349723,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-13",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108845653?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/kgsxFF4d2EeOYVBxTS9bEg.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -11285,6 +11630,47 @@
       "occurrences": 1
     },
     {
+      "id": "ev-havertown-keep-the-change-c547a5",
+      "name": "Keep the Change",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "KEEP THE CHANGE BAND was founded in 2011 by Jeff Perlman along with former member Rowland Adamoli.",
+      "address": "Barnaby's Havertown, Havertown, PA",
+      "town": "Havertown",
+      "lat": 39.976545,
+      "lng": -75.334958,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-19",
+      "endDate": "2026-12-03",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108571370?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cf7b575e-9163-4377-aa9d-54d6f1017ad9.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thursdays, Nov 19 - Dec 3",
+      "nextDate": "2026-11-19",
+      "dates": [
+        "2026-11-19",
+        "2026-12-03"
+      ],
+      "occurrences": 2
+    },
+    {
       "id": "ev-newtown-square-ms-musical-performance-704af7",
       "name": "MS Musical Performance",
       "category": "events",
@@ -11441,6 +11827,46 @@
       ]
     },
     {
+      "id": "ev-lansdowne-kelli-baker-9e390a",
+      "name": "Kelli Baker",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Signed to Gulf Coast Records by blues legend Mike Zito, powerhouse vocalist and songwriter Kelli Baker continues her meteoric rise as one of the most electrifying voices...",
+      "address": "Jamey's House of Music, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.937344,
+      "lng": -75.274493,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-20",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108841873?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/tVDt4QRp-EC3v8iHwGl5tg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Nov 20",
+      "nextDate": "2026-11-20",
+      "dates": [
+        "2026-11-20"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-smash-palace-at-118-north-052361",
       "name": "Smash Palace at 118 North",
       "category": "events",
@@ -11586,6 +12012,86 @@
       "website": "https://wayneart.org/events/2173/family-day-of-clay-festive-holiday-pie-dish",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Aj7nql2MXkypklMVeL0UgQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 21",
+      "nextDate": "2026-11-21",
+      "dates": [
+        "2026-11-21"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-lansdowne-lauren-minear-12eab3",
+      "name": "Lauren Minear",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Nashville-raised, New York-based indie-folk pop artist Lauren Minear has a unique ability to craft songs that capture the depth of the human condition.",
+      "address": "Jamey's House of Music, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.937344,
+      "lng": -75.274493,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-21",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108607059?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8JW7zylMvEOZxkJ-A8JqOg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 21",
+      "nextDate": "2026-11-21",
+      "dates": [
+        "2026-11-21"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-folsom-rocks-this-way-aerosmith-tribute-9dbba5",
+      "name": "Rocks This Way - Aerosmith Tribute",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Three Bands on Night: Remedy, Rocks This Way and Lady Zeppelin!",
+      "address": "Tom N Jerry's, Folsom, PA",
+      "town": "Folsom",
+      "lat": 39.880547,
+      "lng": -75.340887,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-21",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108923762?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0lljAX9pWE6pJ86xFXHe-w.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -12033,6 +12539,86 @@
       "occurrences": 9
     },
     {
+      "id": "ev-glenolden-nicki-sbaffoni-music-d79c29",
+      "name": "Nicki Sbaffoni Music",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "With a mantra of \"strum and wail”, Nicki Sbaffoni consistently surprises and delights audiences with powerful and creatively twisted versions of all your favorite songs.",
+      "address": "39 North Taproom and Grille, Glenolden, PA",
+      "town": "Glenolden",
+      "lat": 39.90407,
+      "lng": -75.295099,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-27",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108726201?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OjxA-Tlje0eouzLg1X4jdA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Nov 27",
+      "nextDate": "2026-11-27",
+      "dates": [
+        "2026-11-27"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-rocks-this-way-aerosmith-tribute-7d432f",
+      "name": "Rocks This Way - Aerosmith Tribute",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "holiday",
+        "live-music",
+        "markets"
+      ],
+      "shortDescription": "Skip the shopping and spend Black Friday rocking with friends!",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-27",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108923770?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ikkvUbe2hkiODIh95ywbXg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Nov 27",
+      "nextDate": "2026-11-27",
+      "dates": [
+        "2026-11-27"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-an-american-classic-bruce-vs-petty-at-118-adb6a4",
       "name": "An American Classic: Bruce vs Petty at 118 North",
       "category": "events",
@@ -12412,6 +12998,46 @@
       "nextDate": "2026-12-03",
       "dates": [
         "2026-12-03"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-folsom-stealing-savanah-2726d5",
+      "name": "Stealing Savanah",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "STEALING SAVANAH is a 5-piece powerhouse hailing from southern New Jersey, that performs over 200 shows per year all over the country.",
+      "address": "Tom N Jerry's, Folsom, PA",
+      "town": "Folsom",
+      "lat": 39.880547,
+      "lng": -75.340887,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-04",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108883127?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mW-aB_H_F0uHz98oQivbAg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Dec 4",
+      "nextDate": "2026-12-04",
+      "dates": [
+        "2026-12-04"
       ],
       "occurrences": 1
     },
@@ -13700,6 +14326,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-media-demitri-grivas-1b1362",
+      "name": "Demitri Grivas",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Demitri Grivas at Martinique Deux in Media.",
+      "address": "Martinique Deux, Media, PA",
+      "town": "Media",
+      "lat": 39.918415,
+      "lng": -75.391665,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-17",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108839691?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c-HycUOJfU6kde6Yi1nB6w.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Dec 17",
+      "nextDate": "2026-12-17",
+      "dates": [
+        "2026-12-17"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-chester-widener-pride-men-s-basketball-vs-immacu-3846f3",
       "name": "Widener Pride: Men's Basketball vs Immaculata",
       "category": "events",
@@ -13736,6 +14402,46 @@
       "nextDate": "2026-12-17",
       "dates": [
         "2026-12-17"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-swarthmore-hamell-on-trial-e59259",
+      "name": "Hamell on Trial",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Hamell on Trial is the musical alias of anti-folk punk hero Ed Hamell.",
+      "address": "WaR3House 3, Swarthmore, PA",
+      "town": "Swarthmore",
+      "lat": 39.901337,
+      "lng": -75.349723,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-18",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108700294?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/A2eEY6cdMEKy5S2my0u-Hg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Dec 18",
+      "nextDate": "2026-12-18",
+      "dates": [
+        "2026-12-18"
       ],
       "occurrences": 1
     },
@@ -13930,6 +14636,86 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-eric-mintel-quartet-9363ed",
+      "name": "Eric Mintel Quartet",
+      "category": "events",
+      "subcategories": [
+        "christmas",
+        "concert",
+        "holiday",
+        "live-music"
+      ],
+      "shortDescription": "A Charlie Brown Christmas with the Eric Mintel Quartet (Late Show)",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-23",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/1040514570?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4ed8e51f-c70c-4053-90c5-39661e36347a.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Dec 23",
+      "nextDate": "2026-12-23",
+      "dates": [
+        "2026-12-23"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-molly-martin-4f1238",
+      "name": "Molly Martin",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "A fresh take on something classic Philly-born, Nashville-based",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-26",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108964035?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/GgNcI3c_6k-Au-F-_ftMLg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Dec 26",
+      "nextDate": "2026-12-26",
+      "dates": [
+        "2026-12-26"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-school-s-out-art-camp-pm-cf3082",
       "name": "School's Out ART Camp (PM)",
       "category": "events",
@@ -14046,6 +14832,46 @@
       "nextDate": "2026-12-31",
       "dates": [
         "2026-12-31"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-i-yahn-i-arkestra-reggae-thunder-2eff03",
+      "name": "I Yahn I Arkestra & Reggae Thunder",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Reggae Thunder + I Yahn I Arkestra",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-08",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/1040513962?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/oE9osF1nVUqZR-fLs_m27w.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Jan 8",
+      "nextDate": "2027-01-08",
+      "dates": [
+        "2027-01-08"
       ],
       "occurrences": 1
     },
@@ -14977,6 +15803,46 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fed3b2f5-910b-40b7-be1a-d5afc9654d03.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Jan 28",
+      "nextDate": "2027-01-28",
+      "dates": [
+        "2027-01-28"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-villanova-villanova-wildcats-womens-basketball-v-c7c6c8",
+      "name": "Villanova Wildcats Womens Basketball vs. St. Johns Red Storm Womens Basketball",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Villanova Wildcats Womens Basketball vs. St. Johns Red Storm Womens Basketball at Finneran Pavilion in Villanova.",
+      "address": "Finneran Pavilion, Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.033811,
+      "lng": -75.335447,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-28",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5b15b818-ec15-43d5-8d9e-bbd48a7fed08.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -16133,6 +16999,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-media-hotlanta-the-allman-brothers-experience-c73a04",
+      "name": "Hotlanta - THE Allman Brothers Experience",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Hotlanta's debut at this venue.!!!",
+      "address": "Shere-E-Punjab, Media, PA",
+      "town": "Media",
+      "lat": 39.918155,
+      "lng": -75.392508,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108892220?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_rfSJDywaUaSHsz-uVQmEQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Mar 6",
+      "nextDate": "2027-03-06",
+      "dates": [
+        "2027-03-06"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-starfest-38f572",
       "name": "Starfest",
       "category": "events",
@@ -16412,6 +17318,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-lansdowne-dominique-hammons-893b44",
+      "name": "Dominique Hammons",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Dominique Hammons at Lansdowne Theater in Lansdowne.",
+      "address": "Lansdowne Theater, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.939419,
+      "lng": -75.272179,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-13",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/1040405678?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4c5de605-fb72-4f1a-a01d-fd9085b50023.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Mar 13",
+      "nextDate": "2027-03-13",
+      "dates": [
+        "2027-03-13"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-bryn-mawr-filament-songs-from-new-and-old-sweede-ceaa7f",
       "name": "Filament: Songs from new (and old) sweeden",
       "category": "events",
@@ -16517,6 +17463,46 @@
       "nextDate": "2027-03-16",
       "dates": [
         "2027-03-16"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-lansdowne-debra-devi-929355",
+      "name": "Debra Devi",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Blues/rocker Debra Devi returns to Jamey's House of Music",
+      "address": "Jamey's House of Music, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.937344,
+      "lng": -75.274493,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-20",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108885259?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/kWNqXIyicEeqfeMxIJSNiQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Mar 20",
+      "nextDate": "2027-03-20",
+      "dates": [
+        "2027-03-20"
       ],
       "occurrences": 1
     },
@@ -16925,6 +17911,126 @@
       "nextDate": "2027-04-17",
       "dates": [
         "2027-04-17"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-lindsey-mckay-043503",
+      "name": "Lindsey McKay",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Lindsey McKay at The Ivy at Ellis Preserve in Newtown Square.",
+      "address": "The Ivy at Ellis Preserve, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.989296,
+      "lng": -75.407296,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-04-18",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108375233?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/F1J-ZEzFHEuEx29lA0FHiw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Apr 18",
+      "nextDate": "2027-04-18",
+      "dates": [
+        "2027-04-18"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-essington-logan-ramey-s-tribute-to-elvis-pa-more-4ffcce",
+      "name": "Logan Ramey's Tribute To Elvis - PA - More Info Soon",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Logan Ramey’s Tribute To Elvis Sunday, April 18th - 3:30pm Lazaretto Ballroom - 99 Wanamaker Ave, Essington PA 19029 Event from 1pm-5pm Tickets on Sale 11/1/26 50 Years...",
+      "address": "Lazaretto Ballroom, Essington, PA",
+      "town": "Essington",
+      "lat": 39.861651,
+      "lng": -75.300288,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-04-18",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108392925?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/r435Xw52zkmwsLToP_-Ymg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Apr 18",
+      "nextDate": "2027-04-18",
+      "dates": [
+        "2027-04-18"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-ridley-park-the-kelpies-duo-53ce76",
+      "name": "The Kelpies Duo",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "An afternoon of Irish Traditional Music with the Kelpies. Donations accepted at the door.",
+      "address": "Christ Church (Episcopal), Ridley Park, PA",
+      "town": "Ridley Park",
+      "lat": 39.876619,
+      "lng": -75.324484,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-04-18",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108987422?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/JsM_m567uUqRz6nhIYN2xQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Apr 18",
+      "nextDate": "2027-04-18",
+      "dates": [
+        "2027-04-18"
       ],
       "occurrences": 1
     },
