@@ -1,986 +1,9 @@
 {
   "version": 1,
-  "scraped_at": "2026-10-22T14:34:26.386724+00:00",
+  "scraped_at": "2026-10-23T14:18:42.793511+00:00",
   "horizon_days": 180,
-  "event_count": 471,
+  "event_count": 453,
   "listings": [
-    {
-      "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
-      "name": "2026 Gene Capaldi Lens on Litter Photo Contest",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "holiday",
-        "visual-arts"
-      ],
-      "shortDescription": "An annual litter photo contest; not intended to glorify litter but to bring attention to the litter problem in communities in Pennsylvania.",
-      "address": "Rose Tree Park, Hunt Club, 1521 North Providence Road, Media, PA",
-      "town": "Media",
-      "lat": 39.91678,
-      "lng": -75.38769,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-22",
-      "endDate": "2026-10-31",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://prc.org/what-we-do/lens-on-litter-contest/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/EFSYwNi2eEyfCncurQHucg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Oct 22 - Oct 31",
-      "nextDate": "2026-10-22",
-      "dates": [
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-24",
-        "2026-10-25",
-        "2026-10-26",
-        "2026-10-27",
-        "2026-10-28",
-        "2026-10-29",
-        "2026-10-30",
-        "2026-10-31"
-      ],
-      "occurrences": 10
-    },
-    {
-      "id": "ev-newtown-square-affording-ea-webinar-13bbee",
-      "name": "Affording EA Webinar",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning"
-      ],
-      "shortDescription": "Affording EA Webinar at a Delco venue in Newtown Square.",
-      "address": "Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-22",
-      "endDate": "2026-11-08",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cb5422ba-023f-4799-8255-d330d8c33259.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "2 dates, Oct 22 - Nov 8",
-      "nextDate": "2026-10-22",
-      "dates": [
-        "2026-10-22",
-        "2026-11-08"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-wayne-bloom-decay-band-grateful-dead-tribute-at-a2fb35",
-      "name": "Bloom & Decay Band - Grateful Dead Tribute at 118 North",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "destinations",
-        "music",
-        "parks-gardens"
-      ],
-      "shortDescription": "Bloom & Decay Band - Grateful Dead Tribute at 118 North Thursday, October 22, 2026 Doors: 6:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian...",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-10-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1401497861927180/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e06af2cc-69c5-4802-be64-c7e8310ad01c.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 22",
-      "nextDate": "2026-10-22",
-      "dates": [
-        "2026-10-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-counted-out-movie-event-70f736",
-      "name": "Counted Out: Movie Event",
-      "category": "events",
-      "subcategories": [
-        "film",
-        "visual-arts"
-      ],
-      "shortDescription": "What if being a \"math person\" isn't something you're born as-but something we all can become?",
-      "address": "Alumni Auditorium, Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.widener.edu/events/counted-out-movie-event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3555471d-b81e-42fc-9585-b608c295fead.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 22",
-      "nextDate": "2026-10-22",
-      "dates": [
-        "2026-10-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-lansdowne-curtis-salgado-fad2b8",
-      "name": "Curtis Salgado",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Award-winning vocalist, instrumentalist and songwriter Curtis Salgado, the man NPR calls “an icon” with “a huge voice,” is revered worldwide for his ability to wring...",
-      "address": "Jamey's House of Music, Lansdowne, PA",
-      "town": "Lansdowne",
-      "lat": 39.937344,
-      "lng": -75.274493,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/108971111?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Y2iqGfKrY0SG9feko4QI5A.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 22",
-      "nextDate": "2026-10-22",
-      "dates": [
-        "2026-10-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-field-hockey-ms-a-v-holy-child-cb0cd8",
-      "name": "Field Hockey - MS A v Holy Child",
-      "category": "events",
-      "subcategories": [
-        "kids",
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Field Hockey - MS A v Holy Child",
-      "address": "Buggy Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-10-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b04bdf65-d71d-4a5a-a43a-cf4f24a1e822.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 22",
-      "nextDate": "2026-10-22",
-      "dates": [
-        "2026-10-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-field-hockey-ms-b-v-holy-child-59b9dc",
-      "name": "Field Hockey - MS B v Holy Child",
-      "category": "events",
-      "subcategories": [
-        "kids",
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Field Hockey - MS B v Holy Child",
-      "address": "Buggy Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-10-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ec02e2a0-a935-4331-916c-5ba19bffa75b.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 22",
-      "nextDate": "2026-10-22",
-      "dates": [
-        "2026-10-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-golf-jv-boys-v-penn-charter-merio-3318f7",
-      "name": "Golf - JV Boys v Penn Charter @ Merion West",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Golf - JV Boys v Penn Charter @ Merion West",
-      "address": "Merion West Country Club, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0c20b087-5f3f-4d97-8041-f6db12f9e8c8.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 22",
-      "nextDate": "2026-10-22",
-      "dates": [
-        "2026-10-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-golf-varsity-malvern-invitational-58553d",
-      "name": "Golf - Varsity @ Malvern Invitational",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Golf - Varsity @ Malvern Invitational",
-      "address": "Waynesborough Country Club, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4fe991e1-6aee-4eb7-b4fd-545cf702526d.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 22",
-      "nextDate": "2026-10-22",
-      "dates": [
-        "2026-10-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-misery-179fa7",
-      "name": "Misery",
-      "category": "events",
-      "subcategories": [
-        "halloween",
-        "holiday",
-        "performing-arts",
-        "theater"
-      ],
-      "shortDescription": "After a devastating car accident leaves novelist Paul Sheldon stranded in a remote cabin, he awakens under the care of Annie Wilkes, his self-proclaimed “number one...",
-      "address": "Hedgerow Theatre, Media, PA",
-      "town": "Media",
-      "lat": 39.897539,
-      "lng": -75.386668,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-22",
-      "endDate": "2026-11-01",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "(610) 565-4211",
-      "website": "https://www.hedgerowtheatre.org/misery",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OtyxLaPmVUKxIC-56D9MWw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "8 dates, Oct 22 - Nov 1",
-      "nextDate": "2026-10-22",
-      "dates": [
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-24",
-        "2026-10-25",
-        "2026-10-29",
-        "2026-10-30",
-        "2026-10-31",
-        "2026-11-01"
-      ],
-      "occurrences": 8
-    },
-    {
-      "id": "ev-newtown-square-newtown-post-ms-parent-coffee-3969e5",
-      "name": "Newtown Post: MS Parent Coffee",
-      "category": "events",
-      "subcategories": [
-        "food-drink",
-        "lifestyle"
-      ],
-      "shortDescription": "Newtown Post: MS Parent Coffee",
-      "address": "Newtown Post, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0a54b847-18a3-4fad-9263-4e416bf37162.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 22",
-      "nextDate": "2026-10-22",
-      "dates": [
-        "2026-10-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-newtown-post-paint-sip-df2ade",
-      "name": "Newtown Post: Paint & Sip",
-      "category": "events",
-      "subcategories": [
-        "visual-arts"
-      ],
-      "shortDescription": "Newtown Post: Paint & Sip",
-      "address": "Newtown Post, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3e69a76f-3a52-4621-baa4-3d0635904085.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 22",
-      "nextDate": "2026-10-22",
-      "dates": [
-        "2026-10-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-adult-wheel-class-edcc01",
-      "name": "One Time Adult Wheel Class",
-      "category": "events",
-      "subcategories": [
-        "arts"
-      ],
-      "shortDescription": "Join our one time class to learn the basics of wheel throwing!",
-      "address": "Blue Skies Pottery - Bryn Mawr, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-22",
-      "endDate": "2026-11-26",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/160849/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SvgMJsHbeESUI8oHFgSYBw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thursdays, Oct 22 - Nov 26",
-      "nextDate": "2026-10-22",
-      "dates": [
-        "2026-10-22",
-        "2026-10-29",
-        "2026-11-05",
-        "2026-11-12",
-        "2026-11-19",
-        "2026-11-26"
-      ],
-      "occurrences": 6
-    },
-    {
-      "id": "ev-lansdowne-rupert-wates-0ee1c8",
-      "name": "Rupert Wates",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Rupert Wates is a London-born, award-winning songwriter who signed an exclusive publishing deal with Eaton Music in the late 1990s and has been writing full-time ever...",
-      "address": "Lansdowne Folk Club, Lansdowne, PA",
-      "town": "Lansdowne",
-      "lat": 39.935639,
-      "lng": -75.271746,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/107194125?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/rO0jORd-Ekiz4rskRZHl7Q.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 22",
-      "nextDate": "2026-10-22",
-      "dates": [
-        "2026-10-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-lansdowne-rupert-wates-at-lansdowne-folk-club-7429d0",
-      "name": "Rupert Wates at Lansdowne Folk Club",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Lansdowne Folk Club presents Rupert Wates, a haunting, melodic acoustic art-folk singer/songwriter, on Thursday, October 22, 2026.",
-      "address": "Lansdowne Folk Club, Lansdowne, PA",
-      "town": "Lansdowne",
-      "lat": 39.935639,
-      "lng": -75.271746,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://folkclub.org",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Vj_O3bDcKE6fvC0VvMKpXg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 22",
-      "nextDate": "2026-10-22",
-      "dates": [
-        "2026-10-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-spw-trademark-step-into-your-power-con-b924a9",
-      "name": "SPW Trademark: Step Into Your Power: Confidence, Courage, and Clarity in Action",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "classes",
-        "learning",
-        "special-audience"
-      ],
-      "shortDescription": "Description Keynote speaker Tracy Davidson is a nationally recognized, 15-time Emmy Award-winning journalist turned full-time speaker who inspires audiences to rise...",
-      "address": "Overbrook Golf Club, Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.011598,
-      "lng": -75.373443,
-      "priceTier": 3,
-      "tags": [
-        "family",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://my.mlcc.org/mlccevent-calendar/Details/spw-trademark-step-into-your-power-confidence-courage-and-clarity-in-action-1747772?sourceTypeId=Website",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/wBnoeMQzlkqrL5EFaDHW1w.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 22",
-      "nextDate": "2026-10-22",
-      "dates": [
-        "2026-10-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-boys-ms-a-v-penn-charter-a0b5c7",
-      "name": "Soccer - Boys MS A v Penn Charter",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - Boys MS A v Penn Charter",
-      "address": "Stone Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b4f13205-36d4-456b-a2cd-4c796b529819.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 22",
-      "nextDate": "2026-10-22",
-      "dates": [
-        "2026-10-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-boys-ms-b-v-penn-charter-c4efb5",
-      "name": "Soccer - Boys MS B v Penn Charter",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - Boys MS B v Penn Charter",
-      "address": "Stone Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4b8401df-8242-4a6e-a069-2ec28d0848c9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 22",
-      "nextDate": "2026-10-22",
-      "dates": [
-        "2026-10-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-drexel-hill-thursday-karaoke-at-casey-s-restaura-4579c1",
-      "name": "Thursday Karaoke at Casey's Restaurant (Drexel Hill - Delaware County",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink",
-        "open-mic",
-        "performing-arts"
-      ],
-      "shortDescription": "Sing your heart out at Casey's Restaurant every Thursday night with some karaoke fun in Drexel Hill, Delaware County, PA! Starts at 8pm.",
-      "address": "Casey's Saloon & Restaurant, Drexel Hill, PA",
-      "town": "Drexel Hill",
-      "lat": 39.960126,
-      "lng": -75.288562,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-22",
-      "endDate": "2027-04-15",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/thursday-karaoke-at-caseys-restaurant-drexel-hill-delaware-county-pa-tickets-1061653848239",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pgpVzPSpoUaADfBllel6lw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thursdays, Oct 22 - Apr 15",
-      "nextDate": "2026-10-22",
-      "dates": [
-        "2026-10-22",
-        "2026-10-29",
-        "2026-11-05",
-        "2026-11-12",
-        "2026-11-19",
-        "2026-11-26",
-        "2026-12-03",
-        "2026-12-10",
-        "2026-12-17",
-        "2026-12-24",
-        "2026-12-31",
-        "2027-01-07",
-        "2027-01-14",
-        "2027-01-21",
-        "2027-01-28",
-        "2027-02-04",
-        "2027-02-11",
-        "2027-02-18",
-        "2027-02-25",
-        "2027-03-04",
-        "2027-03-11",
-        "2027-03-18",
-        "2027-03-25",
-        "2027-04-01",
-        "2027-04-08",
-        "2027-04-15"
-      ],
-      "occurrences": 26
-    },
-    {
-      "id": "ev-lansdowne-toad-and-the-wet-sprocket-6357c4",
-      "name": "Toad and the Wet Sprocket",
-      "category": "events",
-      "subcategories": [
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Toad and the Wet Sprocket Rings: The Acoustic Tour plus special guest Willy Porter Thursday October 22, 2026 7:30pm / Doors at 6:30pm Lansdowne Theater 31 N.",
-      "address": "Lansdowne Theater, Lansdowne, PA",
-      "town": "Lansdowne",
-      "lat": 39.939409,
-      "lng": -75.272179,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://brepresents.com/event/toad-the-wet-sprocket-2/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OI5Stoiv3kmcxcVzviFAnQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 22",
-      "nextDate": "2026-10-22",
-      "dates": [
-        "2026-10-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-volleyball-jv-v-agnes-irwin-8627a4",
-      "name": "Volleyball - JV v Agnes Irwin",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Volleyball - JV v Agnes Irwin at O'Neill Gym in Newtown Square.",
-      "address": "O'Neill Gym, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e669d12a-a6ec-4151-8c5f-9397f6aae3d7.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 22",
-      "nextDate": "2026-10-22",
-      "dates": [
-        "2026-10-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-volleyball-ms-a-v-ga-0d423d",
-      "name": "Volleyball MS A v GA",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Volleyball MS A v GA at O'Neill Gym in Newtown Square.",
-      "address": "O'Neill Gym, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e669d12a-a6ec-4151-8c5f-9397f6aae3d7.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 22",
-      "nextDate": "2026-10-22",
-      "dates": [
-        "2026-10-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-volleyball-ms-b-v-ga-93c74b",
-      "name": "Volleyball MS B v GA",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Volleyball MS B v GA at O'Neill Gym in Newtown Square.",
-      "address": "O'Neill Gym, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1c5f516e-c648-44bf-ba17-ce3f5c2af91a.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 22",
-      "nextDate": "2026-10-22",
-      "dates": [
-        "2026-10-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-wicked-elizabeth-wilson-460fac",
-      "name": "Wicked Elizabeth Wilson",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Experience the haunting tale of a local crime and tragic loss.",
-      "address": "Colonial Pennsylvania Farmstead, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.968636,
-      "lng": -75.453585,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-22",
-      "endDate": "2026-10-24",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/wicked-elizabeth-wilson-tickets-1999267200014",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RacHoAXvG0uJ3_SubAHFag.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Oct 22 - Oct 24",
-      "nextDate": "2026-10-22",
-      "dates": [
-        "2026-10-22",
-        "2026-10-23",
-        "2026-10-24"
-      ],
-      "occurrences": 3
-    },
     {
       "id": "ev-newtown-square-1st-gr-parent-coffee-social-fa6493",
       "name": "1st Gr Parent Coffee Social",
@@ -1018,6 +41,53 @@
         "2026-10-23"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
+      "name": "2026 Gene Capaldi Lens on Litter Photo Contest",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "holiday",
+        "visual-arts"
+      ],
+      "shortDescription": "An annual litter photo contest; not intended to glorify litter but to bring attention to the litter problem in communities in Pennsylvania.",
+      "address": "Rose Tree Park, Hunt Club, 1521 North Providence Road, Media, PA",
+      "town": "Media",
+      "lat": 39.91678,
+      "lng": -75.38769,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-31",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://prc.org/what-we-do/lens-on-litter-contest/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/EFSYwNi2eEyfCncurQHucg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Oct 23 - Oct 31",
+      "nextDate": "2026-10-23",
+      "dates": [
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31"
+      ],
+      "occurrences": 9
     },
     {
       "id": "ev-havertown-comedy-at-the-kettle-edaf8e",
@@ -1409,6 +479,52 @@
         "2026-10-23"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-media-misery-179fa7",
+      "name": "Misery",
+      "category": "events",
+      "subcategories": [
+        "halloween",
+        "holiday",
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "After a devastating car accident leaves novelist Paul Sheldon stranded in a remote cabin, he awakens under the care of Annie Wilkes, his self-proclaimed “number one...",
+      "address": "Hedgerow Theatre, Media, PA",
+      "town": "Media",
+      "lat": 39.897539,
+      "lng": -75.386668,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-23",
+      "endDate": "2026-11-01",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "(610) 565-4211",
+      "website": "https://www.hedgerowtheatre.org/misery",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OtyxLaPmVUKxIC-56D9MWw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "7 dates, Oct 23 - Nov 1",
+      "nextDate": "2026-10-23",
+      "dates": [
+        "2026-10-23",
+        "2026-10-24",
+        "2026-10-25",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "occurrences": 7
     },
     {
       "id": "ev-drexel-hill-murder-mystery-co-dinner-theater-sho-fe3e2e",
@@ -1995,6 +1111,41 @@
         "2026-10-23"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-wicked-elizabeth-wilson-460fac",
+      "name": "Wicked Elizabeth Wilson",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Experience the haunting tale of a local crime and tragic loss.",
+      "address": "Colonial Pennsylvania Farmstead, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.968636,
+      "lng": -75.453585,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-24",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/wicked-elizabeth-wilson-tickets-1999267200014",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RacHoAXvG0uJ3_SubAHFag.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Oct 23 - Oct 24",
+      "nextDate": "2026-10-23",
+      "dates": [
+        "2026-10-23",
+        "2026-10-24"
+      ],
+      "occurrences": 2
     },
     {
       "id": "ev-bryn-mawr-youth-one-time-classes-c8c2e5",
@@ -4602,7 +3753,7 @@
       ],
       "hours": {},
       "startDate": "2026-10-27",
-      "endDate": "2027-04-13",
+      "endDate": "2027-04-20",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -4613,7 +3764,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Tuesdays, Oct 27 - Apr 13",
+      "schedule": "Tuesdays, Oct 27 - Apr 20",
       "nextDate": "2026-10-27",
       "dates": [
         "2026-10-27",
@@ -4640,9 +3791,10 @@
         "2027-03-23",
         "2027-03-30",
         "2027-04-06",
-        "2027-04-13"
+        "2027-04-13",
+        "2027-04-20"
       ],
-      "occurrences": 25
+      "occurrences": 26
     },
     {
       "id": "ev-newtown-square-parent-community-service-event-86e4d1",
@@ -5917,6 +5069,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-bryn-mawr-one-time-adult-wheel-class-edcc01",
+      "name": "One Time Adult Wheel Class",
+      "category": "events",
+      "subcategories": [
+        "arts"
+      ],
+      "shortDescription": "Join our one time class to learn the basics of wheel throwing!",
+      "address": "Blue Skies Pottery - Bryn Mawr, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-29",
+      "endDate": "2026-11-26",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/160849/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SvgMJsHbeESUI8oHFgSYBw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thursdays, Oct 29 - Nov 26",
+      "nextDate": "2026-10-29",
+      "dates": [
+        "2026-10-29",
+        "2026-11-05",
+        "2026-11-12",
+        "2026-11-19",
+        "2026-11-26"
+      ],
+      "occurrences": 5
+    },
+    {
       "id": "ev-wayne-regional-italian-cuisine-with-stony-run-wi-ded897",
       "name": "Regional Italian Cuisine with Stony Run Winery Wine Pairing with Chef Karen Bentz",
       "category": "events",
@@ -6182,6 +5374,70 @@
         "2026-10-29"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-drexel-hill-thursday-karaoke-at-casey-s-restaura-4579c1",
+      "name": "Thursday Karaoke at Casey's Restaurant (Drexel Hill - Delaware County",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink",
+        "open-mic",
+        "performing-arts"
+      ],
+      "shortDescription": "Sing your heart out at Casey's Restaurant every Thursday night with some karaoke fun in Drexel Hill, Delaware County, PA! Starts at 8pm.",
+      "address": "Casey's Saloon & Restaurant, Drexel Hill, PA",
+      "town": "Drexel Hill",
+      "lat": 39.960126,
+      "lng": -75.288562,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-29",
+      "endDate": "2027-04-15",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/thursday-karaoke-at-caseys-restaurant-drexel-hill-delaware-county-pa-tickets-1061653848239",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pgpVzPSpoUaADfBllel6lw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thursdays, Oct 29 - Apr 15",
+      "nextDate": "2026-10-29",
+      "dates": [
+        "2026-10-29",
+        "2026-11-05",
+        "2026-11-12",
+        "2026-11-19",
+        "2026-11-26",
+        "2026-12-03",
+        "2026-12-10",
+        "2026-12-17",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07",
+        "2027-01-14",
+        "2027-01-21",
+        "2027-01-28",
+        "2027-02-04",
+        "2027-02-11",
+        "2027-02-18",
+        "2027-02-25",
+        "2027-03-04",
+        "2027-03-11",
+        "2027-03-18",
+        "2027-03-25",
+        "2027-04-01",
+        "2027-04-08",
+        "2027-04-15"
+      ],
+      "occurrences": 25
     },
     {
       "id": "ev-lansdowne-boney-james-7ccadf",
@@ -9199,6 +8455,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-newtown-square-affording-ea-webinar-13bbee",
+      "name": "Affording EA Webinar",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning"
+      ],
+      "shortDescription": "Affording EA Webinar at a Delco venue in Newtown Square.",
+      "address": "Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-08",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cb5422ba-023f-4799-8255-d330d8c33259.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Nov 8",
+      "nextDate": "2026-11-08",
+      "dates": [
+        "2026-11-08"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-ghost-of-the-mill-jon-savage-and-the-class-4c7163",
       "name": "Ghost Of The Mill & Jon Savage and the Classic Rockers",
       "category": "events",
@@ -9516,7 +8810,7 @@
       ],
       "hours": {},
       "startDate": "2026-11-10",
-      "endDate": "2027-04-02",
+      "endDate": "2027-04-20",
       "recurring": "seasonal",
       "venueId": "",
       "phone": "",
@@ -9527,7 +8821,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Select dates, Nov 10 - Apr 2",
+      "schedule": "Select dates, Nov 10 - Apr 20",
       "nextDate": "2026-11-10",
       "dates": [
         "2026-11-10",
@@ -9536,9 +8830,10 @@
         "2027-02-09",
         "2027-02-23",
         "2027-03-08",
-        "2027-04-02"
+        "2027-04-02",
+        "2027-04-20"
       ],
-      "occurrences": 7
+      "occurrences": 8
     },
     {
       "id": "ev-wayne-radlit-book-club-4f7dca",
