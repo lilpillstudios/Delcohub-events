@@ -1,1500 +1,9 @@
 {
   "version": 1,
-  "scraped_at": "2026-10-24T13:24:46.233418+00:00",
+  "scraped_at": "2026-10-25T13:45:55.804746+00:00",
   "horizon_days": 180,
-  "event_count": 444,
+  "event_count": 421,
   "listings": [
-    {
-      "id": "ev-media-men-s-soccer-penn-st-berks-vs-penn-st-bran-0cbe68",
-      "name": "(Men's Soccer) Penn St.-Berks vs. Penn St. Brandywine",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "(Men's Soccer) Penn St.-Berks vs. Penn St. Brandywine at Brandywine Field in Media.",
-      "address": "Brandywine Field, Media, PA",
-      "town": "Media",
-      "lat": 39.91678,
-      "lng": -75.38769,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "http://www.psubrandywineathletics.com/landing/index",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b4f13205-36d4-456b-a2cd-4c796b529819.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Oct 24",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
-      "name": "2026 Gene Capaldi Lens on Litter Photo Contest",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "holiday",
-        "visual-arts"
-      ],
-      "shortDescription": "An annual litter photo contest; not intended to glorify litter but to bring attention to the litter problem in communities in Pennsylvania.",
-      "address": "Rose Tree Park, Hunt Club, 1521 North Providence Road, Media, PA",
-      "town": "Media",
-      "lat": 39.91678,
-      "lng": -75.38769,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "2026-10-31",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://prc.org/what-we-do/lens-on-litter-contest/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/EFSYwNi2eEyfCncurQHucg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Oct 24 - Oct 31",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24",
-        "2026-10-25",
-        "2026-10-26",
-        "2026-10-27",
-        "2026-10-28",
-        "2026-10-29",
-        "2026-10-30",
-        "2026-10-31"
-      ],
-      "occurrences": 8
-    },
-    {
-      "id": "ev-lansdowne-ashley-mcbryde-eea214",
-      "name": "Ashley McBryde",
-      "category": "events",
-      "subcategories": [
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Into The Wild Tour - “One of Nashville’s most reliable and sophisticated songwriters” (Los Angeles Times), GRAMMY, ACM, and CMA award-winning Grand Ole Opry member...",
-      "address": "Lansdowne Theater, Lansdowne, PA",
-      "town": "Lansdowne",
-      "lat": 39.939409,
-      "lng": -75.272179,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://brepresents.com/event/ashley-mcbryde/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/vOk848JCKEybcLgOVTjSsg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Oct 24",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-aldan-craft-chill-188aa9",
-      "name": "Craft & Chill",
-      "category": "events",
-      "subcategories": [
-        "crafts",
-        "special-audience"
-      ],
-      "shortDescription": "A safe space for women to make new connections while crafting away",
-      "address": "Aldan, PA",
-      "town": "Aldan",
-      "lat": 39.927566,
-      "lng": -75.280798,
-      "priceTier": 2,
-      "tags": [
-        "family",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/craft-chill-tickets-2003302402413",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/FIrgXQJp402dAZAfozPM9w.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Oct 24",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-lansdowne-deb-callahan-band-319ecd",
-      "name": "Deb Callahan Band",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "food-drink",
-        "live-music",
-        "music"
-      ],
-      "shortDescription": "Philly's premiere blues venue with great Asian food and drinks!",
-      "address": "Jamey's House of Music, Lansdowne, PA",
-      "town": "Lansdowne",
-      "lat": 39.937344,
-      "lng": -75.274493,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/109004983?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SBDkUp7dQkS_ZNWTY0wngg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Oct 24",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-environmental-youth-corps-b667f7",
-      "name": "Environmental Youth Corps",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "special-audience"
-      ],
-      "shortDescription": "Environmental Youth Corps at Eyre Park in Chester.",
-      "address": "Eyre Park, Chester, PA",
-      "town": "Chester",
-      "lat": 39.852008,
-      "lng": -75.364828,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "2026-11-14",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.chestercity.com/event/environmental-youth-corps-2/2026-10-24/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/DcPEiMEnwUWZ74eRBLJN8w.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Saturdays, Oct 24 - Nov 14",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24",
-        "2026-11-07",
-        "2026-11-14"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-chester-fright-night-bounce-flows-after-dark-75e51d",
-      "name": "Fright Night : BOUNCE & FLOWS AFTER DARK",
-      "category": "events",
-      "subcategories": [
-        "halloween",
-        "holiday"
-      ],
-      "shortDescription": "Get ready to jump, groove, and glow at Fright Night: BOUNCE & FLOWS AFTER DARK!",
-      "address": "Chester, PA",
-      "town": "Chester",
-      "lat": 39.847649,
-      "lng": -75.359945,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/fright-night-bounce-flows-after-dark-tickets-1998936713520",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/wzxzGmp1x0atOypm9zkEtA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Oct 24",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-fruits-of-the-forest-a-forager-sketchbook-65fef8",
-      "name": "Fruits of the Forest: A Forager Sketchbook with Margaret Saylor",
-      "category": "events",
-      "subcategories": [
-        "nature",
-        "outdoor-recreation",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Autumn is prime season for fungi, and the woodland floor has never been more interesting.",
-      "address": "Wayne Art Center, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.03894,
-      "lng": -75.394446,
-      "priceTier": 3,
-      "tags": [
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://wayneart.org/events/2130/fruits-of-the-forest-a-forager-sketchbook-with-margaret-saylor",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/xfCOJyZJVUyAzn7h_sOigA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Oct 24",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-gospel-karaoke-and-brunch-buffet-5d17c1",
-      "name": "Gospel Karaoke and Brunch Buffet",
-      "category": "events",
-      "subcategories": [
-        "faith",
-        "food",
-        "food-drink",
-        "lifestyle"
-      ],
-      "shortDescription": "Gospel Karaoke and Brunch Buffet at a Delco venue in Chester.",
-      "address": "Chester, PA",
-      "town": "Chester",
-      "lat": 39.857981,
-      "lng": -75.361016,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/gospel-karaoke-and-brunch-buffet-tickets-2001820824975",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/nejIpXWUOEy_HliDJ2TCYg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Oct 24",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-halloween-parade-07fe82",
-      "name": "Halloween Parade",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "festival",
-        "halloween",
-        "holiday"
-      ],
-      "shortDescription": "Halloween Parade at a Delco venue in Media.",
-      "address": "Media, PA",
-      "town": "Media",
-      "lat": 39.91678,
-      "lng": -75.38769,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.mediaborough.com/calendar.aspx?EID=2931",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/171b3b5c-ad38-44fa-90f7-7b87a4967e83.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Oct 24",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-homecoming-pre-pics-waynesborough-36631d",
-      "name": "Homecoming Pre-pics - Waynesborough CC",
-      "category": "events",
-      "subcategories": [
-        "destinations"
-      ],
-      "shortDescription": "Homecoming Pre-pics - Waynesborough CC",
-      "address": "Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a5c52139-cfdc-4d9a-8b7f-0de0b612f1a3.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Oct 24",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "lansdowne-farmers-market-lansdowne",
-      "name": "Lansdowne Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "farmers market",
-        "seasonal"
-      ],
-      "shortDescription": "Seasonal Saturday farmers market in Lansdowne selling local produce, baked goods, and handmade items.",
-      "address": "N Lansdowne Ave, Lansdowne, PA 19050",
-      "town": "Lansdowne",
-      "lat": 39.9385,
-      "lng": -75.2725,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "group"
-      ],
-      "featured": true,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "schedule": "Saturdays, summer-fall",
-      "recurring": "weekly",
-      "nextDate": "2026-10-24",
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-10-24"
-      ]
-    },
-    {
-      "id": "ev-media-mac-film-fest-the-macabre-archives-675e8b",
-      "name": "MAC Film Fest: The MACabre Archives",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "festival",
-        "film",
-        "street-fair"
-      ],
-      "shortDescription": "MAC Film Fest: The MACabre Archives",
-      "address": "Delaware County Institute of Science, Media, PA",
-      "town": "Media",
-      "lat": 39.91678,
-      "lng": -75.38769,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "historic",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.mediaartscouncil.org/calendar/mac-film-fest-the-macabre-archives",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/6aoq-A_A10u0yrNHukCzxw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Oct 24",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "marple-community-days",
-      "name": "Marple Township Community Days Fall Festival",
-      "category": "events",
-      "subcategories": [
-        "festival",
-        "seasonal"
-      ],
-      "shortDescription": "Marple Township's fall festival at Veterans Memorial Park brings rides, vendors, music, and food each October.",
-      "schedule": "Late October, annually",
-      "recurring": "annual",
-      "nextDate": "2026-10-24",
-      "address": "Veterans Memorial Park, Broomall, PA 19008",
-      "town": "Broomall",
-      "lat": 39.9812,
-      "lng": -75.3554,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "kid-friendly",
-        "group"
-      ],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-10-24"
-      ]
-    },
-    {
-      "id": "ev-media-misery-179fa7",
-      "name": "Misery",
-      "category": "events",
-      "subcategories": [
-        "halloween",
-        "holiday",
-        "performing-arts",
-        "theater"
-      ],
-      "shortDescription": "After a devastating car accident leaves novelist Paul Sheldon stranded in a remote cabin, he awakens under the care of Annie Wilkes, his self-proclaimed “number one...",
-      "address": "Hedgerow Theatre, Media, PA",
-      "town": "Media",
-      "lat": 39.897539,
-      "lng": -75.386668,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "2026-11-01",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "(610) 565-4211",
-      "website": "https://www.hedgerowtheatre.org/misery",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OtyxLaPmVUKxIC-56D9MWw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "6 dates, Oct 24 - Nov 1",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24",
-        "2026-10-25",
-        "2026-10-29",
-        "2026-10-30",
-        "2026-10-31",
-        "2026-11-01"
-      ],
-      "occurrences": 6
-    },
-    {
-      "id": "ev-glen-mills-namiwalks-main-line-2092df",
-      "name": "NAMIWalks Main Line",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "fundraiser",
-        "health-wellness",
-        "lifestyle"
-      ],
-      "shortDescription": "NAMIWalks is a way for local NAMI (National Alliance on Mental Illness) to raise funds and awareness.",
-      "address": "Concord Township Park, Glen Mills, PA",
-      "town": "Glen Mills",
-      "lat": 39.866632,
-      "lng": -75.514382,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.namiwalks.org/mainlinepa",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Lu1HfZviJkeV5bEJxSXbWg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Oct 24",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-philadelphia-union-vs-new-england-revolu-e6f658",
-      "name": "Philadelphia Union vs. New England Revolution",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Philadelphia Union vs. New England Revolution at Subaru Park in Chester.",
-      "address": "Subaru Park, Chester, PA",
-      "town": "Chester",
-      "lat": 39.832686,
-      "lng": -75.378395,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-859-3100",
-      "website": "",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OWjG7SacvE6RIbI5tnNHCA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Oct 24",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-clifton-heights-philly-ward-40a-chicken-fish-fry-502ab5",
-      "name": "Philly Ward 40A: Chicken & Fish Fry Fundraiser",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "food",
-        "food-drink",
-        "fundraiser"
-      ],
-      "shortDescription": "Join us for Philly Ward 40A’s tasty Chicken & Fish Fry Fundraiser – good eats and great vibes!",
-      "address": "Illusions Banquet Hall and Sports Bar, Clifton Heights, PA",
-      "town": "Clifton Heights",
-      "lat": 39.92717,
-      "lng": -75.303846,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/philly-ward-40a-chicken-fish-fry-fundraiser-tickets-2002758744317",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/EXtJCupiL0C3hISSp5dvjg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Oct 24",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-plush-in-the-box-90s-grunge-alternative-tr-1a29ed",
-      "name": "Plush In The Box: 90s Grunge & Alternative Tribute at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Plush In The Box: 90s Grunge & Alternative Tribute at 118 North Saturday, October 24, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by a Parent or Minor...",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/3674429626048418/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f608a54b-f778-4f5b-a596-31b98c839c0a.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Oct 24",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ridley-park-farmers-market",
-      "name": "Ridley Park Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "market",
-        "seasonal"
-      ],
-      "shortDescription": "Seasonal Saturday market in Ridley Park selling produce, baked goods, and local products through the warmer months.",
-      "schedule": "Saturdays, June-October",
-      "recurring": "weekly",
-      "nextDate": "2026-10-24",
-      "address": "105 E Ward St, Ridley Park, PA 19078",
-      "town": "Ridley Park",
-      "lat": 39.8815,
-      "lng": -75.3238,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "kid-friendly"
-      ],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-10-24"
-      ]
-    },
-    {
-      "id": "ev-wayne-riot-nerd-presents-video-bingo-horror-edit-203da1",
-      "name": "Riot Nerd Presents: Video Bingo - Horror Edition at 118 North",
-      "category": "events",
-      "subcategories": [
-        "games",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Riot Nerd Presents: Video Bingo - Horror Edition at 118 North Saturday, October 24, 2026 Doors: 3:00 PM | Show: 4:00 PM 21+ Unless Accompanied by Parent or Legal...",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1054908527257220/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/220822T170928%7CwuF7Zv0XG0m1yhxVlBHpnA.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Oct 24",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-smash-atoms-band-003550",
-      "name": "Smash Atoms Band",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Pop Punk cover band from West Chester, PA—reliving your teenage angst one anthem at a time! Booking: smshatoms@gmail.com",
-      "address": "Martinique Deux, Media, PA",
-      "town": "Media",
-      "lat": 39.918415,
-      "lng": -75.391665,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/108116107?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/HfH30NlXqEKr85dYG8D63w.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Oct 24",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-devon-spooky-spectacular-drag-bingo-a04711",
-      "name": "Spooky Spectacular Drag Bingo",
-      "category": "events",
-      "subcategories": [
-        "games",
-        "special-audience"
-      ],
-      "shortDescription": "Join fabulous drag artists Trixy Valentine, Amethyst Diamond, and Cyrus K. Stratton for an evening of Bingo fun in support of a great cause!",
-      "address": "Main Line Unitarian Church, Devon, PA",
-      "town": "Devon",
-      "lat": 40.029923,
-      "lng": -75.407229,
-      "priceTier": 3,
-      "tags": [
-        "family",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/spooky-spectacular-drag-bingo-tickets-1998921715661",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/w42K_Fb_3EGypngFMH6Adg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Oct 24",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "springfield-farmers-market",
-      "name": "Springfield Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "market",
-        "seasonal"
-      ],
-      "shortDescription": "Springfield's seasonal outdoor market offers fresh produce, flowers, and local goods on weekends through summer and fall.",
-      "schedule": "Weekends, summer-fall",
-      "recurring": "weekly",
-      "nextDate": "2026-10-24",
-      "address": "Springfield, PA 19064",
-      "town": "Springfield",
-      "lat": 39.9312,
-      "lng": -75.3479,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "kid-friendly"
-      ],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-10-24"
-      ]
-    },
-    {
-      "id": "ev-swarthmore-swarthmore-college-field-hockey-vs-wa-1e6e90",
-      "name": "Swarthmore College Field Hockey vs Washington College (Md.)",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Swarthmore College Field Hockey vs Washington College (Md.)\\nStreaming Video: https://www.centennialconference.tv/swarthmoreathletics/\\n",
-      "address": "Clothier Field Stadium, Swarthmore, PA",
-      "town": "Swarthmore",
-      "lat": 39.90206,
-      "lng": -75.34991,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://swarthmoreathletics.com/calendar.aspx?game_id=31088&sport_id=2",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ec02e2a0-a935-4331-916c-5ba19bffa75b.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Oct 24",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "swarthmore-farmers-market-swarthmore",
-      "name": "Swarthmore Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "farmers market",
-        "seasonal"
-      ],
-      "shortDescription": "Weekly warm-season market in Swarthmore featuring regional farmers, food vendors, and live music.",
-      "address": "Swarthmore Town Center, Swarthmore, PA 19081",
-      "town": "Swarthmore",
-      "lat": 39.903,
-      "lng": -75.349,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "group"
-      ],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "schedule": "Saturdays, warm season",
-      "recurring": "weekly",
-      "nextDate": "2026-10-24",
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-10-24"
-      ]
-    },
-    {
-      "id": "ev-newtown-square-tennis-varsity-girls-inter-ac-sin-7c3bd0",
-      "name": "Tennis - Varsity Girls Inter-Ac Singles Championship",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Tennis - Varsity Girls Inter-Ac Singles Championship",
-      "address": "Tennis Courts, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/038dcf91-8afb-4eed-a1c9-5eb3b4ef2978.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Oct 24",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-villanova-university-football-vs-lehig-b5b1d6",
-      "name": "Villanova University Football vs Lehigh",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Villanova University Football vs Lehigh TV: ESPN+ Radio: Villanova Sports Radio Network Streaming Video:...",
-      "address": "Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03176,
-      "lng": -75.34903,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanova.com/calendar.aspx?game_id=17569&amp;sport_id=3",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e2439a77-9511-4393-a8be-b5da490cc5c3.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Oct 24",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-villanova-university-men-s-soccer-vs-g-fa307b",
-      "name": "Villanova University Men's Soccer vs Georgetown University",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Villanova University Men's Soccer vs Georgetown University TV: ESPN+ Streaming Video: https://www.espn.com/watch/",
-      "address": "Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03176,
-      "lng": -75.34903,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanova.com/calendar.aspx?game_id=17761&amp;sport_id=9",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4bb46c0c-ec2a-4799-b30b-fd9cf072ae19.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Oct 24",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-villanova-university-softball-vs-lehig-c1b938",
-      "name": "Villanova University Softball vs Lehigh University",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Villanova University Softball vs Lehigh University",
-      "address": "Villanova Softball Complex, Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03176,
-      "lng": -75.34903,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanova.com/calendar.aspx?game_id=17886&amp;sport_id=13",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/724da31c-1b28-4723-b664-c1c1ca0e567f.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Oct 24",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-villanova-university-swimming-diving-v-0834a3",
-      "name": "Villanova University Swimming & Diving vs Georgetown University",
-      "category": "events",
-      "subcategories": [
-        "outdoor-recreation",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Villanova University Swimming & Diving vs Georgetown University Streaming Video:...",
-      "address": "Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03176,
-      "lng": -75.34903,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanova.com/calendar.aspx?game_id=17820&amp;sport_id=24",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c3bed831-7dd2-4403-9b71-811f4d28946d.medium.PNG",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Oct 24",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-villanova-university-women-s-volleybal-9d59a6",
-      "name": "Villanova University Women's Volleyball vs Seton Hall",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Villanova University Women's Volleyball vs Seton Hall Streaming Video:...",
-      "address": "Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03176,
-      "lng": -75.34903,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanova.com/calendar.aspx?game_id=17727&amp;sport_id=22",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e669d12a-a6ec-4151-8c5f-9397f6aae3d7.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Oct 24",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-villanova-wildcats-football-vs-lehigh-5d7a97",
-      "name": "Villanova Wildcats Football vs. Lehigh Mountain Hawks Football",
-      "category": "events",
-      "subcategories": [
-        "outdoor-recreation",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Villanova Wildcats Football vs. Lehigh Mountain Hawks Football at Villanova Stadium in Villanova.",
-      "address": "Villanova Stadium, Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03494,
-      "lng": -75.34058,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cdY2IvTGd0mqVlS8paqDYw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Oct 24",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-water-polo-varsity-boys-garden-st-04c288",
-      "name": "Water Polo - Varsity Boys @ Garden State Invitational",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "parks-gardens",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Water Polo - Varsity Boys @ Garden State Invitational",
-      "address": "The Lawrenceville School, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f9de544e-a936-4ae7-96c0-fc7f0d2460e7.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Oct 24",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-wicked-elizabeth-wilson-460fac",
-      "name": "Wicked Elizabeth Wilson",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Experience the haunting tale of a local crime and tragic loss.",
-      "address": "Colonial Pennsylvania Farmstead, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.968636,
-      "lng": -75.453585,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/wicked-elizabeth-wilson-tickets-1999267200014",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RacHoAXvG0uJ3_SubAHFag.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Oct 24",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-widener-pride-men-s-soccer-vs-stevenson-66ff22",
-      "name": "Widener Pride: Men's Soccer vs Stevenson",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Men's Soccer vs Stevenson Streaming Video: https://gomacsports.tv/widenerpride/",
-      "address": "Elizabeth J. Hirschmann Field at Leslie C. Quick Jr. Stadium, Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14403&amp;sport_id=7",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/890273d5-60d0-444d-b73a-b8cd330e83a8.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Oct 24",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-widener-pride-women-s-soccer-vs-stevenso-3c165e",
-      "name": "Widener Pride: Women's Soccer vs Stevenson",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Women's Soccer vs Stevenson Streaming Video: https://gomacsports.tv/widenerpride/",
-      "address": "Elizabeth J. Hirschmann Field at Leslie C. Quick Jr. Stadium, Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14490&amp;sport_id=11",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b4f13205-36d4-456b-a2cd-4c796b529819.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Oct 24",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-widener-pride-women-s-volleyball-vs-baru-440755",
-      "name": "Widener Pride: Women's Volleyball vs Baruch",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Women's Volleyball vs Baruch",
-      "address": "Paterson, Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-24",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14555&amp;sport_id=13",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1c5f516e-c648-44bf-ba17-ce3f5c2af91a.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Oct 24",
-      "nextDate": "2026-10-24",
-      "dates": [
-        "2026-10-24"
-      ],
-      "occurrences": 1
-    },
     {
       "id": "ev-chester-20-off-early-bird-2026-delco-autism-awar-191f67",
       "name": "20% off - Early Bird - 2026 Delco Autism Awareness Fashion Week",
@@ -1534,6 +43,51 @@
         "2026-10-25"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
+      "name": "2026 Gene Capaldi Lens on Litter Photo Contest",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "holiday",
+        "visual-arts"
+      ],
+      "shortDescription": "An annual litter photo contest; not intended to glorify litter but to bring attention to the litter problem in communities in Pennsylvania.",
+      "address": "Rose Tree Park, Hunt Club, 1521 North Providence Road, Media, PA",
+      "town": "Media",
+      "lat": 39.91678,
+      "lng": -75.38769,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-25",
+      "endDate": "2026-10-31",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://prc.org/what-we-do/lens-on-litter-contest/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/EFSYwNi2eEyfCncurQHucg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Oct 25 - Oct 31",
+      "nextDate": "2026-10-25",
+      "dates": [
+        "2026-10-25",
+        "2026-10-26",
+        "2026-10-27",
+        "2026-10-28",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31"
+      ],
+      "occurrences": 7
     },
     {
       "id": "ev-swarthmore-brittany-haas-natalie-haas-d8c4ef",
@@ -1694,6 +248,50 @@
       "dates": [
         "2026-10-25"
       ]
+    },
+    {
+      "id": "ev-media-misery-179fa7",
+      "name": "Misery",
+      "category": "events",
+      "subcategories": [
+        "halloween",
+        "holiday",
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "After a devastating car accident leaves novelist Paul Sheldon stranded in a remote cabin, he awakens under the care of Annie Wilkes, his self-proclaimed “number one...",
+      "address": "Hedgerow Theatre, Media, PA",
+      "town": "Media",
+      "lat": 39.897539,
+      "lng": -75.386668,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-25",
+      "endDate": "2026-11-01",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "(610) 565-4211",
+      "website": "https://www.hedgerowtheatre.org/misery",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OtyxLaPmVUKxIC-56D9MWw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "5 dates, Oct 25 - Nov 1",
+      "nextDate": "2026-10-25",
+      "dates": [
+        "2026-10-25",
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "occurrences": 5
     },
     {
       "id": "ev-wayne-painting-mood-with-mark-vander-vinne-45e5b4",
@@ -4654,7 +3252,7 @@
       ],
       "hours": {},
       "startDate": "2026-10-29",
-      "endDate": "2027-04-15",
+      "endDate": "2027-04-22",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -4665,7 +3263,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Thursdays, Oct 29 - Apr 15",
+      "schedule": "Thursdays, Oct 29 - Apr 22",
       "nextDate": "2026-10-29",
       "dates": [
         "2026-10-29",
@@ -4692,9 +3290,10 @@
         "2027-03-25",
         "2027-04-01",
         "2027-04-08",
-        "2027-04-15"
+        "2027-04-15",
+        "2027-04-22"
       ],
-      "occurrences": 25
+      "occurrences": 26
     },
     {
       "id": "ev-lansdowne-boney-james-7ccadf",
@@ -5288,6 +3887,120 @@
       "occurrences": 3
     },
     {
+      "id": "lansdowne-farmers-market-lansdowne",
+      "name": "Lansdowne Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "farmers market",
+        "seasonal"
+      ],
+      "shortDescription": "Seasonal Saturday farmers market in Lansdowne selling local produce, baked goods, and handmade items.",
+      "address": "N Lansdowne Ave, Lansdowne, PA 19050",
+      "town": "Lansdowne",
+      "lat": 39.9385,
+      "lng": -75.2725,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "group"
+      ],
+      "featured": true,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "schedule": "Saturdays, summer-fall",
+      "recurring": "weekly",
+      "nextDate": "2026-10-31",
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-10-31"
+      ]
+    },
+    {
+      "id": "ridley-park-farmers-market",
+      "name": "Ridley Park Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "market",
+        "seasonal"
+      ],
+      "shortDescription": "Seasonal Saturday market in Ridley Park selling produce, baked goods, and local products through the warmer months.",
+      "schedule": "Saturdays, June-October",
+      "recurring": "weekly",
+      "nextDate": "2026-10-31",
+      "address": "105 E Ward St, Ridley Park, PA 19078",
+      "town": "Ridley Park",
+      "lat": 39.8815,
+      "lng": -75.3238,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "kid-friendly"
+      ],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-10-31"
+      ]
+    },
+    {
+      "id": "springfield-farmers-market",
+      "name": "Springfield Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "market",
+        "seasonal"
+      ],
+      "shortDescription": "Springfield's seasonal outdoor market offers fresh produce, flowers, and local goods on weekends through summer and fall.",
+      "schedule": "Weekends, summer-fall",
+      "recurring": "weekly",
+      "nextDate": "2026-10-31",
+      "address": "Springfield, PA 19064",
+      "town": "Springfield",
+      "lat": 39.9312,
+      "lng": -75.3479,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "kid-friendly"
+      ],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-10-31"
+      ]
+    },
+    {
       "id": "ev-wayne-starting-strong-building-a-painting-from-t-b3a3fe",
       "name": "Starting Strong: Building a Painting from the Darks with Fred Jackson",
       "category": "events",
@@ -5444,6 +4157,44 @@
       "occurrences": 1
     },
     {
+      "id": "swarthmore-farmers-market-swarthmore",
+      "name": "Swarthmore Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "farmers market",
+        "seasonal"
+      ],
+      "shortDescription": "Weekly warm-season market in Swarthmore featuring regional farmers, food vendors, and live music.",
+      "address": "Swarthmore Town Center, Swarthmore, PA 19081",
+      "town": "Swarthmore",
+      "lat": 39.903,
+      "lng": -75.349,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "group"
+      ],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "schedule": "Saturdays, warm season",
+      "recurring": "weekly",
+      "nextDate": "2026-10-31",
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-10-31"
+      ]
+    },
+    {
       "id": "ev-chester-the-wdas-live-hbcu-day-party-experience-42342c",
       "name": "THE WDAS LIVE \"HBCU\" DAY PARTY EXPERIENCE",
       "category": "events",
@@ -5546,6 +4297,46 @@
       "website": "https://villanova.com/calendar.aspx?game_id=17763&amp;sport_id=9",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f5a7f77d-0c51-4a57-a1ba-4bad118eb6f1.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 31",
+      "nextDate": "2026-10-31",
+      "dates": [
+        "2026-10-31"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-villanova-villanova-university-women-s-volleybal-5896d5",
+      "name": "Villanova University Women's Volleyball at Providence",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Villanova University Women's Volleyball at Providence",
+      "address": "Providence, Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.03176,
+      "lng": -75.34903,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-31",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://villanova.com/calendar.aspx?game_id=17729&amp;sport_id=22",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7df57544-f36c-4258-bdb8-55ca1ace2cf6.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -6547,6 +5338,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-villanova-villanova-university-swimming-diving-v-2d8739",
+      "name": "Villanova University Swimming & Diving vs University of Pennsylvania (W)",
+      "category": "events",
+      "subcategories": [
+        "outdoor-recreation",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Villanova University Swimming & Diving vs University of Pennsylvania (W)",
+      "address": "Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.03176,
+      "lng": -75.34903,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-11-04",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://villanova.com/calendar.aspx?game_id=17821&amp;sport_id=24",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4ce5c2aa-9694-47f3-b1df-eaef5c32cd30.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Nov 4",
+      "nextDate": "2026-11-04",
+      "dates": [
+        "2026-11-04"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-chester-widener-pride-women-s-volleyball-vs-neum-581571",
       "name": "Widener Pride: Women's Volleyball vs Neumann",
       "category": "events",
@@ -7167,6 +5998,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chester-widener-pride-women-s-basketball-vs-mary-d32f79",
+      "name": "Widener Pride: Women's Basketball vs Marywood",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Women's Basketball vs Marywood Streaming Video: https://gomacsports.tv/widenerpride/ Tickets:...",
+      "address": "Chester, PA",
+      "town": "Chester",
+      "lat": 39.85268,
+      "lng": -75.360687,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://widenerpride.com/calendar.aspx?game_id=14615&amp;sport_id=8",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d79fec9e-625d-494a-8623-ed009ee58656.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Nov 6",
+      "nextDate": "2026-11-06",
+      "dates": [
+        "2026-11-06"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-chester-widener-pride-women-s-basketball-vs-tip-54c45a",
       "name": "Widener Pride: Women's Basketball vs Tip Off Tournament",
       "category": "events",
@@ -7322,6 +6193,46 @@
         "2026-11-07"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-chester-environmental-youth-corps-b667f7",
+      "name": "Environmental Youth Corps",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "special-audience"
+      ],
+      "shortDescription": "Environmental Youth Corps at Eyre Park in Chester.",
+      "address": "Eyre Park, Chester, PA",
+      "town": "Chester",
+      "lat": 39.852008,
+      "lng": -75.364828,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-14",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.chestercity.com/event/environmental-youth-corps-2/2026-11-07/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/DcPEiMEnwUWZ74eRBLJN8w.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Saturdays, Nov 7 - Nov 14",
+      "nextDate": "2026-11-07",
+      "dates": [
+        "2026-11-07",
+        "2026-11-14"
+      ],
+      "occurrences": 2
     },
     {
       "id": "ev-wayne-expressive-abstract-inspired-by-20th-c-pai-c64fd5",
@@ -9033,6 +7944,47 @@
       "occurrences": 1
     },
     {
+      "id": "ev-aston-aston-mills-arts-annual-art-show-and-sale-3d03bc",
+      "name": "Aston Mills Arts Annual Art Show and Sale",
+      "category": "events",
+      "subcategories": [
+        "markets",
+        "visual-arts"
+      ],
+      "shortDescription": "Public show: November 14 & 15, 21 & 22, 11am-4pm Step inside 10,000 square feet of working fine art studios and galleries at our Annual Art Show & Sale.",
+      "address": "Aston Mills Arts, Aston, PA",
+      "town": "Aston",
+      "lat": 39.884953,
+      "lng": -75.444995,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-22",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.astonmillsarts.com/events/z67fnfkdrsywtzalcmde6r3y8t5x9c",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/uWxpGPmEmEKSCvuKSWlR1Q.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Sun, Nov 14 - Nov 22",
+      "nextDate": "2026-11-14",
+      "dates": [
+        "2026-11-14",
+        "2026-11-15",
+        "2026-11-21",
+        "2026-11-22"
+      ],
+      "occurrences": 4
+    },
+    {
       "id": "ev-media-charity-bingo-night-presented-by-the-rotar-413dcc",
       "name": "Charity Bingo Night (Presented by the Rotary Club of",
       "category": "events",
@@ -9493,6 +8445,48 @@
       "website": "https://widenerpride.com/calendar.aspx?game_id=14674&amp;sport_id=3",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d79fec9e-625d-494a-8623-ed009ee58656.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 14",
+      "nextDate": "2026-11-14",
+      "dates": [
+        "2026-11-14"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-widener-pride-women-s-swimming-vs-fdu-fl-f3166e",
+      "name": "Widener Pride: Women's Swimming vs FDU-Florham",
+      "category": "events",
+      "subcategories": [
+        "outdoor-recreation",
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Women's Swimming vs FDU-Florham Streaming Video: https://gomacsports.tv/widenerpride/",
+      "address": "Chester, PA",
+      "town": "Chester",
+      "lat": 39.85268,
+      "lng": -75.360687,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-11-14",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://widenerpride.com/calendar.aspx?game_id=14344&amp;sport_id=18",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ee8d4ba4-6c90-4bf8-b703-bda9d6b9e60e.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -13945,6 +12939,48 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chester-widener-pride-women-s-swimming-vs-arcadi-b05fbd",
+      "name": "Widener Pride: Women's Swimming vs Arcadia",
+      "category": "events",
+      "subcategories": [
+        "outdoor-recreation",
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Women's Swimming vs Arcadia Streaming Video: https://gomacsports.tv/widenerpride/",
+      "address": "Chester, PA",
+      "town": "Chester",
+      "lat": 39.85268,
+      "lng": -75.360687,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2027-01-16",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://widenerpride.com/calendar.aspx?game_id=14346&amp;sport_id=18",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9f6fcce3-17f3-4b4f-87ef-954c2ada5c15.medium.PNG",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Jan 16",
+      "nextDate": "2027-01-16",
+      "dates": [
+        "2027-01-16"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-bryn-mawr-middle-school-division-director-winter-2d2d2d",
       "name": "Middle School Division Director Winter Update",
       "category": "events",
@@ -14090,6 +13126,46 @@
       "website": "https://widenerpride.com/calendar.aspx?game_id=14665&amp;sport_id=3",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/71fb6e77-be06-4af3-87c9-8c3c6563f966.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Jan 20",
+      "nextDate": "2027-01-20",
+      "dates": [
+        "2027-01-20"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-widener-pride-men-s-swimming-vs-immacula-9340e7",
+      "name": "Widener Pride: Men's Swimming vs Immaculata",
+      "category": "events",
+      "subcategories": [
+        "outdoor-recreation",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Men's Swimming vs Immaculata Streaming Video: https://gomacsports.tv/widenerpride/",
+      "address": "Chester, PA",
+      "town": "Chester",
+      "lat": 39.85268,
+      "lng": -75.360687,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2027-01-20",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://widenerpride.com/calendar.aspx?game_id=14360&amp;sport_id=17",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7f2e5f57-6cdc-46ea-91da-fcdfb7fec699.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -17286,6 +16362,45 @@
       "occurrences": 1,
       "dates": [
         "2027-10-17"
+      ]
+    },
+    {
+      "id": "marple-community-days",
+      "name": "Marple Township Community Days Fall Festival",
+      "category": "events",
+      "subcategories": [
+        "festival",
+        "seasonal"
+      ],
+      "shortDescription": "Marple Township's fall festival at Veterans Memorial Park brings rides, vendors, music, and food each October.",
+      "schedule": "Late October, annually",
+      "recurring": "annual",
+      "nextDate": "2027-10-24",
+      "address": "Veterans Memorial Park, Broomall, PA 19008",
+      "town": "Broomall",
+      "lat": 39.9812,
+      "lng": -75.3554,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "kid-friendly",
+        "group"
+      ],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2027-10-24"
       ]
     },
     {
