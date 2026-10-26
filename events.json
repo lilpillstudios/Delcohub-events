@@ -1,49 +1,9 @@
 {
   "version": 1,
-  "scraped_at": "2026-10-25T13:45:55.804746+00:00",
+  "scraped_at": "2026-10-26T16:12:52.556193+00:00",
   "horizon_days": 180,
-  "event_count": 421,
+  "event_count": 414,
   "listings": [
-    {
-      "id": "ev-chester-20-off-early-bird-2026-delco-autism-awar-191f67",
-      "name": "20% off - Early Bird - 2026 Delco Autism Awareness Fashion Week",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "health-wellness",
-        "lifestyle",
-        "special-audience"
-      ],
-      "shortDescription": "Join us for a feel-good event celebrating autism awareness, neurodiverse communities, and amazing locally-based designer talent!",
-      "address": "Primepoint Club, Chester, PA",
-      "town": "Chester",
-      "lat": 39.833307,
-      "lng": -75.378474,
-      "priceTier": 3,
-      "tags": [
-        "family",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/20-off-early-bird-2026-delco-autism-awareness-fashion-week-tickets-2003183631165",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/A7cKPjXN10y_BWrSd1OKDQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Oct 25",
-      "nextDate": "2026-10-25",
-      "dates": [
-        "2026-10-25"
-      ],
-      "occurrences": 1
-    },
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
       "name": "2026 Gene Capaldi Lens on Litter Photo Contest",
@@ -64,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-10-25",
+      "startDate": "2026-10-26",
       "endDate": "2026-10-31",
       "recurring": "none",
       "venueId": "",
@@ -76,10 +36,9 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Oct 25 - Oct 31",
-      "nextDate": "2026-10-25",
+      "schedule": "Daily, Oct 26 - Oct 31",
+      "nextDate": "2026-10-26",
       "dates": [
-        "2026-10-25",
         "2026-10-26",
         "2026-10-27",
         "2026-10-28",
@@ -87,563 +46,7 @@
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 7
-    },
-    {
-      "id": "ev-swarthmore-brittany-haas-natalie-haas-d8c4ef",
-      "name": "Brittany Haas & Natalie Haas",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "www.brittanyhaas.com Fiddler with Hawktail, Natalie & Brittany Haas, etc.",
-      "address": "Park Avenue Community Center (PAC Center), Swarthmore, PA",
-      "town": "Swarthmore",
-      "lat": 39.901274,
-      "lng": -75.350011,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/108463108?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7j3mP0Lrh0mm3aZUscY8Jg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Oct 25",
-      "nextDate": "2026-10-25",
-      "dates": [
-        "2026-10-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-swarthmore-cooper-series-sites-of-memory-36e95f",
-      "name": "Cooper Series: Sites of Memory",
-      "category": "events",
-      "subcategories": [
-        "film",
-        "learning",
-        "lifestyle",
-        "music"
-      ],
-      "shortDescription": "Sites of Memory Experience a screening of the acclaimed short film Sites of Memory, followed by a powerful choral performance by Voices of Philadelphia, whose music...",
-      "address": "Swarthmore, PA",
-      "town": "Swarthmore",
-      "lat": 39.905447,
-      "lng": -75.356191,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1858462551982173/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/319a8166-345c-46fa-b8cd-d42a50e8707d.medium.PNG",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Oct 25",
-      "nextDate": "2026-10-25",
-      "dates": [
-        "2026-10-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-fall-workshop-family-fun-day-with-multiple-814eb0",
-      "name": "Fall Workshop Family Fun Day with Multiple Workshops!",
-      "category": "events",
-      "subcategories": [
-        "family",
-        "learning",
-        "special-audience",
-        "workshop"
-      ],
-      "shortDescription": "Fall Workshop Family Fun Day with Multiple Workshops! at Wayne Art Center in Wayne.",
-      "address": "Wayne Art Center, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.03894,
-      "lng": -75.394446,
-      "priceTier": 3,
-      "tags": [
-        "family",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://wayneart.org/events/2159/fall-workshop-family-fun-day-with-multiple-workshops",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9c513ac8-c270-4588-b749-360601ab955e.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Oct 25",
-      "nextDate": "2026-10-25",
-      "dates": [
-        "2026-10-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "media-borough-halloween-parade",
-      "name": "Media Borough Halloween Parade",
-      "category": "events",
-      "subcategories": [
-        "parade",
-        "seasonal"
-      ],
-      "shortDescription": "Long-running annual Halloween parade down Media's State Street, a beloved autumn tradition for county families.",
-      "address": "State St, Media, PA 19063",
-      "town": "Media",
-      "lat": 39.9166,
-      "lng": -75.388,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "kid-friendly",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "",
-      "endDate": "",
-      "recurring": "annual",
-      "venueId": "media-state-street-district",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "schedule": "Late October",
-      "nextDate": "2026-10-25",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-10-25"
-      ]
-    },
-    {
-      "id": "ev-media-misery-179fa7",
-      "name": "Misery",
-      "category": "events",
-      "subcategories": [
-        "halloween",
-        "holiday",
-        "performing-arts",
-        "theater"
-      ],
-      "shortDescription": "After a devastating car accident leaves novelist Paul Sheldon stranded in a remote cabin, he awakens under the care of Annie Wilkes, his self-proclaimed “number one...",
-      "address": "Hedgerow Theatre, Media, PA",
-      "town": "Media",
-      "lat": 39.897539,
-      "lng": -75.386668,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-25",
-      "endDate": "2026-11-01",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "(610) 565-4211",
-      "website": "https://www.hedgerowtheatre.org/misery",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OtyxLaPmVUKxIC-56D9MWw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "5 dates, Oct 25 - Nov 1",
-      "nextDate": "2026-10-25",
-      "dates": [
-        "2026-10-25",
-        "2026-10-29",
-        "2026-10-30",
-        "2026-10-31",
-        "2026-11-01"
-      ],
-      "occurrences": 5
-    },
-    {
-      "id": "ev-wayne-painting-mood-with-mark-vander-vinne-45e5b4",
-      "name": "Painting Mood with Mark Vander Vinne",
-      "category": "events",
-      "subcategories": [
-        "lifestyle",
-        "visual-arts"
-      ],
-      "shortDescription": "This two-day workshop explores how artists can use limited palettes, dominant color relationships, and value structure to create landscape paintings with greater mood,...",
-      "address": "Wayne Art Center, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.03894,
-      "lng": -75.394446,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://wayneart.org/events/2133/painting-mood-with-mark-vander-vinne",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/w87kzYR9e02M0lbtKiGzzQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Oct 25",
-      "nextDate": "2026-10-25",
-      "dates": [
-        "2026-10-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-pumpkinpalooza-1835bd",
-      "name": "PumpkinPalooza",
-      "category": "events",
-      "subcategories": [
-        "halloween",
-        "holiday"
-      ],
-      "shortDescription": "PumpkinPalooza at a Delco venue in Media.",
-      "address": "Media, PA",
-      "town": "Media",
-      "lat": 39.91678,
-      "lng": -75.38769,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.mediaborough.com/calendar.aspx?EID=2932",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9060b269-2e6e-45e1-b15f-031b6eaee676.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Oct 25",
-      "nextDate": "2026-10-25",
-      "dates": [
-        "2026-10-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-glen-mills-pumpkins-pilates-clean-juice-x-jetset-7570b4",
-      "name": "Pumpkins & Pilates | Clean Juice x JETSET",
-      "category": "events",
-      "subcategories": [
-        "fitness",
-        "sports-outdoors"
-      ],
-      "shortDescription": "A fall-themed pilates morning with Clean Juice x JETSET",
-      "address": "Glen Eagle Square, Glen Mills, PA",
-      "town": "Glen Mills",
-      "lat": 39.863455,
-      "lng": -75.542444,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/pumpkins-pilates-clean-juice-x-jetset-tickets-2003009097129",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/PVjPZjZ2WEeysErHHb642w.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Oct 25",
-      "nextDate": "2026-10-25",
-      "dates": [
-        "2026-10-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-sissinghurst-castle-garden-86bfd7",
-      "name": "Sissinghurst Castle Garden",
-      "category": "events",
-      "subcategories": [
-        "christmas",
-        "crafts",
-        "destinations",
-        "family"
-      ],
-      "shortDescription": "Historic, poetic, iconic: a refuge dedicated to beauty. Vita Sackville-West and Harold Nicolson fell in love with Sissinghurst Castle and created a world-renowned garden.",
-      "address": "Chanticleer Foundation, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.030478,
-      "lng": -75.389991,
-      "priceTier": 3,
-      "tags": [
-        "family",
-        "group",
-        "historic",
-        "kid-friendly",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-10-25",
-      "endDate": "2026-12-31",
-      "recurring": "seasonal",
-      "venueId": "",
-      "phone": "(610) 687-4163",
-      "website": "https://www.nationaltrust.org.uk/visit/kent/sissinghurst-castle-garden/events/6bd3f1a1-b7b0-4f8b-a743-1dfe084772b4",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/BIGsYhf_9UC76ZD3peg81g.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Select dates, Oct 25 - Dec 31",
-      "nextDate": "2026-10-25",
-      "dates": [
-        "2026-10-25",
-        "2026-10-26",
-        "2026-12-31"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-lansdowne-slim-and-the-south-street-hustle-ca05e9",
-      "name": "Slim and the South Street Hustle",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "food",
-        "food-drink",
-        "live-music"
-      ],
-      "shortDescription": "Come out for the Sunday Blues Brunch and jam!",
-      "address": "Jamey's House of Music, Lansdowne, PA",
-      "town": "Lansdowne",
-      "lat": 39.937344,
-      "lng": -75.274493,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/108953052?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Hlzic5Y8EUuc1jd8mMvLxA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Oct 25",
-      "nextDate": "2026-10-25",
-      "dates": [
-        "2026-10-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-essington-strega-nona-story-time-72a6f8",
-      "name": "Strega Nona Story time",
-      "category": "events",
-      "subcategories": [
-        "kids",
-        "literary-arts",
-        "special-audience"
-      ],
-      "shortDescription": "Story time with an Italian Witch and her magic pasta pot. She will read her book and tell stories",
-      "address": "Lazaretto Building, Essington, PA",
-      "town": "Essington",
-      "lat": 39.860728,
-      "lng": -75.300058,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-10-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/strega-nona-story-time-tickets-2003345143252",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5pvi04UoJkiFnSeXfSSSIg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Oct 25",
-      "nextDate": "2026-10-25",
-      "dates": [
-        "2026-10-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-villanova-university-field-hockey-at-w-f1472b",
-      "name": "Villanova University Field Hockey at Wagner",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Villanova University Field Hockey at Wagner",
-      "address": "Staten Island, Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03176,
-      "lng": -75.34903,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanova.com/calendar.aspx?game_id=17812&amp;sport_id=2",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b04bdf65-d71d-4a5a-a43a-cf4f24a1e822.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Oct 25",
-      "nextDate": "2026-10-25",
-      "dates": [
-        "2026-10-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-wxpn-welcomes-little-barrie-at-118-north-8c307c",
-      "name": "WXPN Welcomes: Little Barrie at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "WXPN Welcomes: Little Barrie at 118 North Sunday, October 25, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1125728859857225/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/607f2af6-c086-49dc-82f3-0baba78bda84.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Oct 25",
-      "nextDate": "2026-10-25",
-      "dates": [
-        "2026-10-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-wally-smith-organ-trio-at-118-north-1fdb78",
-      "name": "Wally Smith Organ Trio at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Wally Smith Organ Trio at 118 North Sunday, October 25, 2026 Doors & Show: 4:00 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/2732388190552225/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cB7Pj-BHfU6dcvbFweIERw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Oct 25",
-      "nextDate": "2026-10-25",
-      "dates": [
-        "2026-10-25"
-      ],
-      "occurrences": 1
+      "occurrences": 6
     },
     {
       "id": "ev-newtown-square-cancelled-soccer-3rds-boys-ga-1cf62f",
@@ -1060,7 +463,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-newtown-square-prospective-student-athlete-186546",
+      "id": "ev-newtown-square-prospective-student-athlete-0cff63",
       "name": "Prospective Student Athlete",
       "category": "events",
       "subcategories": [
@@ -1068,10 +471,10 @@
         "sports-outdoors"
       ],
       "shortDescription": "Prospective Student Athlete",
-      "address": "Theater - Carrafiell Theater, Newtown Square, PA",
+      "address": "Theater - Lobby, Newtown Square, PA",
       "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
+      "lat": 39.98768,
+      "lng": -75.38274,
       "priceTier": 0,
       "tags": [
         "free",
@@ -1085,7 +488,7 @@
       "phone": "",
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3491619c-7af4-425a-97c8-477b025b9278.medium.png",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cec9f78e-7b92-4b10-94ba-030d00b441ec.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -1096,6 +499,50 @@
         "2026-10-26"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-sissinghurst-castle-garden-86bfd7",
+      "name": "Sissinghurst Castle Garden",
+      "category": "events",
+      "subcategories": [
+        "christmas",
+        "crafts",
+        "destinations",
+        "family"
+      ],
+      "shortDescription": "Historic, poetic, iconic: a refuge dedicated to beauty. Vita Sackville-West and Harold Nicolson fell in love with Sissinghurst Castle and created a world-renowned garden.",
+      "address": "Chanticleer Foundation, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.030478,
+      "lng": -75.389991,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group",
+        "historic",
+        "kid-friendly",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-10-26",
+      "endDate": "2026-12-31",
+      "recurring": "seasonal",
+      "venueId": "",
+      "phone": "(610) 687-4163",
+      "website": "https://www.nationaltrust.org.uk/visit/kent/sissinghurst-castle-garden/events/6bd3f1a1-b7b0-4f8b-a743-1dfe084772b4",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/BIGsYhf_9UC76ZD3peg81g.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Select dates, Oct 26 - Dec 31",
+      "nextDate": "2026-10-26",
+      "dates": [
+        "2026-10-26",
+        "2026-12-31"
+      ],
+      "occurrences": 2
     },
     {
       "id": "ev-wayne-sprouts-a-student-led-botany-course-b15e98",
@@ -2922,6 +2369,49 @@
         "2026-10-29"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-media-misery-179fa7",
+      "name": "Misery",
+      "category": "events",
+      "subcategories": [
+        "halloween",
+        "holiday",
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "After a devastating car accident leaves novelist Paul Sheldon stranded in a remote cabin, he awakens under the care of Annie Wilkes, his self-proclaimed “number one...",
+      "address": "Hedgerow Theatre, Media, PA",
+      "town": "Media",
+      "lat": 39.897539,
+      "lng": -75.386668,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-29",
+      "endDate": "2026-11-01",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "(610) 565-4211",
+      "website": "https://www.hedgerowtheatre.org/misery",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OtyxLaPmVUKxIC-56D9MWw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Oct 29 - Nov 1",
+      "nextDate": "2026-10-29",
+      "dates": [
+        "2026-10-29",
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "occurrences": 4
     },
     {
       "id": "ev-bryn-mawr-one-time-adult-wheel-class-edcc01",
@@ -5946,6 +5436,43 @@
       "website": "https://www.bandsintown.com/e/108304947?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mo20iXgKGEG7KG34rll-8g.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Nov 6",
+      "nextDate": "2026-11-06",
+      "dates": [
+        "2026-11-06"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-media-slainte-a-stand-up-comedy-show-98f807",
+      "name": "Slainte: a Stand Up Comedy Show",
+      "category": "events",
+      "subcategories": [
+        "comedy",
+        "performing-arts"
+      ],
+      "shortDescription": "Get ready to laugh until your sides hurt at Slainte: a Stand Up Comedy Show, where the jokes are as smooth as the Guinness.",
+      "address": "Sligo Irish Pub, Media, PA",
+      "town": "Media",
+      "lat": 39.918417,
+      "lng": -75.39154,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/slainte-a-stand-up-comedy-show-tickets-2003517509805",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3pZySB3jSkehzYG3gAhSUw.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -9186,6 +8713,42 @@
       "occurrences": 1
     },
     {
+      "id": "ev-brookhaven-glen-riddle-rotary-bingo-night-dfd5b3",
+      "name": "Glen Riddle Rotary Bingo Night",
+      "category": "events",
+      "subcategories": [
+        "games"
+      ],
+      "shortDescription": "Join Glen Riddle Rotary for Cash Bingo on Nov. 20! Enjoy $1,400+ in prizes, baskets, door prizes, and festive fun!",
+      "address": "Brookhaven Community Center Gymnasium, Brookhaven, PA",
+      "town": "Brookhaven",
+      "lat": 39.876555,
+      "lng": -75.392068,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-20",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/glen-riddle-rotary-bingo-night-tickets-2003430401261",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-t44Q6YXp0GxXUaFBc55WQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Nov 20",
+      "nextDate": "2026-11-20",
+      "dates": [
+        "2026-11-20"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "holidays-at-brandywine-chadds-ford",
       "name": "Holidays at Brandywine (Brandywine Railroad)",
       "category": "events",
@@ -9603,6 +9166,43 @@
       "website": "https://wayneart.org/events/2121/seeing-the-big-picture-in-landscape-painting-with-claire-haik",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/E1Bh1Dl6z0C6ti33lflpfA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 21",
+      "nextDate": "2026-11-21",
+      "dates": [
+        "2026-11-21"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-lansdowne-stories-we-carry-time-capsule-building-8dfcfc",
+      "name": "Stories We Carry Time Capsule Building",
+      "category": "events",
+      "subcategories": [
+        "literary-arts"
+      ],
+      "shortDescription": "We invite neighbors and friends to take part in a Time Capsule building workshop.",
+      "address": "2020 Gallery, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.93547,
+      "lng": -75.2724,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-21",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/stories-we-carry-time-capsule-building-tickets-2002349712893",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/YMCSIu53CEmucQukgH1SZQ.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -15786,6 +15386,80 @@
       "occurrences": 1
     },
     {
+      "id": "ev-newtown-square-artsfest-dbb0bb",
+      "name": "ArtsFest",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "ArtsFest at Clark Campus Green in Newtown Square.",
+      "address": "Clark Campus Green, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-04-23",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Apr 23",
+      "nextDate": "2027-04-23",
+      "dates": [
+        "2027-04-23"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-musical-preview-161c60",
+      "name": "Musical Preview",
+      "category": "events",
+      "subcategories": [
+        "musical",
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "Musical Preview at Theater - Carrafiell Theater in Newtown Square.",
+      "address": "Theater - Carrafiell Theater, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-04-23",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/062d4c89-203d-4b32-8806-9952f398dc8f.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Apr 23",
+      "nextDate": "2027-04-23",
+      "dates": [
+        "2027-04-23"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "swarthmore-rotary-fun-fair",
       "name": "Swarthmore Rotary Charity Fun Fair",
       "category": "events",
@@ -16401,6 +16075,46 @@
       "occurrences": 1,
       "dates": [
         "2027-10-24"
+      ]
+    },
+    {
+      "id": "media-borough-halloween-parade",
+      "name": "Media Borough Halloween Parade",
+      "category": "events",
+      "subcategories": [
+        "parade",
+        "seasonal"
+      ],
+      "shortDescription": "Long-running annual Halloween parade down Media's State Street, a beloved autumn tradition for county families.",
+      "address": "State St, Media, PA 19063",
+      "town": "Media",
+      "lat": 39.9166,
+      "lng": -75.388,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "kid-friendly",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "",
+      "endDate": "",
+      "recurring": "annual",
+      "venueId": "media-state-street-district",
+      "phone": "",
+      "website": "",
+      "images": [],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "schedule": "Late October",
+      "nextDate": "2027-10-25",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2027-10-25"
       ]
     },
     {
