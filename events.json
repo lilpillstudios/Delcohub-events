@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-10-28T16:09:23.778947+00:00",
+  "scraped_at": "2026-10-29T16:15:44.957485+00:00",
   "horizon_days": 180,
-  "event_count": 397,
+  "event_count": 381,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-10-28",
+      "startDate": "2026-10-29",
       "endDate": "2026-10-31",
       "recurring": "none",
       "venueId": "",
@@ -36,757 +36,14 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Oct 28 - Oct 31",
-      "nextDate": "2026-10-28",
+      "schedule": "Daily, Oct 29 - Oct 31",
+      "nextDate": "2026-10-29",
       "dates": [
-        "2026-10-28",
         "2026-10-29",
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 4
-    },
-    {
-      "id": "ev-bryn-mawr-7-week-adult-wheel-course-05bbee",
-      "name": "7-Week Adult Wheel Course",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "visual-arts"
-      ],
-      "shortDescription": "Our All Levels wheel courses are perfect for students ranging from beginners to potters who have spent substantial time on the wheel.",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-28",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/160851/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/37q4cJtwzEGTPozJcpOSiQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Oct 28",
-      "nextDate": "2026-10-28",
-      "dates": [
-        "2026-10-28"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-becca-freeman-with-guest-jo-piazza-bf2446",
-      "name": "Becca Freeman with Guest Jo Piazza",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Becca Freeman, co-host of Bad on Paper, launches her novel \"Back Where We Started\"",
-      "address": "Main Point Books, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.04479,
-      "lng": -75.388152,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-28",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/becca-freeman-with-guest-jo-piazza-tickets-1998514618021",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/s2lhTJyjoUmOs1r5fWAKWw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Oct 28",
-      "nextDate": "2026-10-28",
-      "dates": [
-        "2026-10-28"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-bishop-william-white-luncheon-e3b510",
-      "name": "Bishop William White Luncheon",
-      "category": "events",
-      "subcategories": [
-        "faith",
-        "food",
-        "food-drink",
-        "lifestyle"
-      ],
-      "shortDescription": "Bishop William White Luncheon",
-      "address": "Lowry House, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-28",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/6a62fd04-69ec-47fb-ac94-b1f87625127a.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Oct 28",
-      "nextDate": "2026-10-28",
-      "dates": [
-        "2026-10-28"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-boys-soccer-team-dinner-b9ee8a",
-      "name": "Boys Soccer Team Dinner",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Boys Soccer Team Dinner at Minnick Porch in Newtown Square.",
-      "address": "Minnick Porch, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-28",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a633282f-461d-4c6f-936c-5c1d7edb4319.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Oct 28",
-      "nextDate": "2026-10-28",
-      "dates": [
-        "2026-10-28"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-chess-club-634d75",
-      "name": "Chess Club",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "games",
-        "health-wellness",
-        "learning"
-      ],
-      "shortDescription": "Chess Club at Radnor Memorial Library Wednesdays, 9/2/26 through 12/30/26 2:00-5:00pm Winsor Room Delaware Valley Chess Club meets at RML, weekly on Wednesdays.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-28",
-      "endDate": "2026-11-18",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17289474",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eea63be5-c4d3-46d5-9632-af64e5f10861.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wednesdays, Oct 28 - Nov 18",
-      "nextDate": "2026-10-28",
-      "dates": [
-        "2026-10-28",
-        "2026-11-04",
-        "2026-11-11",
-        "2026-11-18"
-      ],
-      "occurrences": 4
-    },
-    {
-      "id": "ev-newtown-square-denver-alumni-social-5d0e7a",
-      "name": "Denver Alumni Social",
-      "category": "events",
-      "subcategories": [
-        "destinations"
-      ],
-      "shortDescription": "Denver Alumni Social at a Delco venue in Newtown Square.",
-      "address": "Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-28",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/51fb3e9f-8aca-4381-a3f0-b5a499fcbeac.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Oct 28",
-      "nextDate": "2026-10-28",
-      "dates": [
-        "2026-10-28"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "media-dining-under-the-stars",
-      "name": "Dining Under the Stars",
-      "category": "events",
-      "subcategories": [
-        "food-festival",
-        "street-dining"
-      ],
-      "shortDescription": "Media's signature warm-weather event closing State Street so restaurants serve al fresco dinners under string lights.",
-      "address": "State St, Media, PA 19063",
-      "town": "Media",
-      "lat": 39.9166,
-      "lng": -75.388,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "date",
-        "group",
-        "family"
-      ],
-      "hours": {},
-      "startDate": "",
-      "endDate": "",
-      "recurring": "weekly",
-      "venueId": "media-state-street-district",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "schedule": "Wednesdays, June-August",
-      "nextDate": "2026-10-28",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-10-28"
-      ]
-    },
-    {
-      "id": "ev-newtown-square-field-hockey-ms-a-agnes-irwin-af9339",
-      "name": "Field Hockey - MS A @ Agnes Irwin",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Field Hockey - MS A @ Agnes Irwin",
-      "address": "The Agnes Irwin School, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-28",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b04bdf65-d71d-4a5a-a43a-cf4f24a1e822.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Oct 28",
-      "nextDate": "2026-10-28",
-      "dates": [
-        "2026-10-28"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-preschool-spanish-class-c931c2",
-      "name": "Preschool Spanish Class",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "kids",
-        "learning",
-        "lifestyle"
-      ],
-      "shortDescription": "Peter Rabbit Storytime Room - Registration required Ages 2 1/2 - 5 In this 4-week interactive storytime series, students will be introduced to greetings, colors,...",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-10-28",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17665690",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d1926d25-2547-4dc4-9b38-3d15ddbf7d15.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Oct 28",
-      "nextDate": "2026-10-28",
-      "dates": [
-        "2026-10-28"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-shakey-an-evening-with-neil-young-almost-6ffdc0",
-      "name": "SHAKEY-An Evening with Neil Young... Almost",
-      "category": "events",
-      "subcategories": [
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "\"Imagine it's 1970 and you're watching Neil Young perform at The Bitter End in the Village, The Cellar Door in Georgetown or at Massey Hall in Toronto sometime in '71\".",
-      "address": "Wayne Senior Center, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.045343,
-      "lng": -75.386947,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-28",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.zeffy.com/en-US/ticketing/an-evening-with-neil-youngalmost",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/EJ8hkf5RK0alqpRUspak0w.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Oct 28",
-      "nextDate": "2026-10-28",
-      "dates": [
-        "2026-10-28"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-boys-ms-a-v-westtown-7f8da6",
-      "name": "Soccer - Boys MS A v Westtown",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - Boys MS A v Westtown",
-      "address": "Stone Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-28",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/469bd39d-8063-41c7-8f6c-2f23de9f535d.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Oct 28",
-      "nextDate": "2026-10-28",
-      "dates": [
-        "2026-10-28"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-swarthmore-swarthmore-college-field-hockey-vs-ha-312b53",
-      "name": "Swarthmore College Field Hockey vs Haverford College - Dream Crazy Game",
-      "category": "events",
-      "subcategories": [
-        "games",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Swarthmore College Field Hockey vs Haverford College - Dream Crazy Game\\nStreaming Video: https://www.centennialconference.tv/swarthmoreathletics/\\n",
-      "address": "Clothier Field Stadium, Swarthmore, PA",
-      "town": "Swarthmore",
-      "lat": 39.90206,
-      "lng": -75.34991,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-28",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://swarthmoreathletics.com/calendar.aspx?game_id=31089&sport_id=2",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b04bdf65-d71d-4a5a-a43a-cf4f24a1e822.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Oct 28",
-      "nextDate": "2026-10-28",
-      "dates": [
-        "2026-10-28"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-tennis-girls-ms-b-v-agnes-irwin-d35409",
-      "name": "Tennis - Girls MS B v Agnes Irwin",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Tennis - Girls MS B v Agnes Irwin",
-      "address": "Tennis Courts, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-28",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a8fe3b31-5555-4a70-820b-bb59e79bce97.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Oct 28",
-      "nextDate": "2026-10-28",
-      "dates": [
-        "2026-10-28"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-the-nth-power-arnetta-johnson-25ca4a",
-      "name": "The Nth Power & Arnetta Johnson",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "The Nth Power performs live at 118 North in Wayne, PA (outside of Philadelphia) on Wednesday, October 28, 2026. Tickets are on sale now!",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-28",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/1039854210?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ab3qJlrcdEaYwc5zCkONBg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Oct 28",
-      "nextDate": "2026-10-28",
-      "dates": [
-        "2026-10-28"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-the-nth-power-at-118-north-7530b8",
-      "name": "The Nth Power at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "The Nth Power at 118 North with Arnetta Johnson Wednesday, October 28, 2026 Doors: 5:30 PM | Show: 7:30 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-28",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/4579110928989171/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b2893b1e-107c-4129-8c23-060708e3e69d.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Oct 28",
-      "nextDate": "2026-10-28",
-      "dates": [
-        "2026-10-28"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-villanova-university-women-s-soccer-vs-6b7036",
-      "name": "Villanova University Women's Soccer vs DePaul University - Halloween Game",
-      "category": "events",
-      "subcategories": [
-        "games",
-        "halloween",
-        "holiday",
-        "special-audience"
-      ],
-      "shortDescription": "Villanova University Women's Soccer vs DePaul University - Halloween Game TV: ESPN+ Streaming Video:...",
-      "address": "Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03176,
-      "lng": -75.34903,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-28",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanova.com/calendar.aspx?game_id=17782&amp;sport_id=18",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5245d79e-4890-4dba-8b48-8a1090c252b9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Oct 28",
-      "nextDate": "2026-10-28",
-      "dates": [
-        "2026-10-28"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-volleyball-ms-a-shipley-321b97",
-      "name": "Volleyball MS A @ Shipley",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Volleyball MS A @ Shipley",
-      "address": "The Shipley School, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-28",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7df57544-f36c-4258-bdb8-55ca1ace2cf6.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Oct 28",
-      "nextDate": "2026-10-28",
-      "dates": [
-        "2026-10-28"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-widener-pride-field-hockey-vs-neumann-50c4a4",
-      "name": "Widener Pride: Field Hockey vs Neumann",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Field Hockey vs Neumann Streaming Video: https://gomacsports.tv/widenerpride/",
-      "address": "Edith R. Dixon Field, Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-28",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14455&amp;sport_id=9",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ec02e2a0-a935-4331-916c-5ba19bffa75b.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Oct 28",
-      "nextDate": "2026-10-28",
-      "dates": [
-        "2026-10-28"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-widener-pride-women-s-soccer-vs-eastern-30be6f",
-      "name": "Widener Pride: Women's Soccer vs Eastern",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Women's Soccer vs Eastern Streaming Video: https://gomacsports.tv/widenerpride/",
-      "address": "Elizabeth J. Hirschmann Field at Leslie C. Quick Jr. Stadium, Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-28",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14491&amp;sport_id=11",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4bb46c0c-ec2a-4799-b30b-fd9cf072ae19.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Oct 28",
-      "nextDate": "2026-10-28",
-      "dates": [
-        "2026-10-28"
-      ],
-      "occurrences": 1
+      "occurrences": 3
     },
     {
       "id": "ev-broomall-broomall-fire-department-delaware-count-d7fa60",
@@ -1874,21 +1131,23 @@
       "occurrences": 1
     },
     {
-      "id": "ev-bryn-mawr-youth-one-time-classes-c8c2e5",
+      "id": "ev-bryn-mawr-youth-one-time-classes-90569b",
       "name": "Youth One-Time Classes",
       "category": "events",
       "subcategories": [
         "classes",
         "learning",
+        "special-audience",
         "visual-arts"
       ],
       "shortDescription": "$80 Per Person / Ages 9 and up Friday, Oct 2, 2026 / 5:30 PM - 7:00 PM (EDT) Join our one time class to learn the basics of wheel throwing!",
-      "address": "Blue Skies Pottery - Bryn Mawr, Bryn Mawr, PA",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
       "town": "Bryn Mawr",
       "lat": 40.023544,
       "lng": -75.322036,
       "priceTier": 3,
       "tags": [
+        "family",
         "group"
       ],
       "hours": {},
@@ -3676,6 +2935,88 @@
         "2026-11-03"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-chess-club-634d75",
+      "name": "Chess Club",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "games",
+        "health-wellness",
+        "learning"
+      ],
+      "shortDescription": "Delaware Valley Chess Club meets at RML, weekly on Wednesdays.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-18",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17290379",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eea63be5-c4d3-46d5-9632-af64e5f10861.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wednesdays, Nov 4 - Nov 18",
+      "nextDate": "2026-11-04",
+      "dates": [
+        "2026-11-04",
+        "2026-11-11",
+        "2026-11-18"
+      ],
+      "occurrences": 3
+    },
+    {
+      "id": "media-dining-under-the-stars",
+      "name": "Dining Under the Stars",
+      "category": "events",
+      "subcategories": [
+        "food-festival",
+        "street-dining"
+      ],
+      "shortDescription": "Media's signature warm-weather event closing State Street so restaurants serve al fresco dinners under string lights.",
+      "address": "State St, Media, PA 19063",
+      "town": "Media",
+      "lat": 39.9166,
+      "lng": -75.388,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "date",
+        "group",
+        "family"
+      ],
+      "hours": {},
+      "startDate": "",
+      "endDate": "",
+      "recurring": "weekly",
+      "venueId": "media-state-street-district",
+      "phone": "",
+      "website": "",
+      "images": [],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "schedule": "Wednesdays, June-August",
+      "nextDate": "2026-11-04",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-11-04"
+      ]
     },
     {
       "id": "ev-wayne-mark-dewitt-lanyon-lost-chester-county-98c30c",
@@ -5547,7 +4888,7 @@
       ],
       "hours": {},
       "startDate": "2026-11-09",
-      "endDate": "2027-04-19",
+      "endDate": "2027-04-26",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -5558,7 +4899,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Mondays, Nov 9 - Apr 19",
+      "schedule": "Mondays, Nov 9 - Apr 26",
       "nextDate": "2026-11-09",
       "dates": [
         "2026-11-09",
@@ -5579,9 +4920,10 @@
         "2027-03-29",
         "2027-04-05",
         "2027-04-12",
-        "2027-04-19"
+        "2027-04-19",
+        "2027-04-26"
       ],
-      "occurrences": 19
+      "occurrences": 20
     },
     {
       "id": "ev-media-maker-mondays-e4e42e",
@@ -6554,6 +5896,47 @@
       "nextDate": "2026-11-13",
       "dates": [
         "2026-11-13"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-swarthmore-thanks-giving-children-s-benefit-conc-5b05b2",
+      "name": "\"Thanks & Giving\" Children's Benefit Concert",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "concert",
+        "family",
+        "fundraiser"
+      ],
+      "shortDescription": "Climb Aboard the Music Train filled with 'Kids Helping Kids\"!",
+      "address": "Park Avenue Community Center (PAC Center) - Park Avenue Room, Swarthmore, PA",
+      "town": "Swarthmore",
+      "lat": 39.901274,
+      "lng": -75.350011,
+      "priceTier": 2,
+      "tags": [
+        "family",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-11-14",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://paccenter.ticketspice.com/thanks-giving----childrens-benefit-concert",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/n1147mEUgUmQEs6QZ07Q7w.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 14",
+      "nextDate": "2026-11-14",
+      "dates": [
+        "2026-11-14"
       ],
       "occurrences": 1
     },
@@ -9565,7 +8948,7 @@
         "festival",
         "holiday"
       ],
-      "shortDescription": "Celebrate the season at Glen Eagle Square’s Snowflake Stroll on Saturday, December 5, 2026, from 1:00 PM – 5:00 PM!",
+      "shortDescription": "Celebrate the season at Glen Eagle Square’s Snowflake Stroll on Saturday, December 5, 2026, from 1:00 PM – 4:00 PM!",
       "address": "Glen Mills, PA",
       "town": "Glen Mills",
       "lat": 39.864438,
@@ -9585,7 +8968,7 @@
       "phone": "",
       "website": "https://www.gleneaglesquare.com/",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/hJ5WbdokHkGww6b1z2kE7A.medium.jpg",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/wqHfPEIr3E-2rps2cC0yvg.medium.jpg",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
