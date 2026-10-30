@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-10-29T16:15:44.957485+00:00",
+  "scraped_at": "2026-10-30T16:00:49.698481+00:00",
   "horizon_days": 180,
-  "event_count": 381,
+  "event_count": 368,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,7 +24,7 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-10-29",
+      "startDate": "2026-10-30",
       "endDate": "2026-10-31",
       "recurring": "none",
       "venueId": "",
@@ -36,791 +36,13 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Oct 29 - Oct 31",
-      "nextDate": "2026-10-29",
+      "schedule": "Daily, Oct 30 - Oct 31",
+      "nextDate": "2026-10-30",
       "dates": [
-        "2026-10-29",
         "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-broomall-broomall-fire-department-delaware-count-d7fa60",
-      "name": "Broomall Fire Department Delaware County Car Seat Check Event",
-      "category": "events",
-      "subcategories": [
-        "civic"
-      ],
-      "shortDescription": "Broomall Fire will be hosting a special car seat check on Thursday October 29, 2026 from 11:00am - 1:00pm",
-      "address": "Broomall Fire Company, Broomall, PA",
-      "town": "Broomall",
-      "lat": 39.982729,
-      "lng": -75.364681,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-29",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/broomall-fire-department-delaware-county-car-seat-check-event-registration-2003139703777",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/wCROQJdX80OXepATkJwa3A.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 29",
-      "nextDate": "2026-10-29",
-      "dates": [
-        "2026-10-29"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-field-hockey-jv-v-agnes-irwin-f1f746",
-      "name": "Field Hockey - JV v Agnes Irwin",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Field Hockey - JV v Agnes Irwin",
-      "address": "Buggy Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-29",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ec02e2a0-a935-4331-916c-5ba19bffa75b.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 29",
-      "nextDate": "2026-10-29",
-      "dates": [
-        "2026-10-29"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-field-hockey-ms-a-ga-8a2a3e",
-      "name": "Field Hockey - MS A @ GA",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Field Hockey - MS A @ GA at Germantown Academy in Newtown Square.",
-      "address": "Germantown Academy, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-29",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b04bdf65-d71d-4a5a-a43a-cf4f24a1e822.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 29",
-      "nextDate": "2026-10-29",
-      "dates": [
-        "2026-10-29"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-golf-varsity-boys-bert-linton-riv-d70222",
-      "name": "Golf - Varsity Boys Bert Linton @ Rivercrest",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Golf - Varsity Boys Bert Linton @ Rivercrest",
-      "address": "Rivercrest Golf Club, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-29",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ae93f32a-2df3-4977-9ef2-1a0421a913da.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 29",
-      "nextDate": "2026-10-29",
-      "dates": [
-        "2026-10-29"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-swarthmore-halloween-hoedown-1e44b2",
-      "name": "HALLOWEEN HOEDOWN",
-      "category": "events",
-      "subcategories": [
-        "dance",
-        "drinks",
-        "food-drink",
-        "halloween"
-      ],
-      "shortDescription": "LIMITED TICKETS AVAILABLE $15 PER PERSON INCLUDES FIRST BEER, HARD CIDER OR CANNED COCKTAIL",
-      "address": "Ship Bottom Brewery, Swarthmore, PA",
-      "town": "Swarthmore",
-      "lat": 39.902195,
-      "lng": -75.349996,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-29",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/halloween-hoedown-tickets-2003027294558",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/TwmzV1_kk0G2mSv6nGKtTA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 29",
-      "nextDate": "2026-10-29",
-      "dates": [
-        "2026-10-29"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-health-care-solutions-symposium-2026-8f296f",
-      "name": "Health Care Solutions Symposium 2026",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "classes",
-        "health-wellness",
-        "learning"
-      ],
-      "shortDescription": "Thursday, October 29, 2026 | 8AM to 5PM The Inn at Villanova University, Wayne PA Real Causes.",
-      "address": "The Inn at Villanova University, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.050831,
-      "lng": -75.348961,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-29",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://events.eventnoire.com/e/health-care-solutions-symposium-2026?aff=cityspark",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IyeVE8t11UGr8rcBrS-RjA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 29",
-      "nextDate": "2026-10-29",
-      "dates": [
-        "2026-10-29"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-hunter-flynn-at-118-north-b7d29a",
-      "name": "Hunter Flynn at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "outdoor-recreation",
-        "performing-arts",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Hunter Flynn at 118 North Thursday, October 29, 2026 Doors: 6:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-10-29",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1605390714628014/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/220822T170928%7ClKsv8fGYLU63z_7088ejxQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 29",
-      "nextDate": "2026-10-29",
-      "dates": [
-        "2026-10-29"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-radnor-main-line-music-appreciation-society-pres-792563",
-      "name": "Main Line Music Appreciation Society Presents: '70s Singer-Songwriters",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "MLMAS’s eighth session is entitled “Not Folksingers: ‘70s Singer-Songwriters.” In the early 1970s, a new generation of singer-songwriters was emerging that were markedly...",
-      "address": "Bryn Mawr Film Institute, Radnor, PA",
-      "town": "Radnor",
-      "lat": 40.061416,
-      "lng": -75.356005,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-29",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "http://www.mlmas.org",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/BAgzPntl0Ua7N0rHG2m9GA.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 29",
-      "nextDate": "2026-10-29",
-      "dates": [
-        "2026-10-29"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-misery-179fa7",
-      "name": "Misery",
-      "category": "events",
-      "subcategories": [
-        "halloween",
-        "holiday",
-        "performing-arts",
-        "theater"
-      ],
-      "shortDescription": "After a devastating car accident leaves novelist Paul Sheldon stranded in a remote cabin, he awakens under the care of Annie Wilkes, his self-proclaimed “number one...",
-      "address": "Hedgerow Theatre, Media, PA",
-      "town": "Media",
-      "lat": 39.897539,
-      "lng": -75.386668,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-29",
-      "endDate": "2026-11-01",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "(610) 565-4211",
-      "website": "https://www.hedgerowtheatre.org/misery",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OtyxLaPmVUKxIC-56D9MWw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Oct 29 - Nov 1",
-      "nextDate": "2026-10-29",
-      "dates": [
-        "2026-10-29",
-        "2026-10-30",
-        "2026-10-31",
-        "2026-11-01"
-      ],
-      "occurrences": 4
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-adult-wheel-class-edcc01",
-      "name": "One Time Adult Wheel Class",
-      "category": "events",
-      "subcategories": [
-        "arts"
-      ],
-      "shortDescription": "Join our one time class to learn the basics of wheel throwing!",
-      "address": "Blue Skies Pottery - Bryn Mawr, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-29",
-      "endDate": "2026-11-26",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/160849/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SvgMJsHbeESUI8oHFgSYBw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thursdays, Oct 29 - Nov 26",
-      "nextDate": "2026-10-29",
-      "dates": [
-        "2026-10-29",
-        "2026-11-05",
-        "2026-11-12",
-        "2026-11-19",
-        "2026-11-26"
-      ],
-      "occurrences": 5
-    },
-    {
-      "id": "ev-wayne-regional-italian-cuisine-with-stony-run-wi-ded897",
-      "name": "Regional Italian Cuisine with Stony Run Winery Wine Pairing with Chef Karen Bentz",
-      "category": "events",
-      "subcategories": [
-        "fitness",
-        "food",
-        "food-drink",
-        "running"
-      ],
-      "shortDescription": "Join Chef Karen Bentz on this hands-on culinary journey through Regional Italian cuisine.",
-      "address": "Wayne Art Center, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.03894,
-      "lng": -75.394446,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-29",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://wayneart.org/events/2147/regional-italian-cuisine-with-stony-run-winery-wine-pairing-with-chef-karen-bentz",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/HPqUpVHS1EaxsdkqMvm_7w.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 29",
-      "nextDate": "2026-10-29",
-      "dates": [
-        "2026-10-29"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-3rds-boys-v-malvern-05c78c",
-      "name": "Soccer - 3rds Boys v Malvern",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - 3rds Boys v Malvern at Field C in Newtown Square.",
-      "address": "Field C, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-29",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/890273d5-60d0-444d-b73a-b8cd330e83a8.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 29",
-      "nextDate": "2026-10-29",
-      "dates": [
-        "2026-10-29"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-jv-girls-agnes-irwin-5ec7aa",
-      "name": "Soccer - JV Girls @ Agnes Irwin",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - JV Girls @ Agnes Irwin",
-      "address": "The Agnes Irwin School, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-29",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5245d79e-4890-4dba-8b48-8a1090c252b9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 29",
-      "nextDate": "2026-10-29",
-      "dates": [
-        "2026-10-29"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-tennis-girls-ms-b-v-ga-bf7194",
-      "name": "Tennis - Girls MS B v GA",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Tennis - Girls MS B v GA at Tennis Courts in Newtown Square.",
-      "address": "Tennis Courts, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-29",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/02c0fa5b-6877-4ac3-902d-d8531b975a10.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 29",
-      "nextDate": "2026-10-29",
-      "dates": [
-        "2026-10-29"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-glen-mills-the-newlin-speaker-series-for-the-com-aef600",
-      "name": "The Newlin Speaker Series: \"For the Common Good\" Film Screening and Talk",
-      "category": "events",
-      "subcategories": [
-        "film",
-        "learning",
-        "talks-lectures",
-        "visual-arts"
-      ],
-      "shortDescription": "Writer and public historical Mickey Herr will share a curated selection of her favorite stories, along with two parts of a nine-part docu-series featuring women who made...",
-      "address": "Newlin Grist Mill, Glen Mills, PA",
-      "town": "Glen Mills",
-      "lat": 39.890529,
-      "lng": -75.506043,
-      "priceTier": 1,
-      "tags": [
-        "group",
-        "historic"
-      ],
-      "hours": {},
-      "startDate": "2026-10-29",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://newlingristmill.org/the-newlin-series/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/GCmz_8BIC0-B2FrIYYYZzQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 29",
-      "nextDate": "2026-10-29",
-      "dates": [
-        "2026-10-29"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-the-only-murders-in-the-bookstore-season-4-17ec9a",
-      "name": "The Only Murders in the Bookstore Season 4",
-      "category": "events",
-      "subcategories": [
-        "halloween",
-        "holiday"
-      ],
-      "shortDescription": "Join us for annual Halloween tradition - an evening of mystery, murder, mayhem, and fun!",
-      "address": "Main Point Books, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.04479,
-      "lng": -75.388152,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-29",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/the-only-murders-in-the-bookstore-season-4-tickets-1999734365318",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/W7bzzSP2bkCFP9xErAX8og.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 29",
-      "nextDate": "2026-10-29",
-      "dates": [
-        "2026-10-29"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-lansdowne-the-speakeasy-at-bluesouth-9a0b19",
-      "name": "The Speakeasy at BlueSouth",
-      "category": "events",
-      "subcategories": [
-        "open-mic",
-        "performing-arts"
-      ],
-      "shortDescription": "The Speakeasy at Blue South is an open mic for artists ready to perform and people looking for a good vibe to start their night.",
-      "address": "Blue South, Lansdowne, PA",
-      "town": "Lansdowne",
-      "lat": 39.939087,
-      "lng": -75.272732,
-      "priceTier": 1,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-29",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/the-speakeasy-at-bluesouth-tickets-2003015595566",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/AXsauMZwL0Km7oRxbOZUGw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Oct 29",
-      "nextDate": "2026-10-29",
-      "dates": [
-        "2026-10-29"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-drexel-hill-thursday-karaoke-at-casey-s-restaura-4579c1",
-      "name": "Thursday Karaoke at Casey's Restaurant (Drexel Hill - Delaware County",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink",
-        "open-mic",
-        "performing-arts"
-      ],
-      "shortDescription": "Sing your heart out at Casey's Restaurant every Thursday night with some karaoke fun in Drexel Hill, Delaware County, PA! Starts at 8pm.",
-      "address": "Casey's Saloon & Restaurant, Drexel Hill, PA",
-      "town": "Drexel Hill",
-      "lat": 39.960126,
-      "lng": -75.288562,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-29",
-      "endDate": "2027-04-22",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/thursday-karaoke-at-caseys-restaurant-drexel-hill-delaware-county-pa-tickets-1061653848239",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pgpVzPSpoUaADfBllel6lw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thursdays, Oct 29 - Apr 22",
-      "nextDate": "2026-10-29",
-      "dates": [
-        "2026-10-29",
-        "2026-11-05",
-        "2026-11-12",
-        "2026-11-19",
-        "2026-11-26",
-        "2026-12-03",
-        "2026-12-10",
-        "2026-12-17",
-        "2026-12-24",
-        "2026-12-31",
-        "2027-01-07",
-        "2027-01-14",
-        "2027-01-21",
-        "2027-01-28",
-        "2027-02-04",
-        "2027-02-11",
-        "2027-02-18",
-        "2027-02-25",
-        "2027-03-04",
-        "2027-03-11",
-        "2027-03-18",
-        "2027-03-25",
-        "2027-04-01",
-        "2027-04-08",
-        "2027-04-15",
-        "2027-04-22"
-      ],
-      "occurrences": 26
-    },
-    {
-      "id": "ev-wayne-toddler-storytime-ages-2-3-years-67d052",
-      "name": "Toddler Storytime (Ages 2 - 3 years)",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "kids",
-        "learning",
-        "lifestyle"
-      ],
-      "shortDescription": "Ages 2 - 3 years - Winsor Room Stories, songs, and movement activities to help your young child engage with literature in a safe, social setting.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-10-29",
-      "endDate": "2026-12-17",
-      "recurring": "seasonal",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17721451",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fe5023d6-7e53-42a2-b2aa-b93e19cac158.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Select dates, Oct 29 - Dec 17",
-      "nextDate": "2026-10-29",
-      "dates": [
-        "2026-10-29",
-        "2026-11-02",
-        "2026-11-05",
-        "2026-11-09",
-        "2026-11-12",
-        "2026-11-16",
-        "2026-11-19",
-        "2026-11-23",
-        "2026-12-07",
-        "2026-12-10",
-        "2026-12-14",
-        "2026-12-17"
-      ],
-      "occurrences": 12
+      "occurrences": 2
     },
     {
       "id": "ev-lansdowne-boney-james-7ccadf",
@@ -937,6 +159,48 @@
       "occurrences": 1
     },
     {
+      "id": "ev-media-misery-179fa7",
+      "name": "Misery",
+      "category": "events",
+      "subcategories": [
+        "halloween",
+        "holiday",
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "After a devastating car accident leaves novelist Paul Sheldon stranded in a remote cabin, he awakens under the care of Annie Wilkes, his self-proclaimed “number one...",
+      "address": "Hedgerow Theatre, Media, PA",
+      "town": "Media",
+      "lat": 39.897539,
+      "lng": -75.386668,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-01",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "(610) 565-4211",
+      "website": "https://www.hedgerowtheatre.org/misery",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OtyxLaPmVUKxIC-56D9MWw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Oct 30 - Nov 1",
+      "nextDate": "2026-10-30",
+      "dates": [
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "occurrences": 3
+    },
+    {
       "id": "ev-wayne-orchestra-concordia-free-community-concert-64fbd6",
       "name": "Orchestra Concordia Free Community Concert",
       "category": "events",
@@ -977,14 +241,14 @@
       "occurrences": 1
     },
     {
-      "id": "ev-newtown-square-senior-sunrise-9e6224",
+      "id": "ev-newtown-square-senior-sunrise-324625",
       "name": "Senior Sunrise",
       "category": "events",
       "subcategories": [
         "special-audience"
       ],
-      "shortDescription": "Senior Sunrise at Smith Field (Field G) in Newtown Square.",
-      "address": "Smith Field (Field G), Newtown Square, PA",
+      "shortDescription": "Senior Sunrise at Smith Field in Newtown Square.",
+      "address": "Smith Field, Newtown Square, PA",
       "town": "Newtown Square",
       "lat": 39.98678,
       "lng": -75.40103,
@@ -1002,7 +266,7 @@
       "phone": "",
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4996cc94-b530-4279-b179-f2fddf5f850c.medium.png",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2ebe18a2-41b7-4e5c-8b19-375e2ac805f0.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -1013,6 +277,45 @@
         "2026-10-30"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-sing-along-with-dani-b-9fbaed",
+      "name": "Sing Along with Dani B!",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Winsor Room - No registration required - Ages birth-6 years Join local children's entertainer, Dani B, for a fun, interactive music session filled with singing,...",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-20",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17641169",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/29285568-7de3-428e-a16d-3491ad349d9e.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fridays, Oct 30 - Nov 20",
+      "nextDate": "2026-10-30",
+      "dates": [
+        "2026-10-30",
+        "2026-11-20"
+      ],
+      "occurrences": 2
     },
     {
       "id": "ev-folsom-smash-atoms-band-5200f9",
@@ -2585,6 +1888,58 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-toddler-storytime-ages-2-3-years-67d052",
+      "name": "Toddler Storytime (Ages 2 - 3 years)",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "kids",
+        "learning",
+        "lifestyle"
+      ],
+      "shortDescription": "Ages 2 - 3 years - Winsor Room Stories, songs, and movement activities to help your young child engage with literature in a safe, social setting.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-11-02",
+      "endDate": "2026-12-17",
+      "recurring": "seasonal",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17721349",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fe5023d6-7e53-42a2-b2aa-b93e19cac158.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Select dates, Nov 2 - Dec 17",
+      "nextDate": "2026-11-02",
+      "dates": [
+        "2026-11-02",
+        "2026-11-05",
+        "2026-11-09",
+        "2026-11-12",
+        "2026-11-16",
+        "2026-11-19",
+        "2026-11-23",
+        "2026-12-07",
+        "2026-12-10",
+        "2026-12-14",
+        "2026-12-17"
+      ],
+      "occurrences": 11
+    },
+    {
       "id": "ev-newtown-square-uc-philadelphia-counselor-breakfa-d930b2",
       "name": "UC Philadelphia Counselor Breakfast",
       "category": "events",
@@ -2683,7 +2038,7 @@
       ],
       "hours": {},
       "startDate": "2026-11-03",
-      "endDate": "2027-04-20",
+      "endDate": "2027-04-27",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -2694,7 +2049,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Tuesdays, Nov 3 - Apr 20",
+      "schedule": "Tuesdays, Nov 3 - Apr 27",
       "nextDate": "2026-11-03",
       "dates": [
         "2026-11-03",
@@ -2721,9 +2076,10 @@
         "2027-03-30",
         "2027-04-06",
         "2027-04-13",
-        "2027-04-20"
+        "2027-04-20",
+        "2027-04-27"
       ],
-      "occurrences": 25
+      "occurrences": 26
     },
     {
       "id": "ev-newtown-square-soccer-jv-boys-lawrenceville-74c37c",
@@ -3440,6 +2796,45 @@
       "occurrences": 1
     },
     {
+      "id": "ev-bryn-mawr-one-time-adult-wheel-class-edcc01",
+      "name": "One Time Adult Wheel Class",
+      "category": "events",
+      "subcategories": [
+        "arts"
+      ],
+      "shortDescription": "Join our one time class to learn the basics of wheel throwing!",
+      "address": "Blue Skies Pottery - Bryn Mawr, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-26",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/160849/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SvgMJsHbeESUI8oHFgSYBw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thursdays, Nov 5 - Nov 26",
+      "nextDate": "2026-11-05",
+      "dates": [
+        "2026-11-05",
+        "2026-11-12",
+        "2026-11-19",
+        "2026-11-26"
+      ],
+      "occurrences": 4
+    },
+    {
       "id": "ev-wayne-tech-help-classes-for-adults-55-2-3pm-and-0a69df",
       "name": "Tech Help Classes for Adults 55 (2-3pm) and Walk-In Help (3-4pm)",
       "category": "events",
@@ -3480,6 +2875,70 @@
         "2026-12-03"
       ],
       "occurrences": 2
+    },
+    {
+      "id": "ev-drexel-hill-thursday-karaoke-at-casey-s-restaura-4579c1",
+      "name": "Thursday Karaoke at Casey's Restaurant (Drexel Hill - Delaware County",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink",
+        "open-mic",
+        "performing-arts"
+      ],
+      "shortDescription": "Sing your heart out at Casey's Restaurant every Thursday night with some karaoke fun in Drexel Hill, Delaware County, PA! Starts at 8pm.",
+      "address": "Casey's Saloon & Restaurant, Drexel Hill, PA",
+      "town": "Drexel Hill",
+      "lat": 39.960126,
+      "lng": -75.288562,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-05",
+      "endDate": "2027-04-22",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/thursday-karaoke-at-caseys-restaurant-drexel-hill-delaware-county-pa-tickets-1061653848239",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pgpVzPSpoUaADfBllel6lw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thursdays, Nov 5 - Apr 22",
+      "nextDate": "2026-11-05",
+      "dates": [
+        "2026-11-05",
+        "2026-11-12",
+        "2026-11-19",
+        "2026-11-26",
+        "2026-12-03",
+        "2026-12-10",
+        "2026-12-17",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07",
+        "2027-01-14",
+        "2027-01-21",
+        "2027-01-28",
+        "2027-02-04",
+        "2027-02-11",
+        "2027-02-18",
+        "2027-02-25",
+        "2027-03-04",
+        "2027-03-11",
+        "2027-03-18",
+        "2027-03-25",
+        "2027-04-01",
+        "2027-04-08",
+        "2027-04-15",
+        "2027-04-22"
+      ],
+      "occurrences": 25
     },
     {
       "id": "ev-wayne-alla-prima-painting-4-fridays-with-georgan-11bb00",
@@ -6322,6 +5781,46 @@
       "website": "https://www.bandsintown.com/e/108450690?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Is_7oRr7JkK1u5s57cgY7w.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 14",
+      "nextDate": "2026-11-14",
+      "dates": [
+        "2026-11-14"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-the-saturday-club-s-annual-holiday-market-5c77ac",
+      "name": "The Saturday Club's Annual Holiday Market",
+      "category": "events",
+      "subcategories": [
+        "christmas",
+        "holiday",
+        "holiday-market",
+        "markets"
+      ],
+      "shortDescription": "Mark Your Calendars for The Saturday Club's Annual Holiday Market Saturday, November 14th, 10 AM - 2 PM The Saturday Club at 117 West Wayne Avenue, Wayne PA Our beloved...",
+      "address": "The Saturday Club, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.043474,
+      "lng": -75.3893,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-14",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://saturdayclub.org/holidaymarket/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Fuz232NjsUeUVHibfQLQmg.medium.jpg",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
