@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scraped_at": "2026-10-30T16:00:49.698481+00:00",
+  "scraped_at": "2026-10-31T15:24:41.941872+00:00",
   "horizon_days": 180,
-  "event_count": 368,
+  "event_count": 365,
   "listings": [
     {
       "id": "ev-media-2026-gene-capaldi-lens-on-litter-photo-con-20c4cc",
@@ -24,8 +24,8 @@
         "group"
       ],
       "hours": {},
-      "startDate": "2026-10-30",
-      "endDate": "2026-10-31",
+      "startDate": "2026-10-31",
+      "endDate": "",
       "recurring": "none",
       "venueId": "",
       "phone": "",
@@ -36,446 +36,12 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, Oct 30 - Oct 31",
-      "nextDate": "2026-10-30",
+      "schedule": "Sat, Oct 31",
+      "nextDate": "2026-10-31",
       "dates": [
-        "2026-10-30",
         "2026-10-31"
       ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-lansdowne-boney-james-7ccadf",
-      "name": "Boney James",
-      "category": "events",
-      "subcategories": [
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "For saxophonist and composer Boney James, these words perfectly describe the music he has crafted for his new Concord Records album, Slow Burn, to be released on October...",
-      "address": "Lansdowne Theater, Lansdowne, PA",
-      "town": "Lansdowne",
-      "lat": 39.939389,
-      "lng": -75.27231,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-30",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://brepresents.com/event/boney-james/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/vMd_GwGQAUCAsTOa6lUPFA.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 30",
-      "nextDate": "2026-10-30",
-      "dates": [
-        "2026-10-30"
-      ],
       "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-griffin-william-sherry-at-118-north-ef0207",
-      "name": "Griffin William Sherry at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Griffin William Sherry at 118 North with Max Bartos Friday, October 30, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-30",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1056598666947134/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0e8491a0-6d97-40a0-919f-ebb82c44d931.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 30",
-      "nextDate": "2026-10-30",
-      "dates": [
-        "2026-10-30"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-clifton-heights-halloween-costume-mask-party-2c4fdd",
-      "name": "Halloween Costume & Mask Party",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "halloween",
-        "holiday"
-      ],
-      "shortDescription": "Join TUT’s Creationz on Oct 31 for our 4th Annual Halloween Costume & Mask Party—music, costumes, masks and nonstop fun!",
-      "address": "Clifton Heights, PA",
-      "town": "Clifton Heights",
-      "lat": 39.931975,
-      "lng": -75.304467,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-30",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/halloween-costume-mask-party-tickets-1996488555012",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Ru6pyVX1oEyHbtvpkv9kiw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 30",
-      "nextDate": "2026-10-30",
-      "dates": [
-        "2026-10-30"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-misery-179fa7",
-      "name": "Misery",
-      "category": "events",
-      "subcategories": [
-        "halloween",
-        "holiday",
-        "performing-arts",
-        "theater"
-      ],
-      "shortDescription": "After a devastating car accident leaves novelist Paul Sheldon stranded in a remote cabin, he awakens under the care of Annie Wilkes, his self-proclaimed “number one...",
-      "address": "Hedgerow Theatre, Media, PA",
-      "town": "Media",
-      "lat": 39.897539,
-      "lng": -75.386668,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-30",
-      "endDate": "2026-11-01",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "(610) 565-4211",
-      "website": "https://www.hedgerowtheatre.org/misery",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OtyxLaPmVUKxIC-56D9MWw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Oct 30 - Nov 1",
-      "nextDate": "2026-10-30",
-      "dates": [
-        "2026-10-30",
-        "2026-10-31",
-        "2026-11-01"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-wayne-orchestra-concordia-free-community-concert-64fbd6",
-      "name": "Orchestra Concordia Free Community Concert",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "concert",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Orchestra Concordia 10th Anniversary Season NEXT FREE COMMUNITY CONCERT Friday, October 30 8:00 PM Radnor Middle School Auditorium Featured soloist: Valetin Kovalev,...",
-      "address": "Radnor Middle School Auditorium, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042105,
-      "lng": -75.385817,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-30",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.orchestraconcordia.org/concerts.html",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/zQJfLfVqLkSuhfHmYlzv7w.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 30",
-      "nextDate": "2026-10-30",
-      "dates": [
-        "2026-10-30"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-senior-sunrise-324625",
-      "name": "Senior Sunrise",
-      "category": "events",
-      "subcategories": [
-        "special-audience"
-      ],
-      "shortDescription": "Senior Sunrise at Smith Field in Newtown Square.",
-      "address": "Smith Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-30",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2ebe18a2-41b7-4e5c-8b19-375e2ac805f0.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 30",
-      "nextDate": "2026-10-30",
-      "dates": [
-        "2026-10-30"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-sing-along-with-dani-b-9fbaed",
-      "name": "Sing Along with Dani B!",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Winsor Room - No registration required - Ages birth-6 years Join local children's entertainer, Dani B, for a fun, interactive music session filled with singing,...",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-30",
-      "endDate": "2026-11-20",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17641169",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/29285568-7de3-428e-a16d-3491ad349d9e.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fridays, Oct 30 - Nov 20",
-      "nextDate": "2026-10-30",
-      "dates": [
-        "2026-10-30",
-        "2026-11-20"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-folsom-smash-atoms-band-5200f9",
-      "name": "Smash Atoms Band",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Pop Punk cover band from West Chester, PA—reliving your teenage angst one anthem at a time! Booking: smshatoms@gmail.com",
-      "address": "Tom N Jerry's, Folsom, PA",
-      "town": "Folsom",
-      "lat": 39.880547,
-      "lng": -75.340887,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-30",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/108903840?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/HfH30NlXqEKr85dYG8D63w.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 30",
-      "nextDate": "2026-10-30",
-      "dates": [
-        "2026-10-30"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-varsity-boys-sch-349f62",
-      "name": "Soccer - Varsity Boys @ SCH",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - Varsity Boys @ SCH",
-      "address": "Springside Chestnut Hill Academy, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-30",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/469bd39d-8063-41c7-8f6c-2f23de9f535d.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 30",
-      "nextDate": "2026-10-30",
-      "dates": [
-        "2026-10-30"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-water-polo-jv-boys-malvern-627812",
-      "name": "Water Polo - JV Boys @ Malvern",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Water Polo - Varsity Boys @ Malvern",
-      "address": "Malvern Preparatory School, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-30",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f9de544e-a936-4ae7-96c0-fc7f0d2460e7.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Oct 30",
-      "nextDate": "2026-10-30",
-      "dates": [
-        "2026-10-30"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-youth-one-time-classes-90569b",
-      "name": "Youth One-Time Classes",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "special-audience",
-        "visual-arts"
-      ],
-      "shortDescription": "$80 Per Person / Ages 9 and up Friday, Oct 2, 2026 / 5:30 PM - 7:00 PM (EDT) Join our one time class to learn the basics of wheel throwing!",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "family",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-10-30",
-      "endDate": "2026-11-27",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/160853/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pbI4ypXkz062b8lEfv8Ztg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fridays, Oct 30 - Nov 27",
-      "nextDate": "2026-10-30",
-      "dates": [
-        "2026-10-30",
-        "2026-11-06",
-        "2026-11-13",
-        "2026-11-20",
-        "2026-11-27"
-      ],
-      "occurrences": 5
     },
     {
       "id": "ev-lansdowne-benny-turner-real-blues-b1176f",
@@ -719,6 +285,44 @@
       "occurrences": 3
     },
     {
+      "id": "ev-wayne-lancaster-county-farmers-market-1b0e48",
+      "name": "Lancaster County Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "farmers-market",
+        "markets"
+      ],
+      "shortDescription": "389 W. Lancaster Ave., Wayne. Wed., Fri., Sat., 6 to 4. 610-688-9856. LancasterCountyFarmersMarket.com.",
+      "address": "Lancaster County Farmers Market, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044908,
+      "lng": -75.400304,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-31",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://countylinesmagazine.com/event/lancaster-county-farmers-market-2-2025-06-18/2026-10-31/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b52e9d77-dd16-4ac8-9e9e-8ba8856cef3c.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 31",
+      "nextDate": "2026-10-31",
+      "dates": [
+        "2026-10-31"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "lansdowne-farmers-market-lansdowne",
       "name": "Lansdowne Farmers Market",
       "category": "events",
@@ -755,6 +359,87 @@
       "dates": [
         "2026-10-31"
       ]
+    },
+    {
+      "id": "ev-media-misery-179fa7",
+      "name": "Misery",
+      "category": "events",
+      "subcategories": [
+        "halloween",
+        "holiday",
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "After a devastating car accident leaves novelist Paul Sheldon stranded in a remote cabin, he awakens under the care of Annie Wilkes, his self-proclaimed “number one...",
+      "address": "Hedgerow Theatre, Media, PA",
+      "town": "Media",
+      "lat": 39.897539,
+      "lng": -75.386668,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-31",
+      "endDate": "2026-11-01",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "(610) 565-4211",
+      "website": "https://www.hedgerowtheatre.org/misery",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OtyxLaPmVUKxIC-56D9MWw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Oct 31 - Nov 1",
+      "nextDate": "2026-10-31",
+      "dates": [
+        "2026-10-31",
+        "2026-11-01"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "ev-chadds-ford-pumpkin-face-painting-at-penns-woods-825d3f",
+      "name": "Pumpkin & Face Painting at Penns Woods Winery",
+      "category": "events",
+      "subcategories": [
+        "drinks",
+        "food-drink",
+        "halloween",
+        "holiday"
+      ],
+      "shortDescription": "Pick and paint a pumpkin from the patch. There’ll be face painting ($10) as well as apple cider donuts and Pumpkin Spice Sangria.",
+      "address": "Penns Woods Winery, Chadds Ford, PA",
+      "town": "Chadds Ford",
+      "lat": 39.847562,
+      "lng": -75.546723,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-31",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://countylinesmagazine.com/event/pumpkin-face-painting-at-penns-woods-winery/2026-10-31/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/156f097b-8ef7-4ff4-8657-161842c39c95.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 31",
+      "nextDate": "2026-10-31",
+      "dates": [
+        "2026-10-31"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ridley-park-farmers-market",
@@ -1103,6 +788,45 @@
       "occurrences": 2
     },
     {
+      "id": "ev-thornton-thornton-farmers-market-39f66b",
+      "name": "Thornton Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "crafts",
+        "farmers-market",
+        "markets"
+      ],
+      "shortDescription": "Produce, products and creations from local farmers, crafters and food artisans. 330 Glen Mills Rd. Starting May 9, Sat, 10 to 1. On Facebook",
+      "address": "Thornton Farmers Market, Thornton, PA",
+      "town": "Thornton",
+      "lat": 39.910498,
+      "lng": -75.523636,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-10-31",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://countylinesmagazine.com/event/thornton-farmers-market/2026-10-31/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/36a61875-d480-4eb5-98ad-1cd19e60756e.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Oct 31",
+      "nextDate": "2026-10-31",
+      "dates": [
+        "2026-10-31"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-villanova-villanova-university-men-s-soccer-vs-u-fe2db4",
       "name": "Villanova University Men's Soccer vs University of Akron",
       "category": "events",
@@ -1181,7 +905,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-chester-widener-pride-football-vs-stevenson-e143a6",
+      "id": "ev-chester-widener-pride-football-vs-stevenson-1ee1fa",
       "name": "Widener Pride: Football vs Stevenson",
       "category": "events",
       "subcategories": [
@@ -1189,11 +913,11 @@
         "sports",
         "sports-outdoors"
       ],
-      "shortDescription": "Football vs Stevenson Streaming Video: https://gomacsports.tv/widenerpride/ Tickets: https://fan.hudl.com/tickets/VGlja2V0ZWRFdmVudDZhMjliODJmY2Y1NTAwMDFmYTA2ZTkyNA==",
-      "address": "Elizabeth J. Hirschmann Field at Leslie C. Quick Jr. Stadium, Chester, PA",
+      "shortDescription": "Football vs Stevenson Streaming Video: https://gomacsports.tv/widenerpride/?B=4093505 Tickets:...",
+      "address": "Chester, PA",
       "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
+      "lat": 39.85268,
+      "lng": -75.360687,
       "priceTier": 0,
       "tags": [
         "family",
@@ -1208,7 +932,7 @@
       "phone": "",
       "website": "https://widenerpride.com/calendar.aspx?game_id=14302&amp;sport_id=4",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/56924039-b795-486d-a4a5-a79d4c6399ff.medium.png",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/271c83cb-f973-4590-86d5-873575c68104.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -3442,6 +3166,49 @@
       "occurrences": 1
     },
     {
+      "id": "ev-bryn-mawr-youth-one-time-classes-90569b",
+      "name": "Youth One-Time Classes",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "special-audience",
+        "visual-arts"
+      ],
+      "shortDescription": "$80 Per Person / Ages 9 and up Friday, Oct 2, 2026 / 5:30 PM - 7:00 PM (EDT) Join our one time class to learn the basics of wheel throwing!",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-27",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/160853/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pbI4ypXkz062b8lEfv8Ztg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fridays, Nov 6 - Nov 27",
+      "nextDate": "2026-11-06",
+      "dates": [
+        "2026-11-06",
+        "2026-11-13",
+        "2026-11-20",
+        "2026-11-27"
+      ],
+      "occurrences": 4
+    },
+    {
       "id": "ev-media-big-fire-band-794ac1",
       "name": "Big Fire Band",
       "category": "events",
@@ -3502,8 +3269,8 @@
       ],
       "hours": {},
       "startDate": "2026-11-07",
-      "endDate": "",
-      "recurring": "none",
+      "endDate": "2027-04-17",
+      "recurring": "weekly",
       "venueId": "",
       "phone": "",
       "website": "https://www.bandsintown.com/e/107558533?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
@@ -3513,12 +3280,13 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Sat, Nov 7",
+      "schedule": "Saturdays, Nov 7 - Apr 17",
       "nextDate": "2026-11-07",
       "dates": [
-        "2026-11-07"
+        "2026-11-07",
+        "2027-04-17"
       ],
-      "occurrences": 1
+      "occurrences": 2
     },
     {
       "id": "ev-wayne-dale-and-the-zdubs-rdgldgrn-at-118-north-6e6c41",
@@ -6912,6 +6680,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-sing-along-with-dani-b-9fbaed",
+      "name": "Sing Along with Dani B!",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Winsor Room - No registration required - Ages birth-6 years Join local children's entertainer, Dani B, for a fun, interactive music session filled with singing,...",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-20",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17816154",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/29285568-7de3-428e-a16d-3491ad349d9e.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Nov 20",
+      "nextDate": "2026-11-20",
+      "dates": [
+        "2026-11-20"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-smash-palace-at-118-north-052361",
       "name": "Smash Palace at 118 North",
       "category": "events",
@@ -9627,7 +9433,7 @@
       ],
       "hours": {},
       "startDate": "2026-12-17",
-      "endDate": "",
+      "endDate": "2027-01-22",
       "recurring": "none",
       "venueId": "",
       "phone": "",
@@ -9638,12 +9444,13 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Thu, Dec 17",
+      "schedule": "2 dates, Dec 17 - Jan 22",
       "nextDate": "2026-12-17",
       "dates": [
-        "2026-12-17"
+        "2026-12-17",
+        "2027-01-22"
       ],
-      "occurrences": 1
+      "occurrences": 2
     },
     {
       "id": "ev-chester-widener-pride-men-s-basketball-vs-immacu-3846f3",
@@ -11093,6 +10900,46 @@
       "website": "https://www.eventbrite.com/e/murder-mystery-dinner-at-folsom-fire-co-tickets-1999943739562",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/j0OuOMpW9ESYq-QLAwNJmw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Jan 23",
+      "nextDate": "2027-01-23",
+      "dates": [
+        "2027-01-23"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-media-smash-atoms-band-003550",
+      "name": "Smash Atoms Band",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Pop Punk cover band from West Chester, PA—reliving your teenage angst one anthem at a time! Booking: smshatoms@gmail.com",
+      "address": "Martinique Deux, Media, PA",
+      "town": "Media",
+      "lat": 39.918415,
+      "lng": -75.391665,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-23",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108751404?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/HfH30NlXqEKr85dYG8D63w.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -13668,6 +13515,46 @@
       "nextDate": "2027-04-24",
       "dates": [
         "2027-04-24"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-senior-lunch-ed6659",
+      "name": "Senior Lunch",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink",
+        "special-audience"
+      ],
+      "shortDescription": "Senior Lunch at Lowry House in Newtown Square.",
+      "address": "Lowry House, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-04-28",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f1b3bb07-baf9-4eef-89e9-0e04164064e6.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Apr 28",
+      "nextDate": "2027-04-28",
+      "dates": [
+        "2027-04-28"
       ],
       "occurrences": 1
     },
