@@ -1,405 +1,19 @@
 {
   "version": 1,
-  "scraped_at": "2026-11-01T16:07:57.937875+00:00",
+  "scraped_at": "2026-11-02T19:36:50.101161+00:00",
   "horizon_days": 180,
-  "event_count": 483,
+  "event_count": 502,
   "listings": [
     {
-      "id": "ev-wayne-2026-philly-friendship-walk-7c647b",
-      "name": "2026 Philly Friendship Walk",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "fundraiser",
-        "special-audience"
-      ],
-      "shortDescription": "Walk, roll, or stroll with the whole community at this fun-filled, family-friendly event that raises crucial funds and awareness for Philly Friendship Circle—a nonprofit...",
-      "address": "Radnor Elementary School, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.046757,
-      "lng": -75.360693,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-01",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/MQ52xbDVEkSBa_6-P5mIIw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 1",
-      "nextDate": "2026-11-01",
-      "dates": [
-        "2026-11-01"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-drexel-hill-2026-27-lansdowne-symphony-orchestra-9a0086",
-      "name": "2026-27 Lansdowne Symphony Orchestra Season Subscription",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "A thrilling 5-concert Sunday afternoon series at Upper Darby HS's Theater. General admission, free parking, five concerts, one low price.",
-      "address": "Upper Darby School District Performing Arts Center, Drexel Hill, PA",
-      "town": "Drexel Hill",
-      "lat": 39.95531,
-      "lng": -75.345821,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-01",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/2026-27-lansdowne-symphony-orchestra-season-subscription-tickets-2001699455957",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IwLXrpTzT0aUb0riJ-AuSQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 1",
-      "nextDate": "2026-11-01",
-      "dates": [
-        "2026-11-01"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-swarthmore-andrew-neu-97197e",
-      "name": "Andrew Neu",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "destinations",
-        "live-music",
-        "music"
-      ],
-      "shortDescription": "The Swarthmore College Department of Music is proud to present a Centennial Celebration of John Coltrane and Miles Davis on Sunday, November 1st at 7:30pm in the Lang...",
-      "address": "Lang Music Building, Swarthmore, PA",
-      "town": "Swarthmore",
-      "lat": 39.905447,
-      "lng": -75.356191,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-01",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/108959170?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/CQtloVMf706rpL8Llq3A9Q.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 1",
-      "nextDate": "2026-11-01",
-      "dates": [
-        "2026-11-01"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-claudia-gabel-paradise-book-launch-43a84d",
-      "name": "Claudia Gabel \"Paradise\" Book Launch",
-      "category": "events",
-      "subcategories": [
-        "author-event",
-        "literary-arts"
-      ],
-      "shortDescription": "Main Point welcomes neighbor Claudia Gabel",
-      "address": "Main Point Books, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.04479,
-      "lng": -75.388152,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-01",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/claudia-gabel-paradise-book-launch-tickets-2002302242909",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/my3JSWWzTkO9k2m-KmKI2g.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 1",
-      "nextDate": "2026-11-01",
-      "dates": [
-        "2026-11-01"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-foundations-of-the-portrait-with-ellen-coo-b8591d",
-      "name": "Foundations of the Portrait with Ellen Cooper",
-      "category": "events",
-      "subcategories": [
-        "visual-arts"
-      ],
-      "shortDescription": "While working from a live model (one 2-day pose) this workshop will emphasize how to achieve accuracy of the facial structure and features as you block in, and how to...",
-      "address": "Wayne Art Center, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.03894,
-      "lng": -75.394446,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-01",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://wayneart.org/events/2129/foundations-of-the-portrait-with-ellen-cooper",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/MFCDVWvrs0eO8zb-SLL-gg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 1",
-      "nextDate": "2026-11-01",
-      "dates": [
-        "2026-11-01"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-jesse-james-deconto-the-pinkerton-raid-ant-e2da6c",
-      "name": "Jesse James DeConto (The Pinkerton Raid) + Antar Goodwin at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Jesse James DeConto (The Pinkerton Raid) + Antar Goodwin at 118 North with Claire Wellin (of San Fermin) Sunday, November 1, 2026 Doors: 6:00 PM | Show: 7:00 PM 21+...",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-01",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1650218269859943/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dfbc8e82-cbbc-45df-b109-75d61c56c4ed.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 1",
-      "nextDate": "2026-11-01",
-      "dates": [
-        "2026-11-01"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-misery-179fa7",
-      "name": "Misery",
-      "category": "events",
-      "subcategories": [
-        "halloween",
-        "holiday",
-        "performing-arts",
-        "theater"
-      ],
-      "shortDescription": "After a devastating car accident leaves novelist Paul Sheldon stranded in a remote cabin, he awakens under the care of Annie Wilkes, his self-proclaimed “number one...",
-      "address": "Hedgerow Theatre, Media, PA",
-      "town": "Media",
-      "lat": 39.897539,
-      "lng": -75.386668,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-01",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "(610) 565-4211",
-      "website": "https://www.hedgerowtheatre.org/misery",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OtyxLaPmVUKxIC-56D9MWw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 1",
-      "nextDate": "2026-11-01",
-      "dates": [
-        "2026-11-01"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-native-american-heritage-month-be-b2c3e6",
-      "name": "Native American Heritage Month begins",
-      "category": "events",
-      "subcategories": [
-        "lifestyle",
-        "multicultural"
-      ],
-      "shortDescription": "Native American Heritage Month begins",
-      "address": "Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-01",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/640cb24c-7c36-409e-ae57-11bb8a400d85.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 1",
-      "nextDate": "2026-11-01",
-      "dates": [
-        "2026-11-01"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-tales-from-poe-2cf278",
-      "name": "Tales from Poe",
-      "category": "events",
-      "subcategories": [
-        "halloween",
-        "holiday",
-        "literary-arts",
-        "performing-arts"
-      ],
-      "shortDescription": "This Halloween, journey into the dark imagination of one of horror’s greatest masterminds, Edgar Allan Poe.",
-      "address": "Hedgerow Theatre, Media, PA",
-      "town": "Media",
-      "lat": 39.897539,
-      "lng": -75.386668,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-01",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "(610) 565-4211",
-      "website": "https://www.hedgerowtheatre.org/talesfrompoe2026",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/lRez_EKp6U6OX-AOMKma-g.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 1",
-      "nextDate": "2026-11-01",
-      "dates": [
-        "2026-11-01"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-villanova-university-women-s-basketbal-1bb7d9",
-      "name": "Villanova University Women's Basketball vs University of Notre Dame - Eternal City Tip-Off",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Villanova University Women's Basketball vs University of Notre Dame - Eternal City Tip-Off",
-      "address": "Rome, Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03176,
-      "lng": -75.34903,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-01",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanova.com/calendar.aspx?game_id=17835&amp;sport_id=14",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/94f14392-5a57-4160-b378-7b637cfb697d.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 1",
-      "nextDate": "2026-11-01",
-      "dates": [
-        "2026-11-01"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-football-jv-v-malvern-e636e6",
+      "id": "ev-newtown-square-football-jv-v-malvern-bb3f7c",
       "name": "Football - JV v Malvern",
       "category": "events",
       "subcategories": [
         "sports",
         "sports-outdoors"
       ],
-      "shortDescription": "Football - JV v Malvern at Smith Field (Field G) in Newtown Square.",
-      "address": "Smith Field (Field G), Newtown Square, PA",
+      "shortDescription": "Football - JV v Malvern at Smith Field in Newtown Square.",
+      "address": "Smith Field, Newtown Square, PA",
       "town": "Newtown Square",
       "lat": 39.98678,
       "lng": -75.40103,
@@ -416,7 +30,7 @@
       "phone": "",
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e2439a77-9511-4393-a8be-b5da490cc5c3.medium.png",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/610dabab-06fd-4201-b15a-3a76f8148d85.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -593,6 +207,56 @@
       "occurrences": 9
     },
     {
+      "id": "ev-radnor-restaurant-week-at-merrick-s-tavern-5229ad",
+      "name": "Restaurant Week at Merrick's Tavern",
+      "category": "events",
+      "subcategories": [
+        "beer",
+        "drinks",
+        "food-drink"
+      ],
+      "shortDescription": "Celebrate Main Line Today Restaurant Week at the new Merrick’s Tavern in Radnor, PA Available starting November 1 through November 14, enjoy a 3 course, prix-fixe dinner...",
+      "address": "Merrick's Tavern, Radnor, PA",
+      "town": "Radnor",
+      "lat": 40.041394,
+      "lng": -75.354926,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-02",
+      "endDate": "2026-11-14",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.merrickstavern.com/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/UpMe_Yy2ZkGYOT3S5OPRrw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Nov 2 - Nov 14",
+      "nextDate": "2026-11-02",
+      "dates": [
+        "2026-11-02",
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-14"
+      ],
+      "occurrences": 13
+    },
+    {
       "id": "ev-newtown-square-soccer-3rds-boys-v-sch-b20088",
       "name": "Soccer - 3rds Boys v SCH",
       "category": "events",
@@ -657,6 +321,44 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/890273d5-60d0-444d-b73a-b8cd330e83a8.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mon, Nov 2",
+      "nextDate": "2026-11-02",
+      "dates": [
+        "2026-11-02"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-soccer-boys-ms-c-v-sch-b-429f37",
+      "name": "Soccer - Boys MS C v SCH B",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Soccer - Boys MS C v SCH B",
+      "address": "Reape Field, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-02",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/469bd39d-8063-41c7-8f6c-2f23de9f535d.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -803,7 +505,7 @@
       "occurrences": 11
     },
     {
-      "id": "ev-newtown-square-uc-philadelphia-counselor-breakfa-d930b2",
+      "id": "ev-newtown-square-uc-philadelphia-counselor-breakfa-a54799",
       "name": "UC Philadelphia Counselor Breakfast",
       "category": "events",
       "subcategories": [
@@ -811,10 +513,10 @@
         "food-drink"
       ],
       "shortDescription": "UC Philadelphia Counselor Breakfast",
-      "address": "Tierney Dining Hall - Ott Alcove, Newtown Square, PA",
+      "address": "Tierney Dining Hall, Newtown Square, PA",
       "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
+      "lat": 39.98768,
+      "lng": -75.38274,
       "priceTier": 0,
       "tags": [
         "free",
@@ -828,7 +530,7 @@
       "phone": "",
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/220822T170928%7CpheBs00d60GvXsa9NAHvIQ.medium.jpg",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e15d0a8c-a79c-4f07-a32e-453b5a93e16f.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -2631,6 +2333,45 @@
       "occurrences": 4
     },
     {
+      "id": "ev-newtown-square-17th-century-day-cbc87a",
+      "name": "17th Century Day",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Witness the expanding horizons of Europe and America during a century of profound transformation fueled by political and religious upheavals.",
+      "address": "Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.965681,
+      "lng": -75.438799,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-07",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.brandywinevalley.com/event/17th-century-day/4506/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pX5aRlMs6E-bGO0jKTc_PA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 7",
+      "nextDate": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-media-big-fire-band-794ac1",
       "name": "Big Fire Band",
       "category": "events",
@@ -3520,6 +3261,44 @@
       "website": "https://www.bandsintown.com/e/1040514735?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OhzXgtjm4USrWxq-F2KMRw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Nov 8",
+      "nextDate": "2026-11-08",
+      "dates": [
+        "2026-11-08"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-jonathan-savage-and-the-classic-rockers-at-a9a1b7",
+      "name": "Jonathan Savage and the Classic Rockers at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Jonathan Savage at 118 North with Ghost of the Mill Sunday, November 8, 2026 Doors: 5:30 PM | Show: 7:30 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-08",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/4134059446894117/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/96f6c056-3947-4861-bad5-eee763bc4463.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -7265,6 +7044,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-aston-dcs-symphony-explorers-da8136",
+      "name": "DCS Symphony Explorers",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "DCS Symphony Explorers A FREE introduction to symphonic music for elementary and middle school age students accompanied by a parent or guardian.",
+      "address": "Neumann University, Aston, PA",
+      "town": "Aston",
+      "lat": 39.875322,
+      "lng": -75.440804,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-23",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.dcsmusic.org/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/EmrGf5EKHUWT9bAJiqccUQ.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mon, Nov 23",
+      "nextDate": "2026-11-23",
+      "dates": [
+        "2026-11-23"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-yoga-for-all-ages-10d418",
       "name": "Yoga For All Ages",
       "category": "events",
@@ -7461,6 +7278,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-dj-hurricane-larue-at-118-north-e288eb",
+      "name": "DJ Hurricane LaRue at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "DJ Hurricane LaRue at 118 North Wednesday, November 25, 2026 Show: 11:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-25",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1659709445718049/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b07cc5f2-7c7d-4c00-8834-65f09a2595be.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Nov 25",
+      "nextDate": "2026-11-25",
+      "dates": [
+        "2026-11-25"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-ea-turkey-trot-7c5782",
       "name": "EA Turkey Trot",
       "category": "events",
@@ -7628,8 +7483,8 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-rocks-this-way-aerosmith-tribute-7d432f",
-      "name": "Rocks This Way - Aerosmith Tribute",
+      "id": "ev-wayne-rocks-this-way-tribute-to-aerosmith-at-118-6d7cfd",
+      "name": "Rocks This Way - Tribute to Aerosmith at 118 North",
       "category": "events",
       "subcategories": [
         "concert",
@@ -7637,7 +7492,7 @@
         "live-music",
         "markets"
       ],
-      "shortDescription": "Skip the shopping and spend Black Friday rocking with friends!",
+      "shortDescription": "Rocks This Way - Tribute to Aerosmith at 118 North Friday, November 27, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
       "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
       "lat": 40.044905,
@@ -7653,7 +7508,7 @@
       "recurring": "none",
       "venueId": "",
       "phone": "",
-      "website": "https://www.bandsintown.com/e/108923770?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "website": "https://www.facebook.com/events/1621589269464520/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ikkvUbe2hkiODIh95ywbXg.medium.png",
       "featured": false,
@@ -8209,6 +8064,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-the-wonton-soups-at-118-north-c3c637",
+      "name": "The Wonton Soups at 118 North",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "The Wonton Soups at 118 North Wednesday, December 2, 2026 Doors: 5:30 PM | Show: 7:30 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-02",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/2255579255233616/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/6e2f509b-30a3-4bcb-a676-4ab5c83e2641.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Dec 2",
+      "nextDate": "2026-12-02",
+      "dates": [
+        "2026-12-02"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-chester-widener-pride-men-s-basketball-vs-easter-e89c6f",
       "name": "Widener Pride: Men's Basketball vs Eastern",
       "category": "events",
@@ -8544,6 +8439,45 @@
       "website": "https://www.bandsintown.com/e/108883127?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mW-aB_H_F0uHz98oQivbAg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Dec 4",
+      "nextDate": "2026-12-04",
+      "dates": [
+        "2026-12-04"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-the-circus-hearts-bob-lowery-band-at-118-n-5bd425",
+      "name": "The Circus Hearts & Bob Lowery Band at 118 North",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "The Circus Hearts & Bob Lowery Band at 118 North Friday, December 4, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-04",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/916035084681856/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/304f74b9-4a91-4bb5-a4f7-7c385cb4436b.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -9052,6 +8986,45 @@
       "website": "https://wayneart.org/events/2160/holiday-workshop-family-fun-day-with-multiple-workshops",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/313bdebb-d487-4524-8543-19810ace3603.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Dec 6",
+      "nextDate": "2026-12-06",
+      "dates": [
+        "2026-12-06"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-stagefright-the-music-of-the-last-waltz-at-b7bbf2",
+      "name": "Stagefright - The Music of The Last Waltz at 118 North",
+      "category": "events",
+      "subcategories": [
+        "dance",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Stagefright - The Music of The Last Waltz at 118 North Sunday, December 26, 2026 Doors: 5:30 PM | Show: 7:30 PM 21+ Unless Accompanied by Parent or Legal Guardian...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/978973984499689/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/220822T170928%7CbjIHd-6H7ESsQvJa7BAe4A.medium.jpg",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -9866,8 +9839,8 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-quinn-sullivan-73d4b4",
-      "name": "Quinn Sullivan",
+      "id": "ev-wayne-quinn-sullivan-at-118-north-a3a5cd",
+      "name": "Quinn Sullivan at 118 North",
       "category": "events",
       "subcategories": [
         "concert",
@@ -9875,7 +9848,7 @@
         "music",
         "performing-arts"
       ],
-      "shortDescription": "26 Year old Quinn Sullivan is an acclaimed singer, songwriter, and guitarist who rose to prominence in the early 2000’s and continues to amaze audiences worldwide.",
+      "shortDescription": "Quinn Sullivan at 118 North with Katie Henry Saturday, December 12, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
       "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
       "lat": 40.044905,
@@ -9891,7 +9864,7 @@
       "recurring": "none",
       "venueId": "",
       "phone": "",
-      "website": "https://www.bandsintown.com/e/1040408364?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "website": "https://www.facebook.com/events/1060613406600628/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/lkFwQsPjLUGNUIDL_UdUXg.medium.png",
       "featured": false,
@@ -10245,6 +10218,44 @@
       "website": "https://wayneart.org/events/2137/the-intimate-object-breathing-life-still-life-with-jon-redmond",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b8AQOp4YOUuSTXiWSTWfZw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Dec 13",
+      "nextDate": "2026-12-13",
+      "dates": [
+        "2026-12-13"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-vahe-sarkissian-at-118-north-0db84e",
+      "name": "Vahe Sarkissian at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Vahe Sarkissian at 118 North Sunday, December 13, 2026 Doors: 2:00 PM | Show: 3:00 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-13",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1663532958440487/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9ffd6ad4-a5fe-4ee8-a746-02776a158996.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -10837,6 +10848,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-york-street-hustle-at-118-north-64f190",
+      "name": "York Street Hustle at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "York Street Hustle at 118 North Thursday, December 17, 2026 Doors: 6:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-17",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1515576960338952/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/607f2af6-c086-49dc-82f3-0baba78bda84.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Dec 17",
+      "nextDate": "2026-12-17",
+      "dates": [
+        "2026-12-17"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-basketball-girls-jv-v-notre-dame-c116ca",
       "name": "Basketball - Girls JV v Notre Dame",
       "category": "events",
@@ -10941,6 +10990,46 @@
       "website": "https://www.bandsintown.com/e/108700294?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/A2eEY6cdMEKy5S2my0u-Hg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Dec 18",
+      "nextDate": "2026-12-18",
+      "dates": [
+        "2026-12-18"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-into-the-mystic-van-morrison-tribute-at-11-6eb323",
+      "name": "Into The Mystic: Van Morrison Tribute at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts",
+        "special-audience"
+      ],
+      "shortDescription": "Into The Mystic: Van Morrison Tribute at 118 North Friday, December 18, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-18",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1419431646318528/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/de8a8d2e-0aee-4a6e-b082-3194ae1b1c25.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -11331,8 +11420,8 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-the-bean-tones-7def97",
-      "name": "The Bean Tones",
+      "id": "ev-wayne-the-bean-tones-at-118-north-b68c7b",
+      "name": "The Bean Tones at 118 North",
       "category": "events",
       "subcategories": [
         "concert",
@@ -11340,7 +11429,7 @@
         "music",
         "performing-arts"
       ],
-      "shortDescription": "The Bean Tones at 118 NORTH in Wayne.",
+      "shortDescription": "The Bean Tones at 118 North Sunday, December 20, 2026 Doors: 7:00 PM | Show: 7:30 PM 21+ Unless Accompanied by a Parent or Guardian",
       "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
       "lat": 40.044905,
@@ -11356,7 +11445,7 @@
       "recurring": "none",
       "venueId": "",
       "phone": "",
-      "website": "https://www.bandsintown.com/e/1040492297?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "website": "https://www.facebook.com/events/1633288491781748/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/CcEpmt26i0icSXnxokMN6g.medium.png",
       "featured": false,
@@ -11487,16 +11576,16 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-eric-mintel-quartet-9363ed",
-      "name": "Eric Mintel Quartet",
+      "id": "ev-wayne-eric-mintel-quartet-charlie-brown-christma-c4af0a",
+      "name": "Eric Mintel Quartet: Charlie Brown Christmas at 118 North",
       "category": "events",
       "subcategories": [
         "christmas",
-        "concert",
         "holiday",
-        "live-music"
+        "music",
+        "performing-arts"
       ],
-      "shortDescription": "A Charlie Brown Christmas with the Eric Mintel Quartet (Late Show)",
+      "shortDescription": "Eric Mintel Quartet: Charlie Brown Christmas at 118 North Wednesday, December 23, 2026 Doors: 4:00 PM | Show: 6:00 PM 21+ Unless Accompanied by a Parent or Guardian...",
       "address": "118 NORTH, Wayne, PA",
       "town": "Wayne",
       "lat": 40.044905,
@@ -11512,9 +11601,9 @@
       "recurring": "none",
       "venueId": "",
       "phone": "",
-      "website": "https://www.bandsintown.com/e/1040514570?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "website": "https://www.facebook.com/events/1571758707480386/",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4ed8e51f-c70c-4053-90c5-39661e36347a.medium.png",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3add9484-9e7c-4e08-9ea1-c61fbd9858db.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -11527,8 +11616,48 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-molly-martin-4f1238",
-      "name": "Molly Martin",
+      "id": "ev-villanova-villanova-university-women-s-basketbal-8ada39",
+      "name": "Villanova University Women's Basketball vs University of Connecticut",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Villanova University Women's Basketball vs University of Connecticut",
+      "address": "Finneran Pavilion, Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.033811,
+      "lng": -75.335447,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-23",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://villanova.com/calendar.aspx?game_id=17939&amp;sport_id=14",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dce3bfdb-89e5-4b34-a3fc-0a2507a30f0e.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Dec 23",
+      "nextDate": "2026-12-23",
+      "dates": [
+        "2026-12-23"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-molly-martin-at-118-north-0cef38",
+      "name": "Molly Martin at 118 North",
       "category": "events",
       "subcategories": [
         "concert",
@@ -11536,7 +11665,7 @@
         "music",
         "performing-arts"
       ],
-      "shortDescription": "A fresh take on something classic Philly-born, Nashville-based",
+      "shortDescription": "Molly Martin at 118 North with Matthew Fair Saturday, December 26, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
       "address": "Wayne, PA",
       "town": "Wayne",
       "lat": 40.044905,
@@ -11552,7 +11681,7 @@
       "recurring": "none",
       "venueId": "",
       "phone": "",
-      "website": "https://www.bandsintown.com/e/108964035?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "website": "https://www.facebook.com/events/4375980329380216/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/GgNcI3c_6k-Au-F-_ftMLg.medium.png",
       "featured": false,
@@ -11563,6 +11692,44 @@
       "nextDate": "2026-12-26",
       "dates": [
         "2026-12-26"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-rift-phish-tribute-at-118-north-9845ee",
+      "name": "Rift (Phish Tribute) at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Rift (Phish Tribute) at 118 North Sunday, December 27, 2026 Doors: 5:30 PM | Show: 7:30 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-27",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/2581533852272076/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0e8491a0-6d97-40a0-919f-ebb82c44d931.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Dec 27",
+      "nextDate": "2026-12-27",
+      "dates": [
+        "2026-12-27"
       ],
       "occurrences": 1
     },
@@ -11672,6 +11839,45 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/440b5bad-552b-44ee-a8d7-224f5016a0e0.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Dec 30",
+      "nextDate": "2026-12-30",
+      "dates": [
+        "2026-12-30"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-love-you-to-a-tribute-to-the-beatles-at-11-4498f3",
+      "name": "Love You To: A Tribute to the Beatles at 118 North",
+      "category": "events",
+      "subcategories": [
+        "lifestyle",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Love You To: A Tribute to the Beatles at 118 North Wednesday, December 30, 2026 Doors: 5:30 PM | Show: 7:30 PM 21+ Unless Accompanied by a Parent or Guardian",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-30",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/29472771115656900/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ae3b5cbf-d92f-4c24-96b9-cf5c90b02fac.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -12363,46 +12569,6 @@
       "occurrences": 1
     },
     {
-      "id": "ev-wayne-i-yahn-i-arkestra-reggae-thunder-2eff03",
-      "name": "I Yahn I Arkestra & Reggae Thunder",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Reggae Thunder + I Yahn I Arkestra",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2027-01-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/1040513962?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/oE9osF1nVUqZR-fLs_m27w.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Jan 8",
-      "nextDate": "2027-01-08",
-      "dates": [
-        "2027-01-08"
-      ],
-      "occurrences": 1
-    },
-    {
       "id": "ev-newtown-square-ice-hockey-varsity-ga-4f703d",
       "name": "Ice Hockey - Varsity @ GA",
       "category": "events",
@@ -12429,6 +12595,46 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f3188a2d-4a16-4f74-b418-fb9ee4b58d55.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Jan 8",
+      "nextDate": "2027-01-08",
+      "dates": [
+        "2027-01-08"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-reggae-thunder-i-yahn-i-arkestra-at-118-no-d32dc4",
+      "name": "Reggae Thunder + I Yahn I Arkestra at 118 North",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Reggae Thunder + I Yahn I Arkestra at 118 North Friday, January 8, 2027 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-08",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1147620067839757/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/oE9osF1nVUqZR-fLs_m27w.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -12517,6 +12723,82 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-have-fun-don-t-die-at-118-north-c31480",
+      "name": "Have Fun. Don't Die. at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Have Fun. Don't Die. at 118 North Saturday, January 9, 2027 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-09",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1637573397807299/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a5bb07a2-7451-461c-a708-a4ee484b5c26.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Jan 9",
+      "nextDate": "2027-01-09",
+      "dates": [
+        "2027-01-09"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-jazzgrass-chamber-orchestra-at-118-north-7da626",
+      "name": "Jazzgrass Chamber Orchestra at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Jazzgrass Chamber Orchestra at 118 North Saturday, January 9, 2027 Doors: 3:00 PM | Show: 4:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-09",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1534532745387320/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9361e5ac-d208-4303-a54f-cf9888f14f8a.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Jan 9",
+      "nextDate": "2027-01-09",
+      "dates": [
+        "2027-01-09"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-chester-widener-pride-men-s-basketball-vs-albrig-f7841c",
       "name": "Widener Pride: Men's Basketball vs Albright",
       "category": "events",
@@ -12593,6 +12875,45 @@
       "nextDate": "2027-01-09",
       "dates": [
         "2027-01-09"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-dustin-lowman-the-million-dollar-bash-a-bo-9f8b20",
+      "name": "Dustin Lowman & The Million Dollar Bash - A Bob Dylan Tribute at 118 North",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Dustin Lowman & The Million Dollar Bash - A Bob Dylan Tribute at 118 North Sunday, January 10, 2027 Doors: 5:30 PM | Show: 7:30 PM 21+ Unless Accompanied by Parent or...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-10",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/3468638523317267/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5af9f2f8-f9da-4a1c-aa81-ff6d64b2cf67.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Jan 10",
+      "nextDate": "2027-01-10",
+      "dates": [
+        "2027-01-10"
       ],
       "occurrences": 1
     },
@@ -13180,6 +13501,45 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-swing-that-cat-mighty-joe-castro-and-the-g-e2e67f",
+      "name": "Swing That Cat + Mighty Joe Castro and the Gravamen at 118 North",
+      "category": "events",
+      "subcategories": [
+        "lifestyle",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Swing That Cat + Mighty Joe Castro and the Gravamen at 118 North Friday, January 15, 2027 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-15",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1442324927841584/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/220822T170928%7CqjhJaPSLJky5MO8e0gcdLg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Jan 15",
+      "nextDate": "2027-01-15",
+      "dates": [
+        "2027-01-15"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-st-davids-western-new-england-university-men-s-w-720b67",
       "name": "Western New England University Men's Wrestling at Eastern University",
       "category": "events",
@@ -13406,6 +13766,44 @@
       "nextDate": "2027-01-16",
       "dates": [
         "2027-01-16"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-wailon-a-tribute-to-outlaw-country-at-118-eb0ab0",
+      "name": "WailOn - A Tribute to Outlaw Country at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "WailOn - A Tribute to Outlaw Country at 118 North 1/17 Sunday, January 17, 2027 Doors: 5:30 PM | Show: 7:30 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-17",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1131672306180153/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/02b40f2d-7819-4c03-aa93-f8f8e33b3c39.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Jan 17",
+      "nextDate": "2027-01-17",
+      "dates": [
+        "2027-01-17"
       ],
       "occurrences": 1
     },
@@ -14030,6 +14428,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-shaman-the-santana-experience-at-118-north-d37df9",
+      "name": "Shaman: The Santana Experience at 118 North",
+      "category": "events",
+      "subcategories": [
+        "faith",
+        "lifestyle",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Shaman: The Santana Experience at 118 North Saturday, January 23, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-23",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/933896662907398/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d3f6717b-fe40-4250-852d-756575a0a61e.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Jan 23",
+      "nextDate": "2027-01-23",
+      "dates": [
+        "2027-01-23"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-media-smash-atoms-band-003550",
       "name": "Smash Atoms Band",
       "category": "events",
@@ -14535,6 +14973,43 @@
       "occurrences": 1
     },
     {
+      "id": "ev-lansdowne-genna-jesse-at-lansdowne-folk-club-464033",
+      "name": "Genna & Jesse at Lansdowne Folk Club",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Lansdowne Folk Club presents modern troubadours Genna & Jesse on Thursday, January 28, 2027.",
+      "address": "Lansdowne Folk Club, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.935639,
+      "lng": -75.271746,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-28",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://folkclub.org",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/EaoME2Lr6EiqIeDEbIqV1w.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Jan 28",
+      "nextDate": "2027-01-28",
+      "dates": [
+        "2027-01-28"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-squash-boys-jv-haverford-0ef401",
       "name": "Squash - Boys JV @ Haverford",
       "category": "events",
@@ -14647,6 +15122,44 @@
       "nextDate": "2027-01-28",
       "dates": [
         "2027-01-28"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-almost-there-at-118-north-1eec99",
+      "name": "Almost There at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Almost There at 118 North Friday, January 29, 2027 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-29",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/951316584207984/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/220822T170928%7ClKsv8fGYLU63z_7088ejxQ.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Jan 29",
+      "nextDate": "2027-01-29",
+      "dates": [
+        "2027-01-29"
       ],
       "occurrences": 1
     },
@@ -14902,6 +15415,44 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9f6fcce3-17f3-4b4f-87ef-954c2ada5c15.medium.PNG",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Jan 30",
+      "nextDate": "2027-01-30",
+      "dates": [
+        "2027-01-30"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-take-me-home-tribute-to-phil-collins-at-11-68782c",
+      "name": "Take Me Home - Tribute to Phil Collins at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Take Me Home - Tribute to Phil Collins at 118 North Saturday, January 30, 2027 Doors: 8:00 PM | Show: 9:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-30",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/963376576842941/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d3ee9101-20ef-4d14-b7c2-83b499685949.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -16403,6 +16954,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-mike-viola-at-118-north-c42491",
+      "name": "Mike Viola at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Mike Viola at 118 North Friday, February 19, 2027 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-02-19",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1305311735056042/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d39a5079-4d5b-44e7-842e-48f89da6d056.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Feb 19",
+      "nextDate": "2027-02-19",
+      "dates": [
+        "2027-02-19"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-squash-boys-varsity-nationals-4bfdd8",
       "name": "Squash - Boys Varsity @ Nationals",
       "category": "events",
@@ -16559,6 +17148,43 @@
       "nextDate": "2027-02-20",
       "dates": [
         "2027-02-20"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-lansdowne-joe-crookston-at-lansdowne-folk-club-86ba6f",
+      "name": "Joe Crookston at Lansdowne Folk Club",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Lansdowne Folk Club presents award winning singer/songwriter Joe Crookston on Thursday, February 25, 2027.",
+      "address": "Lansdowne Folk Club, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.935639,
+      "lng": -75.271746,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-02-25",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://folkclub.org",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/H2ZB3TG39kGbozmXUu-NiA.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Feb 25",
+      "nextDate": "2027-02-25",
+      "dates": [
+        "2027-02-25"
       ],
       "occurrences": 1
     },
@@ -17066,6 +17692,45 @@
         "2027-03-28"
       ],
       "occurrences": 9
+    },
+    {
+      "id": "ev-wayne-karl-s-garcia-band-jgb-tribute-at-118-nort-82477c",
+      "name": "Karl's Garcia Band: JGB Tribute at 118 North",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Karl's Garcia Band: JGB Tribute at 118 North Friday, March 12, 2027 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-12",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/2074327170141323/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9a01b316-1378-4c7e-a527-3917c04eb7ad.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Mar 12",
+      "nextDate": "2027-03-12",
+      "dates": [
+        "2027-03-12"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-lansdowne-the-magical-music-of-harry-potter-live-1dd142",
@@ -18049,6 +18714,84 @@
       "nextDate": "2027-04-29",
       "dates": [
         "2027-04-29"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-jason-vieaux-1296e7",
+      "name": "Jason Vieaux",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Grammy-winner Jason Vieaux, “among the elite of today's classical guitarists” (Gramophone), is described by NPR as “perhaps the most precise and soulful classical...",
+      "address": "Radnor Middle School, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042104,
+      "lng": -75.386006,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-04-30",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108965248?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/vsTsOA3oB0-RQgMQPIBUhA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Apr 30",
+      "nextDate": "2027-04-30",
+      "dates": [
+        "2027-04-30"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-spring-musical-performance-f8616c",
+      "name": "Spring Musical Performance",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Spring Musical Performance",
+      "address": "Theater - Carrafiell Theater, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-04-30",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/89d88182-c781-45dd-b5d5-553f06a126a8.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Apr 30",
+      "nextDate": "2027-04-30",
+      "dates": [
+        "2027-04-30"
       ],
       "occurrences": 1
     },
