@@ -1,547 +1,9 @@
 {
   "version": 1,
-  "scraped_at": "2026-11-02T19:36:50.101161+00:00",
+  "scraped_at": "2026-11-03T17:10:00.118810+00:00",
   "horizon_days": 180,
-  "event_count": 502,
+  "event_count": 507,
   "listings": [
-    {
-      "id": "ev-newtown-square-football-jv-v-malvern-bb3f7c",
-      "name": "Football - JV v Malvern",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Football - JV v Malvern at Smith Field in Newtown Square.",
-      "address": "Smith Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/610dabab-06fd-4201-b15a-3a76f8148d85.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Nov 2",
-      "nextDate": "2026-11-02",
-      "dates": [
-        "2026-11-02"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chadds-ford-franklin-mint-federal-credit-union-d-ec9165",
-      "name": "Franklin Mint Federal Credit Union - Delaware County Car Seat Check Event",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "We will be hosting a special car seat check on Monday November 2, 2026 from 11:00am - 1:00pm",
-      "address": "5 Hillman Dr suite 100, Chadds Ford, PA",
-      "town": "Chadds Ford",
-      "lat": 39.876316,
-      "lng": -75.549017,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/franklin-mint-federal-credit-union-delaware-county-car-seat-check-event-registration-611368739357",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/qcc2s7zcCE-uO5SyfUw_9w.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Nov 2",
-      "nextDate": "2026-11-02",
-      "dates": [
-        "2026-11-02"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-girls-soccer-team-dinner-23af5a",
-      "name": "Girls Soccer Team Dinner",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Girls Soccer Team Dinner at Tierney Dining Hall - Ott Alcove in Newtown Square.",
-      "address": "Tierney Dining Hall - Ott Alcove, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a93e9a02-c48d-41d9-ade1-09d562fd5404.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Nov 2",
-      "nextDate": "2026-11-02",
-      "dates": [
-        "2026-11-02"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-monday-mahjong-beginner-lessons-5e1a9b",
-      "name": "Monday Mahjong Beginner lessons",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "games",
-        "learning"
-      ],
-      "shortDescription": "Monday Mahjong Beginner lessons at a Delco venue in Bryn Mawr.",
-      "address": "Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.027634,
-      "lng": -75.356119,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-02",
-      "endDate": "2026-11-16",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.agnesirwin.org/quick-links/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c62a1ca3-bfc4-43b0-8eb4-324304c1c3c9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mondays, Nov 2 - Nov 16",
-      "nextDate": "2026-11-02",
-      "dates": [
-        "2026-11-02",
-        "2026-11-09",
-        "2026-11-16"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-glenolden-monday-trivia-night-at-the-fainting-go-c68d01",
-      "name": "Monday Trivia Night at The Fainting Goat (Glenolden - Delaware County",
-      "category": "events",
-      "subcategories": [
-        "animals",
-        "destinations",
-        "farms",
-        "games"
-      ],
-      "shortDescription": "Monday Night Trivia Starts at 7pm at the Fainting Goat in Glenolden, PA. $50 gift card for 1st Place team and $25 for 2nd Place.",
-      "address": "The Fainting Goat Bar and Restaurant, Glenolden, PA",
-      "town": "Glenolden",
-      "lat": 39.903658,
-      "lng": -75.29411,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-02",
-      "endDate": "2026-12-28",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/monday-trivia-night-at-the-fainting-goat-glenolden-delaware-county-pa-tickets-1106985927709",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QD52Na3--EGn6QKh_-aT8g.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mondays, Nov 2 - Dec 28",
-      "nextDate": "2026-11-02",
-      "dates": [
-        "2026-11-02",
-        "2026-11-09",
-        "2026-11-16",
-        "2026-11-23",
-        "2026-11-30",
-        "2026-12-07",
-        "2026-12-14",
-        "2026-12-21",
-        "2026-12-28"
-      ],
-      "occurrences": 9
-    },
-    {
-      "id": "ev-radnor-restaurant-week-at-merrick-s-tavern-5229ad",
-      "name": "Restaurant Week at Merrick's Tavern",
-      "category": "events",
-      "subcategories": [
-        "beer",
-        "drinks",
-        "food-drink"
-      ],
-      "shortDescription": "Celebrate Main Line Today Restaurant Week at the new Merrick’s Tavern in Radnor, PA Available starting November 1 through November 14, enjoy a 3 course, prix-fixe dinner...",
-      "address": "Merrick's Tavern, Radnor, PA",
-      "town": "Radnor",
-      "lat": 40.041394,
-      "lng": -75.354926,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-02",
-      "endDate": "2026-11-14",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.merrickstavern.com/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/UpMe_Yy2ZkGYOT3S5OPRrw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Nov 2 - Nov 14",
-      "nextDate": "2026-11-02",
-      "dates": [
-        "2026-11-02",
-        "2026-11-03",
-        "2026-11-04",
-        "2026-11-05",
-        "2026-11-06",
-        "2026-11-07",
-        "2026-11-08",
-        "2026-11-09",
-        "2026-11-10",
-        "2026-11-11",
-        "2026-11-12",
-        "2026-11-13",
-        "2026-11-14"
-      ],
-      "occurrences": 13
-    },
-    {
-      "id": "ev-newtown-square-soccer-3rds-boys-v-sch-b20088",
-      "name": "Soccer - 3rds Boys v SCH",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - 3rds Boys v SCH at Field C in Newtown Square.",
-      "address": "Field C, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4b8401df-8242-4a6e-a069-2ec28d0848c9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Nov 2",
-      "nextDate": "2026-11-02",
-      "dates": [
-        "2026-11-02"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-boys-ms-a-v-sch-48f29e",
-      "name": "Soccer - Boys MS A v SCH",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - Boys MS A v SCH at Stone Field in Newtown Square.",
-      "address": "Stone Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/890273d5-60d0-444d-b73a-b8cd330e83a8.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Nov 2",
-      "nextDate": "2026-11-02",
-      "dates": [
-        "2026-11-02"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-boys-ms-c-v-sch-b-429f37",
-      "name": "Soccer - Boys MS C v SCH B",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - Boys MS C v SCH B",
-      "address": "Reape Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/469bd39d-8063-41c7-8f6c-2f23de9f535d.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Nov 2",
-      "nextDate": "2026-11-02",
-      "dates": [
-        "2026-11-02"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-sprouts-a-student-led-botany-course-b15e98",
-      "name": "Sprouts: A Student-Led Botany Course",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "classes",
-        "learning",
-        "special-audience"
-      ],
-      "shortDescription": "Winsor Room - Registration required Grades 1st-5th Led by students from The Baldwin School and Conestoga High School, the Sprouts course is a botany-based,...",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-02",
-      "endDate": "2026-11-23",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17420326",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7c0541b1-573c-44ea-a228-c018d23d6096.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mondays, Nov 2 - Nov 23",
-      "nextDate": "2026-11-02",
-      "dates": [
-        "2026-11-02",
-        "2026-11-09",
-        "2026-11-16",
-        "2026-11-23"
-      ],
-      "occurrences": 4
-    },
-    {
-      "id": "ev-newtown-square-tennis-girls-ms-a-v-shipley-f282e2",
-      "name": "Tennis - Girls MS A v Shipley",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Tennis - Girls MS A v Shipley",
-      "address": "Tennis Courts, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/038dcf91-8afb-4eed-a1c9-5eb3b4ef2978.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Nov 2",
-      "nextDate": "2026-11-02",
-      "dates": [
-        "2026-11-02"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-toddler-storytime-ages-2-3-years-67d052",
-      "name": "Toddler Storytime (Ages 2 - 3 years)",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "kids",
-        "learning",
-        "lifestyle"
-      ],
-      "shortDescription": "Ages 2 - 3 years - Winsor Room Stories, songs, and movement activities to help your young child engage with literature in a safe, social setting.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-11-02",
-      "endDate": "2026-12-17",
-      "recurring": "seasonal",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17721349",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fe5023d6-7e53-42a2-b2aa-b93e19cac158.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Select dates, Nov 2 - Dec 17",
-      "nextDate": "2026-11-02",
-      "dates": [
-        "2026-11-02",
-        "2026-11-05",
-        "2026-11-09",
-        "2026-11-12",
-        "2026-11-16",
-        "2026-11-19",
-        "2026-11-23",
-        "2026-12-07",
-        "2026-12-10",
-        "2026-12-14",
-        "2026-12-17"
-      ],
-      "occurrences": 11
-    },
-    {
-      "id": "ev-newtown-square-uc-philadelphia-counselor-breakfa-a54799",
-      "name": "UC Philadelphia Counselor Breakfast",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink"
-      ],
-      "shortDescription": "UC Philadelphia Counselor Breakfast",
-      "address": "Tierney Dining Hall, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98768,
-      "lng": -75.38274,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-02",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e15d0a8c-a79c-4f07-a32e-453b5a93e16f.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Nov 2",
-      "nextDate": "2026-11-02",
-      "dates": [
-        "2026-11-02"
-      ],
-      "occurrences": 1
-    },
     {
       "id": "ev-newtown-square-boys-water-polo-team-dinner-1e5c75",
       "name": "Boys Water Polo Team Dinner",
@@ -723,6 +185,55 @@
         "2027-04-27"
       ],
       "occurrences": 26
+    },
+    {
+      "id": "ev-radnor-restaurant-week-at-merrick-s-tavern-5229ad",
+      "name": "Restaurant Week at Merrick's Tavern",
+      "category": "events",
+      "subcategories": [
+        "beer",
+        "drinks",
+        "food-drink"
+      ],
+      "shortDescription": "Celebrate Main Line Today Restaurant Week at the new Merrick’s Tavern in Radnor, PA Available starting November 1 through November 14, enjoy a 3 course, prix-fixe dinner...",
+      "address": "Merrick's Tavern, Radnor, PA",
+      "town": "Radnor",
+      "lat": 40.041394,
+      "lng": -75.354926,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-14",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.merrickstavern.com/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/UpMe_Yy2ZkGYOT3S5OPRrw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Nov 3 - Nov 14",
+      "nextDate": "2026-11-03",
+      "dates": [
+        "2026-11-03",
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-14"
+      ],
+      "occurrences": 12
     },
     {
       "id": "ev-newtown-square-soccer-jv-boys-lawrenceville-74c37c",
@@ -1557,6 +1068,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-newtown-square-girls-soccer-team-dinner-7f01f7",
+      "name": "Girls Soccer Team Dinner",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Girls Soccer Team Dinner at Tierney Dining Hall in Newtown Square.",
+      "address": "Tierney Dining Hall, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98768,
+      "lng": -75.38274,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-05",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/018303ac-f872-419b-86e8-d64b71af256b.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Nov 5",
+      "nextDate": "2026-11-05",
+      "dates": [
+        "2026-11-05"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-bryn-mawr-one-time-adult-wheel-class-edcc01",
       "name": "One Time Adult Wheel Class",
       "category": "events",
@@ -1684,6 +1235,41 @@
       "occurrences": 2
     },
     {
+      "id": "ev-springfield-the-garden-club-of-springfield-c8aacd",
+      "name": "The Garden Club of Springfield",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "The Garden Club of Springfield held its October meeting at First Presbyterian Church of Springfield.",
+      "address": "First Presbyterian Church of Springfield, Springfield, PA",
+      "town": "Springfield",
+      "lat": 39.935649,
+      "lng": -75.334252,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-05",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ZZ_9lduZKkmpuDfybKMlEA.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Nov 5",
+      "nextDate": "2026-11-05",
+      "dates": [
+        "2026-11-05"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-drexel-hill-thursday-karaoke-at-casey-s-restaura-4579c1",
       "name": "Thursday Karaoke at Casey's Restaurant (Drexel Hill - Delaware County",
       "category": "events",
@@ -1747,6 +1333,57 @@
         "2027-04-29"
       ],
       "occurrences": 26
+    },
+    {
+      "id": "ev-wayne-toddler-storytime-ages-2-3-years-67d052",
+      "name": "Toddler Storytime (Ages 2 - 3 years)",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "kids",
+        "learning",
+        "lifestyle"
+      ],
+      "shortDescription": "Ages 2 - 3 years - Winsor Room Stories, songs, and movement activities to help your young child engage with literature in a safe, social setting.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-11-05",
+      "endDate": "2026-12-17",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17721452",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fe5023d6-7e53-42a2-b2aa-b93e19cac158.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "10 dates, Nov 5 - Dec 17",
+      "nextDate": "2026-11-05",
+      "dates": [
+        "2026-11-05",
+        "2026-11-09",
+        "2026-11-12",
+        "2026-11-16",
+        "2026-11-19",
+        "2026-11-23",
+        "2026-12-07",
+        "2026-12-10",
+        "2026-12-14",
+        "2026-12-17"
+      ],
+      "occurrences": 10
     },
     {
       "id": "ev-wayne-alla-prima-painting-4-fridays-with-georgan-11bb00",
@@ -2452,6 +2089,46 @@
       "occurrences": 2
     },
     {
+      "id": "ev-ridley-park-brian-quinn-ae63b5",
+      "name": "Brian Quinn",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Brian Quinn- Guitarist/Songwriter Brian Quinn is a multi-dimensional guitarist who has spent his career writing and performing in nationally-recognized bands across...",
+      "address": "Dolan's Bar, Ridley Park, PA",
+      "town": "Ridley Park",
+      "lat": 39.878825,
+      "lng": -75.32217,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-07",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/109057436?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/jNCZg1VC80Kmbgr4L_ZE9A.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 7",
+      "nextDate": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-dale-and-the-zdubs-rdgldgrn-at-118-north-6e6c41",
       "name": "Dale and the ZDubs + RDGLDGRN at 118 North",
       "category": "events",
@@ -2994,6 +2671,46 @@
       "dates": [
         "2026-11-07"
       ]
+    },
+    {
+      "id": "ev-springfield-taken-alive-ec1e2c",
+      "name": "Taken Alive",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "GUESS AGAIN TAKEN ALIVE HUMAN ERROR 7:00PM $10",
+      "address": "Craft Beer Store, Springfield, PA",
+      "town": "Springfield",
+      "lat": 39.923839,
+      "lng": -75.312724,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-07",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/109041642?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/x3kD4iJSAkGVzysCpQCBvg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 7",
+      "nextDate": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-villanova-villanova-university-football-vs-richm-bd0277",
@@ -3624,6 +3341,136 @@
         "2026-12-14"
       ],
       "occurrences": 2
+    },
+    {
+      "id": "ev-bryn-mawr-monday-mahjong-beginner-lessons-5e1a9b",
+      "name": "Monday Mahjong Beginner lessons",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "games",
+        "learning"
+      ],
+      "shortDescription": "Monday Mahjong Beginner lessons at a Delco venue in Bryn Mawr.",
+      "address": "Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.027634,
+      "lng": -75.356119,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-16",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.agnesirwin.org/quick-links/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c62a1ca3-bfc4-43b0-8eb4-324304c1c3c9.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mondays, Nov 9 - Nov 16",
+      "nextDate": "2026-11-09",
+      "dates": [
+        "2026-11-09",
+        "2026-11-16"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "ev-glenolden-monday-trivia-night-at-the-fainting-go-c68d01",
+      "name": "Monday Trivia Night at The Fainting Goat (Glenolden - Delaware County",
+      "category": "events",
+      "subcategories": [
+        "animals",
+        "destinations",
+        "farms",
+        "games"
+      ],
+      "shortDescription": "Monday Night Trivia Starts at 7pm at the Fainting Goat in Glenolden, PA. $50 gift card for 1st Place team and $25 for 2nd Place.",
+      "address": "The Fainting Goat Bar and Restaurant, Glenolden, PA",
+      "town": "Glenolden",
+      "lat": 39.903658,
+      "lng": -75.29411,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-09",
+      "endDate": "2026-12-28",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/monday-trivia-night-at-the-fainting-goat-glenolden-delaware-county-pa-tickets-1106985927709",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QD52Na3--EGn6QKh_-aT8g.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mondays, Nov 9 - Dec 28",
+      "nextDate": "2026-11-09",
+      "dates": [
+        "2026-11-09",
+        "2026-11-16",
+        "2026-11-23",
+        "2026-11-30",
+        "2026-12-07",
+        "2026-12-14",
+        "2026-12-21",
+        "2026-12-28"
+      ],
+      "occurrences": 8
+    },
+    {
+      "id": "ev-wayne-sprouts-a-student-led-botany-course-b15e98",
+      "name": "Sprouts: A Student-Led Botany Course",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "classes",
+        "learning",
+        "special-audience"
+      ],
+      "shortDescription": "Winsor Room - Registration required Grades 1st-5th Led by students from The Baldwin School and Conestoga High School, the Sprouts course is a botany-based,...",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-23",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17420327",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7c0541b1-573c-44ea-a228-c018d23d6096.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mondays, Nov 9 - Nov 23",
+      "nextDate": "2026-11-09",
+      "dates": [
+        "2026-11-09",
+        "2026-11-16",
+        "2026-11-23"
+      ],
+      "occurrences": 3
     },
     {
       "id": "ev-chester-ceu-addressing-trauma-in-adults-with-int-ea64d7",
@@ -5065,6 +4912,46 @@
       "website": "https://wayneart.org/events/2176/culinary-workshop-kids-cook-thanksgiving-savory-dinner",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QxXxJoWh5Ea_0J-01fVq5g.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 14",
+      "nextDate": "2026-11-14",
+      "dates": [
+        "2026-11-14"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-prospect-park-demitri-grivas-71714f",
+      "name": "Demitri Grivas",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Demitri Grivas at Marty Magees in Prospect Park.",
+      "address": "Marty Magees, Prospect Park, PA",
+      "town": "Prospect Park",
+      "lat": 39.887567,
+      "lng": -75.310047,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-14",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/109058135?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c-HycUOJfU6kde6Yi1nB6w.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -16765,6 +16652,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-villanova-jesse-terry-f1875b",
+      "name": "Jesse Terry",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "What a wonderful tradition this house concert is for me!",
+      "address": "Musical Lairs, Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.03733,
+      "lng": -75.34908,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-02-13",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/109088772?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/jzBe2Vh7akG5vtHa6hxSYw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Feb 13",
+      "nextDate": "2027-02-13",
+      "dates": [
+        "2027-02-13"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-winter-track-boys-paisaa-upenn-a10d99",
       "name": "Winter Track - Boys @ PAISAA @ UPenn",
       "category": "events",
@@ -16954,6 +16881,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-lansdowne-bruce-katz-band-feab9c",
+      "name": "Bruce Katz Band",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Great music venue! Beautiful sound, comfortable room - every seat is a good one.. And great food!",
+      "address": "Jamey's House of Music, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.937344,
+      "lng": -75.274493,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-02-19",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/109035271?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1Lj5nu8AlE-Gxw94cxMkFA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Feb 19",
+      "nextDate": "2027-02-19",
+      "dates": [
+        "2027-02-19"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-mike-viola-at-118-north-c42491",
       "name": "Mike Viola at 118 North",
       "category": "events",
@@ -16980,6 +16947,46 @@
       "website": "https://www.facebook.com/events/1305311735056042/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d39a5079-4d5b-44e7-842e-48f89da6d056.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Feb 19",
+      "nextDate": "2027-02-19",
+      "dates": [
+        "2027-02-19"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-media-rocks-this-way-aerosmith-tribute-169783",
+      "name": "Rocks This Way - Aerosmith Tribute",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Two powerhouse tributes, one epic night! Remedy brings the soulful swagger of The Black Crowes, and Rocks This Way delivers the high-voltage energy of Aerosmith.",
+      "address": "Shere-E-Punjab, Media, PA",
+      "town": "Media",
+      "lat": 39.918155,
+      "lng": -75.392508,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-02-19",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/109078052?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/v8YLg6SRuE27OjR5ITGENQ.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -17030,6 +17037,46 @@
         "2027-02-21"
       ],
       "occurrences": 3
+    },
+    {
+      "id": "ev-drexel-hill-keep-the-change-9215fe",
+      "name": "Keep the Change",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "KEEP THE CHANGE BAND was founded in 2011 by Jeff Perlman along with former member Rowland Adamoli.",
+      "address": "Luigi's Bar and Grill, Drexel Hill, PA",
+      "town": "Drexel Hill",
+      "lat": 39.94464,
+      "lng": -75.29763,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-02-20",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108984169?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cf7b575e-9163-4377-aa9d-54d6f1017ad9.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Feb 20",
+      "nextDate": "2027-02-20",
+      "dates": [
+        "2027-02-20"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-newtown-square-senior-winter-dance-9e0f7e",
@@ -18600,6 +18647,43 @@
       "occurrences": 1
     },
     {
+      "id": "ev-lansdowne-whose-live-anyway-200c82",
+      "name": "Whose Live Anyway?",
+      "category": "events",
+      "subcategories": [
+        "comedy",
+        "performing-arts"
+      ],
+      "shortDescription": "In Association with Martin Media WHOSE LIVE ANYWAY?",
+      "address": "Lansdowne Theater, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.939419,
+      "lng": -75.272179,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-04-24",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://brepresents.com/event/whose-live-anyway/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ZFNLJjJlo0mzEoEQu0ug9w.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Apr 24",
+      "nextDate": "2027-04-24",
+      "dates": [
+        "2027-04-24"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-media-nethermind-aa8205",
       "name": "nethermind",
       "category": "events",
@@ -18777,7 +18861,7 @@
       ],
       "hours": {},
       "startDate": "2027-04-30",
-      "endDate": "",
+      "endDate": "2027-05-01",
       "recurring": "none",
       "venueId": "",
       "phone": "",
@@ -18788,10 +18872,129 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Fri, Apr 30",
+      "schedule": "Daily, Apr 30 - May 1",
       "nextDate": "2027-04-30",
       "dates": [
-        "2027-04-30"
+        "2027-04-30",
+        "2027-05-01"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "ev-newtown-square-aanhpi-heritage-month-begins-df4853",
+      "name": "AANHPI Heritage Month Begins",
+      "category": "events",
+      "subcategories": [
+        "lifestyle",
+        "multicultural"
+      ],
+      "shortDescription": "AANHPI Heritage Month Begins",
+      "address": "Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-05-01",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/71ca6d87-52a0-4a7c-998e-a195cc31a729.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, May 1",
+      "nextDate": "2027-05-01",
+      "dates": [
+        "2027-05-01"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-alumni-loyal-blues-lunch-6f752f",
+      "name": "Alumni Loyal Blues Lunch",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "food",
+        "food-drink",
+        "music"
+      ],
+      "shortDescription": "Alumni Loyal Blues Lunch at Tierney Dining Hall - Ott Alcove in Newtown Square.",
+      "address": "Tierney Dining Hall - Ott Alcove, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-05-01",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8e96acd0-2370-46e4-a8d3-ff93a4f1ae7f.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, May 1",
+      "nextDate": "2027-05-01",
+      "dates": [
+        "2027-05-01"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-media-zendog-6c402e",
+      "name": "Zendog",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Zendog at Shere-E-Punjab in Media.",
+      "address": "Shere-E-Punjab, Media, PA",
+      "town": "Media",
+      "lat": 39.918155,
+      "lng": -75.392508,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-05-01",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108934151?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/tzt5M0oyJ0i5VUV8cQSagQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, May 1",
+      "nextDate": "2027-05-01",
+      "dates": [
+        "2027-05-01"
       ],
       "occurrences": 1
     },
