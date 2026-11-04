@@ -1,451 +1,9 @@
 {
   "version": 1,
-  "scraped_at": "2026-11-03T17:10:00.118810+00:00",
+  "scraped_at": "2026-11-04T17:22:19.730917+00:00",
   "horizon_days": 180,
-  "event_count": 507,
+  "event_count": 515,
   "listings": [
-    {
-      "id": "ev-newtown-square-boys-water-polo-team-dinner-1e5c75",
-      "name": "Boys Water Polo Team Dinner",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Boys Water Polo Team Dinner",
-      "address": "Tierney Dining Hall, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98768,
-      "lng": -75.38274,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-03",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b48eba3f-e504-4f6f-978d-cc120b8b5900.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Nov 3",
-      "nextDate": "2026-11-03",
-      "dates": [
-        "2026-11-03"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-field-hockey-jv-notre-dame-f42d51",
-      "name": "Field Hockey - JV @ Notre Dame",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Field Hockey - JV @ Notre Dame",
-      "address": "Academy of Notre Dame de Namur, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-03",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b04bdf65-d71d-4a5a-a43a-cf4f24a1e822.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Nov 3",
-      "nextDate": "2026-11-03",
-      "dates": [
-        "2026-11-03"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-newtown-post-get-crafty-workshop-129fb9",
-      "name": "Newtown Post: Get Crafty Workshop",
-      "category": "events",
-      "subcategories": [
-        "learning",
-        "workshop"
-      ],
-      "shortDescription": "Newtown Post: Get Crafty Workshop",
-      "address": "Newtown Post, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-03",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3dea698a-9861-4118-8976-da04ce3746f9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Nov 3",
-      "nextDate": "2026-11-03",
-      "dates": [
-        "2026-11-03"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-oldies-in-the-park-a0e86f",
-      "name": "Oldies in the Park",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "destinations",
-        "music",
-        "outdoor-concert"
-      ],
-      "shortDescription": "Oldies in the Park at Ethel Waters Park in Chester.",
-      "address": "Ethel Waters Park, Chester, PA",
-      "town": "Chester",
-      "lat": 39.846465,
-      "lng": -75.358842,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-11-03",
-      "endDate": "2027-04-27",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.chestercity.com/event/oldies-in-the-park-2/2026-11-03/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/o6XxL0PM3kaE6hDXOaFfuw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Nov 3 - Apr 27",
-      "nextDate": "2026-11-03",
-      "dates": [
-        "2026-11-03",
-        "2026-11-10",
-        "2026-11-17",
-        "2026-11-24",
-        "2026-12-01",
-        "2026-12-08",
-        "2026-12-15",
-        "2026-12-22",
-        "2026-12-29",
-        "2027-01-05",
-        "2027-01-12",
-        "2027-01-19",
-        "2027-01-26",
-        "2027-02-02",
-        "2027-02-09",
-        "2027-02-16",
-        "2027-02-23",
-        "2027-03-02",
-        "2027-03-09",
-        "2027-03-16",
-        "2027-03-23",
-        "2027-03-30",
-        "2027-04-06",
-        "2027-04-13",
-        "2027-04-20",
-        "2027-04-27"
-      ],
-      "occurrences": 26
-    },
-    {
-      "id": "ev-radnor-restaurant-week-at-merrick-s-tavern-5229ad",
-      "name": "Restaurant Week at Merrick's Tavern",
-      "category": "events",
-      "subcategories": [
-        "beer",
-        "drinks",
-        "food-drink"
-      ],
-      "shortDescription": "Celebrate Main Line Today Restaurant Week at the new Merrick’s Tavern in Radnor, PA Available starting November 1 through November 14, enjoy a 3 course, prix-fixe dinner...",
-      "address": "Merrick's Tavern, Radnor, PA",
-      "town": "Radnor",
-      "lat": 40.041394,
-      "lng": -75.354926,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-03",
-      "endDate": "2026-11-14",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.merrickstavern.com/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/UpMe_Yy2ZkGYOT3S5OPRrw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Nov 3 - Nov 14",
-      "nextDate": "2026-11-03",
-      "dates": [
-        "2026-11-03",
-        "2026-11-04",
-        "2026-11-05",
-        "2026-11-06",
-        "2026-11-07",
-        "2026-11-08",
-        "2026-11-09",
-        "2026-11-10",
-        "2026-11-11",
-        "2026-11-12",
-        "2026-11-13",
-        "2026-11-14"
-      ],
-      "occurrences": 12
-    },
-    {
-      "id": "ev-newtown-square-soccer-jv-boys-lawrenceville-74c37c",
-      "name": "Soccer - JV Boys @ Lawrenceville",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - JV Boys @ Lawrenceville",
-      "address": "The Lawrenceville School, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-03",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4bb46c0c-ec2a-4799-b30b-fd9cf072ae19.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Nov 3",
-      "nextDate": "2026-11-03",
-      "dates": [
-        "2026-11-03"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-holmes-tuesday-karaoke-at-haggertys-in-holmes-pa-3b255e",
-      "name": "Tuesday Karaoke at Haggertys in Holmes, PA (Delaware County",
-      "category": "events",
-      "subcategories": [
-        "open-mic",
-        "performing-arts"
-      ],
-      "shortDescription": "Karaoke is Every Tuesday at Haggertys in Homes, PA (Delaware County, PA) Karaoke starts at 8pm.",
-      "address": "Haggerty's Cafe, Holmes, PA",
-      "town": "Holmes",
-      "lat": 39.899696,
-      "lng": -75.305652,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-03",
-      "endDate": "2027-03-30",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/tuesday-karaoke-at-haggertys-in-holmes-pa-delaware-county-pa-tickets-1225315845679",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/g_89wQtSp0Sz9smp4PcgxA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Nov 3 - Mar 30",
-      "nextDate": "2026-11-03",
-      "dates": [
-        "2026-11-03",
-        "2026-11-10",
-        "2026-11-17",
-        "2026-11-24",
-        "2026-12-01",
-        "2026-12-08",
-        "2026-12-15",
-        "2026-12-22",
-        "2026-12-29",
-        "2027-01-05",
-        "2027-01-12",
-        "2027-01-19",
-        "2027-01-26",
-        "2027-02-02",
-        "2027-02-09",
-        "2027-02-16",
-        "2027-02-23",
-        "2027-03-02",
-        "2027-03-09",
-        "2027-03-16",
-        "2027-03-23",
-        "2027-03-30"
-      ],
-      "occurrences": 22
-    },
-    {
-      "id": "ev-newtown-square-water-polo-boys-jv-v-germantown-a-2fe2c9",
-      "name": "Water Polo - Boys JV v Germantown Academy",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Water Polo - Boys JV v Germantown Academy",
-      "address": "Burke Natatorium, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-03",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f9de544e-a936-4ae7-96c0-fc7f0d2460e7.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Nov 3",
-      "nextDate": "2026-11-03",
-      "dates": [
-        "2026-11-03"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-water-polo-boys-varsity-v-germant-b70fb4",
-      "name": "Water Polo - Boys Varsity v Germantown Academy",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Water Polo - Boys Varsity v Germantown Academy",
-      "address": "Burke Natatorium, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-03",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5654b9b5-1ff3-43be-b479-f97bf3acc72a.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Nov 3",
-      "nextDate": "2026-11-03",
-      "dates": [
-        "2026-11-03"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-water-polo-girls-varsity-v-german-4a7245",
-      "name": "Water Polo - Girls Varsity v Germantown Academy",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Water Polo - Girls Varsity v Germantown Academy",
-      "address": "Burke Natatorium, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-03",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/359768a4-b327-4b56-9756-8467f4ba4030.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Nov 3",
-      "nextDate": "2026-11-03",
-      "dates": [
-        "2026-11-03"
-      ],
-      "occurrences": 1
-    },
     {
       "id": "ev-wayne-chess-club-634d75",
       "name": "Chess Club",
@@ -601,6 +159,54 @@
         "2026-11-04"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-radnor-restaurant-week-at-merrick-s-tavern-5229ad",
+      "name": "Restaurant Week at Merrick's Tavern",
+      "category": "events",
+      "subcategories": [
+        "beer",
+        "drinks",
+        "food-drink"
+      ],
+      "shortDescription": "Celebrate Main Line Today Restaurant Week at the new Merrick’s Tavern in Radnor, PA Available starting November 1 through November 14, enjoy a 3 course, prix-fixe dinner...",
+      "address": "Merrick's Tavern, Radnor, PA",
+      "town": "Radnor",
+      "lat": 40.041394,
+      "lng": -75.354926,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-14",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.merrickstavern.com/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/UpMe_Yy2ZkGYOT3S5OPRrw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Nov 4 - Nov 14",
+      "nextDate": "2026-11-04",
+      "dates": [
+        "2026-11-04",
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-14"
+      ],
+      "occurrences": 11
     },
     {
       "id": "ev-newtown-square-soccer-girls-ms-a-v-westtown-67cb71",
@@ -1448,6 +1054,49 @@
       "website": "https://www.etix.com/ticket/p/48448670/black-violin-lansdowne-lansdowne-theater?_gl=1*7aojcc*_ga*NjMwMzczNTc1LjE3NjUyMDYzMjA.*_ga_F5KZGC85YC*czE3ODIzMTA3NjckbzE1NyRnMSR0MTc4MjMxMDkxMiRqNTQkbDAkaDI4NjA3ODQ0Mw..",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pSKivgpeIEiDGrlImQJBig.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Nov 6",
+      "nextDate": "2026-11-06",
+      "dates": [
+        "2026-11-06"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-media-congregation-beth-israel-of-media-annual-c-c2913a",
+      "name": "Congregation Beth Israel of Media Annual Craft Show",
+      "category": "events",
+      "subcategories": [
+        "crafts",
+        "destinations",
+        "faith",
+        "festival"
+      ],
+      "shortDescription": "We are pleased to announce that the Annual Craft Show is back again this year!",
+      "address": "Congregation Beth Israel of Media, Media, PA",
+      "town": "Media",
+      "lat": 39.889041,
+      "lng": -75.404042,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-11-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/share/1EsvVchWZf/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/O1dVmZ1DPEyu5Hykcgc00g.medium.jpg",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -3603,6 +3252,71 @@
       "occurrences": 5
     },
     {
+      "id": "ev-chester-oldies-in-the-park-a0e86f",
+      "name": "Oldies in the Park",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "destinations",
+        "music",
+        "outdoor-concert"
+      ],
+      "shortDescription": "Oldies in the Park at Ethel Waters Park in Chester.",
+      "address": "Ethel Waters Park, Chester, PA",
+      "town": "Chester",
+      "lat": 39.846465,
+      "lng": -75.358842,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-11-10",
+      "endDate": "2027-04-27",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.chestercity.com/event/oldies-in-the-park-2/2026-11-10/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/o6XxL0PM3kaE6hDXOaFfuw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Nov 10 - Apr 27",
+      "nextDate": "2026-11-10",
+      "dates": [
+        "2026-11-10",
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05",
+        "2027-01-12",
+        "2027-01-19",
+        "2027-01-26",
+        "2027-02-02",
+        "2027-02-09",
+        "2027-02-16",
+        "2027-02-23",
+        "2027-03-02",
+        "2027-03-09",
+        "2027-03-16",
+        "2027-03-23",
+        "2027-03-30",
+        "2027-04-06",
+        "2027-04-13",
+        "2027-04-20",
+        "2027-04-27"
+      ],
+      "occurrences": 25
+    },
+    {
       "id": "ev-wayne-radlit-book-club-4f7dca",
       "name": "Radlit Book Club",
       "category": "events",
@@ -3641,6 +3355,64 @@
         "2026-12-08"
       ],
       "occurrences": 2
+    },
+    {
+      "id": "ev-holmes-tuesday-karaoke-at-haggertys-in-holmes-pa-3b255e",
+      "name": "Tuesday Karaoke at Haggertys in Holmes, PA (Delaware County",
+      "category": "events",
+      "subcategories": [
+        "open-mic",
+        "performing-arts"
+      ],
+      "shortDescription": "Karaoke is Every Tuesday at Haggertys in Homes, PA (Delaware County, PA) Karaoke starts at 8pm.",
+      "address": "Haggerty's Cafe, Holmes, PA",
+      "town": "Holmes",
+      "lat": 39.899696,
+      "lng": -75.305652,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-10",
+      "endDate": "2027-03-30",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/tuesday-karaoke-at-haggertys-in-holmes-pa-delaware-county-pa-tickets-1225315845679",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/g_89wQtSp0Sz9smp4PcgxA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Nov 10 - Mar 30",
+      "nextDate": "2026-11-10",
+      "dates": [
+        "2026-11-10",
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05",
+        "2027-01-12",
+        "2027-01-19",
+        "2027-01-26",
+        "2027-02-02",
+        "2027-02-09",
+        "2027-02-16",
+        "2027-02-23",
+        "2027-03-02",
+        "2027-03-09",
+        "2027-03-16",
+        "2027-03-23",
+        "2027-03-30"
+      ],
+      "occurrences": 21
     },
     {
       "id": "ev-newtown-square-water-polo-ms-v-haverford-50feb9",
@@ -3798,6 +3570,45 @@
         "2026-12-09"
       ],
       "occurrences": 2
+    },
+    {
+      "id": "ev-drexel-hill-r-b-bingo-celebrating-one-year-casey-c5ffd9",
+      "name": "R&B Bingo: Celebrating ONE Year! | Casey's",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "games",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "We're celebrating ONE YEAR of R&B Bingo! Join us at Casey's for a night of your favorite R&B hits, prizes, and unforgettable vibes.",
+      "address": "Casey's Drexel Hill, Drexel Hill, PA",
+      "town": "Drexel Hill",
+      "lat": 39.959937,
+      "lng": -75.288952,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-11",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/rb-bingo-celebrating-one-year-caseys-tickets-2004097899767",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/JwLsryaFT0edBjjy9d5WJg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Nov 11",
+      "nextDate": "2026-11-11",
+      "dates": [
+        "2026-11-11"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-newtown-square-soccer-ms-c-boys-v-haverford-b89622",
@@ -4765,6 +4576,42 @@
       "occurrences": 1
     },
     {
+      "id": "ev-media-artfully-made-2a2d16",
+      "name": "Artfully made",
+      "category": "events",
+      "subcategories": [
+        "visual-arts"
+      ],
+      "shortDescription": "Design Your Own | Polymer Clay Earring Workshop ✨Create Something Beautiful. Make It Yours. Unleash your creativity and discover the joy .",
+      "address": "Nimble Craft LLC, Media, PA",
+      "town": "Media",
+      "lat": 39.91804,
+      "lng": -75.388534,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-14",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/artfully-made-tickets-2003948905120",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Bcp2nY5-r0O3B1T3suVPkQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 14",
+      "nextDate": "2026-11-14",
+      "dates": [
+        "2026-11-14"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-aston-aston-mills-arts-annual-art-show-and-sale-3d03bc",
       "name": "Aston Mills Arts Annual Art Show and Sale",
       "category": "events",
@@ -5547,6 +5394,119 @@
       "occurrences": 1
     },
     {
+      "id": "ev-drexel-hill-paint-sip-49d6ae",
+      "name": "Paint & Sip",
+      "category": "events",
+      "subcategories": [
+        "visual-arts"
+      ],
+      "shortDescription": "Enjoy an afternoon of wine flights and crafts",
+      "address": "Casey's Drexel Hill, Drexel Hill, PA",
+      "town": "Drexel Hill",
+      "lat": 39.959937,
+      "lng": -75.288952,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-15",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/paint-sip-tickets-2003938715643",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/xHGeQ3t2vUiXd2agaNzw0Q.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Nov 15",
+      "nextDate": "2026-11-15",
+      "dates": [
+        "2026-11-15"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-havertown-sip-savor-song-fundraiser-for-keep-mus-39d012",
+      "name": "Sip, Savor & Song Fundraiser for Keep Music Alive - All Ages",
+      "category": "events",
+      "subcategories": [
+        "animals",
+        "civic",
+        "destinations",
+        "family"
+      ],
+      "shortDescription": "Annual fundraiser to support Teach Music Week, Kids Music Day, Instrument Petting Zoo events and Music Lessons for disadvantaged youth.",
+      "address": "Kelly Center, Havertown, PA",
+      "town": "Havertown",
+      "lat": 39.98841,
+      "lng": -75.31308,
+      "priceTier": 2,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-15",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/sip-savor-song-fundraiser-for-keep-music-alive-all-ages-tickets-2003484315520",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Hx7z72im5EyZxSG6Uq_91w.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Nov 15",
+      "nextDate": "2026-11-15",
+      "dates": [
+        "2026-11-15"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-concordville-the-smile-social-star-care-dental-x-29ff70",
+      "name": "The Smile Social | Star Care Dental X Clean Juice",
+      "category": "events",
+      "subcategories": [
+        "health-wellness",
+        "lifestyle"
+      ],
+      "shortDescription": "Join Star Care Dental x Clean Juice for The Smile Social, a feel-good morning bringing together movement, wellness, and a little self-care",
+      "address": "1102 Baltimore Pike ste 203, Concordville, PA",
+      "town": "Concordville",
+      "lat": 39.880465,
+      "lng": -75.542738,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-15",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/the-smile-social-star-care-dental-x-clean-juice-tickets-2003966900946",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7QBE2h9bE0mXGI6_k6yiKw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Nov 15",
+      "nextDate": "2026-11-15",
+      "dates": [
+        "2026-11-15"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wallingford-tri-state-jazz-society-concert-kris-0256b5",
       "name": "Tri State Jazz Society Concert - Kris Tokarski - Piano",
       "category": "events",
@@ -6044,6 +6004,43 @@
       "occurrences": 2
     },
     {
+      "id": "ev-wayne-late-30s-40s-happy-hour-115ba0",
+      "name": "Late 30s/40s Happy Hour",
+      "category": "events",
+      "subcategories": [
+        "drinks",
+        "food-drink"
+      ],
+      "shortDescription": "For more info and discounted pricing, visit: https://www.theshakaclub.com/our-locations/philadelphia",
+      "address": "Nature's Vin, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044117,
+      "lng": -75.384973,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-19",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/late-30s40s-happy-hour-wayne-tickets-2000727456681",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_c_dP2T5CEqEQ-k2ZaZYdQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Nov 19",
+      "nextDate": "2026-11-19",
+      "dates": [
+        "2026-11-19"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-ms-musical-performance-704af7",
       "name": "MS Musical Performance",
       "category": "events",
@@ -6082,6 +6079,42 @@
         "2026-11-21"
       ],
       "occurrences": 3
+    },
+    {
+      "id": "ev-bryn-mawr-paint-a-set-of-coasters-paint-sip-33e314",
+      "name": "Paint a Set of Coasters - Paint & \"Sip\"",
+      "category": "events",
+      "subcategories": [
+        "visual-arts"
+      ],
+      "shortDescription": "Enjoy ice cream, paint, and unwind as you create a colorful set of coasters to take home.",
+      "address": "Surreal Creamery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.024305,
+      "lng": -75.323681,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-19",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/paint-a-set-of-coasters-paint-sip-tickets-2003993211642",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/BIwwih6IKUWhej6NK2yLlQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Nov 19",
+      "nextDate": "2026-11-19",
+      "dates": [
+        "2026-11-19"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-wayne-regional-greek-cooking-and-wine-pairing-wi-a33a36",
@@ -6703,6 +6736,45 @@
       "occurrences": 1
     },
     {
+      "id": "ev-clifton-heights-stand-up-for-cancer-4f0bdb",
+      "name": "Stand up for CANCER!",
+      "category": "events",
+      "subcategories": [
+        "comedy",
+        "health-wellness",
+        "lifestyle",
+        "performing-arts"
+      ],
+      "shortDescription": "Dwon has been bravely battling cancer. Recently, after the disease spread, Dwon had to undergo a life-changing surgery.",
+      "address": "Murray's Bar & Grille, Clifton Heights, PA",
+      "town": "Clifton Heights",
+      "lat": 39.932935,
+      "lng": -75.288193,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-21",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/stand-up-for-cancer-tickets-2003721923211",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cnPo8WT1nEWA-en94iUUOA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 21",
+      "nextDate": "2026-11-21",
+      "dates": [
+        "2026-11-21"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-lansdowne-stories-we-carry-time-capsule-building-8dfcfc",
       "name": "Stories We Carry Time Capsule Building",
       "category": "events",
@@ -6881,6 +6953,44 @@
       "website": "https://wayneart.org/events/2104/all-the-color-in-white-with-maggie-siner",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/x3FV_uuBQ0iC3BZT5WSzUQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Nov 22",
+      "nextDate": "2026-11-22",
+      "dates": [
+        "2026-11-22"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-bryn-mawr-ensemble-le-parnasse-33e699",
+      "name": "Ensemble Le Parnasse",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Le Petit théâtre du monde",
+      "address": "Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.00273,
+      "lng": -75.36424,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-22",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/ensemble-le-parnasse-tickets-2000083550741",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/GoThcol_M0SrT0U6lelc5w.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -8259,6 +8369,46 @@
       "occurrences": 3
     },
     {
+      "id": "ev-chester-dse-live-at-bats-0eb512",
+      "name": "DSE Live at Bats",
+      "category": "events",
+      "subcategories": [
+        "nature",
+        "outdoor-recreation",
+        "performing-arts",
+        "sports-outdoors"
+      ],
+      "shortDescription": "DSE presents Live At Bats Night! 8-12th grade Pitchers and catchers will be invited to throw live against hitters of the same age.",
+      "address": "Schwartz Athletic Center, Chester, PA",
+      "town": "Chester",
+      "lat": 39.843033,
+      "lng": -75.364483,
+      "priceTier": 3,
+      "tags": [
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-12-04",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/dse-live-at-bats-tickets-2003997336981",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/piuM9YkcA0iRwVMvKEEU8A.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Dec 4",
+      "nextDate": "2026-12-04",
+      "dates": [
+        "2026-12-04"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-squash-boys-jv-masa-3bbddc",
       "name": "Squash - Boys JV @ MASA",
       "category": "events",
@@ -8873,6 +9023,46 @@
       "website": "https://wayneart.org/events/2160/holiday-workshop-family-fun-day-with-multiple-workshops",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/313bdebb-d487-4524-8543-19810ace3603.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Dec 6",
+      "nextDate": "2026-12-06",
+      "dates": [
+        "2026-12-06"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-springfield-philadelphia-freedom-chorus-english-c80aa8",
+      "name": "Philadelphia Freedom Chorus - English Garden Tea Event",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "food-drink",
+        "music",
+        "parks-gardens"
+      ],
+      "shortDescription": "Join the Philadelphia Freedom Chorus for an English Garden Tea Event filled with tea, sweet and savory treats and beautiful entertainment!",
+      "address": "First Presbyterian Church of Springfield, Springfield, PA",
+      "town": "Springfield",
+      "lat": 39.935649,
+      "lng": -75.334252,
+      "priceTier": 2,
+      "tags": [
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-12-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/philadelphia-freedom-chorus-english-garden-tea-event-tickets-1998381859938",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dQ4XBSGhMEiKg9lzQGLXQQ.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -10068,6 +10258,44 @@
       "website": "https://wayneart.org/events/2162/gingerbread-house-decorating-workshop-morning",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/FJ-wsth96k-UdFAWr1LSlQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Dec 13",
+      "nextDate": "2026-12-13",
+      "dates": [
+        "2026-12-13"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-aston-holiday-plant-bingo-at-2sp-brewing-company-17e056",
+      "name": "Holiday Plant Bingo at 2SP Brewing Company",
+      "category": "events",
+      "subcategories": [
+        "drinks",
+        "food-drink",
+        "games"
+      ],
+      "shortDescription": "Fun, friends, plants, and BINGO! What more do you need? Join us for a chance at festive themed holiday plant prizes!",
+      "address": "2SP Brewing Company, Aston, PA",
+      "town": "Aston",
+      "lat": 39.856095,
+      "lng": -75.403905,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-13",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/holiday-plant-bingo-at-2sp-brewing-company-tickets-2003894924663",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0PVkDSArc0ut71wC7ytjIQ.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -18154,6 +18382,45 @@
       ]
     },
     {
+      "id": "ev-holmes-bowling-party-fundraiser-dd2c57",
+      "name": "Bowling Party Fundraiser",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "food-drink",
+        "fundraiser",
+        "sports"
+      ],
+      "shortDescription": "2 hours of bowling (includes shoes) and Party Room with food, drinks, and snacks. Benefits Veterans Chapel. Under 12 bowl free! (Limit 2)",
+      "address": "MacDade Bowl, Holmes, PA",
+      "town": "Holmes",
+      "lat": 39.898725,
+      "lng": -75.312403,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-04-03",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/bowling-party-fundraiser-tickets-2003713244252",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/xHgbf-Q3i0S3CI7MpIJbRA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Apr 3",
+      "nextDate": "2027-04-03",
+      "dates": [
+        "2027-04-03"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-chester-ceu-leaning-into-discomfort-cf215a",
       "name": "CEU: Leaning into Discomfort",
       "category": "events",
@@ -18995,6 +19262,44 @@
       "nextDate": "2027-05-01",
       "dates": [
         "2027-05-01"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-lansdowne-the-fab-four-a-hard-day-s-night-live-db7621",
+      "name": "The Fab Four - A Hard Day's Night Live!",
+      "category": "events",
+      "subcategories": [
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "The Fab Four A Hard Day's Night - Live! Hear songs from the film, plus the HITS!",
+      "address": "Lansdowne Theater, Lansdowne, PA",
+      "town": "Lansdowne",
+      "lat": 39.939419,
+      "lng": -75.272179,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-05-02",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://brepresents.com/event/the-fab-four-lansdowne-2027-05-02/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/K0QqLG5li0m5zfiGL7gg6Q.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, May 2",
+      "nextDate": "2027-05-02",
+      "dates": [
+        "2027-05-02"
       ],
       "occurrences": 1
     },
