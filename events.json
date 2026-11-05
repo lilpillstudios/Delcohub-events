@@ -1,562 +1,9 @@
 {
   "version": 1,
-  "scraped_at": "2026-11-04T17:22:19.730917+00:00",
+  "scraped_at": "2026-11-05T17:29:15.058156+00:00",
   "horizon_days": 180,
-  "event_count": 515,
+  "event_count": 505,
   "listings": [
-    {
-      "id": "ev-wayne-chess-club-634d75",
-      "name": "Chess Club",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "games",
-        "health-wellness",
-        "learning"
-      ],
-      "shortDescription": "Delaware Valley Chess Club meets at RML, weekly on Wednesdays.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-04",
-      "endDate": "2026-11-18",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17290379",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eea63be5-c4d3-46d5-9632-af64e5f10861.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wednesdays, Nov 4 - Nov 18",
-      "nextDate": "2026-11-04",
-      "dates": [
-        "2026-11-04",
-        "2026-11-11",
-        "2026-11-18"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "media-dining-under-the-stars",
-      "name": "Dining Under the Stars",
-      "category": "events",
-      "subcategories": [
-        "food-festival",
-        "street-dining"
-      ],
-      "shortDescription": "Media's signature warm-weather event closing State Street so restaurants serve al fresco dinners under string lights.",
-      "address": "State St, Media, PA 19063",
-      "town": "Media",
-      "lat": 39.9166,
-      "lng": -75.388,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "date",
-        "group",
-        "family"
-      ],
-      "hours": {},
-      "startDate": "",
-      "endDate": "",
-      "recurring": "weekly",
-      "venueId": "media-state-street-district",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "schedule": "Wednesdays, June-August",
-      "nextDate": "2026-11-04",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-11-04"
-      ]
-    },
-    {
-      "id": "ev-wayne-mark-dewitt-lanyon-lost-chester-county-98c30c",
-      "name": "Mark DeWitt Lanyon, Lost Chester County",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Join us for an evening of local history",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://www.eventbrite.com/e/mark-dewitt-lanyon-lost-chester-county-tickets-2002304410392",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a68dvZRAw0CGXy1lBAjx-Q.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 4",
-      "nextDate": "2026-11-04",
-      "dates": [
-        "2026-11-04"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-music-class-with-sarah-mosden-ff3afd",
-      "name": "Music Class with Sarah Mosden",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Winsor Room - Registration required Ages 2-6 years This music group is designed to be fun, engaging, and neurodiverse affirming!",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17810009",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a5bb07a2-7451-461c-a708-a4ee484b5c26.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 4",
-      "nextDate": "2026-11-04",
-      "dates": [
-        "2026-11-04"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-radnor-restaurant-week-at-merrick-s-tavern-5229ad",
-      "name": "Restaurant Week at Merrick's Tavern",
-      "category": "events",
-      "subcategories": [
-        "beer",
-        "drinks",
-        "food-drink"
-      ],
-      "shortDescription": "Celebrate Main Line Today Restaurant Week at the new Merrick’s Tavern in Radnor, PA Available starting November 1 through November 14, enjoy a 3 course, prix-fixe dinner...",
-      "address": "Merrick's Tavern, Radnor, PA",
-      "town": "Radnor",
-      "lat": 40.041394,
-      "lng": -75.354926,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-04",
-      "endDate": "2026-11-14",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.merrickstavern.com/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/UpMe_Yy2ZkGYOT3S5OPRrw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Nov 4 - Nov 14",
-      "nextDate": "2026-11-04",
-      "dates": [
-        "2026-11-04",
-        "2026-11-05",
-        "2026-11-06",
-        "2026-11-07",
-        "2026-11-08",
-        "2026-11-09",
-        "2026-11-10",
-        "2026-11-11",
-        "2026-11-12",
-        "2026-11-13",
-        "2026-11-14"
-      ],
-      "occurrences": 11
-    },
-    {
-      "id": "ev-newtown-square-soccer-girls-ms-a-v-westtown-67cb71",
-      "name": "Soccer - Girls MS A v Westtown",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - Girls MS A v Westtown",
-      "address": "Reape Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5245d79e-4890-4dba-8b48-8a1090c252b9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 4",
-      "nextDate": "2026-11-04",
-      "dates": [
-        "2026-11-04"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-soccer-girls-ms-b-v-westtown-74c16b",
-      "name": "Soccer - Girls MS B v Westtown",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - Girls MS B v Westtown",
-      "address": "Reape Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f5a7f77d-0c51-4a57-a1ba-4bad118eb6f1.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 4",
-      "nextDate": "2026-11-04",
-      "dates": [
-        "2026-11-04"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-stargazing-fall-teachers-night-532d89",
-      "name": "Stargazing: Fall Teachers' Night",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Calling all K-12 teachers! The Widener Observatory wants to treat you to a night among the stars!",
-      "address": "Widener Observatory, Chester, PA",
-      "town": "Chester",
-      "lat": 39.860434,
-      "lng": -75.426833,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.widener.edu/events/stargazing-fall-teachers-night-1",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/87a65b9e-d0d0-46ca-9efe-6392df9a5ab3.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 4",
-      "nextDate": "2026-11-04",
-      "dates": [
-        "2026-11-04"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-swarthmore-swarthmore-college-women-s-volleyball-e8e5cd",
-      "name": "Swarthmore College Women's Volleyball vs Haverford College",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Swarthmore College Women's Volleyball vs Haverford College\\nStreaming Video: https://www.centennialconference.tv/swarthmoreathletics/\\n",
-      "address": "Tarble Pavilion, Swarthmore, PA",
-      "town": "Swarthmore",
-      "lat": 39.90206,
-      "lng": -75.34991,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://swarthmoreathletics.com/calendar.aspx?game_id=31135&sport_id=22",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e669d12a-a6ec-4151-8c5f-9397f6aae3d7.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 4",
-      "nextDate": "2026-11-04",
-      "dates": [
-        "2026-11-04"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-tennis-girls-ms-a-v-holy-child-d1bfb4",
-      "name": "Tennis - Girls MS A v Holy Child",
-      "category": "events",
-      "subcategories": [
-        "kids",
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Tennis - Girls MS A v Holy Child",
-      "address": "Tennis Courts, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-11-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/70d24c21-85cc-4d12-ae22-b05d7ac3c967.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 4",
-      "nextDate": "2026-11-04",
-      "dates": [
-        "2026-11-04"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-villanova-university-swimming-diving-v-2d8739",
-      "name": "Villanova University Swimming & Diving vs University of Pennsylvania (W)",
-      "category": "events",
-      "subcategories": [
-        "outdoor-recreation",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Villanova University Swimming & Diving vs University of Pennsylvania (W)",
-      "address": "Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03176,
-      "lng": -75.34903,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-11-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanova.com/calendar.aspx?game_id=17821&amp;sport_id=24",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4ce5c2aa-9694-47f3-b1df-eaef5c32cd30.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 4",
-      "nextDate": "2026-11-04",
-      "dates": [
-        "2026-11-04"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-water-polo-ms-haverford-264fad",
-      "name": "Water Polo - MS @ Haverford",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Water Polo - MS @ Haverford",
-      "address": "The Haverford School, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f9de544e-a936-4ae7-96c0-fc7f0d2460e7.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 4",
-      "nextDate": "2026-11-04",
-      "dates": [
-        "2026-11-04"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-widener-pride-women-s-volleyball-vs-neum-581571",
-      "name": "Widener Pride: Women's Volleyball vs Neumann",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Women's Volleyball vs Neumann Streaming Video: https://gomacsports.tv/widenerpride/",
-      "address": "Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14559&amp;sport_id=13",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e669d12a-a6ec-4151-8c5f-9397f6aae3d7.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 4",
-      "nextDate": "2026-11-04",
-      "dates": [
-        "2026-11-04"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-will-overman-vinnie-paolizzi-at-118-north-d3a74d",
-      "name": "Will Overman + Vinnie Paolizzi at 118 North 1/25",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Will Overman + Vinnie Paolizzi at 118 North Wednesday, November 4, 2026 Doors: 5:30 PM | Show: 7:30 PM 21+ Unless Accompanied by a Parent or Guardian Tickets >>...",
-      "address": "Main Point Books, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.04479,
-      "lng": -75.388152,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-04",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/832517149692002/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dfbc8e82-cbbc-45df-b109-75d61c56c4ed.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 4",
-      "nextDate": "2026-11-04",
-      "dates": [
-        "2026-11-04"
-      ],
-      "occurrences": 1
-    },
     {
       "id": "ev-newtown-square-domino-fall-play-performance-99eaa3",
       "name": "Domino Fall Play Performance",
@@ -797,6 +244,53 @@
         "2026-12-17"
       ],
       "occurrences": 5
+    },
+    {
+      "id": "ev-radnor-restaurant-week-at-merrick-s-tavern-5229ad",
+      "name": "Restaurant Week at Merrick's Tavern",
+      "category": "events",
+      "subcategories": [
+        "beer",
+        "drinks",
+        "food-drink"
+      ],
+      "shortDescription": "Celebrate Main Line Today Restaurant Week at the new Merrick’s Tavern in Radnor, PA Available starting November 1 through November 14, enjoy a 3 course, prix-fixe dinner...",
+      "address": "Merrick's Tavern, Radnor, PA",
+      "town": "Radnor",
+      "lat": 40.041394,
+      "lng": -75.354926,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-14",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.merrickstavern.com/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/UpMe_Yy2ZkGYOT3S5OPRrw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Nov 5 - Nov 14",
+      "nextDate": "2026-11-05",
+      "dates": [
+        "2026-11-05",
+        "2026-11-06",
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-14"
+      ],
+      "occurrences": 10
     },
     {
       "id": "ev-wayne-tech-help-classes-for-adults-55-2-3pm-and-0a69df",
@@ -2400,6 +1894,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-villanova-villanova-university-swimming-diving-v-db6489",
+      "name": "Villanova University Swimming & Diving vs Providence College (M)",
+      "category": "events",
+      "subcategories": [
+        "outdoor-recreation",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Villanova University Swimming & Diving vs Providence College (M)",
+      "address": "Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.03176,
+      "lng": -75.34903,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-11-07",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://villanova.com/calendar.aspx?game_id=17823&amp;sport_id=24",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9f6fcce3-17f3-4b4f-87ef-954c2ada5c15.medium.PNG",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 7",
+      "nextDate": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-villanova-villanova-university-women-s-soccer-vs-d0f178",
       "name": "Villanova University Women's Soccer vs University of Connecticut - Alumni Day",
       "category": "events",
@@ -2916,7 +2450,7 @@
       ],
       "hours": {},
       "startDate": "2026-11-09",
-      "endDate": "2027-04-26",
+      "endDate": "2027-05-03",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -2927,7 +2461,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Mondays, Nov 9 - Apr 26",
+      "schedule": "Mondays, Nov 9 - May 3",
       "nextDate": "2026-11-09",
       "dates": [
         "2026-11-09",
@@ -2949,9 +2483,10 @@
         "2027-04-05",
         "2027-04-12",
         "2027-04-19",
-        "2027-04-26"
+        "2027-04-26",
+        "2027-05-03"
       ],
-      "occurrences": 20
+      "occurrences": 21
     },
     {
       "id": "ev-media-maker-mondays-e4e42e",
@@ -3489,6 +3024,87 @@
         "2026-11-11"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-chess-club-634d75",
+      "name": "Chess Club",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "games",
+        "health-wellness",
+        "learning"
+      ],
+      "shortDescription": "Delaware Valley Chess Club meets at RML, weekly on Wednesdays.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-18",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17290528",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eea63be5-c4d3-46d5-9632-af64e5f10861.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wednesdays, Nov 11 - Nov 18",
+      "nextDate": "2026-11-11",
+      "dates": [
+        "2026-11-11",
+        "2026-11-18"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "media-dining-under-the-stars",
+      "name": "Dining Under the Stars",
+      "category": "events",
+      "subcategories": [
+        "food-festival",
+        "street-dining"
+      ],
+      "shortDescription": "Media's signature warm-weather event closing State Street so restaurants serve al fresco dinners under string lights.",
+      "address": "State St, Media, PA 19063",
+      "town": "Media",
+      "lat": 39.9166,
+      "lng": -75.388,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "date",
+        "group",
+        "family"
+      ],
+      "hours": {},
+      "startDate": "",
+      "endDate": "",
+      "recurring": "weekly",
+      "venueId": "media-state-street-district",
+      "phone": "",
+      "website": "",
+      "images": [],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "schedule": "Wednesdays, June-August",
+      "nextDate": "2026-11-11",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-11-11"
+      ]
     },
     {
       "id": "ev-lansdowne-emanuel-casablanca-1ebef4",
