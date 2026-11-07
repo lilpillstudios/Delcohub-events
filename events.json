@@ -1,721 +1,9 @@
 {
   "version": 1,
-  "scraped_at": "2026-11-06T16:50:14.448105+00:00",
+  "scraped_at": "2026-11-07T15:46:08.217882+00:00",
   "horizon_days": 180,
   "event_count": 503,
   "listings": [
-    {
-      "id": "ev-wayne-alla-prima-painting-4-fridays-with-georgan-11bb00",
-      "name": "Alla Prima Painting 4 Fridays with Georganna Lenssen",
-      "category": "events",
-      "subcategories": [
-        "visual-arts"
-      ],
-      "shortDescription": "Alla Prima Painting 4 Fridays with Georganna Lenssen",
-      "address": "Wayne Art Center, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.03894,
-      "lng": -75.394446,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-06",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://wayneart.org/events/2151/alla-prima-painting-4-fridays-with-georganna-lenssen",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/hqwDWgnZ_E61dDBpiL20pA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 6",
-      "nextDate": "2026-11-06",
-      "dates": [
-        "2026-11-06"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-lansdowne-black-violin-30f10b",
-      "name": "Black Violin",
-      "category": "events",
-      "subcategories": [
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Black Violin THE BE FREE TOUR with support from Jon Muq.",
-      "address": "Lansdowne Theater, Lansdowne, PA",
-      "town": "Lansdowne",
-      "lat": 39.939419,
-      "lng": -75.272179,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-06",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.etix.com/ticket/p/48448670/black-violin-lansdowne-lansdowne-theater?_gl=1*7aojcc*_ga*NjMwMzczNTc1LjE3NjUyMDYzMjA.*_ga_F5KZGC85YC*czE3ODIzMTA3NjckbzE1NyRnMSR0MTc4MjMxMDkxMiRqNTQkbDAkaDI4NjA3ODQ0Mw..",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pSKivgpeIEiDGrlImQJBig.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 6",
-      "nextDate": "2026-11-06",
-      "dates": [
-        "2026-11-06"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-congregation-beth-israel-of-media-annual-c-c2913a",
-      "name": "Congregation Beth Israel of Media Annual Craft Show",
-      "category": "events",
-      "subcategories": [
-        "crafts",
-        "destinations",
-        "faith",
-        "festival"
-      ],
-      "shortDescription": "We are pleased to announce that the Annual Craft Show is back again this year!",
-      "address": "Congregation Beth Israel of Media, Media, PA",
-      "town": "Media",
-      "lat": 39.889041,
-      "lng": -75.404042,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-11-06",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/share/1EsvVchWZf/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/O1dVmZ1DPEyu5Hykcgc00g.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 6",
-      "nextDate": "2026-11-06",
-      "dates": [
-        "2026-11-06"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-broomall-dara-lynn-98d563",
-      "name": "Dara Lynn",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Dara is a singer and guitarist based in Delco, PA.",
-      "address": "Page and Pour Tavern, Broomall, PA",
-      "town": "Broomall",
-      "lat": 39.982596,
-      "lng": -75.360142,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-06",
-      "endDate": "2026-11-20",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/108989061?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/DAzISL-Wg02xoAP0CDQTPQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fridays, Nov 6 - Nov 20",
-      "nextDate": "2026-11-06",
-      "dates": [
-        "2026-11-06",
-        "2026-11-20"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-newtown-square-domino-fall-play-performance-99eaa3",
-      "name": "Domino Fall Play Performance",
-      "category": "events",
-      "subcategories": [
-        "performing-arts",
-        "theater"
-      ],
-      "shortDescription": "Domino Fall Play Performance",
-      "address": "Black Box-Ridgway Theater, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-06",
-      "endDate": "2026-11-07",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e37130c3-d90c-4465-ba9f-13681cfcbfe4.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Nov 6 - Nov 7",
-      "nextDate": "2026-11-06",
-      "dates": [
-        "2026-11-06",
-        "2026-11-07"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-wayne-exploring-the-magic-of-watercolor-with-mic-e29501",
-      "name": "Exploring the Magic of Watercolor with Mick McAndrews",
-      "category": "events",
-      "subcategories": [
-        "performing-arts",
-        "visual-arts"
-      ],
-      "shortDescription": "Exploring the Magic of Watercolor with Mick McAndrews at Wayne Art Center in Wayne.",
-      "address": "Wayne Art Center, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.03894,
-      "lng": -75.394446,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-06",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://wayneart.org/events/2126/exploring-the-magic-of-watercolor-with-mick-mcandrews",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/wjuCOjizl0aaru1ARbnEUA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 6",
-      "nextDate": "2026-11-06",
-      "dates": [
-        "2026-11-06"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-football-varsity-v-ga-c6f683",
-      "name": "Football - Varsity v GA",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Football - Varsity v GA at Smith Field (Field G) in Newtown Square.",
-      "address": "Smith Field (Field G), Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-06",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e8e62e31-8d0a-4e25-b2dc-173946c8a296.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 6",
-      "nextDate": "2026-11-06",
-      "dates": [
-        "2026-11-06"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-interest-in-engineering-workshops-biomed-c9f70e",
-      "name": "Interest in Engineering Workshops (Biomedical, Electrical, Mechanical, Robotics)",
-      "category": "events",
-      "subcategories": [
-        "learning",
-        "workshop"
-      ],
-      "shortDescription": "Interested in Engineering at Widener? Come Explore! Wi",
-      "address": "Kirkbride Hall, Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-06",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.widener.edu/events/interest-engineering-workshops-biomedical-electrical-mechanical-robotics",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/28499b9f-804b-40d6-928a-c0eba0b74f69.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 6",
-      "nextDate": "2026-11-06",
-      "dates": [
-        "2026-11-06"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-kelsey-waldon-at-118-north-6e0fcc",
-      "name": "Kelsey Waldon at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Kelsey Waldon at 118 North with Candi Jenkins Friday, November 6, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-06",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1313956287326439/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a5bb07a2-7451-461c-a708-a4ee484b5c26.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 6",
-      "nextDate": "2026-11-06",
-      "dates": [
-        "2026-11-06"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-matt-friend-9d6cc9",
-      "name": "Matt Friend",
-      "category": "events",
-      "subcategories": [
-        "comedy",
-        "performing-arts"
-      ],
-      "shortDescription": "Matt Friend is a 27-year-old comedian, actor, host, and impressionist whose wit, work ethic, and wildly accurate impressions have made him one of entertainment's most...",
-      "address": "The Block at Harrah's Philadelphia, Chester, PA",
-      "town": "Chester",
-      "lat": 39.851082,
-      "lng": -75.348369,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-06",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/aOPsjEf2tkOdfN_V5KdJUQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 6",
-      "nextDate": "2026-11-06",
-      "dates": [
-        "2026-11-06"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-havertown-peppino-live-in-concert-6f39f6",
-      "name": "Peppino live in concert",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Original compositions for 6 & 12 guitar. Songs from the Old and the New World.",
-      "address": "Kelly Center, Havertown, PA",
-      "town": "Havertown",
-      "lat": 39.98841,
-      "lng": -75.31308,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-06",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/108304947?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mo20iXgKGEG7KG34rll-8g.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 6",
-      "nextDate": "2026-11-06",
-      "dates": [
-        "2026-11-06"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-radnor-restaurant-week-at-merrick-s-tavern-5229ad",
-      "name": "Restaurant Week at Merrick's Tavern",
-      "category": "events",
-      "subcategories": [
-        "beer",
-        "drinks",
-        "food-drink"
-      ],
-      "shortDescription": "Celebrate Main Line Today Restaurant Week at the new Merrick’s Tavern in Radnor, PA Available starting November 1 through November 14, enjoy a 3 course, prix-fixe dinner...",
-      "address": "Merrick's Tavern, Radnor, PA",
-      "town": "Radnor",
-      "lat": 40.041394,
-      "lng": -75.354926,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-06",
-      "endDate": "2026-11-14",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.merrickstavern.com/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/UpMe_Yy2ZkGYOT3S5OPRrw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Nov 6 - Nov 14",
-      "nextDate": "2026-11-06",
-      "dates": [
-        "2026-11-06",
-        "2026-11-07",
-        "2026-11-08",
-        "2026-11-09",
-        "2026-11-10",
-        "2026-11-11",
-        "2026-11-12",
-        "2026-11-13",
-        "2026-11-14"
-      ],
-      "occurrences": 9
-    },
-    {
-      "id": "ev-media-slainte-a-stand-up-comedy-show-98f807",
-      "name": "Slainte: a Stand Up Comedy Show",
-      "category": "events",
-      "subcategories": [
-        "comedy",
-        "performing-arts"
-      ],
-      "shortDescription": "Get ready to laugh until your sides hurt at Slainte: a Stand Up Comedy Show, where the jokes are as smooth as the Guinness.",
-      "address": "Sligo Irish Pub, Media, PA",
-      "town": "Media",
-      "lat": 39.918417,
-      "lng": -75.39154,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-06",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/slainte-a-stand-up-comedy-show-tickets-2003517509805",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3pZySB3jSkehzYG3gAhSUw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 6",
-      "nextDate": "2026-11-06",
-      "dates": [
-        "2026-11-06"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-villanova-villanova-university-women-s-volleybal-4a3da9",
-      "name": "Villanova University Women's Volleyball vs Marquette",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Villanova University Women's Volleyball vs Marquette",
-      "address": "Villanova, PA",
-      "town": "Villanova",
-      "lat": 40.03176,
-      "lng": -75.34903,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-06",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://villanova.com/calendar.aspx?game_id=17730&amp;sport_id=22",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1c5f516e-c648-44bf-ba17-ce3f5c2af91a.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 6",
-      "nextDate": "2026-11-06",
-      "dates": [
-        "2026-11-06"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-widener-pride-women-s-basketball-vs-cent-234002",
-      "name": "Widener Pride: Women's Basketball vs Centenary vs Salisbury - Hosted by Widener University",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Women's Basketball vs Centenary vs Salisbury - Hosted by Widener University Streaming Video: https://gomacsports.tv/widenerpride/ Tickets:...",
-      "address": "Schwartz Center, Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-06",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14677&amp;sport_id=8",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/94f14392-5a57-4160-b378-7b637cfb697d.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 6",
-      "nextDate": "2026-11-06",
-      "dates": [
-        "2026-11-06"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-widener-pride-women-s-basketball-vs-mary-d32f79",
-      "name": "Widener Pride: Women's Basketball vs Marywood",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Women's Basketball vs Marywood Streaming Video: https://gomacsports.tv/widenerpride/ Tickets:...",
-      "address": "Chester, PA",
-      "town": "Chester",
-      "lat": 39.85268,
-      "lng": -75.360687,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-06",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14615&amp;sport_id=8",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d79fec9e-625d-494a-8623-ed009ee58656.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 6",
-      "nextDate": "2026-11-06",
-      "dates": [
-        "2026-11-06"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-widener-pride-women-s-basketball-vs-tip-54c45a",
-      "name": "Widener Pride: Women's Basketball vs Tip Off Tournament",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Women's Basketball vs Marywood Streaming Video: https://gomacsports.tv/widenerpride/ Tickets:...",
-      "address": "Schwartz Center, Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-06",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14615&amp;sport_id=8",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5b5aeea4-791b-4732-b870-55f870e5cb21.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 6",
-      "nextDate": "2026-11-06",
-      "dates": [
-        "2026-11-06"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-youth-one-time-classes-90569b",
-      "name": "Youth One-Time Classes",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "special-audience",
-        "visual-arts"
-      ],
-      "shortDescription": "$80 Per Person / Ages 9 and up Friday, Oct 2, 2026 / 5:30 PM - 7:00 PM (EDT) Join our one time class to learn the basics of wheel throwing!",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "family",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-06",
-      "endDate": "2026-11-27",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/160853/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pbI4ypXkz062b8lEfv8Ztg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fridays, Nov 6 - Nov 27",
-      "nextDate": "2026-11-06",
-      "dates": [
-        "2026-11-06",
-        "2026-11-13",
-        "2026-11-20",
-        "2026-11-27"
-      ],
-      "occurrences": 4
-    },
     {
       "id": "ev-newtown-square-17th-century-day-cbc87a",
       "name": "17th Century Day",
@@ -902,6 +190,44 @@
       "website": "https://www.facebook.com/events/1581667313453348/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ae3b5cbf-d92f-4c24-96b9-cf5c90b02fac.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 7",
+      "nextDate": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-domino-fall-play-performance-99eaa3",
+      "name": "Domino Fall Play Performance",
+      "category": "events",
+      "subcategories": [
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "Domino Fall Play Performance",
+      "address": "Black Box-Ridgway Theater, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-07",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e37130c3-d90c-4465-ba9f-13681cfcbfe4.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -1150,6 +476,51 @@
         "2026-11-07"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-radnor-restaurant-week-at-merrick-s-tavern-5229ad",
+      "name": "Restaurant Week at Merrick's Tavern",
+      "category": "events",
+      "subcategories": [
+        "beer",
+        "drinks",
+        "food-drink"
+      ],
+      "shortDescription": "Celebrate Main Line Today Restaurant Week at the new Merrick’s Tavern in Radnor, PA Available starting November 1 through November 14, enjoy a 3 course, prix-fixe dinner...",
+      "address": "Merrick's Tavern, Radnor, PA",
+      "town": "Radnor",
+      "lat": 40.041394,
+      "lng": -75.354926,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-14",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.merrickstavern.com/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/UpMe_Yy2ZkGYOT3S5OPRrw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Nov 7 - Nov 14",
+      "nextDate": "2026-11-07",
+      "dates": [
+        "2026-11-07",
+        "2026-11-08",
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-14"
+      ],
+      "occurrences": 8
     },
     {
       "id": "ridley-park-farmers-market",
@@ -1567,6 +938,46 @@
       "website": "https://villanova.com/calendar.aspx?game_id=17784&amp;sport_id=18",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4b8401df-8242-4a6e-a069-2ec28d0848c9.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 7",
+      "nextDate": "2026-11-07",
+      "dates": [
+        "2026-11-07"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-villanova-villanova-university-women-s-volleybal-1275fd",
+      "name": "Villanova University Women's Volleyball vs DePaul",
+      "category": "events",
+      "subcategories": [
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Villanova University Women's Volleyball vs DePaul",
+      "address": "Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.03176,
+      "lng": -75.34903,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-07",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://villanova.com/calendar.aspx?game_id=17731&amp;sport_id=22",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/41303adc-6311-419e-8756-cc69b17d8c41.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -3562,6 +2973,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-newtown-square-cross-country-girls-v-agnes-irwin-04d890",
+      "name": "Cross Country - Girls v Agnes Irwin",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Cross Country - Girls v Agnes Irwin",
+      "address": "Celentano Cross Country Course, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-13",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2515a632-7c00-42f3-8b27-d68699bb216f.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Nov 13",
+      "nextDate": "2026-11-13",
+      "dates": [
+        "2026-11-13"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-media-fall-tree-tenders-planting-f5ca20",
       "name": "Fall Tree Tenders Planting",
       "category": "events",
@@ -3585,6 +3034,44 @@
       "website": "https://www.mediaborough.com/calendar.aspx?EID=2997",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3c32bc17-e001-4e70-92ea-2283d0a02d56.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Nov 13",
+      "nextDate": "2026-11-13",
+      "dates": [
+        "2026-11-13"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-field-hockey-varsity-v-agnes-irwi-859e5d",
+      "name": "Field Hockey - Varsity v Agnes Irwin",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Field Hockey - Varsity v Agnes Irwin",
+      "address": "Buggy Field, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-13",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b04bdf65-d71d-4a5a-a43a-cf4f24a1e822.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -3793,6 +3280,82 @@
       "occurrences": 1
     },
     {
+      "id": "ev-newtown-square-soccer-varsity-girls-v-agnes-irwi-498b6a",
+      "name": "Soccer - Varsity Girls v Agnes Irwin",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Soccer - Varsity Girls v Agnes Irwin",
+      "address": "Class of '76 Field, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-13",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b4f13205-36d4-456b-a2cd-4c796b529819.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Nov 13",
+      "nextDate": "2026-11-13",
+      "dates": [
+        "2026-11-13"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-tennis-varsity-girls-v-agnes-irwi-a577f5",
+      "name": "Tennis - Varsity Girls v Agnes Irwin",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Tennis - Varsity Girls v Agnes Irwin",
+      "address": "Tennis Courts, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-13",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/70d24c21-85cc-4d12-ae22-b05d7ac3c967.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Nov 13",
+      "nextDate": "2026-11-13",
+      "dates": [
+        "2026-11-13"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-swarthmore-tom-hampton-a0d589",
       "name": "Tom Hampton",
       "category": "events",
@@ -3821,6 +3384,44 @@
       "website": "https://www.bandsintown.com/e/108845653?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/kgsxFF4d2EeOYVBxTS9bEg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Nov 13",
+      "nextDate": "2026-11-13",
+      "dates": [
+        "2026-11-13"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-volleyball-varsity-v-agnes-irwin-20f725",
+      "name": "Volleyball - Varsity v Agnes Irwin",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Volleyball - Varsity v Agnes Irwin",
+      "address": "O'Neill Gym, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-13",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e669d12a-a6ec-4151-8c5f-9397f6aae3d7.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -3911,6 +3512,48 @@
         "2026-11-13"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-bryn-mawr-youth-one-time-classes-90569b",
+      "name": "Youth One-Time Classes",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "special-audience",
+        "visual-arts"
+      ],
+      "shortDescription": "$80 Per Person / Ages 9 and up Friday, Oct 2, 2026 / 5:30 PM - 7:00 PM (EDT) Join our one time class to learn the basics of wheel throwing!",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-27",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/160853/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pbI4ypXkz062b8lEfv8Ztg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fridays, Nov 13 - Nov 27",
+      "nextDate": "2026-11-13",
+      "dates": [
+        "2026-11-13",
+        "2026-11-20",
+        "2026-11-27"
+      ],
+      "occurrences": 3
     },
     {
       "id": "ev-swarthmore-thanks-giving-children-s-benefit-conc-5b05b2",
@@ -4304,6 +3947,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-newtown-square-football-varsity-v-haverford-5790db",
+      "name": "Football - Varsity v Haverford",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Football - Varsity v Haverford",
+      "address": "Smith Field, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-14",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7aa12362-ddd3-40dd-909b-d1a9312ca654.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 14",
+      "nextDate": "2026-11-14",
+      "dates": [
+        "2026-11-14"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-haverford-haverford-guild-holiday-art-fine-craft-a89d00",
       "name": "Haverford Guild Holiday Art & Fine Craft Show",
       "category": "events",
@@ -4498,6 +4179,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-newtown-square-soccer-varsity-boys-v-haverford-187882",
+      "name": "Soccer - Varsity Boys v Haverford",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Soccer - Varsity Boys v Haverford",
+      "address": "Alumni Field, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-14",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/469bd39d-8063-41c7-8f6c-2f23de9f535d.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 14",
+      "nextDate": "2026-11-14",
+      "dates": [
+        "2026-11-14"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-the-saturday-club-s-annual-holiday-market-5c77ac",
       "name": "The Saturday Club's Annual Holiday Market",
       "category": "events",
@@ -4526,6 +4245,44 @@
       "website": "https://saturdayclub.org/holidaymarket/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Fuz232NjsUeUVHibfQLQmg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 14",
+      "nextDate": "2026-11-14",
+      "dates": [
+        "2026-11-14"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-water-polo-varsity-boys-v-haverfo-fb9eaa",
+      "name": "Water Polo - Varsity Boys v Haverford",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Water Polo - Varsity Boys v Haverford",
+      "address": "Burke Natatorium, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-14",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/359768a4-b327-4b56-9756-8467f4ba4030.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -5685,6 +5442,46 @@
       "nextDate": "2026-11-19",
       "dates": [
         "2026-11-19"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-broomall-dara-lynn-98d563",
+      "name": "Dara Lynn",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Dara is a singer and guitarist based in Delco, PA.",
+      "address": "Page and Pour Tavern, Broomall, PA",
+      "town": "Broomall",
+      "lat": 39.982596,
+      "lng": -75.360142,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-20",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108989062?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/DAzISL-Wg02xoAP0CDQTPQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Nov 20",
+      "nextDate": "2026-11-20",
+      "dates": [
+        "2026-11-20"
       ],
       "occurrences": 1
     },
@@ -12571,6 +12368,45 @@
       "occurrences": 3
     },
     {
+      "id": "ev-newtown-square-ice-hockey-varsity-haverford-18f7d9",
+      "name": "Ice Hockey - Varsity @ Haverford",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Ice Hockey - Varsity @ Haverford",
+      "address": "The Haverford School, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-11",
+      "endDate": "2027-02-05",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c75ba083-b273-4f5c-85b7-803c8531c22c.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "2 dates, Jan 11 - Feb 5",
+      "nextDate": "2027-01-11",
+      "dates": [
+        "2027-01-11",
+        "2027-02-05"
+      ],
+      "occurrences": 2
+    },
+    {
       "id": "ev-newtown-square-squash-varsity-girls-hill-school-83192c",
       "name": "Squash - Varsity Girls @ Hill School",
       "category": "events",
@@ -12717,6 +12553,45 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a20cae2d-ded8-45df-bbbb-518f39cf4b26.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Jan 12",
+      "nextDate": "2027-01-12",
+      "dates": [
+        "2027-01-12"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-swim-dive-ms-boys-v-ga-265c92",
+      "name": "Swim & Dive - MS Boys v GA",
+      "category": "events",
+      "subcategories": [
+        "outdoor-recreation",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Swim & Dive - MS Boys v GA",
+      "address": "Burke Natatorium, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2027-01-12",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c3bed831-7dd2-4403-9b71-811f4d28946d.medium.PNG",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -14928,6 +14803,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-newtown-square-ice-hockey-varsity-ga-hatfield-608792",
+      "name": "Ice Hockey - Varsity @ GA (Hatfield)",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Ice Hockey - Varsity @ GA (Hatfield)",
+      "address": "Hatfield Ice Arena, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-29",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5f22b484-6b39-460f-9ac0-a850f2afc6cc.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Jan 29",
+      "nextDate": "2027-01-29",
+      "dates": [
+        "2027-01-29"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-squash-ms-boys-a-nationals-d3f923",
       "name": "Squash - MS Boys A @ Nationals",
       "category": "events",
@@ -14962,6 +14875,44 @@
         "2027-01-30"
       ],
       "occurrences": 2
+    },
+    {
+      "id": "ev-newtown-square-wrestling-varsity-v-ga-7f8627",
+      "name": "Wrestling - Varsity v GA",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Wrestling - Varsity v GA at Field House 3 in Newtown Square.",
+      "address": "Field House 3, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-29",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/aab838fc-5219-4aab-8ebc-cc4e311567ef.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Jan 29",
+      "nextDate": "2027-01-29",
+      "dates": [
+        "2027-01-29"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-newtown-square-nyc-experiential-event-9b4ec2",
@@ -15711,6 +15662,44 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/94f14392-5a57-4160-b378-7b637cfb697d.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Feb 5",
+      "nextDate": "2027-02-05",
+      "dates": [
+        "2027-02-05"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-wrestling-varsity-v-haverford-4a0834",
+      "name": "Wrestling - Varsity v Haverford",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Wrestling - Varsity v Haverford",
+      "address": "Field House 3, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-02-05",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d073d6a7-d630-4bb2-b12c-c8ae987861e5.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
