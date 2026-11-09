@@ -1,387 +1,47 @@
 {
   "version": 1,
-  "scraped_at": "2026-11-08T16:04:38.232998+00:00",
+  "scraped_at": "2026-11-09T19:55:25.655689+00:00",
   "horizon_days": 180,
-  "event_count": 487,
+  "event_count": 485,
   "listings": [
     {
-      "id": "ev-newtown-square-affording-ea-webinar-13bbee",
-      "name": "Affording EA Webinar",
+      "id": "ev-newtown-square-all-school-bonfire-60f3cf",
+      "name": "All-School Bonfire",
       "category": "events",
       "subcategories": [
         "classes",
-        "learning"
+        "learning",
+        "outdoor-recreation",
+        "sports-outdoors"
       ],
-      "shortDescription": "Affording EA Webinar at a Delco venue in Newtown Square.",
-      "address": "Newtown Square, PA",
+      "shortDescription": "All-School Bonfire at Connelly Courtyard in Newtown Square.",
+      "address": "Connelly Courtyard, Newtown Square, PA",
       "town": "Newtown Square",
       "lat": 39.98678,
       "lng": -75.40103,
       "priceTier": 0,
       "tags": [
         "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cb5422ba-023f-4799-8255-d330d8c33259.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 8",
-      "nextDate": "2026-11-08",
-      "dates": [
-        "2026-11-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-ghost-of-the-mill-jon-savage-and-the-class-4c7163",
-      "name": "Ghost Of The Mill & Jon Savage and the Classic Rockers",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Jon Savage and the Classic Rockers",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/1040514735?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OhzXgtjm4USrWxq-F2KMRw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 8",
-      "nextDate": "2026-11-08",
-      "dates": [
-        "2026-11-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-jonathan-savage-and-the-classic-rockers-at-a9a1b7",
-      "name": "Jonathan Savage and the Classic Rockers at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Jonathan Savage at 118 North with Ghost of the Mill Sunday, November 8, 2026 Doors: 5:30 PM | Show: 7:30 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/4134059446894117/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/96f6c056-3947-4861-bad5-eee763bc4463.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 8",
-      "nextDate": "2026-11-08",
-      "dates": [
-        "2026-11-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-glen-mills-needle-felting-with-brianna-ec7db9",
-      "name": "Needle Felting with Brianna",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Create your own Cardinal, Goldfinch, or Bluebird!",
-      "address": "Wild Birds Unlimited, Glen Mills, PA",
-      "town": "Glen Mills",
-      "lat": 39.88612,
-      "lng": -75.531132,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/needle-felting-with-brianna-tickets-2002067628170",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/92g6S-YzXUeqi1sAEUDHXw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 8",
-      "nextDate": "2026-11-08",
-      "dates": [
-        "2026-11-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chadds-ford-pause-a-discussion-for-every-woman-227528",
-      "name": "PAUSE: A Discussion for Every Woman",
-      "category": "events",
-      "subcategories": [
-        "lifestyle",
-        "special-audience"
-      ],
-      "shortDescription": "A fun, candid, science-backed conversation about women’s changing bodies, hormones, pelvic floor health, and more.",
-      "address": "Chadds Ford Tavern, Chadds Ford, PA",
-      "town": "Chadds Ford",
-      "lat": 39.873631,
-      "lng": -75.5675,
-      "priceTier": 3,
-      "tags": [
-        "family",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/pause-a-discussion-for-every-woman-tickets-1999398200841",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/V2sSnTObQU-gVggRCzOcFg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 8",
-      "nextDate": "2026-11-08",
-      "dates": [
-        "2026-11-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-radnor-restaurant-week-at-merrick-s-tavern-5229ad",
-      "name": "Restaurant Week at Merrick's Tavern",
-      "category": "events",
-      "subcategories": [
-        "beer",
-        "drinks",
-        "food-drink"
-      ],
-      "shortDescription": "Celebrate Main Line Today Restaurant Week at the new Merrick’s Tavern in Radnor, PA Available starting November 1 through November 14, enjoy a 3 course, prix-fixe dinner...",
-      "address": "Merrick's Tavern, Radnor, PA",
-      "town": "Radnor",
-      "lat": 40.041394,
-      "lng": -75.354926,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-08",
-      "endDate": "2026-11-14",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.merrickstavern.com/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/UpMe_Yy2ZkGYOT3S5OPRrw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Nov 8 - Nov 14",
-      "nextDate": "2026-11-08",
-      "dates": [
-        "2026-11-08",
-        "2026-11-09",
-        "2026-11-10",
-        "2026-11-11",
-        "2026-11-12",
-        "2026-11-13",
-        "2026-11-14"
-      ],
-      "occurrences": 7
-    },
-    {
-      "id": "ev-glen-mills-restoration-walks-at-newlin-grist-mil-76d64c",
-      "name": "Restoration Walks at Newlin Grist Mill",
-      "category": "events",
-      "subcategories": [
-        "fitness",
-        "outdoor-recreation",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Select Sundays at 9:30 AM: September 13, October 11, and November 8, 2026 Join former Chester County Trails Club Vice President Dolores (Dee) McGrath for a three-mile...",
-      "address": "Newlin Grist Mill, Glen Mills, PA",
-      "town": "Glen Mills",
-      "lat": 39.890529,
-      "lng": -75.506043,
-      "priceTier": 1,
-      "tags": [
         "group",
         "outdoor"
       ],
       "hours": {},
-      "startDate": "2026-11-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/restoration-walks-at-newlin-grist-mill-tickets-1995933917075?aff=ebdsoporgprofile",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/uXaxnLx5ZUSX6GEKHLbopQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 8",
-      "nextDate": "2026-11-08",
-      "dates": [
-        "2026-11-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-still-life-abstraction-through-observation-3d2041",
-      "name": "Still Life: Abstraction Through Observation with Ed Praybe",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Still Life: Abstraction Through Observation with Ed Praybe at Wayne Art Center in Wayne.",
-      "address": "Wayne Art Center, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.03894,
-      "lng": -75.394446,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://wayneart.org/events/2119/still-life-abstraction-through-observation-with-ed-praybe",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/N_BuMeEzl0KQbQoHUS8U4A.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 8",
-      "nextDate": "2026-11-08",
-      "dates": [
-        "2026-11-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-the-nude-portrait-with-scott-noel-91d119",
-      "name": "The Nude Portrait with Scott Noel",
-      "category": "events",
-      "subcategories": [
-        "visual-arts"
-      ],
-      "shortDescription": "The workshop will run for two full days. Our interest is whether two distinct pictorial genres, the portrait and the nude figure, can challenge each other and make each...",
-      "address": "Wayne Art Center, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.03894,
-      "lng": -75.394446,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-08",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://wayneart.org/events/2120/the-nude-portrait-with-scott-noel",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1QcKDT3PtUunTHf6enwWJQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 8",
-      "nextDate": "2026-11-08",
-      "dates": [
-        "2026-11-08"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-volleyball-team-meal-7ac613",
-      "name": "Volleyball Team Meal",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Volleyball Team Meal at Tierney Dining Hall in Newtown Square.",
-      "address": "Tierney Dining Hall, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98768,
-      "lng": -75.38274,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-08",
+      "startDate": "2026-11-09",
       "endDate": "",
       "recurring": "none",
       "venueId": "",
       "phone": "",
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c0a9941a-c1ec-4e56-aed9-a08e58729f67.medium.png",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/08456c4e-7b57-441c-a080-8217b58ce158.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Sun, Nov 8",
-      "nextDate": "2026-11-08",
+      "schedule": "Mon, Nov 9",
+      "nextDate": "2026-11-09",
       "dates": [
-        "2026-11-08"
+        "2026-11-09"
       ],
       "occurrences": 1
     },
@@ -566,6 +226,49 @@
         "2026-12-28"
       ],
       "occurrences": 8
+    },
+    {
+      "id": "ev-radnor-restaurant-week-at-merrick-s-tavern-5229ad",
+      "name": "Restaurant Week at Merrick's Tavern",
+      "category": "events",
+      "subcategories": [
+        "beer",
+        "drinks",
+        "food-drink"
+      ],
+      "shortDescription": "Celebrate Main Line Today Restaurant Week at the new Merrick’s Tavern in Radnor, PA Available starting November 1 through November 14, enjoy a 3 course, prix-fixe dinner...",
+      "address": "Merrick's Tavern, Radnor, PA",
+      "town": "Radnor",
+      "lat": 40.041394,
+      "lng": -75.354926,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-14",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.merrickstavern.com/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/UpMe_Yy2ZkGYOT3S5OPRrw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Nov 9 - Nov 14",
+      "nextDate": "2026-11-09",
+      "dates": [
+        "2026-11-09",
+        "2026-11-10",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-14"
+      ],
+      "occurrences": 6
     },
     {
       "id": "ev-wayne-sprouts-a-student-led-botany-course-b15e98",
@@ -3232,6 +2935,45 @@
       "dates": [
         "2026-11-14"
       ]
+    },
+    {
+      "id": "ev-springfield-township-sherlock-holmes-murder-myst-50f408",
+      "name": "Sherlock Holmes Murder Mystery Dinner Theatre",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink",
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "Join us for a night of mystery, dinner, and detective fun as you solve the Sherlock Holmes murder case live!",
+      "address": "Springfield Township, Delaware County, PA",
+      "town": "Springfield Township",
+      "lat": 39.928318,
+      "lng": -75.3339,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-14",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/sherlock-holmes-murder-mystery-dinner-theatre-tickets-2002659251732",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5506qFR5NkWmgl0Scwq4pg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 14",
+      "nextDate": "2026-11-14",
+      "dates": [
+        "2026-11-14"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-newtown-square-soccer-varsity-boys-v-haverford-187882",
@@ -9272,6 +9014,46 @@
       "occurrences": 2
     },
     {
+      "id": "ev-drexel-hill-elle-gyandoh-bb93e3",
+      "name": "Elle Gyandoh",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "food-drink",
+        "live-music",
+        "music"
+      ],
+      "shortDescription": "Elle will be singing your favorite tunes as you delight in delicious food and drinks, in a stunning atmosphere!",
+      "address": "Streetlight Kitchen & Bar, Drexel Hill, PA",
+      "town": "Drexel Hill",
+      "lat": 39.944973,
+      "lng": -75.314339,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-17",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/109117307?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1JiJGLU6IEiIqjpWWW1GqA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Dec 17",
+      "nextDate": "2026-12-17",
+      "dates": [
+        "2026-12-17"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-squash-boys-varsity-v-penn-charte-c84eda",
       "name": "Squash - Boys Varsity v Penn Charter",
       "category": "events",
@@ -10315,6 +10097,8 @@
       "name": "Rift: Phish Tribute - Ages 21+",
       "category": "events",
       "subcategories": [
+        "concert",
+        "live-music",
         "music",
         "performing-arts"
       ],
@@ -12384,6 +12168,43 @@
       "occurrences": 1
     },
     {
+      "id": "ev-springfield-township-crafty-s-big-comedy-show-292a31",
+      "name": "Crafty's Big Comedy Show",
+      "category": "events",
+      "subcategories": [
+        "comedy",
+        "performing-arts"
+      ],
+      "shortDescription": "Stellar standup comedy at Springfield's best bar",
+      "address": "Springfield Township, Delaware County, PA",
+      "town": "Springfield Township",
+      "lat": 39.92381,
+      "lng": -75.31283,
+      "priceTier": 1,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-16",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/craftys-big-comedy-show-tickets-2003175705459",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/TgkPvuT4sEygasBYvbSinA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Jan 16",
+      "nextDate": "2027-01-16",
+      "dates": [
+        "2027-01-16"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-lansdowne-david-brighton-s-space-oddity-b043d5",
       "name": "David Brighton's Space Oddity",
       "category": "events",
@@ -14270,6 +14091,46 @@
       "nextDate": "2027-01-30",
       "dates": [
         "2027-01-30"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-that-1-guy-23aad5",
+      "name": "That 1 Guy",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Doors @ 5:30 PM | Show @ 7:00 PM Don't miss That 1 Guy's one-of-a-kind, mind-bending psychedelic audiovisual show, featuring the Magic Pipe—a homemade musical instrument...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-31",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/109112296?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/laJCCO6zrU-W9jxQdTPrPA.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Jan 31",
+      "nextDate": "2027-01-31",
+      "dates": [
+        "2027-01-31"
       ],
       "occurrences": 1
     },
@@ -18183,6 +18044,83 @@
       "nextDate": "2027-05-06",
       "dates": [
         "2027-05-06"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-springfield-b-flats-our-community-cup-coffeehous-1859f0",
+      "name": "B-Flats: Our Community Cup Coffeehouse",
+      "category": "events",
+      "subcategories": [
+        "civic"
+      ],
+      "shortDescription": "B-Flats: Our Community Cup Coffeehouse at a Delco venue in Springfield.",
+      "address": "Springfield, PA",
+      "town": "Springfield",
+      "lat": 39.92788,
+      "lng": -75.33614,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-05-07",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.baldwinschool.org/page/event?pk=27817930&fromId=249696",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/da65d06d-7dcc-441d-9865-246447d28c20.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, May 7",
+      "nextDate": "2027-05-07",
+      "dates": [
+        "2027-05-07"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-aldan-doubt-a-parable-1a1eba",
+      "name": "Doubt: A Parable",
+      "category": "events",
+      "subcategories": [
+        "faith",
+        "lifestyle",
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "Winner of the Pulitzer Prize and Tony Award for Best Play, Doubt: A Parable follows a Catholic school principal whose suspicions about a priest ignite a conflict filled...",
+      "address": "Colonial Playhouse, Aldan, PA",
+      "town": "Aldan",
+      "lat": 39.916243,
+      "lng": -75.294573,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-05-07",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://colonialplayhouse.net/doubt/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/AvjlEe_4j0-b94VtX-nWmw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, May 7",
+      "nextDate": "2027-05-07",
+      "dates": [
+        "2027-05-07"
       ],
       "occurrences": 1
     },
