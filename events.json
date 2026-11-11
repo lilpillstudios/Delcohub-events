@@ -1,427 +1,9 @@
 {
   "version": 1,
-  "scraped_at": "2026-11-10T17:08:45.500205+00:00",
+  "scraped_at": "2026-11-11T17:16:08.219986+00:00",
   "horizon_days": 180,
-  "event_count": 486,
+  "event_count": 494,
   "listings": [
-    {
-      "id": "ev-chester-ceu-addressing-trauma-in-adults-with-int-ea64d7",
-      "name": "CEU: Addressing Trauma in Adults with Intellectual and Developmental Disabilities Creatively",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "special-audience"
-      ],
-      "shortDescription": "We will be discussing presentations of trauma in adult",
-      "address": "Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-10",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.widener.edu/events/ceu-addressing-trauma-adults-intellectual-and-developmental-disabilities-creatively",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9ae2a062-5a26-4641-ae50-c28e0ba01d58.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Nov 10",
-      "nextDate": "2026-11-10",
-      "dates": [
-        "2026-11-10"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-college-counseling-class-dccb7e",
-      "name": "College Counseling Class",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning"
-      ],
-      "shortDescription": "College Counseling Class at Sherrerd Board Room in Newtown Square.",
-      "address": "Sherrerd Board Room, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-10",
-      "endDate": "2027-04-20",
-      "recurring": "seasonal",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2d2553c3-a062-48b2-80e0-6d208fed9f7a.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Select dates, Nov 10 - Apr 20",
-      "nextDate": "2026-11-10",
-      "dates": [
-        "2026-11-10",
-        "2027-01-15",
-        "2027-01-28",
-        "2027-02-09",
-        "2027-02-23",
-        "2027-03-08",
-        "2027-04-02",
-        "2027-04-20"
-      ],
-      "occurrences": 8
-    },
-    {
-      "id": "ev-wayne-mother-goose-on-the-loose-ages-birth-24-mo-94f84e",
-      "name": "Mother Goose on the Loose (Ages Birth - 24 months)",
-      "category": "events",
-      "subcategories": [
-        "kids",
-        "literary-arts",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Winsor Room - Registration required Birth - Age 24 months Stories, songs, and movement activities to help your young child build early literacy skills in a safe, social...",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-11-10",
-      "endDate": "2026-12-15",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17721472",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e04e48cf-45db-4883-b6ec-7300514cd7c0.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Nov 10 - Dec 15",
-      "nextDate": "2026-11-10",
-      "dates": [
-        "2026-11-10",
-        "2026-11-17",
-        "2026-11-24",
-        "2026-12-08",
-        "2026-12-15"
-      ],
-      "occurrences": 5
-    },
-    {
-      "id": "ev-chester-oldies-in-the-park-a0e86f",
-      "name": "Oldies in the Park",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "destinations",
-        "music",
-        "outdoor-concert"
-      ],
-      "shortDescription": "Oldies in the Park at Ethel Waters Park in Chester.",
-      "address": "Ethel Waters Park, Chester, PA",
-      "town": "Chester",
-      "lat": 39.846465,
-      "lng": -75.358842,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-11-10",
-      "endDate": "2027-05-04",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.chestercity.com/event/oldies-in-the-park-2/2026-11-10/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/o6XxL0PM3kaE6hDXOaFfuw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Nov 10 - May 4",
-      "nextDate": "2026-11-10",
-      "dates": [
-        "2026-11-10",
-        "2026-11-17",
-        "2026-11-24",
-        "2026-12-01",
-        "2026-12-08",
-        "2026-12-15",
-        "2026-12-22",
-        "2026-12-29",
-        "2027-01-05",
-        "2027-01-12",
-        "2027-01-19",
-        "2027-01-26",
-        "2027-02-02",
-        "2027-02-09",
-        "2027-02-16",
-        "2027-02-23",
-        "2027-03-02",
-        "2027-03-09",
-        "2027-03-16",
-        "2027-03-23",
-        "2027-03-30",
-        "2027-04-06",
-        "2027-04-13",
-        "2027-04-20",
-        "2027-04-27",
-        "2027-05-04"
-      ],
-      "occurrences": 26
-    },
-    {
-      "id": "ev-wayne-radlit-book-club-4f7dca",
-      "name": "Radlit Book Club",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "literary-arts"
-      ],
-      "shortDescription": "Join us for a discussion of Holidays On Ice, by David Sedaris. All are welcome. No registration necessary. Led by local librarian Jessica Richter.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-10",
-      "endDate": "2026-12-08",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17212585",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/81b8ac86-9575-4bf0-a8e3-7382ef984a0f.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Nov 10 - Dec 8",
-      "nextDate": "2026-11-10",
-      "dates": [
-        "2026-11-10",
-        "2026-12-08"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-radnor-restaurant-week-at-merrick-s-tavern-5229ad",
-      "name": "Restaurant Week at Merrick's Tavern",
-      "category": "events",
-      "subcategories": [
-        "beer",
-        "drinks",
-        "food-drink"
-      ],
-      "shortDescription": "Celebrate Main Line Today Restaurant Week at the new Merrick’s Tavern in Radnor, PA Available starting November 1 through November 14, enjoy a 3 course, prix-fixe dinner...",
-      "address": "Merrick's Tavern, Radnor, PA",
-      "town": "Radnor",
-      "lat": 40.041394,
-      "lng": -75.354926,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-10",
-      "endDate": "2026-11-14",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.merrickstavern.com/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/UpMe_Yy2ZkGYOT3S5OPRrw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Nov 10 - Nov 14",
-      "nextDate": "2026-11-10",
-      "dates": [
-        "2026-11-10",
-        "2026-11-11",
-        "2026-11-12",
-        "2026-11-13",
-        "2026-11-14"
-      ],
-      "occurrences": 5
-    },
-    {
-      "id": "ev-media-sh-tty-art-buddies-grown-up-craft-club-byo-22c542",
-      "name": "Shtty Art Buddies: Grown-Up Craft Club (BYOB) · Media, PA",
-      "category": "events",
-      "subcategories": [
-        "crafts",
-        "visual-arts"
-      ],
-      "shortDescription": "Put the phone down and make something gloriously wonky. BYOB craft night for adults. No skills needed, all supplies included.",
-      "address": "Nimble Craft LLC, Media, PA",
-      "town": "Media",
-      "lat": 39.91804,
-      "lng": -75.388534,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-10",
-      "endDate": "2026-11-16",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/shtty-art-buddies-grown-up-craft-club-byob-media-pa-tickets-2004392396615",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gQwoX5uEj02hJM3nDKkRQg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Nov 10 - Nov 16",
-      "nextDate": "2026-11-10",
-      "dates": [
-        "2026-11-10",
-        "2026-11-11",
-        "2026-11-12",
-        "2026-11-13",
-        "2026-11-14",
-        "2026-11-15",
-        "2026-11-16"
-      ],
-      "occurrences": 7
-    },
-    {
-      "id": "ev-holmes-tuesday-karaoke-at-haggertys-in-holmes-pa-3b255e",
-      "name": "Tuesday Karaoke at Haggertys in Holmes, PA (Delaware County",
-      "category": "events",
-      "subcategories": [
-        "open-mic",
-        "performing-arts"
-      ],
-      "shortDescription": "Karaoke is Every Tuesday at Haggertys in Homes, PA (Delaware County, PA) Karaoke starts at 8pm.",
-      "address": "Haggerty's Cafe, Holmes, PA",
-      "town": "Holmes",
-      "lat": 39.899696,
-      "lng": -75.305652,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-10",
-      "endDate": "2027-03-30",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/tuesday-karaoke-at-haggertys-in-holmes-pa-delaware-county-pa-tickets-1225315845679",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/g_89wQtSp0Sz9smp4PcgxA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Nov 10 - Mar 30",
-      "nextDate": "2026-11-10",
-      "dates": [
-        "2026-11-10",
-        "2026-11-17",
-        "2026-11-24",
-        "2026-12-01",
-        "2026-12-08",
-        "2026-12-15",
-        "2026-12-22",
-        "2026-12-29",
-        "2027-01-05",
-        "2027-01-12",
-        "2027-01-19",
-        "2027-01-26",
-        "2027-02-02",
-        "2027-02-09",
-        "2027-02-16",
-        "2027-02-23",
-        "2027-03-02",
-        "2027-03-09",
-        "2027-03-16",
-        "2027-03-23",
-        "2027-03-30"
-      ],
-      "occurrences": 21
-    },
-    {
-      "id": "ev-newtown-square-water-polo-ms-v-haverford-50feb9",
-      "name": "Water Polo - MS v Haverford",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Water Polo - MS v Haverford",
-      "address": "Burke Natatorium, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-10",
-      "endDate": "2026-11-11",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5654b9b5-1ff3-43be-b479-f97bf3acc72a.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Nov 10 - Nov 11",
-      "nextDate": "2026-11-10",
-      "dates": [
-        "2026-11-10",
-        "2026-11-11"
-      ],
-      "occurrences": 2
-    },
     {
       "id": "ev-media-2026-veterans-day-parade-43a75d",
       "name": "2026 Veterans Day Parade",
@@ -702,6 +284,89 @@
       "occurrences": 1
     },
     {
+      "id": "ev-radnor-restaurant-week-at-merrick-s-tavern-5229ad",
+      "name": "Restaurant Week at Merrick's Tavern",
+      "category": "events",
+      "subcategories": [
+        "beer",
+        "drinks",
+        "food-drink"
+      ],
+      "shortDescription": "Celebrate Main Line Today Restaurant Week at the new Merrick’s Tavern in Radnor, PA Available starting November 1 through November 14, enjoy a 3 course, prix-fixe dinner...",
+      "address": "Merrick's Tavern, Radnor, PA",
+      "town": "Radnor",
+      "lat": 40.041394,
+      "lng": -75.354926,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-14",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.merrickstavern.com/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/UpMe_Yy2ZkGYOT3S5OPRrw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Nov 11 - Nov 14",
+      "nextDate": "2026-11-11",
+      "dates": [
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-14"
+      ],
+      "occurrences": 4
+    },
+    {
+      "id": "ev-media-sh-tty-art-buddies-grown-up-craft-club-byo-22c542",
+      "name": "Shtty Art Buddies: Grown-Up Craft Club (BYOB) · Media, PA",
+      "category": "events",
+      "subcategories": [
+        "crafts",
+        "visual-arts"
+      ],
+      "shortDescription": "Put the phone down and make something gloriously wonky. BYOB craft night for adults. No skills needed, all supplies included.",
+      "address": "Nimble Craft LLC, Media, PA",
+      "town": "Media",
+      "lat": 39.91804,
+      "lng": -75.388534,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-16",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/shtty-art-buddies-grown-up-craft-club-byob-media-pa-tickets-2004392396615",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gQwoX5uEj02hJM3nDKkRQg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Nov 11 - Nov 16",
+      "nextDate": "2026-11-11",
+      "dates": [
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-14",
+        "2026-11-15",
+        "2026-11-16"
+      ],
+      "occurrences": 6
+    },
+    {
       "id": "ev-newtown-square-soccer-ms-c-boys-v-haverford-b89622",
       "name": "Soccer - MS C Boys v Haverford",
       "category": "events",
@@ -766,6 +431,44 @@
       "website": "https://www.facebook.com/events/1491630195984235/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/607f2af6-c086-49dc-82f3-0baba78bda84.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Nov 11",
+      "nextDate": "2026-11-11",
+      "dates": [
+        "2026-11-11"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-water-polo-ms-v-haverford-50feb9",
+      "name": "Water Polo - MS v Haverford",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Water Polo - MS v Haverford at Burke Natatorium in Newtown Square.",
+      "address": "Burke Natatorium, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-11",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f9de544e-a936-4ae7-96c0-fc7f0d2460e7.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -3748,6 +3451,173 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-mother-goose-on-the-loose-ages-birth-24-mo-94f84e",
+      "name": "Mother Goose on the Loose (Ages Birth - 24 months)",
+      "category": "events",
+      "subcategories": [
+        "kids",
+        "literary-arts",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Winsor Room - Registration required Birth - Age 24 months Stories, songs, and movement activities to help your young child build early literacy skills in a safe, social...",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-11-17",
+      "endDate": "2026-12-15",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17721473",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e04e48cf-45db-4883-b6ec-7300514cd7c0.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Nov 17 - Dec 15",
+      "nextDate": "2026-11-17",
+      "dates": [
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-08",
+        "2026-12-15"
+      ],
+      "occurrences": 4
+    },
+    {
+      "id": "ev-chester-oldies-in-the-park-a0e86f",
+      "name": "Oldies in the Park",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "destinations",
+        "music",
+        "outdoor-concert"
+      ],
+      "shortDescription": "Oldies in the Park at Ethel Waters Park in Chester.",
+      "address": "Ethel Waters Park, Chester, PA",
+      "town": "Chester",
+      "lat": 39.846465,
+      "lng": -75.358842,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-11-17",
+      "endDate": "2027-05-04",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.chestercity.com/event/oldies-in-the-park-2/2026-11-17/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/o6XxL0PM3kaE6hDXOaFfuw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Nov 17 - May 4",
+      "nextDate": "2026-11-17",
+      "dates": [
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05",
+        "2027-01-12",
+        "2027-01-19",
+        "2027-01-26",
+        "2027-02-02",
+        "2027-02-09",
+        "2027-02-16",
+        "2027-02-23",
+        "2027-03-02",
+        "2027-03-09",
+        "2027-03-16",
+        "2027-03-23",
+        "2027-03-30",
+        "2027-04-06",
+        "2027-04-13",
+        "2027-04-20",
+        "2027-04-27",
+        "2027-05-04"
+      ],
+      "occurrences": 25
+    },
+    {
+      "id": "ev-holmes-tuesday-karaoke-at-haggertys-in-holmes-pa-3b255e",
+      "name": "Tuesday Karaoke at Haggertys in Holmes, PA (Delaware County",
+      "category": "events",
+      "subcategories": [
+        "open-mic",
+        "performing-arts"
+      ],
+      "shortDescription": "Karaoke is Every Tuesday at Haggertys in Homes, PA (Delaware County, PA) Karaoke starts at 8pm.",
+      "address": "Haggerty's Cafe, Holmes, PA",
+      "town": "Holmes",
+      "lat": 39.899696,
+      "lng": -75.305652,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-17",
+      "endDate": "2027-03-30",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/tuesday-karaoke-at-haggertys-in-holmes-pa-delaware-county-pa-tickets-1225315845679",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/g_89wQtSp0Sz9smp4PcgxA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Nov 17 - Mar 30",
+      "nextDate": "2026-11-17",
+      "dates": [
+        "2026-11-17",
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05",
+        "2027-01-12",
+        "2027-01-19",
+        "2027-01-26",
+        "2027-02-02",
+        "2027-02-09",
+        "2027-02-16",
+        "2027-02-23",
+        "2027-03-02",
+        "2027-03-09",
+        "2027-03-16",
+        "2027-03-23",
+        "2027-03-30"
+      ],
+      "occurrences": 20
+    },
+    {
       "id": "ev-newtown-square-nyc-alumni-social-90d2ed",
       "name": "NYC Alumni Social",
       "category": "events",
@@ -5919,6 +5789,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chester-new-england-revolution-at-philadelphia-u-39d85f",
+      "name": "New England Revolution at Philadelphia Union: Eastern Conference Round One (Home Game 1)",
+      "category": "events",
+      "subcategories": [
+        "games",
+        "learning",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "New England Revolution at Philadelphia Union: Eastern Conference Round One (Home Game 1) at Subaru Park in Chester.",
+      "address": "Subaru Park, Chester, PA",
+      "town": "Chester",
+      "lat": 39.832686,
+      "lng": -75.378395,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-28",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-859-3100",
+      "website": "",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OWjG7SacvE6RIbI5tnNHCA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 28",
+      "nextDate": "2026-11-28",
+      "dates": [
+        "2026-11-28"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-us-squash-silver-tournament-cca163",
       "name": "US Squash Silver Tournament",
       "category": "events",
@@ -6731,6 +6641,48 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-2nd-annual-light-up-wayne-hanukkah-festiva-239bc8",
+      "name": "2nd Annual Light Up Wayne Hanukkah Festival & Menorah Lighting",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "family",
+        "festival",
+        "holiday"
+      ],
+      "shortDescription": "Join Radnor Parks & Recreation, Temple Brith Achim, and the Jewish Federation of Philadelphia for Wayne's 2nd Annual Light Up Wayne Hanukkah Festival bringing joy,...",
+      "address": "Downtown Wayne, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.045536,
+      "lng": -75.387781,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-12-05",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.radnor.com/lightupwayne",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eOyY_fBZ20CBZrZfI5satg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Dec 5",
+      "nextDate": "2026-12-05",
+      "dates": [
+        "2026-12-05"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-family-day-of-clay-elf-planter-d87910",
       "name": "Family Day of Clay: Elf Planter",
       "category": "events",
@@ -7498,6 +7450,45 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3d82c222-03a8-48e4-87db-e770e1d25d14.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Dec 8",
+      "nextDate": "2026-12-08",
+      "dates": [
+        "2026-12-08"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-radlit-book-club-4f7dca",
+      "name": "Radlit Book Club",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "literary-arts"
+      ],
+      "shortDescription": "Join us for a discussion of Holidays On Ice, by David Sedaris. All are welcome. No registration necessary. Led by local librarian Jessica Richter.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-08",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17212597",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/81b8ac86-9575-4bf0-a8e3-7382ef984a0f.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -11974,6 +11965,50 @@
       "occurrences": 1
     },
     {
+      "id": "ev-newtown-square-college-counseling-class-dccb7e",
+      "name": "College Counseling Class",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning"
+      ],
+      "shortDescription": "College Counseling Class at Sherrerd Board Room in Newtown Square.",
+      "address": "Sherrerd Board Room, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-15",
+      "endDate": "2027-04-20",
+      "recurring": "seasonal",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2d2553c3-a062-48b2-80e0-6d208fed9f7a.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Select dates, Jan 15 - Apr 20",
+      "nextDate": "2027-01-15",
+      "dates": [
+        "2027-01-15",
+        "2027-01-28",
+        "2027-02-09",
+        "2027-02-23",
+        "2027-03-08",
+        "2027-04-02",
+        "2027-04-20"
+      ],
+      "occurrences": 7
+    },
+    {
       "id": "ev-newtown-square-eapa-winterfest-cfda42",
       "name": "EAPA Winterfest",
       "category": "events",
@@ -15936,6 +15971,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chester-philadelphia-union-vs-chicago-fire-fc-f7474f",
+      "name": "Philadelphia Union vs. Chicago Fire FC",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Philadelphia Union vs. Chicago Fire FC at Subaru Park in Chester.",
+      "address": "Subaru Park, Chester, PA",
+      "town": "Chester",
+      "lat": 39.832686,
+      "lng": -75.378395,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-02-20",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-859-3100",
+      "website": "",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OWjG7SacvE6RIbI5tnNHCA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Feb 20",
+      "nextDate": "2027-02-20",
+      "dates": [
+        "2027-02-20"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-senior-winter-dance-9e0f7e",
       "name": "Senior Winter Dance",
       "category": "events",
@@ -16753,6 +16826,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chester-philadelphia-union-vs-new-england-revolu-e6f658",
+      "name": "Philadelphia Union vs. New England Revolution",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Philadelphia Union vs. New England Revolution at Subaru Park in Chester.",
+      "address": "Subaru Park, Chester, PA",
+      "town": "Chester",
+      "lat": 39.832686,
+      "lng": -75.378395,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-13",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-859-3100",
+      "website": "",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OWjG7SacvE6RIbI5tnNHCA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Mar 13",
+      "nextDate": "2027-03-13",
+      "dates": [
+        "2027-03-13"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-bryn-mawr-filament-songs-from-new-and-old-sweede-ceaa7f",
       "name": "Filament: Songs from new (and old) sweeden",
       "category": "events",
@@ -16858,6 +16969,44 @@
       "nextDate": "2027-03-16",
       "dates": [
         "2027-03-16"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-philadelphia-union-vs-cf-montreal-cb6767",
+      "name": "Philadelphia Union vs. CF Montreal",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Philadelphia Union vs. CF Montreal at Subaru Park in Chester.",
+      "address": "Subaru Park, Chester, PA",
+      "town": "Chester",
+      "lat": 39.832686,
+      "lng": -75.378395,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-17",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-859-3100",
+      "website": "",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OWjG7SacvE6RIbI5tnNHCA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Mar 17",
+      "nextDate": "2027-03-17",
+      "dates": [
+        "2027-03-17"
       ],
       "occurrences": 1
     },
@@ -17011,6 +17160,44 @@
       ]
     },
     {
+      "id": "ev-chester-philadelphia-union-vs-charlotte-fc-ba9eb4",
+      "name": "Philadelphia Union vs. Charlotte FC",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Philadelphia Union vs. Charlotte FC at Subaru Park in Chester.",
+      "address": "Subaru Park, Chester, PA",
+      "town": "Chester",
+      "lat": 39.832686,
+      "lng": -75.378395,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-27",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-859-3100",
+      "website": "",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OWjG7SacvE6RIbI5tnNHCA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Mar 27",
+      "nextDate": "2027-03-27",
+      "dates": [
+        "2027-03-27"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-holmes-bowling-party-fundraiser-dd2c57",
       "name": "Bowling Party Fundraiser",
       "category": "events",
@@ -17038,6 +17225,44 @@
       "website": "https://www.eventbrite.com/e/bowling-party-fundraiser-tickets-2003713244252",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/xHgbf-Q3i0S3CI7MpIJbRA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Apr 3",
+      "nextDate": "2027-04-03",
+      "dates": [
+        "2027-04-03"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-philadelphia-union-vs-fc-cincinnati-283fbb",
+      "name": "Philadelphia Union vs. FC Cincinnati",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Philadelphia Union vs. FC Cincinnati at Subaru Park in Chester.",
+      "address": "Subaru Park, Chester, PA",
+      "town": "Chester",
+      "lat": 39.832686,
+      "lng": -75.378395,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-04-03",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-859-3100",
+      "website": "",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OWjG7SacvE6RIbI5tnNHCA.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -17509,6 +17734,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chester-philadelphia-union-vs-new-york-red-bulls-ee0228",
+      "name": "Philadelphia Union vs. New York Red Bulls",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Philadelphia Union vs. New York Red Bulls at Subaru Park in Chester.",
+      "address": "Subaru Park, Chester, PA",
+      "town": "Chester",
+      "lat": 39.832686,
+      "lng": -75.378395,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-04-21",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-859-3100",
+      "website": "",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OWjG7SacvE6RIbI5tnNHCA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Apr 21",
+      "nextDate": "2027-04-21",
+      "dates": [
+        "2027-04-21"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-artsfest-dbb0bb",
       "name": "ArtsFest",
       "category": "events",
@@ -17895,6 +18158,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chester-philadelphia-union-vs-nashville-sc-70b1a3",
+      "name": "Philadelphia Union vs. Nashville SC",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Philadelphia Union vs. Nashville SC at Subaru Park in Chester.",
+      "address": "Subaru Park, Chester, PA",
+      "town": "Chester",
+      "lat": 39.832686,
+      "lng": -75.378395,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-05-01",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-859-3100",
+      "website": "",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/OWjG7SacvE6RIbI5tnNHCA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, May 1",
+      "nextDate": "2027-05-01",
+      "dates": [
+        "2027-05-01"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-media-zendog-6c402e",
       "name": "Zendog",
       "category": "events",
@@ -18142,7 +18443,7 @@
       ],
       "hours": {},
       "startDate": "2027-05-07",
-      "endDate": "2027-05-08",
+      "endDate": "2027-05-09",
       "recurring": "none",
       "venueId": "",
       "phone": "",
@@ -18153,13 +18454,14 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, May 7 - May 8",
+      "schedule": "Daily, May 7 - May 9",
       "nextDate": "2027-05-07",
       "dates": [
         "2027-05-07",
-        "2027-05-08"
+        "2027-05-08",
+        "2027-05-09"
       ],
-      "occurrences": 2
+      "occurrences": 3
     },
     {
       "id": "swarthmore-rotary-fun-fair",
