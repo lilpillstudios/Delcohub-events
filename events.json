@@ -1,525 +1,9 @@
 {
   "version": 1,
-  "scraped_at": "2026-11-11T17:16:08.219986+00:00",
+  "scraped_at": "2026-11-12T17:39:29.131499+00:00",
   "horizon_days": 180,
-  "event_count": 494,
+  "event_count": 486,
   "listings": [
-    {
-      "id": "ev-media-2026-veterans-day-parade-43a75d",
-      "name": "2026 Veterans Day Parade",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "destinations",
-        "festival",
-        "holiday"
-      ],
-      "shortDescription": "2026 Veterans Day Parade at a Delco venue in Media.",
-      "address": "Media, PA",
-      "town": "Media",
-      "lat": 39.91678,
-      "lng": -75.38769,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-11-11",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.mediaborough.com/calendar.aspx?EID=3027",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0d41ea62-cff1-47c7-a179-f453da5b4b25.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 11",
-      "nextDate": "2026-11-11",
-      "dates": [
-        "2026-11-11"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-3d-printing-group-give-a-hand-e72f7a",
-      "name": "3D Printing Group: Give A Hand",
-      "category": "events",
-      "subcategories": [
-        "crafts"
-      ],
-      "shortDescription": "Discover how a 3D printer can turn a digital design into a working prosthetic hand!",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-11",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17904444",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/42b62790-2cbb-4a93-9ee4-7ee8d223d4a1.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 11",
-      "nextDate": "2026-11-11",
-      "dates": [
-        "2026-11-11"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-chess-club-634d75",
-      "name": "Chess Club",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "games",
-        "health-wellness",
-        "learning"
-      ],
-      "shortDescription": "Delaware Valley Chess Club meets at RML, weekly on Wednesdays.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-11",
-      "endDate": "2026-11-18",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17290528",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eea63be5-c4d3-46d5-9632-af64e5f10861.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wednesdays, Nov 11 - Nov 18",
-      "nextDate": "2026-11-11",
-      "dates": [
-        "2026-11-11",
-        "2026-11-18"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "media-dining-under-the-stars",
-      "name": "Dining Under the Stars",
-      "category": "events",
-      "subcategories": [
-        "food-festival",
-        "street-dining"
-      ],
-      "shortDescription": "Media's signature warm-weather event closing State Street so restaurants serve al fresco dinners under string lights.",
-      "address": "State St, Media, PA 19063",
-      "town": "Media",
-      "lat": 39.9166,
-      "lng": -75.388,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "date",
-        "group",
-        "family"
-      ],
-      "hours": {},
-      "startDate": "",
-      "endDate": "",
-      "recurring": "weekly",
-      "venueId": "media-state-street-district",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "schedule": "Wednesdays, June-August",
-      "nextDate": "2026-11-11",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-11-11"
-      ]
-    },
-    {
-      "id": "ev-lansdowne-emanuel-casablanca-1ebef4",
-      "name": "Emanuel Casablanca",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Emanuel Casablanca is an American guitarist and singer-songwriter from Brooklyn, New York.",
-      "address": "Jamey's House of Music, Lansdowne, PA",
-      "town": "Lansdowne",
-      "lat": 39.937344,
-      "lng": -75.274493,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-11",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/108812743?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/n_ecu4Qb1kOUE9QohD16QQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 11",
-      "nextDate": "2026-11-11",
-      "dates": [
-        "2026-11-11"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-gentle-yoga-and-meditation-135d96",
-      "name": "Gentle Yoga and Meditation",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "faith",
-        "fitness",
-        "learning"
-      ],
-      "shortDescription": "Gentle Yoga and Meditation Wednesday, 9/9, 10/14 (Peter Rabbit Room), 11/11, 12/9 10:00am-10:45am Winsor Room/Peter Rabbit Room Join us for an \"all levels\" Gentle Yoga...",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-11",
-      "endDate": "2026-12-09",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17584988",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0b91792c-5f13-4694-b58b-08c21817088c.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wednesdays, Nov 11 - Dec 9",
-      "nextDate": "2026-11-11",
-      "dates": [
-        "2026-11-11",
-        "2026-12-09"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-drexel-hill-r-b-bingo-celebrating-one-year-casey-c5ffd9",
-      "name": "R&B Bingo: Celebrating ONE Year! | Casey's",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "games",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "We're celebrating ONE YEAR of R&B Bingo! Join us at Casey's for a night of your favorite R&B hits, prizes, and unforgettable vibes.",
-      "address": "Casey's Drexel Hill, Drexel Hill, PA",
-      "town": "Drexel Hill",
-      "lat": 39.959937,
-      "lng": -75.288952,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-11",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/rb-bingo-celebrating-one-year-caseys-tickets-2004097899767",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/JwLsryaFT0edBjjy9d5WJg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 11",
-      "nextDate": "2026-11-11",
-      "dates": [
-        "2026-11-11"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-radnor-restaurant-week-at-merrick-s-tavern-5229ad",
-      "name": "Restaurant Week at Merrick's Tavern",
-      "category": "events",
-      "subcategories": [
-        "beer",
-        "drinks",
-        "food-drink"
-      ],
-      "shortDescription": "Celebrate Main Line Today Restaurant Week at the new Merrick’s Tavern in Radnor, PA Available starting November 1 through November 14, enjoy a 3 course, prix-fixe dinner...",
-      "address": "Merrick's Tavern, Radnor, PA",
-      "town": "Radnor",
-      "lat": 40.041394,
-      "lng": -75.354926,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-11",
-      "endDate": "2026-11-14",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.merrickstavern.com/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/UpMe_Yy2ZkGYOT3S5OPRrw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Nov 11 - Nov 14",
-      "nextDate": "2026-11-11",
-      "dates": [
-        "2026-11-11",
-        "2026-11-12",
-        "2026-11-13",
-        "2026-11-14"
-      ],
-      "occurrences": 4
-    },
-    {
-      "id": "ev-media-sh-tty-art-buddies-grown-up-craft-club-byo-22c542",
-      "name": "Shtty Art Buddies: Grown-Up Craft Club (BYOB) · Media, PA",
-      "category": "events",
-      "subcategories": [
-        "crafts",
-        "visual-arts"
-      ],
-      "shortDescription": "Put the phone down and make something gloriously wonky. BYOB craft night for adults. No skills needed, all supplies included.",
-      "address": "Nimble Craft LLC, Media, PA",
-      "town": "Media",
-      "lat": 39.91804,
-      "lng": -75.388534,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-11",
-      "endDate": "2026-11-16",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/shtty-art-buddies-grown-up-craft-club-byob-media-pa-tickets-2004392396615",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gQwoX5uEj02hJM3nDKkRQg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Nov 11 - Nov 16",
-      "nextDate": "2026-11-11",
-      "dates": [
-        "2026-11-11",
-        "2026-11-12",
-        "2026-11-13",
-        "2026-11-14",
-        "2026-11-15",
-        "2026-11-16"
-      ],
-      "occurrences": 6
-    },
-    {
-      "id": "ev-newtown-square-soccer-ms-c-boys-v-haverford-b89622",
-      "name": "Soccer - MS C Boys v Haverford",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - MS C Boys v Haverford",
-      "address": "Reape Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-11",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4bb46c0c-ec2a-4799-b30b-fd9cf072ae19.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 11",
-      "nextDate": "2026-11-11",
-      "dates": [
-        "2026-11-11"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-wxpn-welcomes-michaela-anne-at-118-north-7ddb85",
-      "name": "WXPN Welcomes: Michaela Anne at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "WXPN Welcomes: Michaela Anne at 118 North Wednesday, November 11, 2026 Doors: 5:30 PM | Show: 7:30 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-11",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1491630195984235/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/607f2af6-c086-49dc-82f3-0baba78bda84.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 11",
-      "nextDate": "2026-11-11",
-      "dates": [
-        "2026-11-11"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-water-polo-ms-v-haverford-50feb9",
-      "name": "Water Polo - MS v Haverford",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Water Polo - MS v Haverford at Burke Natatorium in Newtown Square.",
-      "address": "Burke Natatorium, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-11",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f9de544e-a936-4ae7-96c0-fc7f0d2460e7.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 11",
-      "nextDate": "2026-11-11",
-      "dates": [
-        "2026-11-11"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-widener-pride-women-s-basketball-vs-imma-43ebab",
-      "name": "Widener Pride: Women's Basketball vs Immaculata",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Women's Basketball vs Immaculata Streaming Video: https://gomacsports.tv/widenerpride/",
-      "address": "Schwartz Center, Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-11",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14616&amp;sport_id=8",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d79fec9e-625d-494a-8623-ed009ee58656.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 11",
-      "nextDate": "2026-11-11",
-      "dates": [
-        "2026-11-11"
-      ],
-      "occurrences": 1
-    },
     {
       "id": "ev-media-game-night-cf0a5d",
       "name": "Game Night",
@@ -757,6 +241,87 @@
         "2026-11-12"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-radnor-restaurant-week-at-merrick-s-tavern-5229ad",
+      "name": "Restaurant Week at Merrick's Tavern",
+      "category": "events",
+      "subcategories": [
+        "beer",
+        "drinks",
+        "food-drink"
+      ],
+      "shortDescription": "Celebrate Main Line Today Restaurant Week at the new Merrick’s Tavern in Radnor, PA Available starting November 1 through November 14, enjoy a 3 course, prix-fixe dinner...",
+      "address": "Merrick's Tavern, Radnor, PA",
+      "town": "Radnor",
+      "lat": 40.041394,
+      "lng": -75.354926,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-14",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.merrickstavern.com/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/UpMe_Yy2ZkGYOT3S5OPRrw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Nov 12 - Nov 14",
+      "nextDate": "2026-11-12",
+      "dates": [
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-14"
+      ],
+      "occurrences": 3
+    },
+    {
+      "id": "ev-media-sh-tty-art-buddies-grown-up-craft-club-byo-22c542",
+      "name": "Shtty Art Buddies: Grown-Up Craft Club (BYOB) · Media, PA",
+      "category": "events",
+      "subcategories": [
+        "crafts",
+        "visual-arts"
+      ],
+      "shortDescription": "Put the phone down and make something gloriously wonky. BYOB craft night for adults. No skills needed, all supplies included.",
+      "address": "Nimble Craft LLC, Media, PA",
+      "town": "Media",
+      "lat": 39.91804,
+      "lng": -75.388534,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-16",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/shtty-art-buddies-grown-up-craft-club-byob-media-pa-tickets-2004392396615",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gQwoX5uEj02hJM3nDKkRQg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Nov 12 - Nov 16",
+      "nextDate": "2026-11-12",
+      "dates": [
+        "2026-11-12",
+        "2026-11-13",
+        "2026-11-14",
+        "2026-11-15",
+        "2026-11-16"
+      ],
+      "occurrences": 5
     },
     {
       "id": "ev-newtown-square-soccer-boys-ms-a-haverford-136753",
@@ -3169,7 +2734,7 @@
       ],
       "hours": {},
       "startDate": "2026-11-16",
-      "endDate": "2027-05-03",
+      "endDate": "2027-05-10",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -3180,7 +2745,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Mondays, Nov 16 - May 3",
+      "schedule": "Mondays, Nov 16 - May 10",
       "nextDate": "2026-11-16",
       "dates": [
         "2026-11-16",
@@ -3202,9 +2767,10 @@
         "2027-04-12",
         "2027-04-19",
         "2027-04-26",
-        "2027-05-03"
+        "2027-05-03",
+        "2027-05-10"
       ],
-      "occurrences": 20
+      "occurrences": 21
     },
     {
       "id": "ev-bryn-mawr-monday-mahjong-beginner-lessons-5e1a9b",
@@ -3616,6 +3182,86 @@
         "2027-03-30"
       ],
       "occurrences": 20
+    },
+    {
+      "id": "ev-wayne-chess-club-634d75",
+      "name": "Chess Club",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "games",
+        "health-wellness",
+        "learning"
+      ],
+      "shortDescription": "Delaware Valley Chess Club meets at RML, weekly on Wednesdays.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-18",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17290552",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eea63be5-c4d3-46d5-9632-af64e5f10861.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Nov 18",
+      "nextDate": "2026-11-18",
+      "dates": [
+        "2026-11-18"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "media-dining-under-the-stars",
+      "name": "Dining Under the Stars",
+      "category": "events",
+      "subcategories": [
+        "food-festival",
+        "street-dining"
+      ],
+      "shortDescription": "Media's signature warm-weather event closing State Street so restaurants serve al fresco dinners under string lights.",
+      "address": "State St, Media, PA 19063",
+      "town": "Media",
+      "lat": 39.9166,
+      "lng": -75.388,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "date",
+        "group",
+        "family"
+      ],
+      "hours": {},
+      "startDate": "",
+      "endDate": "",
+      "recurring": "weekly",
+      "venueId": "media-state-street-district",
+      "phone": "",
+      "website": "",
+      "images": [],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "schedule": "Wednesdays, June-August",
+      "nextDate": "2026-11-18",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-11-18"
+      ]
     },
     {
       "id": "ev-newtown-square-nyc-alumni-social-90d2ed",
@@ -7573,6 +7219,46 @@
       "nextDate": "2026-12-08",
       "dates": [
         "2026-12-08"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-gentle-yoga-and-meditation-135d96",
+      "name": "Gentle Yoga and Meditation",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "faith",
+        "fitness",
+        "learning"
+      ],
+      "shortDescription": "Gentle Yoga and Meditation Wednesday, 9/9, 10/14 (Peter Rabbit Room), 11/11, 12/9 10:00am-10:45am Winsor Room/Peter Rabbit Room Join us for an \"all levels\" Gentle Yoga...",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-09",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17585002",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0b91792c-5f13-4694-b58b-08c21817088c.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Dec 9",
+      "nextDate": "2026-12-09",
+      "dates": [
+        "2026-12-09"
       ],
       "occurrences": 1
     },
