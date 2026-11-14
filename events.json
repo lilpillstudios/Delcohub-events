@@ -1,861 +1,9 @@
 {
   "version": 1,
-  "scraped_at": "2026-11-13T17:17:06.633984+00:00",
+  "scraped_at": "2026-11-14T15:55:24.186629+00:00",
   "horizon_days": 180,
-  "event_count": 501,
+  "event_count": 495,
   "listings": [
-    {
-      "id": "ev-bryn-mawr-ais-ea-day-c3034f",
-      "name": "AIS/EA DAY",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "AIS/EA DAY at The Agnes Irwin School in Bryn Mawr.",
-      "address": "The Agnes Irwin School, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.028689,
-      "lng": -75.350103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-13",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-801-1869",
-      "website": "https://www.agnesirwin.org/quick-links/calendar",
-      "images": [],
-      "imageUrl": "",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 13",
-      "nextDate": "2026-11-13",
-      "dates": [
-        "2026-11-13"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-after-hours-rml-retro-bingo-hide-n-seek-0568ff",
-      "name": "After Hours @RML: Retro Bingo & Hide N Seek",
-      "category": "events",
-      "subcategories": [
-        "games",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Play bingo with cool retro cards! Win prizes!",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-13",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17855057",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/598eb1af-eb78-41c6-a5c5-7f3e681aca64.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 13",
-      "nextDate": "2026-11-13",
-      "dates": [
-        "2026-11-13"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-all-school-pep-rally-7e01a1",
-      "name": "All-School Pep Rally",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "All-School Pep Rally at O'Neill Gym in Newtown Square.",
-      "address": "O'Neill Gym, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-13",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/6cab5fdd-d012-42f3-a90c-d33c6f941452.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 13",
-      "nextDate": "2026-11-13",
-      "dates": [
-        "2026-11-13"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-cross-country-girls-v-agnes-irwin-04d890",
-      "name": "Cross Country - Girls v Agnes Irwin",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Cross Country - Girls v Agnes Irwin",
-      "address": "Celentano Cross Country Course, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-13",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2515a632-7c00-42f3-8b27-d68699bb216f.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 13",
-      "nextDate": "2026-11-13",
-      "dates": [
-        "2026-11-13"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-fall-tree-tenders-planting-f5ca20",
-      "name": "Fall Tree Tenders Planting",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Fall Tree Tenders Planting at Throughout the Borough in Media.",
-      "address": "Throughout the Borough, Media, PA",
-      "town": "Media",
-      "lat": 39.91678,
-      "lng": -75.38769,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-13",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.mediaborough.com/calendar.aspx?EID=2997",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3c32bc17-e001-4e70-92ea-2283d0a02d56.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 13",
-      "nextDate": "2026-11-13",
-      "dates": [
-        "2026-11-13"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-field-hockey-varsity-v-agnes-irwi-859e5d",
-      "name": "Field Hockey - Varsity v Agnes Irwin",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Field Hockey - Varsity v Agnes Irwin",
-      "address": "Buggy Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-13",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b04bdf65-d71d-4a5a-a43a-cf4f24a1e822.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 13",
-      "nextDate": "2026-11-13",
-      "dates": [
-        "2026-11-13"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-friday-film-disclosure-day-2026-5b1a0b",
-      "name": "Friday Film: DISCLOSURE DAY (2026)",
-      "category": "events",
-      "subcategories": [
-        "film",
-        "visual-arts"
-      ],
-      "shortDescription": "Friday Films Fridays, 11/13, 12/11 2:00pm Winsor Room Film: Disclosure Day (PG-13) This film is a 2026 science fiction thriller directed by Steven Spielberg that follows...",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-13",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17985966",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5725eee0-289b-4b49-9df3-ab117422ea85.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 13",
-      "nextDate": "2026-11-13",
-      "dates": [
-        "2026-11-13"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-girls-xc-team-dinner-1f6943",
-      "name": "Girls XC Team Dinner",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Girls XC Team Dinner at Tierney Dining Hall - Ott Alcove in Newtown Square.",
-      "address": "Tierney Dining Hall - Ott Alcove, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-13",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/66603d85-f59d-47a2-915c-c86253d139e3.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 13",
-      "nextDate": "2026-11-13",
-      "dates": [
-        "2026-11-13"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-golf-varsity-boys-v-haverford-c344a8",
-      "name": "Golf - Varsity Boys v Haverford",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Golf - Varsity Boys v Haverford",
-      "address": "Gulph Mills Golf Club, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-13",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0c20b087-5f3f-4d97-8041-f6db12f9e8c8.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 13",
-      "nextDate": "2026-11-13",
-      "dates": [
-        "2026-11-13"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-lancaster-county-farmers-market-1b0e48",
-      "name": "Lancaster County Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "farmers-market",
-        "markets"
-      ],
-      "shortDescription": "389 W. Lancaster Ave., Wayne. Wed., Fri., Sat., 6 to 4. 610-688-9856. LancasterCountyFarmersMarket.com.",
-      "address": "Lancaster County Farmers Market, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044908,
-      "lng": -75.400304,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-13",
-      "endDate": "2026-11-14",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://countylinesmagazine.com/event/lancaster-county-farmers-market-2-2025-06-18/2026-11-13/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b52e9d77-dd16-4ac8-9e9e-8ba8856cef3c.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Nov 13 - Nov 14",
-      "nextDate": "2026-11-13",
-      "dates": [
-        "2026-11-13",
-        "2026-11-14"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-wayne-reading-rocks-a-music-dance-and-comedy-sho-7179e6",
-      "name": "Reading Rocks!: A Music, Dance, and Comedy Show with Mr. Matt from Turtle Dance Music",
-      "category": "events",
-      "subcategories": [
-        "comedy",
-        "dance",
-        "health-wellness",
-        "kids"
-      ],
-      "shortDescription": "Winsor Room - No registration required - All Ages The Reading Rocks!",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-11-13",
-      "endDate": "2026-12-11",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/16033935",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dfbc8e82-cbbc-45df-b109-75d61c56c4ed.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fridays, Nov 13 - Dec 11",
-      "nextDate": "2026-11-13",
-      "dates": [
-        "2026-11-13",
-        "2026-12-11"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-radnor-restaurant-week-at-merrick-s-tavern-5229ad",
-      "name": "Restaurant Week at Merrick's Tavern",
-      "category": "events",
-      "subcategories": [
-        "beer",
-        "drinks",
-        "food-drink"
-      ],
-      "shortDescription": "Celebrate Main Line Today Restaurant Week at the new Merrick’s Tavern in Radnor, PA Available starting November 1 through November 14, enjoy a 3 course, prix-fixe dinner...",
-      "address": "Merrick's Tavern, Radnor, PA",
-      "town": "Radnor",
-      "lat": 40.041394,
-      "lng": -75.354926,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-13",
-      "endDate": "2026-11-14",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.merrickstavern.com/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/UpMe_Yy2ZkGYOT3S5OPRrw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Nov 13 - Nov 14",
-      "nextDate": "2026-11-13",
-      "dates": [
-        "2026-11-13",
-        "2026-11-14"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-wayne-rigometrics-at-118-north-b01b10",
-      "name": "Rigometrics at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Rigometrics at 118 North with Freelance Sweatpants Friday, November 13, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-13",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/28148788728078810/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/de8a8d2e-0aee-4a6e-b082-3194ae1b1c25.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 13",
-      "nextDate": "2026-11-13",
-      "dates": [
-        "2026-11-13"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-lansdowne-rocky-in-concert-cc24cb",
-      "name": "Rocky in Concert",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "ROCKY™ in Concert Friday, November 13, 2026 7:30pm / Doors at 6:30pm Lansdowne Theater 31 N.",
-      "address": "Lansdowne Theater, Lansdowne, PA",
-      "town": "Lansdowne",
-      "lat": 39.939409,
-      "lng": -75.272179,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-13",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://brepresents.com/event/rocky-in-concert/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/HTbv1JZ5skSxXDF6hDAqXA.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 13",
-      "nextDate": "2026-11-13",
-      "dates": [
-        "2026-11-13"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-sh-tty-art-buddies-grown-up-craft-club-byo-22c542",
-      "name": "Shtty Art Buddies: Grown-Up Craft Club (BYOB) · Media, PA",
-      "category": "events",
-      "subcategories": [
-        "crafts",
-        "visual-arts"
-      ],
-      "shortDescription": "Put the phone down and make something gloriously wonky. BYOB craft night for adults. No skills needed, all supplies included.",
-      "address": "Nimble Craft LLC, Media, PA",
-      "town": "Media",
-      "lat": 39.91804,
-      "lng": -75.388534,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-13",
-      "endDate": "2026-11-16",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/shtty-art-buddies-grown-up-craft-club-byob-media-pa-tickets-2004392396615",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gQwoX5uEj02hJM3nDKkRQg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Nov 13 - Nov 16",
-      "nextDate": "2026-11-13",
-      "dates": [
-        "2026-11-13",
-        "2026-11-14",
-        "2026-11-15",
-        "2026-11-16"
-      ],
-      "occurrences": 4
-    },
-    {
-      "id": "ev-newtown-square-soccer-varsity-girls-v-agnes-irwi-498b6a",
-      "name": "Soccer - Varsity Girls v Agnes Irwin",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - Varsity Girls v Agnes Irwin",
-      "address": "Class of '76 Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-13",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b4f13205-36d4-456b-a2cd-4c796b529819.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 13",
-      "nextDate": "2026-11-13",
-      "dates": [
-        "2026-11-13"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-tennis-varsity-girls-v-agnes-irwi-a577f5",
-      "name": "Tennis - Varsity Girls v Agnes Irwin",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Tennis - Varsity Girls v Agnes Irwin",
-      "address": "Tennis Courts, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-13",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/70d24c21-85cc-4d12-ae22-b05d7ac3c967.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 13",
-      "nextDate": "2026-11-13",
-      "dates": [
-        "2026-11-13"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-swarthmore-tom-hampton-a0d589",
-      "name": "Tom Hampton",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Tom Hampton's years as a journeyman multi-instrumentalist and sideman are bookended by his origins as a singer and songwriter - he released his critically acclaimed...",
-      "address": "WaR3House 3, Swarthmore, PA",
-      "town": "Swarthmore",
-      "lat": 39.901337,
-      "lng": -75.349723,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-13",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/108845653?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/kgsxFF4d2EeOYVBxTS9bEg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 13",
-      "nextDate": "2026-11-13",
-      "dates": [
-        "2026-11-13"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-volleyball-varsity-v-agnes-irwin-20f725",
-      "name": "Volleyball - Varsity v Agnes Irwin",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Volleyball - Varsity v Agnes Irwin",
-      "address": "O'Neill Gym, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-13",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dee4e760-757d-432f-bfdd-cc2dc29297b9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 13",
-      "nextDate": "2026-11-13",
-      "dates": [
-        "2026-11-13"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-widener-pride-men-s-basketball-vs-haverf-1bb55c",
-      "name": "Widener Pride: Men's Basketball vs Haverford",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Men's Basketball vs Haverford Streaming Video: https://gomacsports.tv/widenerpride/",
-      "address": "Schwartz Center, Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-13",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14652&amp;sport_id=3",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/71fb6e77-be06-4af3-87c9-8c3c6563f966.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 13",
-      "nextDate": "2026-11-13",
-      "dates": [
-        "2026-11-13"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-widener-pride-men-s-basketball-vs-rpi-vs-7913af",
-      "name": "Widener Pride: Men's Basketball vs RPI vs Rutgers-Newark - Hosted by Widener University",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Men's Basketball vs RPI vs Rutgers-Newark - Hosted by Widener University Streaming Video: https://gomacsports.tv/widenerpride/",
-      "address": "Schwartz Center, Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-13",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14675&amp;sport_id=3",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eea3008d-a0ef-4003-9897-ba4228e0a5e2.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 13",
-      "nextDate": "2026-11-13",
-      "dates": [
-        "2026-11-13"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-youth-one-time-classes-90569b",
-      "name": "Youth One-Time Classes",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "special-audience",
-        "visual-arts"
-      ],
-      "shortDescription": "$80 Per Person / Ages 9 and up Friday, Oct 2, 2026 / 5:30 PM - 7:00 PM (EDT) Join our one time class to learn the basics of wheel throwing!",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "family",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-13",
-      "endDate": "2026-11-27",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/160853/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pbI4ypXkz062b8lEfv8Ztg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fridays, Nov 13 - Nov 27",
-      "nextDate": "2026-11-13",
-      "dates": [
-        "2026-11-13",
-        "2026-11-20",
-        "2026-11-27"
-      ],
-      "occurrences": 3
-    },
     {
       "id": "ev-swarthmore-thanks-giving-children-s-benefit-conc-5b05b2",
       "name": "\"Thanks & Giving\" Children's Benefit Concert",
@@ -1441,6 +589,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-lancaster-county-farmers-market-1b0e48",
+      "name": "Lancaster County Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "farmers-market",
+        "markets"
+      ],
+      "shortDescription": "389 W. Lancaster Ave., Wayne. Wed., Fri., Sat., 6 to 4. 610-688-9856. LancasterCountyFarmersMarket.com.",
+      "address": "Lancaster County Farmers Market, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044908,
+      "lng": -75.400304,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-14",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://countylinesmagazine.com/event/lancaster-county-farmers-market-2-2025-06-18/2026-11-14/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b52e9d77-dd16-4ac8-9e9e-8ba8856cef3c.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 14",
+      "nextDate": "2026-11-14",
+      "dates": [
+        "2026-11-14"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "lansdowne-farmers-market-lansdowne",
       "name": "Lansdowne Farmers Market",
       "category": "events",
@@ -1477,6 +663,48 @@
       "dates": [
         "2026-11-14"
       ]
+    },
+    {
+      "id": "ev-newtown-square-martinmas-4c0b78",
+      "name": "Martinmas",
+      "category": "events",
+      "subcategories": [
+        "animals",
+        "destinations",
+        "farms",
+        "halloween"
+      ],
+      "shortDescription": "As autumn draws to a close, join Colonial Farmstead for Martinmas, a traditional early winter observance once known as “Old Halloween” and celebration marking the...",
+      "address": "Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.965681,
+      "lng": -75.438799,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-11-14",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.brandywinevalley.com/event/martinmas/4508/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fd2El8YdgEuyfde20pW1Ag.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 14",
+      "nextDate": "2026-11-14",
+      "dates": [
+        "2026-11-14"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-chester-r-b-bingo-fundraiser-4c8def",
@@ -1545,6 +773,44 @@
       "website": "https://www.bandsintown.com/e/108450690?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Is_7oRr7JkK1u5s57cgY7w.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 14",
+      "nextDate": "2026-11-14",
+      "dates": [
+        "2026-11-14"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-radnor-restaurant-week-at-merrick-s-tavern-5229ad",
+      "name": "Restaurant Week at Merrick's Tavern",
+      "category": "events",
+      "subcategories": [
+        "beer",
+        "drinks",
+        "food-drink"
+      ],
+      "shortDescription": "Celebrate Main Line Today Restaurant Week at the new Merrick’s Tavern in Radnor, PA Available starting November 1 through November 14, enjoy a 3 course, prix-fixe dinner...",
+      "address": "Merrick's Tavern, Radnor, PA",
+      "town": "Radnor",
+      "lat": 40.041394,
+      "lng": -75.354926,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-14",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.merrickstavern.com/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/UpMe_Yy2ZkGYOT3S5OPRrw.medium.jpg",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -1632,6 +898,45 @@
         "2026-11-14"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-media-sh-tty-art-buddies-grown-up-craft-club-byo-22c542",
+      "name": "Shtty Art Buddies: Grown-Up Craft Club (BYOB) · Media, PA",
+      "category": "events",
+      "subcategories": [
+        "crafts",
+        "visual-arts"
+      ],
+      "shortDescription": "Put the phone down and make something gloriously wonky. BYOB craft night for adults. No skills needed, all supplies included.",
+      "address": "Nimble Craft LLC, Media, PA",
+      "town": "Media",
+      "lat": 39.91804,
+      "lng": -75.388534,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-16",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/shtty-art-buddies-grown-up-craft-club-byob-media-pa-tickets-2004392396615",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gQwoX5uEj02hJM3nDKkRQg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Nov 14 - Nov 16",
+      "nextDate": "2026-11-14",
+      "dates": [
+        "2026-11-14",
+        "2026-11-15",
+        "2026-11-16"
+      ],
+      "occurrences": 3
     },
     {
       "id": "ev-newtown-square-soccer-varsity-boys-v-haverford-187882",
@@ -4028,6 +3333,43 @@
       "occurrences": 1
     },
     {
+      "id": "ev-media-slainte-a-stand-up-comedy-show-98f807",
+      "name": "Slainte: a Stand Up Comedy Show",
+      "category": "events",
+      "subcategories": [
+        "comedy",
+        "performing-arts"
+      ],
+      "shortDescription": "Get ready to laugh until your sides hurt at Slainte: a Stand Up Comedy Show, where the jokes are as smooth as the Guinness.",
+      "address": "Sligo Irish Pub, Media, PA",
+      "town": "Media",
+      "lat": 39.918417,
+      "lng": -75.39154,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-20",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/slainte-a-stand-up-comedy-show-tickets-2003517509805",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3pZySB3jSkehzYG3gAhSUw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Nov 20",
+      "nextDate": "2026-11-20",
+      "dates": [
+        "2026-11-20"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-smash-palace-at-118-north-052361",
       "name": "Smash Palace at 118 North",
       "category": "events",
@@ -4105,6 +3447,88 @@
         "2026-11-20"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-broomall-the-nutcracker-presented-by-pennsylvani-fc98dc",
+      "name": "The Nutcracker, Presented by Pennsylvania Academy of Ballet",
+      "category": "events",
+      "subcategories": [
+        "christmas",
+        "dance",
+        "holiday",
+        "music"
+      ],
+      "shortDescription": "Dates: November 20–22, 2025 Showtimes: Friday at 7:00 p.m.; Saturday & Sunday at 11:00 a.m.",
+      "address": "Upper Darby School District Performing Arts Center, Broomall, PA",
+      "town": "Broomall",
+      "lat": 39.95457,
+      "lng": -75.35919,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-22",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://paacademyofballet.com/Nutcracker",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/AxGdh6HaCUOXH1qcKdQ7NQ.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Nov 20 - Nov 22",
+      "nextDate": "2026-11-20",
+      "dates": [
+        "2026-11-20",
+        "2026-11-21",
+        "2026-11-22"
+      ],
+      "occurrences": 3
+    },
+    {
+      "id": "ev-bryn-mawr-youth-one-time-classes-90569b",
+      "name": "Youth One-Time Classes",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "special-audience",
+        "visual-arts"
+      ],
+      "shortDescription": "$80 Per Person / Ages 9 and up Friday, Oct 2, 2026 / 5:30 PM - 7:00 PM (EDT) Join our one time class to learn the basics of wheel throwing!",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-27",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/160853/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pbI4ypXkz062b8lEfv8Ztg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fridays, Nov 20 - Nov 27",
+      "nextDate": "2026-11-20",
+      "dates": [
+        "2026-11-20",
+        "2026-11-27"
+      ],
+      "occurrences": 2
     },
     {
       "id": "ev-chester-brian-posehn-87e1c6",
@@ -6883,6 +6307,45 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-riot-nerd-video-bingo-holiday-edition-at-1-9239c0",
+      "name": "Riot Nerd: Video Bingo - Holiday Edition at 118 North",
+      "category": "events",
+      "subcategories": [
+        "games",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Riot Nerd: Video Bingo - Holiday Edition at 118 North Sunday, December 6, 2026 Doors: 3:00 PM | Event: 4:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1331477619008396/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/220822T170928%7CbjIHd-6H7ESsQvJa7BAe4A.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Dec 6",
+      "nextDate": "2026-12-06",
+      "dates": [
+        "2026-12-06"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-stagefright-the-music-of-the-last-waltz-at-b7bbf2",
       "name": "Stagefright - The Music of The Last Waltz at 118 North",
       "category": "events",
@@ -7834,6 +7297,48 @@
       "website": "https://www.etix.com/ticket/p/98897703/home-for-the-holidaysall4onesheena-eastonruben-studdardand-lindsey-webster-lansdowne-lansdowne-theater",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yczAGsRl50yipXvV417FFQ.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Dec 11",
+      "nextDate": "2026-12-11",
+      "dates": [
+        "2026-12-11"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-reading-rocks-a-music-dance-and-comedy-sho-7179e6",
+      "name": "Reading Rocks!: A Music, Dance, and Comedy Show with Mr. Matt from Turtle Dance Music",
+      "category": "events",
+      "subcategories": [
+        "comedy",
+        "dance",
+        "health-wellness",
+        "kids"
+      ],
+      "shortDescription": "Winsor Room - No registration required - All Ages The Reading Rocks!",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-12-11",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/16033936",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dfbc8e82-cbbc-45df-b109-75d61c56c4ed.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -10720,6 +10225,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-steal-your-peach-at-118-north-e86809",
+      "name": "Steal Your Peach at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Steal Your Peach at 118 North Saturday, January 2, 2027 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-02",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1119421710866079/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/29285568-7de3-428e-a16d-3491ad349d9e.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Jan 2",
+      "nextDate": "2027-01-02",
+      "dates": [
+        "2027-01-02"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-winter-track-girls-upper-dublin-w-04fad1",
       "name": "Winter Track - Girls @ Upper Dublin Winter Series @ UPenn",
       "category": "events",
@@ -11014,6 +10557,45 @@
       "nextDate": "2027-01-06",
       "dates": [
         "2027-01-06"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-dead-band-at-118-north-80105a",
+      "name": "Dead Band at 118 North",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Dead Band at 118 North Thursday, January 7, 2027 Doors: 6:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-07",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/2221475425463660/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/94a4ca6e-ad0c-4c3d-b463-eae21cbbbe8f.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Jan 7",
+      "nextDate": "2027-01-07",
+      "dates": [
+        "2027-01-07"
       ],
       "occurrences": 1
     },
@@ -11977,6 +11559,44 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/71fb6e77-be06-4af3-87c9-8c3c6563f966.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Jan 14",
+      "nextDate": "2027-01-14",
+      "dates": [
+        "2027-01-14"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-crickets-cicadas-at-118-north-c99406",
+      "name": "Crickets & Cicadas at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Crickets & Cicadas at 118 North Thursday, January 14, 2027 Doors: 6:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-14",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1102915269120555/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7fc659fe-0f6e-44ff-8717-735c904dbaf4.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -13065,6 +12685,44 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/aa5bfa61-658d-4e5c-8c9b-146f36f52107.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Jan 22",
+      "nextDate": "2027-01-22",
+      "dates": [
+        "2027-01-22"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-melt-with-you-at-118-north-0912e3",
+      "name": "Melt With You at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Melt With You at 118 North Friday, January 22, 2027 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-22",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1082360858010368/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9ffd6ad4-a5fe-4ee8-a746-02776a158996.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -14452,6 +14110,43 @@
       "nextDate": "2027-01-30",
       "dates": [
         "2027-01-30"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-magic-mustache-club-118-north-46ebb6",
+      "name": "Magic Mustache Club @ 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "That 1 Guy’s all-new 2027 close-up magic show! Wild new tricks, big surprises, and an intimate experience for just 20 guests per night!",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-31",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/magic-mustache-club-118-north-tickets-2004247968627",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/VBlHDL8hK0mtlucPU4fG4A.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Jan 31",
+      "nextDate": "2027-01-31",
+      "dates": [
+        "2027-01-31"
       ],
       "occurrences": 1
     },
@@ -16758,6 +16453,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-lisa-leblanc-at-118-north-523dcc",
+      "name": "Lisa LeBlanc at 118 North",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Lisa LeBlanc at 118 North Saturday, March 6, 2027 Doors: 3:00 PM | Show: 4:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
+      "address": "118 NORTH, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044905,
+      "lng": -75.388148,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.facebook.com/events/1153172410633776/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e358f975-c9b4-4299-92a5-67f6f6335fc7.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Mar 6",
+      "nextDate": "2027-03-06",
+      "dates": [
+        "2027-03-06"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-starfest-38f572",
       "name": "Starfest",
       "category": "events",
@@ -18753,6 +18486,45 @@
       "nextDate": "2027-05-10",
       "dates": [
         "2027-05-10"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-ms-us-orchestra-concert-a5065c",
+      "name": "MS & US Orchestra Concert",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "MS & US Orchestra Concert",
+      "address": "Theater - Carrafiell Theater, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-05-12",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/6a9dc752-f235-4671-a168-adba9e198f89.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, May 12",
+      "nextDate": "2027-05-12",
+      "dates": [
+        "2027-05-12"
       ],
       "occurrences": 1
     },
