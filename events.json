@@ -1,1337 +1,9 @@
 {
   "version": 1,
-  "scraped_at": "2026-11-14T15:55:24.186629+00:00",
+  "scraped_at": "2026-11-15T16:28:19.847551+00:00",
   "horizon_days": 180,
-  "event_count": 495,
+  "event_count": 471,
   "listings": [
-    {
-      "id": "ev-swarthmore-thanks-giving-children-s-benefit-conc-5b05b2",
-      "name": "\"Thanks & Giving\" Children's Benefit Concert",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "concert",
-        "family",
-        "fundraiser"
-      ],
-      "shortDescription": "Climb Aboard the Music Train filled with 'Kids Helping Kids\"!",
-      "address": "Park Avenue Community Center (PAC Center) - Park Avenue Room, Swarthmore, PA",
-      "town": "Swarthmore",
-      "lat": 39.901274,
-      "lng": -75.350011,
-      "priceTier": 2,
-      "tags": [
-        "family",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-11-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://paccenter.ticketspice.com/thanks-giving----childrens-benefit-concert",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/n1147mEUgUmQEs6QZ07Q7w.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 14",
-      "nextDate": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-annual-senior-luncheon-08fa48",
-      "name": "Annual Senior Luncheon",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink",
-        "special-audience"
-      ],
-      "shortDescription": "Annual Senior Luncheon at Spasso's in Media.",
-      "address": "Spasso's, Media, PA",
-      "town": "Media",
-      "lat": 39.918189,
-      "lng": -75.389555,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.mediaborough.com/calendar.aspx?EID=2999",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/976b9c7c-7f0c-4e2d-8a91-e9bb35849f8b.medium.PNG",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 14",
-      "nextDate": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-artfully-made-2a2d16",
-      "name": "Artfully made",
-      "category": "events",
-      "subcategories": [
-        "visual-arts"
-      ],
-      "shortDescription": "Design Your Own | Polymer Clay Earring Workshop ✨Create Something Beautiful. Make It Yours. Unleash your creativity and discover the joy .",
-      "address": "Nimble Craft LLC, Media, PA",
-      "town": "Media",
-      "lat": 39.91804,
-      "lng": -75.388534,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/artfully-made-tickets-2003948905120",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Bcp2nY5-r0O3B1T3suVPkQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 14",
-      "nextDate": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-aston-aston-mills-arts-annual-art-show-and-sale-3d03bc",
-      "name": "Aston Mills Arts Annual Art Show and Sale",
-      "category": "events",
-      "subcategories": [
-        "markets",
-        "visual-arts"
-      ],
-      "shortDescription": "Public show: November 14 & 15, 21 & 22, 11am-4pm Step inside 10,000 square feet of working fine art studios and galleries at our Annual Art Show & Sale.",
-      "address": "Aston Mills Arts, Aston, PA",
-      "town": "Aston",
-      "lat": 39.884953,
-      "lng": -75.444995,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-14",
-      "endDate": "2026-11-22",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.astonmillsarts.com/events/z67fnfkdrsywtzalcmde6r3y8t5x9c",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/uWxpGPmEmEKSCvuKSWlR1Q.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sun, Nov 14 - Nov 22",
-      "nextDate": "2026-11-14",
-      "dates": [
-        "2026-11-14",
-        "2026-11-15",
-        "2026-11-21",
-        "2026-11-22"
-      ],
-      "occurrences": 4
-    },
-    {
-      "id": "ev-media-charity-bingo-night-presented-by-the-rotar-413dcc",
-      "name": "Charity Bingo Night (Presented by the Rotary Club of",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "food-drink",
-        "fundraiser",
-        "games"
-      ],
-      "shortDescription": "Join us for a fun night of bingo and good vibes. BYO Food/drink, prizes, 50/50, and silent auction. Presented by the Rotary Club of Media.",
-      "address": "Rocky Run YMCA, Media, PA",
-      "town": "Media",
-      "lat": 39.910644,
-      "lng": -75.447401,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/charity-bingo-night-presented-by-the-rotary-club-of-media-registration-2002100169502",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/G41fmfWdC02bAd-6hOKJlA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 14",
-      "nextDate": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-cross-country-boys-v-haverford-a31750",
-      "name": "Cross Country - Boys v Haverford",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Cross Country - Boys v Haverford",
-      "address": "Celentano Cross Country Course, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2515a632-7c00-42f3-8b27-d68699bb216f.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 14",
-      "nextDate": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-culinary-workshop-kids-cook-thanksgiving-s-d806a2",
-      "name": "Culinary Workshop: Kids Cook Thanksgiving - Savory Dinner",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink",
-        "holiday",
-        "kids"
-      ],
-      "shortDescription": "Join us for a special time for children and adults to cook, have fun, and grow closer together!",
-      "address": "Wayne Art Center, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.03894,
-      "lng": -75.394446,
-      "priceTier": 3,
-      "tags": [
-        "family",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-11-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://wayneart.org/events/2176/culinary-workshop-kids-cook-thanksgiving-savory-dinner",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QxXxJoWh5Ea_0J-01fVq5g.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 14",
-      "nextDate": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-prospect-park-demitri-grivas-71714f",
-      "name": "Demitri Grivas",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Demitri Grivas at Marty Magees in Prospect Park.",
-      "address": "Marty Magees, Prospect Park, PA",
-      "town": "Prospect Park",
-      "lat": 39.887567,
-      "lng": -75.310047,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/109058135?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c-HycUOJfU6kde6Yi1nB6w.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 14",
-      "nextDate": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-divas-of-the-80-s-54c60d",
-      "name": "Divas Of The 80's",
-      "category": "events",
-      "subcategories": [
-        "performing-arts",
-        "theater"
-      ],
-      "shortDescription": "One drink ticket with each table seat purchased. Seating will be available for GA ticket purchases.",
-      "address": "The Block at Harrah's Philadelphia, Chester, PA",
-      "town": "Chester",
-      "lat": 39.851082,
-      "lng": -75.348369,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RY4BV6p_LEqQDa0ceivyoA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 14",
-      "nextDate": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-environmental-youth-corps-b667f7",
-      "name": "Environmental Youth Corps",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "special-audience"
-      ],
-      "shortDescription": "Environmental Youth Corps at Eyre Park in Chester.",
-      "address": "Eyre Park, Chester, PA",
-      "town": "Chester",
-      "lat": 39.852008,
-      "lng": -75.364828,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.chestercity.com/event/environmental-youth-corps-2/2026-11-14/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/DcPEiMEnwUWZ74eRBLJN8w.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 14",
-      "nextDate": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-first-draft-a-group-for-writers-ffd746",
-      "name": "First Draft: A Group for Writers",
-      "category": "events",
-      "subcategories": [
-        "literary-arts"
-      ],
-      "shortDescription": "First Draft: A Group for Writers Saturdays, 11/14 11:00am Conference Room Need inspiration or a boost of confidence when it comes to writing?",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17842658",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d272002b-470e-4716-9652-8b95fbe53e67.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 14",
-      "nextDate": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-football-varsity-v-haverford-5790db",
-      "name": "Football - Varsity v Haverford",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Football - Varsity v Haverford",
-      "address": "Smith Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7aa12362-ddd3-40dd-909b-d1a9312ca654.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 14",
-      "nextDate": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-haverford-haverford-guild-holiday-art-fine-craft-a89d00",
-      "name": "Haverford Guild Holiday Art & Fine Craft Show",
-      "category": "events",
-      "subcategories": [
-        "christmas",
-        "holiday",
-        "holiday-market",
-        "markets"
-      ],
-      "shortDescription": "—Give the Gift of Art This Year— Shop from more than 60 juried artists and gift your loved ones and yourself unforgettable one-of-a-kind works of art.",
-      "address": "Haverford Community Recreation and Evironmental Center, Haverford, PA",
-      "town": "Haverford",
-      "lat": 39.993194,
-      "lng": -75.343554,
-      "priceTier": 1,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-14",
-      "endDate": "2026-11-15",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://haverfordguild.org/2026-holiday-fine-craft-fair/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/6FOjFOP7WUGRZWiJ-bQ5Vw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Nov 14 - Nov 15",
-      "nextDate": "2026-11-14",
-      "dates": [
-        "2026-11-14",
-        "2026-11-15"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-wayne-houseplant-at-118-north-20c417",
-      "name": "Houseplant at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Houseplant at 118 North Saturday, November 14, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1527186116114339/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/220822T170928%7CbjIHd-6H7ESsQvJa7BAe4A.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 14",
-      "nextDate": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-lansdowne-kansas-aaff42",
-      "name": "Kansas",
-      "category": "events",
-      "subcategories": [
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "With a legendary career spanning five decades, KANSAS has firmly established itself as one of America’s iconic classic rock bands.",
-      "address": "Lansdowne Theater, Lansdowne, PA",
-      "town": "Lansdowne",
-      "lat": 39.939409,
-      "lng": -75.272179,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.etix.com/ticket/p/31345926/kansas-lansdowne-lansdowne-theater?_gl=1*igrcor*_ga*NjMwMzczNTc1LjE3NjUyMDYzMjA.*_ga_XPKMCZJK6D*czE3NzkyMTE3NjAkbzUwJGcxJHQxNzc5MjEyMTY2JGo1NiRsMCRoMTg2NzAwMTAyOQ..*_gcl_au*MzA2OTk0NTYwLjE3NzMwNjgyNTQ.*_ga_F5KZGC85YC*czE3NzkyMTE3NjAkbzEyNCRnMSR0MTc3OTIxMjE2MiRqNTgkbDAkaDE2MzA5ODQ0MTc.",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Xff2G8sk0USczZF-pYSdlA.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 14",
-      "nextDate": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-lancaster-county-farmers-market-1b0e48",
-      "name": "Lancaster County Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "farmers-market",
-        "markets"
-      ],
-      "shortDescription": "389 W. Lancaster Ave., Wayne. Wed., Fri., Sat., 6 to 4. 610-688-9856. LancasterCountyFarmersMarket.com.",
-      "address": "Lancaster County Farmers Market, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044908,
-      "lng": -75.400304,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://countylinesmagazine.com/event/lancaster-county-farmers-market-2-2025-06-18/2026-11-14/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b52e9d77-dd16-4ac8-9e9e-8ba8856cef3c.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 14",
-      "nextDate": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "lansdowne-farmers-market-lansdowne",
-      "name": "Lansdowne Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "farmers market",
-        "seasonal"
-      ],
-      "shortDescription": "Seasonal Saturday farmers market in Lansdowne selling local produce, baked goods, and handmade items.",
-      "address": "N Lansdowne Ave, Lansdowne, PA 19050",
-      "town": "Lansdowne",
-      "lat": 39.9385,
-      "lng": -75.2725,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "group"
-      ],
-      "featured": true,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "schedule": "Saturdays, summer-fall",
-      "recurring": "weekly",
-      "nextDate": "2026-11-14",
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-11-14"
-      ]
-    },
-    {
-      "id": "ev-newtown-square-martinmas-4c0b78",
-      "name": "Martinmas",
-      "category": "events",
-      "subcategories": [
-        "animals",
-        "destinations",
-        "farms",
-        "halloween"
-      ],
-      "shortDescription": "As autumn draws to a close, join Colonial Farmstead for Martinmas, a traditional early winter observance once known as “Old Halloween” and celebration marking the...",
-      "address": "Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.965681,
-      "lng": -75.438799,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-11-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.brandywinevalley.com/event/martinmas/4508/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fd2El8YdgEuyfde20pW1Ag.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 14",
-      "nextDate": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-r-b-bingo-fundraiser-4c8def",
-      "name": "R&B Bingo Fundraiser",
-      "category": "events",
-      "subcategories": [
-        "games",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Get Ready for a Night of R&B Bingo at BGCC!",
-      "address": "Boys & Girls Club of Chester, Chester, PA",
-      "town": "Chester",
-      "lat": 39.851481,
-      "lng": -75.357984,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "6108741237",
-      "website": "https://www.boysgirlsclubofchester.org/event-details/r-b-bingo-fundraiser",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/sC7susz6VEybPer3fNVIdA.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 14",
-      "nextDate": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-lansdowne-regina-bonelli-f85cb9",
-      "name": "Regina Bonelli",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Regina Bonelli at Jamey's House of Music in Lansdowne.",
-      "address": "Jamey's House of Music, Lansdowne, PA",
-      "town": "Lansdowne",
-      "lat": 39.937344,
-      "lng": -75.274493,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/108450690?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Is_7oRr7JkK1u5s57cgY7w.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 14",
-      "nextDate": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-radnor-restaurant-week-at-merrick-s-tavern-5229ad",
-      "name": "Restaurant Week at Merrick's Tavern",
-      "category": "events",
-      "subcategories": [
-        "beer",
-        "drinks",
-        "food-drink"
-      ],
-      "shortDescription": "Celebrate Main Line Today Restaurant Week at the new Merrick’s Tavern in Radnor, PA Available starting November 1 through November 14, enjoy a 3 course, prix-fixe dinner...",
-      "address": "Merrick's Tavern, Radnor, PA",
-      "town": "Radnor",
-      "lat": 40.041394,
-      "lng": -75.354926,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.merrickstavern.com/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/UpMe_Yy2ZkGYOT3S5OPRrw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 14",
-      "nextDate": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ridley-park-farmers-market",
-      "name": "Ridley Park Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "market",
-        "seasonal"
-      ],
-      "shortDescription": "Seasonal Saturday market in Ridley Park selling produce, baked goods, and local products through the warmer months.",
-      "schedule": "Saturdays, June-October",
-      "recurring": "weekly",
-      "nextDate": "2026-11-14",
-      "address": "105 E Ward St, Ridley Park, PA 19078",
-      "town": "Ridley Park",
-      "lat": 39.8815,
-      "lng": -75.3238,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "kid-friendly"
-      ],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-11-14"
-      ]
-    },
-    {
-      "id": "ev-springfield-township-sherlock-holmes-murder-myst-50f408",
-      "name": "Sherlock Holmes Murder Mystery Dinner Theatre",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink",
-        "performing-arts",
-        "theater"
-      ],
-      "shortDescription": "Join us for a night of mystery, dinner, and detective fun as you solve the Sherlock Holmes murder case live!",
-      "address": "Springfield Township, Delaware County, PA",
-      "town": "Springfield Township",
-      "lat": 39.928318,
-      "lng": -75.3339,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/sherlock-holmes-murder-mystery-dinner-theatre-tickets-2002659251732",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5506qFR5NkWmgl0Scwq4pg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 14",
-      "nextDate": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-sh-tty-art-buddies-grown-up-craft-club-byo-22c542",
-      "name": "Shtty Art Buddies: Grown-Up Craft Club (BYOB) · Media, PA",
-      "category": "events",
-      "subcategories": [
-        "crafts",
-        "visual-arts"
-      ],
-      "shortDescription": "Put the phone down and make something gloriously wonky. BYOB craft night for adults. No skills needed, all supplies included.",
-      "address": "Nimble Craft LLC, Media, PA",
-      "town": "Media",
-      "lat": 39.91804,
-      "lng": -75.388534,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-14",
-      "endDate": "2026-11-16",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/shtty-art-buddies-grown-up-craft-club-byob-media-pa-tickets-2004392396615",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gQwoX5uEj02hJM3nDKkRQg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Nov 14 - Nov 16",
-      "nextDate": "2026-11-14",
-      "dates": [
-        "2026-11-14",
-        "2026-11-15",
-        "2026-11-16"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-newtown-square-soccer-varsity-boys-v-haverford-187882",
-      "name": "Soccer - Varsity Boys v Haverford",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Soccer - Varsity Boys v Haverford",
-      "address": "Alumni Field, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/469bd39d-8063-41c7-8f6c-2f23de9f535d.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 14",
-      "nextDate": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "springfield-farmers-market",
-      "name": "Springfield Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "market",
-        "seasonal"
-      ],
-      "shortDescription": "Springfield's seasonal outdoor market offers fresh produce, flowers, and local goods on weekends through summer and fall.",
-      "schedule": "Weekends, summer-fall",
-      "recurring": "weekly",
-      "nextDate": "2026-11-14",
-      "address": "Springfield, PA 19064",
-      "town": "Springfield",
-      "lat": 39.9312,
-      "lng": -75.3479,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "kid-friendly"
-      ],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-11-14"
-      ]
-    },
-    {
-      "id": "swarthmore-farmers-market-swarthmore",
-      "name": "Swarthmore Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "farmers market",
-        "seasonal"
-      ],
-      "shortDescription": "Weekly warm-season market in Swarthmore featuring regional farmers, food vendors, and live music.",
-      "address": "Swarthmore Town Center, Swarthmore, PA 19081",
-      "town": "Swarthmore",
-      "lat": 39.903,
-      "lng": -75.349,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "group"
-      ],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "schedule": "Saturdays, warm season",
-      "recurring": "weekly",
-      "nextDate": "2026-11-14",
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-11-14"
-      ]
-    },
-    {
-      "id": "ev-wayne-the-saturday-club-s-annual-holiday-market-5c77ac",
-      "name": "The Saturday Club's Annual Holiday Market",
-      "category": "events",
-      "subcategories": [
-        "christmas",
-        "holiday",
-        "holiday-market",
-        "markets"
-      ],
-      "shortDescription": "Mark Your Calendars for The Saturday Club's Annual Holiday Market Saturday, November 14th, 10 AM - 2 PM The Saturday Club at 117 West Wayne Avenue, Wayne PA Our beloved...",
-      "address": "The Saturday Club, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.043474,
-      "lng": -75.3893,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://saturdayclub.org/holidaymarket/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Fuz232NjsUeUVHibfQLQmg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 14",
-      "nextDate": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-water-polo-varsity-boys-v-haverfo-fb9eaa",
-      "name": "Water Polo - Varsity Boys v Haverford",
-      "category": "events",
-      "subcategories": [
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Water Polo - Varsity Boys v Haverford",
-      "address": "Burke Natatorium, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/359768a4-b327-4b56-9756-8467f4ba4030.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 14",
-      "nextDate": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-wesley-stace-at-118-north-63174b",
-      "name": "Wesley Stace at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Wesley Stace at 118 North Saturday, November 14, 2026 Doors: 3:00 PM | Show: 4:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1580409430282901/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9ffd6ad4-a5fe-4ee8-a746-02776a158996.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 14",
-      "nextDate": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-widener-pride-football-vs-delaware-valle-d21034",
-      "name": "Widener Pride: Football vs Delaware Valley - Keystone Cup & Senior Day",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Football vs Delaware Valley - Keystone Cup & Senior Day Streaming Video: https://gomacsports.tv/widenerpride/ Tickets:...",
-      "address": "Elizabeth J. Hirschmann Field at Leslie C. Quick Jr. Stadium, Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14304&amp;sport_id=4",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4996cc94-b530-4279-b179-f2fddf5f850c.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 14",
-      "nextDate": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-widener-pride-men-s-basketball-vs-champi-882d9a",
-      "name": "Widener Pride: Men's Basketball vs Championship Game",
-      "category": "events",
-      "subcategories": [
-        "games",
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Men's Basketball vs Championship Game Streaming Video: https://gomacsports.tv/widenerpride/",
-      "address": "Schwartz Center, Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14676&amp;sport_id=3",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cd7fcb1c-2598-4537-95d4-c5aef83193b9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 14",
-      "nextDate": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-widener-pride-men-s-basketball-vs-consol-0edf93",
-      "name": "Widener Pride: Men's Basketball vs Consolation Game",
-      "category": "events",
-      "subcategories": [
-        "games",
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Men's Basketball vs Consolation Game Streaming Video: https://gomacsports.tv/widenerpride/",
-      "address": "Schwartz Center, Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14674&amp;sport_id=3",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d79fec9e-625d-494a-8623-ed009ee58656.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 14",
-      "nextDate": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-widener-pride-women-s-swimming-vs-fdu-fl-f3166e",
-      "name": "Widener Pride: Women's Swimming vs FDU-Florham",
-      "category": "events",
-      "subcategories": [
-        "outdoor-recreation",
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Women's Swimming vs FDU-Florham Streaming Video: https://gomacsports.tv/widenerpride/",
-      "address": "Chester, PA",
-      "town": "Chester",
-      "lat": 39.85268,
-      "lng": -75.360687,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-11-14",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14344&amp;sport_id=18",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ee8d4ba4-6c90-4bf8-b703-bda9d6b9e60e.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 14",
-      "nextDate": "2026-11-14",
-      "dates": [
-        "2026-11-14"
-      ],
-      "occurrences": 1
-    },
     {
       "id": "ev-wayne-aj-lee-blue-summit-at-118-north-63f1a4",
       "name": "AJ Lee & Blue Summit at 118 North",
@@ -1359,6 +31,85 @@
       "website": "https://www.facebook.com/events/940442585709672/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a5bb07a2-7451-461c-a708-a4ee484b5c26.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Nov 15",
+      "nextDate": "2026-11-15",
+      "dates": [
+        "2026-11-15"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-aston-aston-mills-arts-annual-art-show-and-sale-3d03bc",
+      "name": "Aston Mills Arts Annual Art Show and Sale",
+      "category": "events",
+      "subcategories": [
+        "markets",
+        "visual-arts"
+      ],
+      "shortDescription": "Public show: November 14 & 15, 21 & 22, 11am-4pm Step inside 10,000 square feet of working fine art studios and galleries at our Annual Art Show & Sale.",
+      "address": "Aston Mills Arts, Aston, PA",
+      "town": "Aston",
+      "lat": 39.884953,
+      "lng": -75.444995,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-15",
+      "endDate": "2026-11-22",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.astonmillsarts.com/events/z67fnfkdrsywtzalcmde6r3y8t5x9c",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/uWxpGPmEmEKSCvuKSWlR1Q.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Sun, Nov 15 - Nov 22",
+      "nextDate": "2026-11-15",
+      "dates": [
+        "2026-11-15",
+        "2026-11-21",
+        "2026-11-22"
+      ],
+      "occurrences": 3
+    },
+    {
+      "id": "ev-bryn-mawr-clay-house-tennis-adult-clinic-pop-up-7cb0ee",
+      "name": "Clay House Tennis Adult Clinic Pop Up: The Finals!",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Culture meets community! Clay House Pop-Up: tennis, vibes, and connection you won’t want to miss.",
+      "address": "Delaware Valley Tennis Academy, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.024288,
+      "lng": -75.322596,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-15",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/clay-house-tennis-adult-clinic-pop-up-the-finals-tickets-2004290805754",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1Kk8ebYwHUqEsacDB4fqXw.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -1443,6 +194,45 @@
       "occurrences": 1
     },
     {
+      "id": "ev-haverford-haverford-guild-holiday-art-fine-craft-a89d00",
+      "name": "Haverford Guild Holiday Art & Fine Craft Show",
+      "category": "events",
+      "subcategories": [
+        "christmas",
+        "holiday",
+        "holiday-market",
+        "markets"
+      ],
+      "shortDescription": "—Give the Gift of Art This Year— Shop from more than 60 juried artists and gift your loved ones and yourself unforgettable one-of-a-kind works of art.",
+      "address": "Haverford Community Recreation and Evironmental Center, Haverford, PA",
+      "town": "Haverford",
+      "lat": 39.993194,
+      "lng": -75.343554,
+      "priceTier": 1,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-15",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://haverfordguild.org/2026-holiday-fine-craft-fair/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/6FOjFOP7WUGRZWiJ-bQ5Vw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Nov 15",
+      "nextDate": "2026-11-15",
+      "dates": [
+        "2026-11-15"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-drexel-hill-paint-sip-49d6ae",
       "name": "Paint & Sip",
       "category": "events",
@@ -1477,6 +267,44 @@
         "2026-11-15"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-media-sh-tty-art-buddies-grown-up-craft-club-byo-22c542",
+      "name": "Shtty Art Buddies: Grown-Up Craft Club (BYOB) · Media, PA",
+      "category": "events",
+      "subcategories": [
+        "crafts",
+        "visual-arts"
+      ],
+      "shortDescription": "Put the phone down and make something gloriously wonky. BYOB craft night for adults. No skills needed, all supplies included.",
+      "address": "Nimble Craft LLC, Media, PA",
+      "town": "Media",
+      "lat": 39.91804,
+      "lng": -75.388534,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-15",
+      "endDate": "2026-11-16",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/shtty-art-buddies-grown-up-craft-club-byob-media-pa-tickets-2004392396615",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gQwoX5uEj02hJM3nDKkRQg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Nov 15 - Nov 16",
+      "nextDate": "2026-11-15",
+      "dates": [
+        "2026-11-15",
+        "2026-11-16"
+      ],
+      "occurrences": 2
     },
     {
       "id": "ev-havertown-sip-savor-song-fundraiser-for-keep-mus-39d012",
@@ -2947,7 +1775,7 @@
       ],
       "hours": {},
       "startDate": "2026-11-19",
-      "endDate": "2027-05-06",
+      "endDate": "2027-05-13",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -2958,7 +1786,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Thursdays, Nov 19 - May 6",
+      "schedule": "Thursdays, Nov 19 - May 13",
       "nextDate": "2026-11-19",
       "dates": [
         "2026-11-19",
@@ -2985,9 +1813,10 @@
         "2027-04-15",
         "2027-04-22",
         "2027-04-29",
-        "2027-05-06"
+        "2027-05-06",
+        "2027-05-13"
       ],
-      "occurrences": 25
+      "occurrences": 26
     },
     {
       "id": "ev-wayne-zendog-10th-anniversary-show-at-118-north-337263",
@@ -3650,6 +2479,44 @@
       "occurrences": 1
     },
     {
+      "id": "lansdowne-farmers-market-lansdowne",
+      "name": "Lansdowne Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "farmers market",
+        "seasonal"
+      ],
+      "shortDescription": "Seasonal Saturday farmers market in Lansdowne selling local produce, baked goods, and handmade items.",
+      "address": "N Lansdowne Ave, Lansdowne, PA 19050",
+      "town": "Lansdowne",
+      "lat": 39.9385,
+      "lng": -75.2725,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "group"
+      ],
+      "featured": true,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "schedule": "Saturdays, summer-fall",
+      "recurring": "weekly",
+      "nextDate": "2026-11-21",
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-11-21"
+      ]
+    },
+    {
       "id": "ev-lansdowne-lauren-minear-12eab3",
       "name": "Lauren Minear",
       "category": "events",
@@ -3688,6 +2555,44 @@
         "2026-11-21"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ridley-park-farmers-market",
+      "name": "Ridley Park Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "market",
+        "seasonal"
+      ],
+      "shortDescription": "Seasonal Saturday market in Ridley Park selling produce, baked goods, and local products through the warmer months.",
+      "schedule": "Saturdays, June-October",
+      "recurring": "weekly",
+      "nextDate": "2026-11-21",
+      "address": "105 E Ward St, Ridley Park, PA 19078",
+      "town": "Ridley Park",
+      "lat": 39.8815,
+      "lng": -75.3238,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "kid-friendly"
+      ],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-11-21"
+      ]
     },
     {
       "id": "ev-folsom-rocks-this-way-aerosmith-tribute-9dbba5",
@@ -3768,6 +2673,44 @@
       "occurrences": 1
     },
     {
+      "id": "springfield-farmers-market",
+      "name": "Springfield Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "market",
+        "seasonal"
+      ],
+      "shortDescription": "Springfield's seasonal outdoor market offers fresh produce, flowers, and local goods on weekends through summer and fall.",
+      "schedule": "Weekends, summer-fall",
+      "recurring": "weekly",
+      "nextDate": "2026-11-21",
+      "address": "Springfield, PA 19064",
+      "town": "Springfield",
+      "lat": 39.9312,
+      "lng": -75.3479,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "kid-friendly"
+      ],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-11-21"
+      ]
+    },
+    {
       "id": "ev-clifton-heights-stand-up-for-cancer-4f0bdb",
       "name": "Stand up for CANCER!",
       "category": "events",
@@ -3842,6 +2785,44 @@
         "2026-11-21"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "swarthmore-farmers-market-swarthmore",
+      "name": "Swarthmore Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "farmers market",
+        "seasonal"
+      ],
+      "shortDescription": "Weekly warm-season market in Swarthmore featuring regional farmers, food vendors, and live music.",
+      "address": "Swarthmore Town Center, Swarthmore, PA 19081",
+      "town": "Swarthmore",
+      "lat": 39.903,
+      "lng": -75.349,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "group"
+      ],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "schedule": "Saturdays, warm season",
+      "recurring": "weekly",
+      "nextDate": "2026-11-21",
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-11-21"
+      ]
     },
     {
       "id": "ev-wayne-the-miners-at-118-north-ca8474",
@@ -7463,6 +6444,49 @@
         "2026-12-12"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-swarthmore-chester-children-s-chorus-winter-conc-0e70de",
+      "name": "Chester Children's Chorus Winter Concerts",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "kids",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Don't miss the CCC's final performances of the year!",
+      "address": "Swarthmore College, Swarthmore, PA",
+      "town": "Swarthmore",
+      "lat": 39.907015,
+      "lng": -75.355829,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-12-12",
+      "endDate": "2026-12-13",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.swarthmore.edu/chester-childrens-chorus/concert-schedule",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dPh3OC5g60GOAZ6wrXJk0g.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Dec 12 - Dec 13",
+      "nextDate": "2026-12-12",
+      "dates": [
+        "2026-12-12",
+        "2026-12-13"
+      ],
+      "occurrences": 2
     },
     {
       "id": "ev-media-cocoa-photos-with-santa-53276b",
@@ -18525,6 +17549,46 @@
       "nextDate": "2027-05-12",
       "dates": [
         "2027-05-12"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-spring-concert-for-lower-school-c3a207",
+      "name": "Spring Concert for Lower School",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "concert",
+        "learning",
+        "music"
+      ],
+      "shortDescription": "Spring Concert for Lower School",
+      "address": "Theater - Carrafiell Theater, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-05-13",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b3ceb737-0695-43d6-84ff-240e3098ad3d.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, May 13",
+      "nextDate": "2027-05-13",
+      "dates": [
+        "2027-05-13"
       ],
       "occurrences": 1
     },
