@@ -1,427 +1,9 @@
 {
   "version": 1,
-  "scraped_at": "2026-11-15T16:28:19.847551+00:00",
+  "scraped_at": "2026-11-16T19:42:32.666766+00:00",
   "horizon_days": 180,
-  "event_count": 471,
+  "event_count": 466,
   "listings": [
-    {
-      "id": "ev-wayne-aj-lee-blue-summit-at-118-north-63f1a4",
-      "name": "AJ Lee & Blue Summit at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "AJ Lee & Blue Summit at 118 North with The Cody Sisters Sunday, November 15, 2026 Doors: 5:30 PM | Show: 7:30 PM 21+ Unless Accompanied by a Parent or Guardian Tickets...",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-15",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/940442585709672/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a5bb07a2-7451-461c-a708-a4ee484b5c26.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 15",
-      "nextDate": "2026-11-15",
-      "dates": [
-        "2026-11-15"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-aston-aston-mills-arts-annual-art-show-and-sale-3d03bc",
-      "name": "Aston Mills Arts Annual Art Show and Sale",
-      "category": "events",
-      "subcategories": [
-        "markets",
-        "visual-arts"
-      ],
-      "shortDescription": "Public show: November 14 & 15, 21 & 22, 11am-4pm Step inside 10,000 square feet of working fine art studios and galleries at our Annual Art Show & Sale.",
-      "address": "Aston Mills Arts, Aston, PA",
-      "town": "Aston",
-      "lat": 39.884953,
-      "lng": -75.444995,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-15",
-      "endDate": "2026-11-22",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.astonmillsarts.com/events/z67fnfkdrsywtzalcmde6r3y8t5x9c",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/uWxpGPmEmEKSCvuKSWlR1Q.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Sun, Nov 15 - Nov 22",
-      "nextDate": "2026-11-15",
-      "dates": [
-        "2026-11-15",
-        "2026-11-21",
-        "2026-11-22"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-bryn-mawr-clay-house-tennis-adult-clinic-pop-up-7cb0ee",
-      "name": "Clay House Tennis Adult Clinic Pop Up: The Finals!",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Culture meets community! Clay House Pop-Up: tennis, vibes, and connection you won’t want to miss.",
-      "address": "Delaware Valley Tennis Academy, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.024288,
-      "lng": -75.322596,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-15",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/clay-house-tennis-adult-clinic-pop-up-the-finals-tickets-2004290805754",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1Kk8ebYwHUqEsacDB4fqXw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 15",
-      "nextDate": "2026-11-15",
-      "dates": [
-        "2026-11-15"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-color-temperature-color-value-color-mixing-97cf21",
-      "name": "Color Temperature, Color Value & Color Mixing with Jon Redmond",
-      "category": "events",
-      "subcategories": [
-        "visual-arts"
-      ],
-      "shortDescription": "We will dive into the all important painting issue of figuring out how to successfully mix colors and properly use your materials to express vision.",
-      "address": "Wayne Art Center, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.03894,
-      "lng": -75.394446,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-15",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://wayneart.org/events/2124/color-temperature-color-value-color-mixing-with-jon-redmond",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pxqylpOOs0mUGMlfUggVtg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 15",
-      "nextDate": "2026-11-15",
-      "dates": [
-        "2026-11-15"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-fun-and-games-with-connections-editor-wyna-e5f322",
-      "name": "Fun and Games with Connections Editor Wyna Liu & Guest Joel Fagliano",
-      "category": "events",
-      "subcategories": [
-        "games"
-      ],
-      "shortDescription": "You love to play - can you beat the editors?",
-      "address": "Main Point Books, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.04479,
-      "lng": -75.388152,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-15",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/fun-and-games-with-connections-editor-wyna-liu-guest-joel-fagliano-tickets-2002310953964",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ZDqSWRzZNU-HQNmDxpssQQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 15",
-      "nextDate": "2026-11-15",
-      "dates": [
-        "2026-11-15"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-haverford-haverford-guild-holiday-art-fine-craft-a89d00",
-      "name": "Haverford Guild Holiday Art & Fine Craft Show",
-      "category": "events",
-      "subcategories": [
-        "christmas",
-        "holiday",
-        "holiday-market",
-        "markets"
-      ],
-      "shortDescription": "—Give the Gift of Art This Year— Shop from more than 60 juried artists and gift your loved ones and yourself unforgettable one-of-a-kind works of art.",
-      "address": "Haverford Community Recreation and Evironmental Center, Haverford, PA",
-      "town": "Haverford",
-      "lat": 39.993194,
-      "lng": -75.343554,
-      "priceTier": 1,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-15",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://haverfordguild.org/2026-holiday-fine-craft-fair/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/6FOjFOP7WUGRZWiJ-bQ5Vw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 15",
-      "nextDate": "2026-11-15",
-      "dates": [
-        "2026-11-15"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-drexel-hill-paint-sip-49d6ae",
-      "name": "Paint & Sip",
-      "category": "events",
-      "subcategories": [
-        "visual-arts"
-      ],
-      "shortDescription": "Enjoy an afternoon of wine flights and crafts",
-      "address": "Casey's Drexel Hill, Drexel Hill, PA",
-      "town": "Drexel Hill",
-      "lat": 39.959937,
-      "lng": -75.288952,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-15",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/paint-sip-tickets-2003938715643",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/xHGeQ3t2vUiXd2agaNzw0Q.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 15",
-      "nextDate": "2026-11-15",
-      "dates": [
-        "2026-11-15"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-sh-tty-art-buddies-grown-up-craft-club-byo-22c542",
-      "name": "Shtty Art Buddies: Grown-Up Craft Club (BYOB) · Media, PA",
-      "category": "events",
-      "subcategories": [
-        "crafts",
-        "visual-arts"
-      ],
-      "shortDescription": "Put the phone down and make something gloriously wonky. BYOB craft night for adults. No skills needed, all supplies included.",
-      "address": "Nimble Craft LLC, Media, PA",
-      "town": "Media",
-      "lat": 39.91804,
-      "lng": -75.388534,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-15",
-      "endDate": "2026-11-16",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/shtty-art-buddies-grown-up-craft-club-byob-media-pa-tickets-2004392396615",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gQwoX5uEj02hJM3nDKkRQg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Nov 15 - Nov 16",
-      "nextDate": "2026-11-15",
-      "dates": [
-        "2026-11-15",
-        "2026-11-16"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-havertown-sip-savor-song-fundraiser-for-keep-mus-39d012",
-      "name": "Sip, Savor & Song Fundraiser for Keep Music Alive - All Ages",
-      "category": "events",
-      "subcategories": [
-        "animals",
-        "civic",
-        "destinations",
-        "family"
-      ],
-      "shortDescription": "Annual fundraiser to support Teach Music Week, Kids Music Day, Instrument Petting Zoo events and Music Lessons for disadvantaged youth.",
-      "address": "Kelly Center, Havertown, PA",
-      "town": "Havertown",
-      "lat": 39.98841,
-      "lng": -75.31308,
-      "priceTier": 2,
-      "tags": [
-        "family",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-15",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/sip-savor-song-fundraiser-for-keep-music-alive-all-ages-tickets-2003484315520",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Hx7z72im5EyZxSG6Uq_91w.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 15",
-      "nextDate": "2026-11-15",
-      "dates": [
-        "2026-11-15"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-concordville-the-smile-social-star-care-dental-x-29ff70",
-      "name": "The Smile Social | Star Care Dental X Clean Juice",
-      "category": "events",
-      "subcategories": [
-        "health-wellness",
-        "lifestyle"
-      ],
-      "shortDescription": "Join Star Care Dental x Clean Juice for The Smile Social, a feel-good morning bringing together movement, wellness, and a little self-care",
-      "address": "1102 Baltimore Pike ste 203, Concordville, PA",
-      "town": "Concordville",
-      "lat": 39.880465,
-      "lng": -75.542738,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-15",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/the-smile-social-star-care-dental-x-clean-juice-tickets-2003966900946",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7QBE2h9bE0mXGI6_k6yiKw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 15",
-      "nextDate": "2026-11-15",
-      "dates": [
-        "2026-11-15"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wallingford-tri-state-jazz-society-concert-kris-0256b5",
-      "name": "Tri State Jazz Society Concert - Kris Tokarski - Piano",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "New Orleans pianist Kris Tokarski appeared once before at Tri-State, with a band led by Dan Levinson. This time it's a solo performan",
-      "address": "Community Arts Center, Wallingford, PA",
-      "town": "Wallingford",
-      "lat": 39.908927,
-      "lng": -75.365674,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-15",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://communityartscenter.org/events/?pno=",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/AEVAWD96QUSe_-Wiy48NhQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 15",
-      "nextDate": "2026-11-15",
-      "dates": [
-        "2026-11-15"
-      ],
-      "occurrences": 1
-    },
     {
       "id": "ev-wayne-3d-printer-for-teens-b6e34c",
       "name": "3D Printer for Teens",
@@ -546,6 +128,43 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b04bdf65-d71d-4a5a-a43a-cf4f24a1e822.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mon, Nov 16",
+      "nextDate": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-villanova-introduction-to-belly-dance-at-the-wil-7dc44e",
+      "name": "Introduction to Belly Dance at the Willows Mansion",
+      "category": "events",
+      "subcategories": [
+        "dance",
+        "performing-arts"
+      ],
+      "shortDescription": "Go beyond the stereotypes and join us for a fun, introductory belly dance classes taught by Amalia from Amalia Belly Dance.",
+      "address": "The Willows Mansion, Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.02232,
+      "lng": -75.394958,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-16",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/introduction-to-belly-dance-at-the-willows-mansion-registration-2004047570230",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/RyMIg43hlU2YlIj8qwntOA.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -720,6 +339,43 @@
       "occurrences": 1
     },
     {
+      "id": "ev-media-sh-tty-art-buddies-grown-up-craft-club-byo-22c542",
+      "name": "Shtty Art Buddies: Grown-Up Craft Club (BYOB) · Media, PA",
+      "category": "events",
+      "subcategories": [
+        "crafts",
+        "visual-arts"
+      ],
+      "shortDescription": "Put the phone down and make something gloriously wonky. BYOB craft night for adults. No skills needed, all supplies included.",
+      "address": "Nimble Craft LLC, Media, PA",
+      "town": "Media",
+      "lat": 39.91804,
+      "lng": -75.388534,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-16",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/shtty-art-buddies-grown-up-craft-club-byob-media-pa-tickets-2004392396615",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gQwoX5uEj02hJM3nDKkRQg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mon, Nov 16",
+      "nextDate": "2026-11-16",
+      "dates": [
+        "2026-11-16"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-sprouts-a-student-led-botany-course-b15e98",
       "name": "Sprouts: A Student-Led Botany Course",
       "category": "events",
@@ -808,6 +464,44 @@
         "2026-12-17"
       ],
       "occurrences": 7
+    },
+    {
+      "id": "ev-chester-blue-table-talk-international-education-0361ef",
+      "name": "Blue Table Talk: International Education Week",
+      "category": "events",
+      "subcategories": [
+        "learning",
+        "talks-lectures"
+      ],
+      "shortDescription": "Blue Table Talk is the Office of Student Inclusion and Belonging's live talk show style event featuring hosts and special guests from across the Widener community.",
+      "address": "University Center, Chester, PA",
+      "town": "Chester",
+      "lat": 39.84956,
+      "lng": -75.35575,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-17",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.widener.edu/events/blue-table-talk-international-education-week",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b89d0b8e-5d25-44b5-909f-bf4402d84eee.medium.PNG",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Nov 17",
+      "nextDate": "2026-11-17",
+      "dates": [
+        "2026-11-17"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-newtown-square-boys-cross-country-team-lunch-829bdf",
@@ -1016,6 +710,44 @@
         "2027-03-30"
       ],
       "occurrences": 20
+    },
+    {
+      "id": "ev-chester-widener-community-reading-group-session-3ff840",
+      "name": "Widener Community Reading Group Session 2",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "literary-arts"
+      ],
+      "shortDescription": "Antiracism is a transformative concept that reorients and reenergizes the conversation about racism-and, even more fundamentally, points us toward liberating new ways of...",
+      "address": "Chester, PA",
+      "town": "Chester",
+      "lat": 39.84956,
+      "lng": -75.35575,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-17",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.widener.edu/events?page=0",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0aa7c31f-7fd4-426f-9071-961dd969b4d4.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Nov 17",
+      "nextDate": "2026-11-17",
+      "dates": [
+        "2026-11-17"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-wayne-chess-club-634d75",
@@ -2237,6 +1969,40 @@
       "occurrences": 1
     },
     {
+      "id": "ev-bryn-mawr-standalone-withheld-midnights-in-octob-2f185e",
+      "name": "Standalone, Withheld & Midnights in October",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Dive into Standalone, Withheld & Midnights this October for a chill, in-person vibe you won’t wanna miss!",
+      "address": "Medley Arts Center, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.02467,
+      "lng": -75.326,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-20",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/standalone-withheld-midnights-in-october-tickets-2002673194435",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/6_F-x1-djUOeblAPJg4mdQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Nov 20",
+      "nextDate": "2026-11-20",
+      "dates": [
+        "2026-11-20"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-swim-dive-kickoff-dinner-233db6",
       "name": "Swim & Dive Kickoff Dinner",
       "category": "events",
@@ -2356,6 +2122,45 @@
       "dates": [
         "2026-11-20",
         "2026-11-27"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "ev-aston-aston-mills-arts-annual-art-show-and-sale-3d03bc",
+      "name": "Aston Mills Arts Annual Art Show and Sale",
+      "category": "events",
+      "subcategories": [
+        "markets",
+        "visual-arts"
+      ],
+      "shortDescription": "Public show: November 14 & 15, 21 & 22, 11am-4pm Step inside 10,000 square feet of working fine art studios and galleries at our Annual Art Show & Sale.",
+      "address": "Aston Mills Arts, Aston, PA",
+      "town": "Aston",
+      "lat": 39.884953,
+      "lng": -75.444995,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-22",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.astonmillsarts.com/events/z67fnfkdrsywtzalcmde6r3y8t5x9c",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/uWxpGPmEmEKSCvuKSWlR1Q.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Nov 21 - Nov 22",
+      "nextDate": "2026-11-21",
+      "dates": [
+        "2026-11-21",
+        "2026-11-22"
       ],
       "occurrences": 2
     },
@@ -17455,8 +17260,8 @@
       ],
       "hours": {},
       "startDate": "2027-05-07",
-      "endDate": "2027-05-09",
-      "recurring": "none",
+      "endDate": "2027-05-14",
+      "recurring": "weekly",
       "venueId": "",
       "phone": "",
       "website": "https://colonialplayhouse.net/doubt/",
@@ -17466,14 +17271,15 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Daily, May 7 - May 9",
+      "schedule": "Fri, Sat, Sun, May 7 - May 14",
       "nextDate": "2027-05-07",
       "dates": [
         "2027-05-07",
         "2027-05-08",
-        "2027-05-09"
+        "2027-05-09",
+        "2027-05-14"
       ],
-      "occurrences": 3
+      "occurrences": 4
     },
     {
       "id": "ev-newtown-square-episcopal-academy-golf-tournament-9cd0b5",
