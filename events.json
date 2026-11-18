@@ -1,293 +1,9 @@
 {
   "version": 1,
-  "scraped_at": "2026-11-17T18:39:26.820344+00:00",
+  "scraped_at": "2026-11-18T18:12:13.780102+00:00",
   "horizon_days": 180,
   "event_count": 460,
   "listings": [
-    {
-      "id": "ev-chester-blue-table-talk-international-education-0361ef",
-      "name": "Blue Table Talk: International Education Week",
-      "category": "events",
-      "subcategories": [
-        "learning",
-        "talks-lectures"
-      ],
-      "shortDescription": "Blue Table Talk is the Office of Student Inclusion and Belonging's live talk show style event featuring hosts and special guests from across the Widener community.",
-      "address": "University Center, Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-17",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.widener.edu/events/blue-table-talk-international-education-week",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b89d0b8e-5d25-44b5-909f-bf4402d84eee.medium.PNG",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Nov 17",
-      "nextDate": "2026-11-17",
-      "dates": [
-        "2026-11-17"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-boys-cross-country-team-lunch-829bdf",
-      "name": "Boys Cross Country Team Lunch",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Boys Cross Country Team Lunch",
-      "address": "Tierney Dining Hall - Ott Alcove, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-17",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9d093412-36b4-48da-9f8d-65b0dd9152c9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Nov 17",
-      "nextDate": "2026-11-17",
-      "dates": [
-        "2026-11-17"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-mother-goose-on-the-loose-ages-birth-24-mo-94f84e",
-      "name": "Mother Goose on the Loose (Ages Birth - 24 months)",
-      "category": "events",
-      "subcategories": [
-        "kids",
-        "literary-arts",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Winsor Room - Registration required Birth - Age 24 months Stories, songs, and movement activities to help your young child build early literacy skills in a safe, social...",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-11-17",
-      "endDate": "2026-12-15",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17721473",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e04e48cf-45db-4883-b6ec-7300514cd7c0.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Nov 17 - Dec 15",
-      "nextDate": "2026-11-17",
-      "dates": [
-        "2026-11-17",
-        "2026-11-24",
-        "2026-12-08",
-        "2026-12-15"
-      ],
-      "occurrences": 4
-    },
-    {
-      "id": "ev-chester-oldies-in-the-park-a0e86f",
-      "name": "Oldies in the Park",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "destinations",
-        "music",
-        "outdoor-concert"
-      ],
-      "shortDescription": "Oldies in the Park at Ethel Waters Park in Chester.",
-      "address": "Ethel Waters Park, Chester, PA",
-      "town": "Chester",
-      "lat": 39.846465,
-      "lng": -75.358842,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-11-17",
-      "endDate": "2027-05-11",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.chestercity.com/event/oldies-in-the-park-2/2026-11-17/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/o6XxL0PM3kaE6hDXOaFfuw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Nov 17 - May 11",
-      "nextDate": "2026-11-17",
-      "dates": [
-        "2026-11-17",
-        "2026-11-24",
-        "2026-12-01",
-        "2026-12-08",
-        "2026-12-15",
-        "2026-12-22",
-        "2026-12-29",
-        "2027-01-05",
-        "2027-01-12",
-        "2027-01-19",
-        "2027-01-26",
-        "2027-02-02",
-        "2027-02-09",
-        "2027-02-16",
-        "2027-02-23",
-        "2027-03-02",
-        "2027-03-09",
-        "2027-03-16",
-        "2027-03-23",
-        "2027-03-30",
-        "2027-04-06",
-        "2027-04-13",
-        "2027-04-20",
-        "2027-04-27",
-        "2027-05-04",
-        "2027-05-11"
-      ],
-      "occurrences": 26
-    },
-    {
-      "id": "ev-holmes-tuesday-karaoke-at-haggertys-in-holmes-pa-3b255e",
-      "name": "Tuesday Karaoke at Haggertys in Holmes, PA (Delaware County",
-      "category": "events",
-      "subcategories": [
-        "open-mic",
-        "performing-arts"
-      ],
-      "shortDescription": "Karaoke is Every Tuesday at Haggertys in Homes, PA (Delaware County, PA) Karaoke starts at 8pm.",
-      "address": "Haggerty's Cafe, Holmes, PA",
-      "town": "Holmes",
-      "lat": 39.899696,
-      "lng": -75.305652,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-17",
-      "endDate": "2027-03-30",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/tuesday-karaoke-at-haggertys-in-holmes-pa-delaware-county-pa-tickets-1225315845679",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/g_89wQtSp0Sz9smp4PcgxA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tuesdays, Nov 17 - Mar 30",
-      "nextDate": "2026-11-17",
-      "dates": [
-        "2026-11-17",
-        "2026-11-24",
-        "2026-12-01",
-        "2026-12-08",
-        "2026-12-15",
-        "2026-12-22",
-        "2026-12-29",
-        "2027-01-05",
-        "2027-01-12",
-        "2027-01-19",
-        "2027-01-26",
-        "2027-02-02",
-        "2027-02-09",
-        "2027-02-16",
-        "2027-02-23",
-        "2027-03-02",
-        "2027-03-09",
-        "2027-03-16",
-        "2027-03-23",
-        "2027-03-30"
-      ],
-      "occurrences": 20
-    },
-    {
-      "id": "ev-chester-widener-community-reading-group-session-3ff840",
-      "name": "Widener Community Reading Group Session 2",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "literary-arts"
-      ],
-      "shortDescription": "Antiracism is a transformative concept that reorients and reenergizes the conversation about racism-and, even more fundamentally, points us toward liberating new ways of...",
-      "address": "Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-17",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.widener.edu/events?page=0",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0aa7c31f-7fd4-426f-9071-961dd969b4d4.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Tue, Nov 17",
-      "nextDate": "2026-11-17",
-      "dates": [
-        "2026-11-17"
-      ],
-      "occurrences": 1
-    },
     {
       "id": "ev-wayne-chess-club-634d75",
       "name": "Chess Club",
@@ -790,18 +506,18 @@
       "occurrences": 1
     },
     {
-      "id": "ev-newtown-square-ms-musical-performance-704af7",
+      "id": "ev-newtown-square-ms-musical-performance-04144b",
       "name": "MS Musical Performance",
       "category": "events",
       "subcategories": [
         "music",
         "performing-arts"
       ],
-      "shortDescription": "MS Musical Performance at Theater - Carrafiell Theater in Newtown Square.",
-      "address": "Theater - Carrafiell Theater, Newtown Square, PA",
+      "shortDescription": "MS Musical Performance at Theater - Lobby in Newtown Square.",
+      "address": "Theater - Lobby, Newtown Square, PA",
       "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
+      "lat": 39.98768,
+      "lng": -75.38274,
       "priceTier": 0,
       "tags": [
         "free",
@@ -815,7 +531,7 @@
       "phone": "",
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/de8a8d2e-0aee-4a6e-b082-3194ae1b1c25.medium.png",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a5bb07a2-7451-461c-a708-a4ee484b5c26.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -2783,6 +2499,115 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-mother-goose-on-the-loose-ages-birth-24-mo-94f84e",
+      "name": "Mother Goose on the Loose (Ages Birth - 24 months)",
+      "category": "events",
+      "subcategories": [
+        "kids",
+        "literary-arts",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Winsor Room - Registration required Birth - Age 24 months Stories, songs, and movement activities to help your young child build early literacy skills in a safe, social...",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-11-24",
+      "endDate": "2026-12-15",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17721474",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e04e48cf-45db-4883-b6ec-7300514cd7c0.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Nov 24 - Dec 15",
+      "nextDate": "2026-11-24",
+      "dates": [
+        "2026-11-24",
+        "2026-12-08",
+        "2026-12-15"
+      ],
+      "occurrences": 3
+    },
+    {
+      "id": "ev-chester-oldies-in-the-park-a0e86f",
+      "name": "Oldies in the Park",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "destinations",
+        "music",
+        "outdoor-concert"
+      ],
+      "shortDescription": "Oldies in the Park at Ethel Waters Park in Chester.",
+      "address": "Ethel Waters Park, Chester, PA",
+      "town": "Chester",
+      "lat": 39.846465,
+      "lng": -75.358842,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-11-24",
+      "endDate": "2027-05-11",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.chestercity.com/event/oldies-in-the-park-2/2026-11-24/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/o6XxL0PM3kaE6hDXOaFfuw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Nov 24 - May 11",
+      "nextDate": "2026-11-24",
+      "dates": [
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05",
+        "2027-01-12",
+        "2027-01-19",
+        "2027-01-26",
+        "2027-02-02",
+        "2027-02-09",
+        "2027-02-16",
+        "2027-02-23",
+        "2027-03-02",
+        "2027-03-09",
+        "2027-03-16",
+        "2027-03-23",
+        "2027-03-30",
+        "2027-04-06",
+        "2027-04-13",
+        "2027-04-20",
+        "2027-04-27",
+        "2027-05-04",
+        "2027-05-11"
+      ],
+      "occurrences": 25
+    },
+    {
       "id": "ev-wayne-the-science-of-soccer-engineered-by-the-fr-467539",
       "name": "The Science of Soccer: Engineered by The Franklin Institute",
       "category": "events",
@@ -2820,6 +2645,62 @@
         "2026-12-17"
       ],
       "occurrences": 2
+    },
+    {
+      "id": "ev-holmes-tuesday-karaoke-at-haggertys-in-holmes-pa-3b255e",
+      "name": "Tuesday Karaoke at Haggertys in Holmes, PA (Delaware County",
+      "category": "events",
+      "subcategories": [
+        "open-mic",
+        "performing-arts"
+      ],
+      "shortDescription": "Karaoke is Every Tuesday at Haggertys in Homes, PA (Delaware County, PA) Karaoke starts at 8pm.",
+      "address": "Haggerty's Cafe, Holmes, PA",
+      "town": "Holmes",
+      "lat": 39.899696,
+      "lng": -75.305652,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-24",
+      "endDate": "2027-03-30",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/tuesday-karaoke-at-haggertys-in-holmes-pa-delaware-county-pa-tickets-1225315845679",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/g_89wQtSp0Sz9smp4PcgxA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tuesdays, Nov 24 - Mar 30",
+      "nextDate": "2026-11-24",
+      "dates": [
+        "2026-11-24",
+        "2026-12-01",
+        "2026-12-08",
+        "2026-12-15",
+        "2026-12-22",
+        "2026-12-29",
+        "2027-01-05",
+        "2027-01-12",
+        "2027-01-19",
+        "2027-01-26",
+        "2027-02-02",
+        "2027-02-09",
+        "2027-02-16",
+        "2027-02-23",
+        "2027-03-02",
+        "2027-03-09",
+        "2027-03-16",
+        "2027-03-23",
+        "2027-03-30"
+      ],
+      "occurrences": 19
     },
     {
       "id": "ev-wayne-concrete-charlie-thanksgiving-eve-throwdow-9acde4",
@@ -2938,7 +2819,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-newtown-square-ea-turkey-trot-7c5782",
+      "id": "ev-newtown-square-ea-turkey-trot-af8197",
       "name": "EA Turkey Trot",
       "category": "events",
       "subcategories": [
@@ -2946,8 +2827,8 @@
         "running",
         "sports-outdoors"
       ],
-      "shortDescription": "EA Turkey Trot at Smith Field (Field G) in Newtown Square.",
-      "address": "Smith Field (Field G), Newtown Square, PA",
+      "shortDescription": "EA Turkey Trot at Smith Field in Newtown Square.",
+      "address": "Smith Field, Newtown Square, PA",
       "town": "Newtown Square",
       "lat": 39.98678,
       "lng": -75.40103,
@@ -2964,7 +2845,7 @@
       "phone": "",
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c879d185-cfd2-4be9-802d-98e419906433.medium.png",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/6b0740b7-96f4-4f6c-9470-9888d45d4930.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -3955,6 +3836,43 @@
       "occurrences": 1
     },
     {
+      "id": "ev-radnor-holiday-cooking-class-entertaining-with-h-d0004e",
+      "name": "Holiday Cooking Class: Entertaining with Hors d'Oeuvres",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning"
+      ],
+      "shortDescription": "Make holiday entertaining easy, elegant, and delicious! Join Chef Koren and the Koren’s Kitchen culinary team for festive, hands-on cooking.",
+      "address": "Koren's Kitchen Catering & Private Events, Radnor, PA",
+      "town": "Radnor",
+      "lat": 40.048414,
+      "lng": -75.355823,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-03",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/holiday-cooking-class-entertaining-with-hors-doeuvres-tickets-2004481548270",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gGLoKkvZ4Uq1KXuFEqqPQg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Dec 3",
+      "nextDate": "2026-12-03",
+      "dates": [
+        "2026-12-03"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-tech-help-classes-for-adults-55-2-3pm-and-0a69df",
       "name": "Tech Help Classes for Adults 55 (2-3pm) and Walk-In Help (3-4pm)",
       "category": "events",
@@ -4140,6 +4058,44 @@
       "website": "https://www.eventbrite.com/e/dse-live-at-bats-tickets-2003997336981",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/piuM9YkcA0iRwVMvKEEU8A.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Dec 4",
+      "nextDate": "2026-12-04",
+      "dates": [
+        "2026-12-04"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-open-mic-night-1fedb3",
+      "name": "Open Mic Night",
+      "category": "events",
+      "subcategories": [
+        "open-mic",
+        "performing-arts"
+      ],
+      "shortDescription": "Open Mic Night at Black Box-Ridgway Theater in Newtown Square.",
+      "address": "Black Box-Ridgway Theater, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-04",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ae3cd0fc-bdb1-4536-bbe4-8f5afbe28b89.medium.PNG",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -5367,7 +5323,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-newtown-square-ms-us-band-concert-3af2fa",
+      "id": "ev-newtown-square-ms-us-band-concert-abe706",
       "name": "MS & US Band Concert",
       "category": "events",
       "subcategories": [
@@ -5375,11 +5331,11 @@
         "music",
         "performing-arts"
       ],
-      "shortDescription": "MS & US Band Concert at Theater - Carrafiell Theater in Newtown Square.",
-      "address": "Theater - Carrafiell Theater, Newtown Square, PA",
+      "shortDescription": "MS & US Band Concert at Theater - Lobby in Newtown Square.",
+      "address": "Theater - Lobby, Newtown Square, PA",
       "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
+      "lat": 39.98768,
+      "lng": -75.38274,
       "priceTier": 0,
       "tags": [
         "free",
@@ -5821,6 +5777,44 @@
       "nextDate": "2026-12-10",
       "dates": [
         "2026-12-10"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-media-dead-flowers-rolling-stones-tribuite-2c47eb",
+      "name": "Dead Flowers - Rolling Stones Tribuite",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "An exciting Philadelphia based rolling stone Tribute Band",
+      "address": "Shere-E-Punjab Indian Restaurant, Media, PA",
+      "town": "Media",
+      "lat": 39.918127,
+      "lng": -75.392515,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-11",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/dead-flowers-rolling-stones-tribuite-tickets-2003786571576",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Kor9xNL_Y0KU8JZOnOomCQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Dec 11",
+      "nextDate": "2026-12-11",
+      "dates": [
+        "2026-12-11"
       ],
       "occurrences": 1
     },
@@ -9655,7 +9649,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-newtown-square-domino-musical-auditions-15aa76",
+      "id": "ev-newtown-square-domino-musical-auditions-a235b2",
       "name": "Domino Musical Auditions",
       "category": "events",
       "subcategories": [
@@ -9663,11 +9657,11 @@
         "performing-arts",
         "theater"
       ],
-      "shortDescription": "Domino Musical Auditions at Theater - Carrafiell Theater in Newtown Square.",
-      "address": "Theater - Carrafiell Theater, Newtown Square, PA",
+      "shortDescription": "Domino Musical Auditions at Theater - Lobby in Newtown Square.",
+      "address": "Theater - Lobby, Newtown Square, PA",
       "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
+      "lat": 39.98768,
+      "lng": -75.38274,
       "priceTier": 0,
       "tags": [
         "free",
@@ -9894,7 +9888,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-newtown-square-summer-opportunities-fair-explore-7e272c",
+      "id": "ev-newtown-square-summer-opportunities-fair-explore-91ff03",
       "name": "Summer Opportunities Fair: Explore Your Options",
       "category": "events",
       "subcategories": [
@@ -9902,11 +9896,11 @@
         "festival",
         "street-fair"
       ],
-      "shortDescription": "Summer Opportunities Fair: Explore Your Options at Annenberg Library (C101) in Newtown Square.",
-      "address": "Annenberg Library (C101), Newtown Square, PA",
+      "shortDescription": "Summer Opportunities Fair: Explore Your Options",
+      "address": "Annenberg Library, Newtown Square, PA",
       "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
+      "lat": 39.986873,
+      "lng": -75.400724,
       "priceTier": 0,
       "tags": [
         "free",
@@ -9921,7 +9915,7 @@
       "phone": "",
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a20cae2d-ded8-45df-bbbb-518f39cf4b26.medium.png",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/27eb4ee0-cf03-4357-800b-661d598fcce0.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -12942,18 +12936,18 @@
       "occurrences": 1
     },
     {
-      "id": "ev-newtown-square-dance-concert-preview-c617e5",
+      "id": "ev-newtown-square-dance-concert-preview-0b7cd6",
       "name": "Dance Concert Preview",
       "category": "events",
       "subcategories": [
         "dance",
         "performing-arts"
       ],
-      "shortDescription": "Dance Concert Preview at Theater - Carrafiell Theater in Newtown Square.",
-      "address": "Theater - Carrafiell Theater, Newtown Square, PA",
+      "shortDescription": "Dance Concert Preview at Theater - Lobby in Newtown Square.",
+      "address": "Theater - Lobby, Newtown Square, PA",
       "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
+      "lat": 39.98768,
+      "lng": -75.38274,
       "priceTier": 0,
       "tags": [
         "free",
@@ -12980,7 +12974,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-newtown-square-parent-coffee-with-college-counse-af8434",
+      "id": "ev-newtown-square-parent-coffee-with-college-counse-8c3208",
       "name": "Parent Coffee with College Counselors",
       "category": "events",
       "subcategories": [
@@ -12988,10 +12982,10 @@
         "lifestyle"
       ],
       "shortDescription": "Parent Coffee with College Counselors",
-      "address": "Tierney Dining Hall - Ott Alcove, Newtown Square, PA",
+      "address": "Tierney Dining Hall, Newtown Square, PA",
       "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
+      "lat": 39.98768,
+      "lng": -75.38274,
       "priceTier": 0,
       "tags": [
         "free",
@@ -13005,7 +12999,7 @@
       "phone": "",
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/f7e4de4f-6088-4f5b-96c5-21abb0ed6a78.medium.png",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0abf56cd-d33e-4cfa-bdf2-6c5d454b4cbb.medium.JPG",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -13209,18 +13203,18 @@
       "occurrences": 1
     },
     {
-      "id": "ev-newtown-square-ms-us-dance-concert-a70d00",
+      "id": "ev-newtown-square-ms-us-dance-concert-d64845",
       "name": "MS & US Dance Concert",
       "category": "events",
       "subcategories": [
         "dance",
         "performing-arts"
       ],
-      "shortDescription": "MS & US Dance Concert at Theater - Carrafiell Theater in Newtown Square.",
-      "address": "Theater - Carrafiell Theater, Newtown Square, PA",
+      "shortDescription": "MS & US Dance Concert at Theater - Lobby in Newtown Square.",
+      "address": "Theater - Lobby, Newtown Square, PA",
       "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
+      "lat": 39.98768,
+      "lng": -75.38274,
       "priceTier": 0,
       "tags": [
         "free",
@@ -14278,17 +14272,17 @@
       "occurrences": 1
     },
     {
-      "id": "ev-newtown-square-speakup-program-for-parents-and-s-a5e55d",
+      "id": "ev-newtown-square-speakup-program-for-parents-and-s-0448b9",
       "name": "SpeakUP! Program for Parents and Students",
       "category": "events",
       "subcategories": [
         "lifestyle"
       ],
       "shortDescription": "SpeakUP! Program for Parents and Students",
-      "address": "Theater - Carrafiell Theater, Newtown Square, PA",
+      "address": "Theater - Lobby, Newtown Square, PA",
       "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
+      "lat": 39.98768,
+      "lng": -75.38274,
       "priceTier": 0,
       "tags": [
         "free",
@@ -14302,7 +14296,7 @@
       "phone": "",
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Zuksiiq3XU6okwRq0mOV9Q.medium.jpg",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ed5d9ace-1294-42f9-943c-441c86ee3422.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -14748,44 +14742,6 @@
       "occurrences": 1
     },
     {
-      "id": "ev-newtown-square-open-mic-night-9683d3",
-      "name": "Open Mic Night",
-      "category": "events",
-      "subcategories": [
-        "open-mic",
-        "performing-arts"
-      ],
-      "shortDescription": "Open Mic Night at Theater - Carrafiell Theater in Newtown Square.",
-      "address": "Theater - Carrafiell Theater, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2027-02-26",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/85b60f04-8a5a-48ea-99f0-890d0b22aff7.medium.PNG",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Feb 26",
-      "nextDate": "2027-02-26",
-      "dates": [
-        "2027-02-26"
-      ],
-      "occurrences": 1
-    },
-    {
       "id": "ev-wayne-main-line-symphony-orchestra-david-kim-sol-90343b",
       "name": "Main Line Symphony Orchestra - David Kim Solos and Pines of Rome",
       "category": "events",
@@ -15160,7 +15116,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-newtown-square-ms-spring-play-performance-06fe10",
+      "id": "ev-newtown-square-ms-spring-play-performance-d0c52e",
       "name": "MS Spring Play Performance",
       "category": "events",
       "subcategories": [
@@ -15168,10 +15124,10 @@
         "theater"
       ],
       "shortDescription": "MS Spring Play Performance",
-      "address": "Black Box-Ridgway Theater, Newtown Square, PA",
+      "address": "Black Box, Newtown Square, PA",
       "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
+      "lat": 39.986873,
+      "lng": -75.400724,
       "priceTier": 0,
       "tags": [
         "free",
@@ -15185,7 +15141,7 @@
       "phone": "",
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/2359805a-4335-4631-9bdd-3b9f717c613d.medium.png",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1ad73d2b-336d-4f6a-ab98-63d85e39beb0.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -15558,15 +15514,15 @@
       ]
     },
     {
-      "id": "ev-newtown-square-scheduling-assemblies-for-rising-a2d88f",
+      "id": "ev-newtown-square-scheduling-assemblies-for-rising-9107af",
       "name": "Scheduling Assemblies for Rising 10,11 and 12th",
       "category": "events",
       "subcategories": [],
       "shortDescription": "Scheduling Assemblies for Rising 10,11 and 12th",
-      "address": "Theater - Carrafiell Theater, Newtown Square, PA",
+      "address": "Theater - Lobby, Newtown Square, PA",
       "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
+      "lat": 39.98768,
+      "lng": -75.38274,
       "priceTier": 0,
       "tags": [
         "free",
@@ -16044,7 +16000,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-newtown-square-senior-breakfast-for-faculty-107b1a",
+      "id": "ev-newtown-square-senior-breakfast-for-faculty-f81572",
       "name": "Senior Breakfast for Faculty",
       "category": "events",
       "subcategories": [
@@ -16053,10 +16009,10 @@
         "special-audience"
       ],
       "shortDescription": "Senior Breakfast for Faculty",
-      "address": "Tierney Dining Hall - Ott Alcove, Newtown Square, PA",
+      "address": "Tierney Dining Hall, Newtown Square, PA",
       "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
+      "lat": 39.98768,
+      "lng": -75.38274,
       "priceTier": 0,
       "tags": [
         "family",
@@ -16071,7 +16027,7 @@
       "phone": "",
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eefd816b-84ec-4764-ad70-5b0dd5375c2b.medium.PNG",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eb0ecd95-be3a-4f40-9acc-f917551585f9.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -16427,7 +16383,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-newtown-square-musical-preview-161c60",
+      "id": "ev-newtown-square-musical-preview-abeecf",
       "name": "Musical Preview",
       "category": "events",
       "subcategories": [
@@ -16435,11 +16391,11 @@
         "performing-arts",
         "theater"
       ],
-      "shortDescription": "Musical Preview at Theater - Carrafiell Theater in Newtown Square.",
-      "address": "Theater - Carrafiell Theater, Newtown Square, PA",
+      "shortDescription": "Musical Preview at Theater - Lobby in Newtown Square.",
+      "address": "Theater - Lobby, Newtown Square, PA",
       "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
+      "lat": 39.98768,
+      "lng": -75.38274,
       "priceTier": 0,
       "tags": [
         "free",
@@ -16453,7 +16409,7 @@
       "phone": "",
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/062d4c89-203d-4b32-8806-9952f398dc8f.medium.png",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/61214c6a-7fbc-413b-a37a-4c521e8b4fbe.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -16621,6 +16577,45 @@
       "occurrences": 1
     },
     {
+      "id": "ev-newtown-square-alumni-50th-reunion-dinner-1d156b",
+      "name": "Alumni 50th Reunion Dinner",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "food",
+        "food-drink"
+      ],
+      "shortDescription": "Alumni 50th Reunion Dinner",
+      "address": "Lowry House, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-04-30",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7b909007-b646-4d58-ad9b-03da409fd8aa.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Apr 30",
+      "nextDate": "2027-04-30",
+      "dates": [
+        "2027-04-30"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-jason-vieaux-1296e7",
       "name": "Jason Vieaux",
       "category": "events",
@@ -16661,7 +16656,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-newtown-square-spring-musical-performance-f8616c",
+      "id": "ev-newtown-square-spring-musical-performance-d1e612",
       "name": "Spring Musical Performance",
       "category": "events",
       "subcategories": [
@@ -16669,10 +16664,10 @@
         "performing-arts"
       ],
       "shortDescription": "Spring Musical Performance",
-      "address": "Theater - Carrafiell Theater, Newtown Square, PA",
+      "address": "Theater - Lobby, Newtown Square, PA",
       "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
+      "lat": 39.98768,
+      "lng": -75.38274,
       "priceTier": 0,
       "tags": [
         "free",
@@ -16686,7 +16681,7 @@
       "phone": "",
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/89d88182-c781-45dd-b5d5-553f06a126a8.medium.png",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a5bb07a2-7451-461c-a708-a4ee484b5c26.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -16738,7 +16733,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-newtown-square-alumni-loyal-blues-lunch-6f752f",
+      "id": "ev-newtown-square-alumni-loyal-blues-lunch-295a64",
       "name": "Alumni Loyal Blues Lunch",
       "category": "events",
       "subcategories": [
@@ -16747,11 +16742,11 @@
         "food-drink",
         "music"
       ],
-      "shortDescription": "Alumni Loyal Blues Lunch at Tierney Dining Hall - Ott Alcove in Newtown Square.",
-      "address": "Tierney Dining Hall - Ott Alcove, Newtown Square, PA",
+      "shortDescription": "Alumni Loyal Blues Lunch at Tierney Dining Hall in Newtown Square.",
+      "address": "Tierney Dining Hall, Newtown Square, PA",
       "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
+      "lat": 39.98768,
+      "lng": -75.38274,
       "priceTier": 0,
       "tags": [
         "free",
@@ -16765,7 +16760,7 @@
       "phone": "",
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8e96acd0-2370-46e4-a8d3-ff93a4f1ae7f.medium.png",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/313ed291-c206-4130-84fe-6e3732f469f8.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -17028,7 +17023,7 @@
       ],
       "hours": {},
       "startDate": "2027-05-07",
-      "endDate": "2027-05-15",
+      "endDate": "2027-05-16",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -17039,16 +17034,17 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Fri, Sat, Sun, May 7 - May 15",
+      "schedule": "Fri, Sat, Sun, May 7 - May 16",
       "nextDate": "2027-05-07",
       "dates": [
         "2027-05-07",
         "2027-05-08",
         "2027-05-09",
         "2027-05-14",
-        "2027-05-15"
+        "2027-05-15",
+        "2027-05-16"
       ],
-      "occurrences": 5
+      "occurrences": 6
     },
     {
       "id": "ev-newtown-square-episcopal-academy-golf-tournament-9cd0b5",
@@ -17089,7 +17085,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-newtown-square-ms-us-orchestra-concert-a5065c",
+      "id": "ev-newtown-square-ms-us-orchestra-concert-3919e3",
       "name": "MS & US Orchestra Concert",
       "category": "events",
       "subcategories": [
@@ -17098,10 +17094,10 @@
         "performing-arts"
       ],
       "shortDescription": "MS & US Orchestra Concert",
-      "address": "Theater - Carrafiell Theater, Newtown Square, PA",
+      "address": "Theater - Lobby, Newtown Square, PA",
       "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
+      "lat": 39.98768,
+      "lng": -75.38274,
       "priceTier": 0,
       "tags": [
         "free",
@@ -17115,7 +17111,7 @@
       "phone": "",
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/6a9dc752-f235-4671-a168-adba9e198f89.medium.png",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4ed8e51f-c70c-4053-90c5-39661e36347a.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -17128,7 +17124,7 @@
       "occurrences": 1
     },
     {
-      "id": "ev-newtown-square-spring-concert-for-lower-school-c3a207",
+      "id": "ev-newtown-square-spring-concert-for-lower-school-527399",
       "name": "Spring Concert for Lower School",
       "category": "events",
       "subcategories": [
@@ -17138,10 +17134,10 @@
         "music"
       ],
       "shortDescription": "Spring Concert for Lower School",
-      "address": "Theater - Carrafiell Theater, Newtown Square, PA",
+      "address": "Theater - Lobby, Newtown Square, PA",
       "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
+      "lat": 39.98768,
+      "lng": -75.38274,
       "priceTier": 0,
       "tags": [
         "free",
@@ -17155,7 +17151,7 @@
       "phone": "",
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b3ceb737-0695-43d6-84ff-240e3098ad3d.medium.png",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e06af2cc-69c5-4802-be64-c7e8310ad01c.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
