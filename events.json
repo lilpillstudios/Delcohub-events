@@ -1,393 +1,9 @@
 {
   "version": 1,
-  "scraped_at": "2026-11-18T18:12:13.780102+00:00",
+  "scraped_at": "2026-11-19T18:24:11.127944+00:00",
   "horizon_days": 180,
-  "event_count": 460,
+  "event_count": 461,
   "listings": [
-    {
-      "id": "ev-wayne-chess-club-634d75",
-      "name": "Chess Club",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "games",
-        "health-wellness",
-        "learning"
-      ],
-      "shortDescription": "Delaware Valley Chess Club meets at RML, weekly on Wednesdays.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-18",
-      "endDate": "2026-12-23",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17290552",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eea63be5-c4d3-46d5-9632-af64e5f10861.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wednesdays, Nov 18 - Dec 23",
-      "nextDate": "2026-11-18",
-      "dates": [
-        "2026-11-18",
-        "2026-12-02",
-        "2026-12-09",
-        "2026-12-16",
-        "2026-12-23"
-      ],
-      "occurrences": 5
-    },
-    {
-      "id": "media-dining-under-the-stars",
-      "name": "Dining Under the Stars",
-      "category": "events",
-      "subcategories": [
-        "food-festival",
-        "street-dining"
-      ],
-      "shortDescription": "Media's signature warm-weather event closing State Street so restaurants serve al fresco dinners under string lights.",
-      "address": "State St, Media, PA 19063",
-      "town": "Media",
-      "lat": 39.9166,
-      "lng": -75.388,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "date",
-        "group",
-        "family"
-      ],
-      "hours": {},
-      "startDate": "",
-      "endDate": "",
-      "recurring": "weekly",
-      "venueId": "media-state-street-district",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "schedule": "Wednesdays, June-August",
-      "nextDate": "2026-11-18",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-11-18"
-      ]
-    },
-    {
-      "id": "ev-newtown-square-nyc-alumni-social-90d2ed",
-      "name": "NYC Alumni Social",
-      "category": "events",
-      "subcategories": [
-        "destinations"
-      ],
-      "shortDescription": "NYC Alumni Social at a Delco venue in Newtown Square.",
-      "address": "Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-18",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eefb91e3-73bc-4c8d-9bea-17781be9091d.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 18",
-      "nextDate": "2026-11-18",
-      "dates": [
-        "2026-11-18"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-newton-post-mahjong-39ae44",
-      "name": "Newton Post - Mahjong",
-      "category": "events",
-      "subcategories": [
-        "games"
-      ],
-      "shortDescription": "Newton Post - Mahjong at Newtown Post in Newtown Square.",
-      "address": "Newtown Post, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-18",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7b06ea32-047e-4854-a846-b1eea534918e.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 18",
-      "nextDate": "2026-11-18",
-      "dates": [
-        "2026-11-18"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-pageturners-book-club-131a40",
-      "name": "Pageturners Book Club",
-      "category": "events",
-      "subcategories": [
-        "literary-arts"
-      ],
-      "shortDescription": "Librarians at RML invite you to join in a lively discussion of this month's book selection, Never Caught by Erica Armstrong Dunbar.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-18",
-      "endDate": "2026-12-16",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17460863",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/db613de4-0621-4422-a0e4-74ccf1a63a8b.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wednesdays, Nov 18 - Dec 16",
-      "nextDate": "2026-11-18",
-      "dates": [
-        "2026-11-18",
-        "2026-12-16"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-wayne-photography-on-location-with-laura-duccesc-abacac",
-      "name": "Photography on Location with Laura Ducceschi",
-      "category": "events",
-      "subcategories": [
-        "visual-arts"
-      ],
-      "shortDescription": "Join us to photograph the beautiful fall season! Classes will alternate between out on location and in the studio to discuss techniques, share images and compare notes.",
-      "address": "Wayne Art Center, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.03894,
-      "lng": -75.394446,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-18",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://wayneart.org/events/2154/photography-on-location-with-laura-ducceschi",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Mcx5uqkRVEGXzVVDZRNzmQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 18",
-      "nextDate": "2026-11-18",
-      "dates": [
-        "2026-11-18"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-signing-day-ef3e80",
-      "name": "Signing Day",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Signing Day at O'Neill Gym in Newtown Square.",
-      "address": "O'Neill Gym, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-18",
-      "endDate": "2027-04-14",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wednesdays, Nov 18 - Apr 14",
-      "nextDate": "2026-11-18",
-      "dates": [
-        "2026-11-18",
-        "2027-01-06",
-        "2027-04-14"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-wayne-tech-fun-with-the-meta-quest-vr-headset-3c07f7",
-      "name": "Tech Fun with the Meta Quest VR Headset",
-      "category": "events",
-      "subcategories": [
-        "games",
-        "special-audience"
-      ],
-      "shortDescription": "Drop in to try out the Quest virtual reality headset- play a game, create art, or travel to a virtual world! First come, first served. For grades 6-12. Teen Room",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-18",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17945066",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/28499b9f-804b-40d6-928a-c0eba0b74f69.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 18",
-      "nextDate": "2026-11-18",
-      "dates": [
-        "2026-11-18"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-springfield-twp-delaware-county-the-garden-club-b22156",
-      "name": "The Garden Club Of Springfield November Meeting",
-      "category": "events",
-      "subcategories": [
-        "civic"
-      ],
-      "shortDescription": "The Garden Club of Springfield next meeting will be held on November 18, 2026 at 9:30 AM at 1st Presbyterian Church, Springfield.",
-      "address": "1st Presbyterian Church Springfield, Springfield Twp (Delaware county), PA",
-      "town": "Springfield Twp (Delaware county)",
-      "lat": 39.935649,
-      "lng": -75.334252,
-      "priceTier": 1,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-18",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/FZ-Eqz2JqEaF1-FHKSjTlA.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 18",
-      "nextDate": "2026-11-18",
-      "dates": [
-        "2026-11-18"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-widener-pride-men-s-basketball-vs-chatha-012d86",
-      "name": "Widener Pride: Men's Basketball vs Chatham",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Men's Basketball vs Chatham Streaming Video: https://gomacsports.tv/widenerpride/",
-      "address": "Schwartz Center, Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-18",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14653&amp;sport_id=3",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dce3bfdb-89e5-4b34-a3fc-0a2507a30f0e.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 18",
-      "nextDate": "2026-11-18",
-      "dates": [
-        "2026-11-18"
-      ],
-      "occurrences": 1
-    },
     {
       "id": "ev-lansdowne-dan-navarro-at-lansdowne-folk-club-192bc7",
       "name": "Dan Navarro at Lansdowne Folk Club",
@@ -2819,6 +2435,46 @@
       "occurrences": 1
     },
     {
+      "id": "media-dining-under-the-stars",
+      "name": "Dining Under the Stars",
+      "category": "events",
+      "subcategories": [
+        "food-festival",
+        "street-dining"
+      ],
+      "shortDescription": "Media's signature warm-weather event closing State Street so restaurants serve al fresco dinners under string lights.",
+      "address": "State St, Media, PA 19063",
+      "town": "Media",
+      "lat": 39.9166,
+      "lng": -75.388,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "date",
+        "group",
+        "family"
+      ],
+      "hours": {},
+      "startDate": "",
+      "endDate": "",
+      "recurring": "weekly",
+      "venueId": "media-state-street-district",
+      "phone": "",
+      "website": "",
+      "images": [],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "schedule": "Wednesdays, June-August",
+      "nextDate": "2026-11-25",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-11-25"
+      ]
+    },
+    {
       "id": "ev-newtown-square-ea-turkey-trot-af8197",
       "name": "EA Turkey Trot",
       "category": "events",
@@ -3644,6 +3300,49 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-chess-club-634d75",
+      "name": "Chess Club",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "games",
+        "health-wellness",
+        "learning"
+      ],
+      "shortDescription": "Delaware Valley Chess Club meets at RML, weekly on Wednesdays.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-23",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17971793",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eea63be5-c4d3-46d5-9632-af64e5f10861.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wednesdays, Dec 2 - Dec 23",
+      "nextDate": "2026-12-02",
+      "dates": [
+        "2026-12-02",
+        "2026-12-09",
+        "2026-12-16",
+        "2026-12-23"
+      ],
+      "occurrences": 4
+    },
+    {
       "id": "ev-wayne-the-wonton-soups-at-118-north-c3c637",
       "name": "The Wonton Soups at 118 North",
       "category": "events",
@@ -4070,18 +3769,17 @@
       "occurrences": 1
     },
     {
-      "id": "ev-newtown-square-open-mic-night-1fedb3",
-      "name": "Open Mic Night",
+      "id": "ev-aston-inside-thoughts-0dd60d",
+      "name": "Inside Thoughts",
       "category": "events",
       "subcategories": [
-        "open-mic",
-        "performing-arts"
+        "visual-arts"
       ],
-      "shortDescription": "Open Mic Night at Black Box-Ridgway Theater in Newtown Square.",
-      "address": "Black Box-Ridgway Theater, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
+      "shortDescription": "Prepare for an overshare. Inside Thoughts is a one-night solo exhibition of abstract paintings by Delaware County artist Maya Shumar—along with all the questions,...",
+      "address": "Aston Mills Arts, Aston, PA",
+      "town": "Aston",
+      "lat": 39.884953,
+      "lng": -75.444995,
       "priceTier": 0,
       "tags": [
         "free",
@@ -4093,9 +3791,9 @@
       "recurring": "none",
       "venueId": "",
       "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
+      "website": "https://www.eventbrite.com/e/inside-thoughts-a-one-night-art-show-tickets-2004681788193",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ae3cd0fc-bdb1-4536-bbe4-8f5afbe28b89.medium.PNG",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_-TtddNOmk6QGbPdfvX5bQ.medium.jpg",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -4620,6 +4318,84 @@
       "occurrences": 1
     },
     {
+      "id": "ev-norwood-beads-tinis-7b8630",
+      "name": "Beads & tinis",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "crafts",
+        "drinks",
+        "food-drink"
+      ],
+      "shortDescription": "Learn to make a beaded flower pot Or make a bag charm!! All while sipping on delicious martinis made by The Perfect Pour. Safe space for all",
+      "address": "Neighborhood nutrition, Norwood, PA",
+      "town": "Norwood",
+      "lat": 39.890641,
+      "lng": -75.302168,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/beads-tinis-tickets-2004820686642",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/wyVvhawF7k6fLQlPGcrAcw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Dec 6",
+      "nextDate": "2026-12-06",
+      "dates": [
+        "2026-12-06"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-breakfast-with-santa-2026-192e83",
+      "name": "Breakfast with Santa 2026",
+      "category": "events",
+      "subcategories": [
+        "christmas",
+        "food",
+        "food-drink",
+        "holiday"
+      ],
+      "shortDescription": "Join us at The INN for Breakfast with Santa! Enjoy a festive breakfast, meet Santa, and make magical holiday memories with the family!",
+      "address": "The Inn at Villanova University, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.050831,
+      "lng": -75.348961,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/breakfast-with-santa-2026-tickets-2003473019734",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IxByA54F70KAuBhxpmL6fg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Dec 6",
+      "nextDate": "2026-12-06",
+      "dates": [
+        "2026-12-06"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-craftforms-2026-jurors-talks-74367b",
       "name": "CraftForms 2026 Jurors Talks",
       "category": "events",
@@ -4971,6 +4747,42 @@
         "2026-12-08"
       ],
       "occurrences": 2
+    },
+    {
+      "id": "ev-media-make-your-own-small-book-fa1d64",
+      "name": "Make your own Small Book",
+      "category": "events",
+      "subcategories": [
+        "literary-arts"
+      ],
+      "shortDescription": "Get crafty and bring your own tiny story to life by making a cool little book from scratch. They make a great gift!",
+      "address": "Nimble Craft LLC, Media, PA",
+      "town": "Media",
+      "lat": 39.91804,
+      "lng": -75.388534,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-07",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/make-your-own-small-book-tickets-2004288708481",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/DGPh6WuJOEOYNUXj13aDAg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mon, Dec 7",
+      "nextDate": "2026-12-07",
+      "dates": [
+        "2026-12-07"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-boothwyn-wilmington-women-s-connection-luncheon-37f6e9",
@@ -5582,6 +5394,44 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/dce3bfdb-89e5-4b34-a3fc-0a2507a30f0e.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Dec 10",
+      "nextDate": "2026-12-10",
+      "dates": [
+        "2026-12-10"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-swarthmore-fgi-philadelphia-holiday-party-abec9d",
+      "name": "FGI Philadelphia Holiday Party",
+      "category": "events",
+      "subcategories": [
+        "christmas",
+        "destinations",
+        "holiday"
+      ],
+      "shortDescription": "Celebrate Fashion Group International (FGI) Philadelphia’s accomplishments, welcome new members, and look ahead to the new year.",
+      "address": "The Inn at Swarthmore, Swarthmore, PA",
+      "town": "Swarthmore",
+      "lat": 39.901656,
+      "lng": -75.351131,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-10",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/fgi-philadelphia-holiday-party-tickets-2004267401752",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/nu0nRzOUb0ymGIco8WJsLQ.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -7018,6 +6868,43 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/440b5bad-552b-44ee-a8d7-224f5016a0e0.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Dec 16",
+      "nextDate": "2026-12-16",
+      "dates": [
+        "2026-12-16"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-pageturners-book-club-131a40",
+      "name": "Pageturners Book Club",
+      "category": "events",
+      "subcategories": [
+        "literary-arts"
+      ],
+      "shortDescription": "Librarians at RML invite you to join in a lively discussion of this month's book selection, Heartwood by Amity Gaige. All are welcome. No registration necessary.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-16",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17461083",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/db613de4-0621-4422-a0e4-74ccf1a63a8b.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -9040,6 +8927,42 @@
       "occurrences": 1
     },
     {
+      "id": "ev-newtown-square-signing-day-ef3e80",
+      "name": "Signing Day",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Signing Day at O'Neill Gym in Newtown Square.",
+      "address": "O'Neill Gym, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-06",
+      "endDate": "2027-04-14",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wednesdays, Jan 6 - Apr 14",
+      "nextDate": "2027-01-06",
+      "dates": [
+        "2027-01-06",
+        "2027-04-14"
+      ],
+      "occurrences": 2
+    },
+    {
       "id": "ev-newtown-square-squash-boys-jv-v-lawrencville-16ada1",
       "name": "Squash - Boys JV v Lawrencville",
       "category": "events",
@@ -9637,6 +9560,44 @@
       "website": "https://www.facebook.com/events/3468638523317267/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5af9f2f8-f9da-4a1c-aa81-ff6d64b2cf67.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Jan 10",
+      "nextDate": "2027-01-10",
+      "dates": [
+        "2027-01-10"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-hope-new-beginnings-a-journaling-workshop-617eee",
+      "name": "Hope & New Beginnings: A Journaling Workshop with Gabrielle Kaplan-Mayer",
+      "category": "events",
+      "subcategories": [
+        "holiday",
+        "learning",
+        "workshop"
+      ],
+      "shortDescription": "Join us for a nourishing workshop to start the new year",
+      "address": "Main Point Books, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04479,
+      "lng": -75.388152,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-10",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/hope-new-beginnings-a-journaling-workshop-with-gabrielle-kaplan-mayer-tickets-2004536895816",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Rpoc4PPWhEWxzsnCzPL3tA.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -13662,6 +13623,43 @@
       "occurrences": 1
     },
     {
+      "id": "ev-glen-mills-wine-chocolate-tasting-at-grace-winer-dd464a",
+      "name": "Wine & Chocolate Tasting at Grace Winery in Glen Mills",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink"
+      ],
+      "shortDescription": "A Grace Winery classic! A wine & chocolate tasting makes for perfect date or thoughtful gift.",
+      "address": "The Inn at Grace Winery, Glen Mills, PA",
+      "town": "Glen Mills",
+      "lat": 39.926287,
+      "lng": -75.478658,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-02-07",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/wine-chocolate-tasting-at-grace-winery-in-glen-mills-tickets-2003778608759",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_8TwJeKk8kyBrU5w90TJ-Q.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Feb 7",
+      "nextDate": "2027-02-07",
+      "dates": [
+        "2027-02-07"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-basketball-boys-ms-a-friends-cent-ab2cc4",
       "name": "Basketball - Boys MS A @ Friends Central",
       "category": "events",
@@ -14742,6 +14740,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-newtown-square-open-mic-night-e8a0c9",
+      "name": "Open Mic Night",
+      "category": "events",
+      "subcategories": [
+        "open-mic",
+        "performing-arts"
+      ],
+      "shortDescription": "Open Mic Night at Theater - Lobby in Newtown Square.",
+      "address": "Theater - Lobby, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98768,
+      "lng": -75.38274,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-02-26",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/166e0740-6183-4a65-9552-46d0d22c3494.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Feb 26",
+      "nextDate": "2027-02-26",
+      "dates": [
+        "2027-02-26"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-main-line-symphony-orchestra-david-kim-sol-90343b",
       "name": "Main Line Symphony Orchestra - David Kim Solos and Pines of Rome",
       "category": "events",
@@ -15079,17 +15115,17 @@
       "occurrences": 1
     },
     {
-      "id": "ev-newtown-square-100-days-to-alumni-44d14e",
+      "id": "ev-newtown-square-100-days-to-alumni-4143ed",
       "name": "100 Days to Alumni",
       "category": "events",
       "subcategories": [
         "destinations"
       ],
-      "shortDescription": "100 Days to Alumni at Tierney Dining Hall - Ott Alcove in Newtown Square.",
-      "address": "Tierney Dining Hall - Ott Alcove, Newtown Square, PA",
+      "shortDescription": "100 Days to Alumni at Tierney Dining Hall in Newtown Square.",
+      "address": "Tierney Dining Hall, Newtown Square, PA",
       "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
+      "lat": 39.98768,
+      "lng": -75.38274,
       "priceTier": 0,
       "tags": [
         "free",
@@ -15103,7 +15139,7 @@
       "phone": "",
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a25e9fe3-7428-4e7a-9a21-45f971930542.medium.png",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eefb91e3-73bc-4c8d-9bea-17781be9091d.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
