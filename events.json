@@ -1,509 +1,44 @@
 {
   "version": 1,
-  "scraped_at": "2026-11-19T18:24:11.127944+00:00",
+  "scraped_at": "2026-11-20T17:53:45.489721+00:00",
   "horizon_days": 180,
-  "event_count": 461,
+  "event_count": 463,
   "listings": [
     {
-      "id": "ev-lansdowne-dan-navarro-at-lansdowne-folk-club-192bc7",
-      "name": "Dan Navarro at Lansdowne Folk Club",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "nightlife",
-        "performing-arts"
-      ],
-      "shortDescription": "With a career spanning decades and more than a dozen albums, Grammy Nominated Songwriter (\"We Belong\") Dan Navarro is currently on tour in support of his album, \"Horizon...",
-      "address": "Lansdowne Folk Club, Lansdowne, PA",
-      "town": "Lansdowne",
-      "lat": 39.935639,
-      "lng": -75.271746,
-      "priceTier": 2,
-      "tags": [
-        "group",
-        "open-late"
-      ],
-      "hours": {},
-      "startDate": "2026-11-19",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "484-466-6213",
-      "website": "https://folkclub.org",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cDhkJPVsRUqwVY919UkJmQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Nov 19",
-      "nextDate": "2026-11-19",
-      "dates": [
-        "2026-11-19"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-havertown-keep-the-change-c547a5",
-      "name": "Keep the Change",
+      "id": "ev-wallingford-2026-fall-friday-night-live-ray-char-2a6219",
+      "name": "2026 Fall Friday Night Live: Ray Charles Tribute",
       "category": "events",
       "subcategories": [
         "concert",
-        "live-music",
         "music",
         "performing-arts"
       ],
-      "shortDescription": "KEEP THE CHANGE BAND was founded in 2011 by Jeff Perlman along with former member Rowland Adamoli.",
-      "address": "Barnaby's Havertown, Havertown, PA",
-      "town": "Havertown",
-      "lat": 39.976545,
-      "lng": -75.334958,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-19",
-      "endDate": "2026-12-03",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/108571370?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cf7b575e-9163-4377-aa9d-54d6f1017ad9.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thursdays, Nov 19 - Dec 3",
-      "nextDate": "2026-11-19",
-      "dates": [
-        "2026-11-19",
-        "2026-12-03"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-wayne-late-30s-40s-happy-hour-115ba0",
-      "name": "Late 30s/40s Happy Hour",
-      "category": "events",
-      "subcategories": [
-        "drinks",
-        "food-drink"
-      ],
-      "shortDescription": "For more info and discounted pricing, visit: https://www.theshakaclub.com/our-locations/philadelphia",
-      "address": "Nature's Vin, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044117,
-      "lng": -75.384973,
-      "priceTier": 2,
+      "shortDescription": "SAVE THE DATE AND BUY YOUR TICKETS NOW! Benefactor Members please call the office (610-566-1713) to reserve your 2 free tickets. (2 per concert) <click [...]",
+      "address": "Community Arts Center, Wallingford, PA",
+      "town": "Wallingford",
+      "lat": 39.908927,
+      "lng": -75.365674,
+      "priceTier": 1,
       "tags": [
         "group"
       ],
       "hours": {},
-      "startDate": "2026-11-19",
+      "startDate": "2026-11-20",
       "endDate": "",
       "recurring": "none",
       "venueId": "",
       "phone": "",
-      "website": "https://www.eventbrite.com/e/late-30s40s-happy-hour-wayne-tickets-2000727456681",
+      "website": "https://communityartscenter.org/events/?pno=",
       "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/_c_dP2T5CEqEQ-k2ZaZYdQ.medium.png",
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4pefKL2g10yGr4jyyIOFNQ.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Thu, Nov 19",
-      "nextDate": "2026-11-19",
+      "schedule": "Fri, Nov 20",
+      "nextDate": "2026-11-20",
       "dates": [
-        "2026-11-19"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-ms-musical-performance-04144b",
-      "name": "MS Musical Performance",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "MS Musical Performance at Theater - Lobby in Newtown Square.",
-      "address": "Theater - Lobby, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98768,
-      "lng": -75.38274,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-19",
-      "endDate": "2026-11-21",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a5bb07a2-7451-461c-a708-a4ee484b5c26.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Nov 19 - Nov 21",
-      "nextDate": "2026-11-19",
-      "dates": [
-        "2026-11-19",
-        "2026-11-20",
-        "2026-11-21"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-bryn-mawr-one-time-adult-wheel-class-edcc01",
-      "name": "One Time Adult Wheel Class",
-      "category": "events",
-      "subcategories": [
-        "arts"
-      ],
-      "shortDescription": "Join our one time class to learn the basics of wheel throwing!",
-      "address": "Blue Skies Pottery - Bryn Mawr, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-19",
-      "endDate": "2026-11-26",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/160849/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SvgMJsHbeESUI8oHFgSYBw.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thursdays, Nov 19 - Nov 26",
-      "nextDate": "2026-11-19",
-      "dates": [
-        "2026-11-19",
-        "2026-11-26"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-bryn-mawr-paint-a-set-of-coasters-paint-sip-33e314",
-      "name": "Paint a Set of Coasters - Paint & \"Sip\"",
-      "category": "events",
-      "subcategories": [
-        "visual-arts"
-      ],
-      "shortDescription": "Enjoy ice cream, paint, and unwind as you create a colorful set of coasters to take home.",
-      "address": "Surreal Creamery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.024305,
-      "lng": -75.323681,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-19",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/paint-a-set-of-coasters-paint-sip-tickets-2003993211642",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/BIwwih6IKUWhej6NK2yLlQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Nov 19",
-      "nextDate": "2026-11-19",
-      "dates": [
-        "2026-11-19"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-preschool-storytime-craft-ages-3-5-years-7202f3",
-      "name": "Preschool Storytime & Craft (Ages 3-5 years)",
-      "category": "events",
-      "subcategories": [
-        "crafts",
-        "kids",
-        "literary-arts",
-        "music"
-      ],
-      "shortDescription": "Ages 3 - 5 years Winsor Room - Registration required Stories, songs, and movement activities to help your young child engage with literature in a safe, social setting.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-11-19",
-      "endDate": "2026-12-17",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17721521",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c537856d-867f-43e4-8bdd-b49297ef9405.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thursdays, Nov 19 - Dec 17",
-      "nextDate": "2026-11-19",
-      "dates": [
-        "2026-11-19",
-        "2026-12-10",
-        "2026-12-17"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-wayne-regional-greek-cooking-and-wine-pairing-wi-a33a36",
-      "name": "Regional Greek Cooking and Wine Pairing with Stony Run with Chef Karen Bentz",
-      "category": "events",
-      "subcategories": [
-        "fitness",
-        "food-drink",
-        "running",
-        "sports-outdoors"
-      ],
-      "shortDescription": "In this hands-on cooking class, you will work together to create a wonderful meal with Chef Karen Bentz.",
-      "address": "Wayne Art Center, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.03894,
-      "lng": -75.394446,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-19",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://wayneart.org/events/2146/regional-greek-cooking-and-wine-pairing-with-stony-run-with-chef-karen-bentz",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/EJancANYbk2Of55PgRjnLQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Nov 19",
-      "nextDate": "2026-11-19",
-      "dates": [
-        "2026-11-19"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-tail-waggin-tutors-70c78c",
-      "name": "Tail Waggin' Tutors",
-      "category": "events",
-      "subcategories": [
-        "lifestyle",
-        "literary-arts"
-      ],
-      "shortDescription": "Peter Rabbit Room - Registration required - Grades K-5th Practice reading to therapy dogs Benny and Chewy.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-19",
-      "endDate": "2026-12-03",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17816147",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0f2575b7-6157-40f2-9d56-21499a4ccb9a.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thursdays, Nov 19 - Dec 3",
-      "nextDate": "2026-11-19",
-      "dates": [
-        "2026-11-19",
-        "2026-12-03"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-drexel-hill-thursday-karaoke-at-casey-s-restaura-4579c1",
-      "name": "Thursday Karaoke at Casey's Restaurant (Drexel Hill - Delaware County",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink",
-        "open-mic",
-        "performing-arts"
-      ],
-      "shortDescription": "Sing your heart out at Casey's Restaurant every Thursday night with some karaoke fun in Drexel Hill, Delaware County, PA! Starts at 8pm.",
-      "address": "Casey's Saloon & Restaurant, Drexel Hill, PA",
-      "town": "Drexel Hill",
-      "lat": 39.960126,
-      "lng": -75.288562,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-19",
-      "endDate": "2027-05-13",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/thursday-karaoke-at-caseys-restaurant-drexel-hill-delaware-county-pa-tickets-1061653848239",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pgpVzPSpoUaADfBllel6lw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thursdays, Nov 19 - May 13",
-      "nextDate": "2026-11-19",
-      "dates": [
-        "2026-11-19",
-        "2026-11-26",
-        "2026-12-03",
-        "2026-12-10",
-        "2026-12-17",
-        "2026-12-24",
-        "2026-12-31",
-        "2027-01-07",
-        "2027-01-14",
-        "2027-01-21",
-        "2027-01-28",
-        "2027-02-04",
-        "2027-02-11",
-        "2027-02-18",
-        "2027-02-25",
-        "2027-03-04",
-        "2027-03-11",
-        "2027-03-18",
-        "2027-03-25",
-        "2027-04-01",
-        "2027-04-08",
-        "2027-04-15",
-        "2027-04-22",
-        "2027-04-29",
-        "2027-05-06",
-        "2027-05-13"
-      ],
-      "occurrences": 26
-    },
-    {
-      "id": "ev-wayne-toddler-storytime-ages-2-3-years-67d052",
-      "name": "Toddler Storytime (Ages 2 - 3 years)",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "kids",
-        "learning",
-        "lifestyle"
-      ],
-      "shortDescription": "Ages 2 - 3 years - Winsor Room Stories, songs, and movement activities to help your young child engage with literature in a safe, social setting.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-11-19",
-      "endDate": "2026-12-17",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17721454",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fe5023d6-7e53-42a2-b2aa-b93e19cac158.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "6 dates, Nov 19 - Dec 17",
-      "nextDate": "2026-11-19",
-      "dates": [
-        "2026-11-19",
-        "2026-11-23",
-        "2026-12-07",
-        "2026-12-10",
-        "2026-12-14",
-        "2026-12-17"
-      ],
-      "occurrences": 6
-    },
-    {
-      "id": "ev-wayne-zendog-10th-anniversary-show-at-118-north-337263",
-      "name": "Zendog - 10th Anniversary Show at 118 North",
-      "category": "events",
-      "subcategories": [
-        "destinations",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Zendog - 10th Anniversary Show at 118 North Thursday, November 19, 2026 Doors: 6:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-19",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1373605508237383/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0641fed7-45e7-4321-bae9-be378f578b51.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Thu, Nov 19",
-      "nextDate": "2026-11-19",
-      "dates": [
-        "2026-11-19"
+        "2026-11-20"
       ],
       "occurrences": 1
     },
@@ -696,6 +231,84 @@
         "2026-11-20"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-lancaster-county-farmers-market-1b0e48",
+      "name": "Lancaster County Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "farmers-market",
+        "markets"
+      ],
+      "shortDescription": "389 W. Lancaster Ave., Wayne. Wed., Fri., Sat., 6 to 4. 610-688-9856. LancasterCountyFarmersMarket.com.",
+      "address": "Lancaster County Farmers Market, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044908,
+      "lng": -75.400304,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-21",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://countylinesmagazine.com/event/lancaster-county-farmers-market-2-2025-06-18/2026-11-20/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b52e9d77-dd16-4ac8-9e9e-8ba8856cef3c.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Nov 20 - Nov 21",
+      "nextDate": "2026-11-20",
+      "dates": [
+        "2026-11-20",
+        "2026-11-21"
+      ],
+      "occurrences": 2
+    },
+    {
+      "id": "ev-newtown-square-ms-musical-performance-04144b",
+      "name": "MS Musical Performance",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "MS Musical Performance at Theater - Lobby in Newtown Square.",
+      "address": "Theater - Lobby, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98768,
+      "lng": -75.38274,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-21",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a5bb07a2-7451-461c-a708-a4ee484b5c26.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Nov 20 - Nov 21",
+      "nextDate": "2026-11-20",
+      "dates": [
+        "2026-11-20",
+        "2026-11-21"
+      ],
+      "occurrences": 2
     },
     {
       "id": "ev-drexel-hill-murder-mystery-co-dinner-theater-sho-fe3e2e",
@@ -1109,6 +722,47 @@
       "website": "",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/AkcuK2qZPEygRGcfqWZM-Q.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 21",
+      "nextDate": "2026-11-21",
+      "dates": [
+        "2026-11-21"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-culinary-workshop-kids-cook-thanksgiving-s-6ef660",
+      "name": "Culinary Workshop: Kids Cook Thanksgiving - Sweet Desserts",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink",
+        "holiday",
+        "kids"
+      ],
+      "shortDescription": "Kids Cook Thanksgiving - Sweet Saturday with Chef Birgit Raders-Eichinger",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-11-21",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2190/culinary-workshop-kids-cook-thanksgiving-sweet-desserts",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Ky24qCbCs06bRU_7XpHgWQ.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -1777,6 +1431,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-devon-tri-county-concerts-presents-violinist-tim-67d56f",
+      "name": "Tri-County Concerts presents violinist Timothy Chooi & marimbist Ji Su Jung",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "We're delighted to present an exciting and unusual duo: violinist Timothy Chooi and marimbist Ji Su Jung on Sunday, November 22 at 3 pm at Main Line Unitarian Church,...",
+      "address": "Main Line Unitarian Church, Devon, PA",
+      "town": "Devon",
+      "lat": 40.029923,
+      "lng": -75.407229,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-22",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.tricountyconcerts.org/emerging_artists",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/278mqP1-Nke9zm1lYK5EGQ.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Nov 22",
+      "nextDate": "2026-11-22",
+      "dates": [
+        "2026-11-22"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-3d-printer-for-teens-b6e34c",
       "name": "3D Printer for Teens",
       "category": "events",
@@ -1996,6 +1688,52 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-toddler-storytime-ages-2-3-years-67d052",
+      "name": "Toddler Storytime (Ages 2 - 3 years)",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "kids",
+        "learning",
+        "lifestyle"
+      ],
+      "shortDescription": "Ages 2 - 3 years - Winsor Room Stories, songs, and movement activities to help your young child engage with literature in a safe, social setting.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-11-23",
+      "endDate": "2026-12-17",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17721352",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fe5023d6-7e53-42a2-b2aa-b93e19cac158.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "5 dates, Nov 23 - Dec 17",
+      "nextDate": "2026-11-23",
+      "dates": [
+        "2026-11-23",
+        "2026-12-07",
+        "2026-12-10",
+        "2026-12-14",
+        "2026-12-17"
+      ],
+      "occurrences": 5
+    },
+    {
       "id": "ev-wayne-yoga-for-all-ages-10d418",
       "name": "Yoga For All Ages",
       "category": "events",
@@ -2181,7 +1919,7 @@
       ],
       "hours": {},
       "startDate": "2026-11-24",
-      "endDate": "2027-05-11",
+      "endDate": "2027-05-18",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -2192,7 +1930,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Tuesdays, Nov 24 - May 11",
+      "schedule": "Tuesdays, Nov 24 - May 18",
       "nextDate": "2026-11-24",
       "dates": [
         "2026-11-24",
@@ -2219,9 +1957,10 @@
         "2027-04-20",
         "2027-04-27",
         "2027-05-04",
-        "2027-05-11"
+        "2027-05-11",
+        "2027-05-18"
       ],
-      "occurrences": 25
+      "occurrences": 26
     },
     {
       "id": "ev-wayne-the-science-of-soccer-engineered-by-the-fr-467539",
@@ -2317,6 +2056,41 @@
         "2027-03-30"
       ],
       "occurrences": 19
+    },
+    {
+      "id": "ev-media-act-247-december-review-application-submis-ce20f2",
+      "name": "Act 247 December Review Application Submission Deadline",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Act 247 December Review Application Submission Deadline at a Delco venue in Media.",
+      "address": "Media, PA",
+      "town": "Media",
+      "lat": 39.91678,
+      "lng": -75.38769,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-25",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.delcopa.gov/node/3449",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/YP98VR5oBEevXvFM39fLEg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Nov 25",
+      "nextDate": "2026-11-25",
+      "dates": [
+        "2026-11-25"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-wayne-concrete-charlie-thanksgiving-eve-throwdow-9acde4",
@@ -2512,6 +2286,106 @@
         "2026-11-26"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-bryn-mawr-one-time-adult-wheel-class-edcc01",
+      "name": "One Time Adult Wheel Class",
+      "category": "events",
+      "subcategories": [
+        "arts"
+      ],
+      "shortDescription": "Join our one time class to learn the basics of wheel throwing!",
+      "address": "Blue Skies Pottery - Bryn Mawr, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-26",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/160849/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/SvgMJsHbeESUI8oHFgSYBw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Nov 26",
+      "nextDate": "2026-11-26",
+      "dates": [
+        "2026-11-26"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-drexel-hill-thursday-karaoke-at-casey-s-restaura-4579c1",
+      "name": "Thursday Karaoke at Casey's Restaurant (Drexel Hill - Delaware County",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink",
+        "open-mic",
+        "performing-arts"
+      ],
+      "shortDescription": "Sing your heart out at Casey's Restaurant every Thursday night with some karaoke fun in Drexel Hill, Delaware County, PA! Starts at 8pm.",
+      "address": "Casey's Saloon & Restaurant, Drexel Hill, PA",
+      "town": "Drexel Hill",
+      "lat": 39.960126,
+      "lng": -75.288562,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-26",
+      "endDate": "2027-05-13",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/thursday-karaoke-at-caseys-restaurant-drexel-hill-delaware-county-pa-tickets-1061653848239",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pgpVzPSpoUaADfBllel6lw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thursdays, Nov 26 - May 13",
+      "nextDate": "2026-11-26",
+      "dates": [
+        "2026-11-26",
+        "2026-12-03",
+        "2026-12-10",
+        "2026-12-17",
+        "2026-12-24",
+        "2026-12-31",
+        "2027-01-07",
+        "2027-01-14",
+        "2027-01-21",
+        "2027-01-28",
+        "2027-02-04",
+        "2027-02-11",
+        "2027-02-18",
+        "2027-02-25",
+        "2027-03-04",
+        "2027-03-11",
+        "2027-03-18",
+        "2027-03-25",
+        "2027-04-01",
+        "2027-04-08",
+        "2027-04-15",
+        "2027-04-22",
+        "2027-04-29",
+        "2027-05-06",
+        "2027-05-13"
+      ],
+      "occurrences": 25
     },
     {
       "id": "ev-lansdowne-a-bit-of-the-arts-376b6d",
@@ -3560,6 +3434,84 @@
       "website": "https://www.eventbrite.com/e/holiday-cooking-class-entertaining-with-hors-doeuvres-tickets-2004481548270",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/gGLoKkvZ4Uq1KXuFEqqPQg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Dec 3",
+      "nextDate": "2026-12-03",
+      "dates": [
+        "2026-12-03"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-havertown-keep-the-change-c547a5",
+      "name": "Keep the Change",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "KEEP THE CHANGE BAND was founded in 2011 by Jeff Perlman along with former member Rowland Adamoli.",
+      "address": "Barnaby's Havertown, Havertown, PA",
+      "town": "Havertown",
+      "lat": 39.976545,
+      "lng": -75.334958,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-03",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.bandsintown.com/e/108571374?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cf7b575e-9163-4377-aa9d-54d6f1017ad9.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Dec 3",
+      "nextDate": "2026-12-03",
+      "dates": [
+        "2026-12-03"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-tail-waggin-tutors-70c78c",
+      "name": "Tail Waggin' Tutors",
+      "category": "events",
+      "subcategories": [
+        "lifestyle",
+        "literary-arts"
+      ],
+      "shortDescription": "Peter Rabbit Room - Registration required - Grades K-5th Practice reading to therapy dogs Benny and Chewy.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-03",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17980268",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0f2575b7-6157-40f2-9d56-21499a4ccb9a.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -5594,6 +5546,49 @@
         "2026-12-10"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-preschool-storytime-craft-ages-3-5-years-7202f3",
+      "name": "Preschool Storytime & Craft (Ages 3-5 years)",
+      "category": "events",
+      "subcategories": [
+        "crafts",
+        "kids",
+        "literary-arts",
+        "music"
+      ],
+      "shortDescription": "Ages 3 - 5 years Winsor Room - Registration required Stories, songs, and movement activities to help your young child engage with literature in a safe, social setting.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-12-10",
+      "endDate": "2026-12-17",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17721524",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c537856d-867f-43e4-8bdd-b49297ef9405.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thursdays, Dec 10 - Dec 17",
+      "nextDate": "2026-12-10",
+      "dates": [
+        "2026-12-10",
+        "2026-12-17"
+      ],
+      "occurrences": 2
     },
     {
       "id": "ev-newtown-square-squash-ms-boys-a-v-vf-te-b1a8f9",
@@ -17275,6 +17270,79 @@
       "dates": [
         "2027-05-17"
       ]
+    },
+    {
+      "id": "ev-newtown-square-2nd-5th-ea-meet-and-play-ice-crea-a306a0",
+      "name": "2nd-5th EA Meet and Play Ice Cream Social",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink"
+      ],
+      "shortDescription": "2nd-5th EA Meet and Play Ice Cream Social",
+      "address": "Lower School Great Room, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-05-18",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/113cf37d-eb94-4c40-bc3d-3c1c88f765e1.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, May 18",
+      "nextDate": "2027-05-18",
+      "dates": [
+        "2027-05-18"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-prek-meet-play-at-ea-dd1f00",
+      "name": "PreK Meet & Play at EA",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "PreK Meet & Play at EA at Lower School Great Room in Newtown Square.",
+      "address": "Lower School Great Room, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-05-18",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, May 18",
+      "nextDate": "2027-05-18",
+      "dates": [
+        "2027-05-18"
+      ],
+      "occurrences": 1
     },
     {
       "id": "havertown-irish-festival",
