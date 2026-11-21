@@ -1,661 +1,9 @@
 {
   "version": 1,
-  "scraped_at": "2026-11-20T17:53:45.489721+00:00",
+  "scraped_at": "2026-11-21T16:51:21.785939+00:00",
   "horizon_days": 180,
-  "event_count": 463,
+  "event_count": 453,
   "listings": [
-    {
-      "id": "ev-wallingford-2026-fall-friday-night-live-ray-char-2a6219",
-      "name": "2026 Fall Friday Night Live: Ray Charles Tribute",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "SAVE THE DATE AND BUY YOUR TICKETS NOW! Benefactor Members please call the office (610-566-1713) to reserve your 2 free tickets. (2 per concert) <click [...]",
-      "address": "Community Arts Center, Wallingford, PA",
-      "town": "Wallingford",
-      "lat": 39.908927,
-      "lng": -75.365674,
-      "priceTier": 1,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://communityartscenter.org/events/?pno=",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/4pefKL2g10yGr4jyyIOFNQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 20",
-      "nextDate": "2026-11-20",
-      "dates": [
-        "2026-11-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-broomall-dara-lynn-98d563",
-      "name": "Dara Lynn",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Dara is a singer and guitarist based in Delco, PA.",
-      "address": "Page and Pour Tavern, Broomall, PA",
-      "town": "Broomall",
-      "lat": 39.982596,
-      "lng": -75.360142,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/108989062?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/DAzISL-Wg02xoAP0CDQTPQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 20",
-      "nextDate": "2026-11-20",
-      "dates": [
-        "2026-11-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-brookhaven-glen-riddle-rotary-bingo-night-dfd5b3",
-      "name": "Glen Riddle Rotary Bingo Night",
-      "category": "events",
-      "subcategories": [
-        "games"
-      ],
-      "shortDescription": "Join Glen Riddle Rotary for Cash Bingo on Nov. 20! Enjoy $1,400+ in prizes, baskets, door prizes, and festive fun!",
-      "address": "Brookhaven Community Center Gymnasium, Brookhaven, PA",
-      "town": "Brookhaven",
-      "lat": 39.876555,
-      "lng": -75.392068,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/glen-riddle-rotary-bingo-night-tickets-2003430401261",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-t44Q6YXp0GxXUaFBc55WQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 20",
-      "nextDate": "2026-11-20",
-      "dates": [
-        "2026-11-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "holidays-at-brandywine-chadds-ford",
-      "name": "Holidays at Brandywine (Brandywine Railroad)",
-      "category": "events",
-      "subcategories": [
-        "holiday",
-        "seasonal"
-      ],
-      "shortDescription": "The Brandywine Museum's beloved model railroad and holiday exhibits run from mid-November through early January in Chadds Ford.",
-      "schedule": "Mid-November through early January",
-      "recurring": "seasonal",
-      "nextDate": "2026-11-20",
-      "address": "Brandywine Museum of Art, 1 Hoffmans Mill Rd, Chadds Ford, PA 19317",
-      "town": "Chadds Ford",
-      "lat": 39.8676,
-      "lng": -75.5883,
-      "priceTier": 2,
-      "tags": [
-        "family",
-        "indoor",
-        "kid-friendly",
-        "date"
-      ],
-      "featured": true,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-11-20"
-      ]
-    },
-    {
-      "id": "ev-newtown-square-k-field-trip-91f8f6",
-      "name": "K Field Trip",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "K Field Trip at a Delco venue in Newtown Square.",
-      "address": "Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-20",
-      "endDate": "2027-05-06",
-      "recurring": "seasonal",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bbbbd562-8dd2-4c7f-9a4b-dbe81f083ecd.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Select dates, Nov 20 - May 6",
-      "nextDate": "2026-11-20",
-      "dates": [
-        "2026-11-20",
-        "2027-05-06"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-lansdowne-kelli-baker-9e390a",
-      "name": "Kelli Baker",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Signed to Gulf Coast Records by blues legend Mike Zito, powerhouse vocalist and songwriter Kelli Baker continues her meteoric rise as one of the most electrifying voices...",
-      "address": "Jamey's House of Music, Lansdowne, PA",
-      "town": "Lansdowne",
-      "lat": 39.937344,
-      "lng": -75.274493,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/108841873?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/tVDt4QRp-EC3v8iHwGl5tg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 20",
-      "nextDate": "2026-11-20",
-      "dates": [
-        "2026-11-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-lancaster-county-farmers-market-1b0e48",
-      "name": "Lancaster County Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "farmers-market",
-        "markets"
-      ],
-      "shortDescription": "389 W. Lancaster Ave., Wayne. Wed., Fri., Sat., 6 to 4. 610-688-9856. LancasterCountyFarmersMarket.com.",
-      "address": "Lancaster County Farmers Market, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044908,
-      "lng": -75.400304,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-20",
-      "endDate": "2026-11-21",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://countylinesmagazine.com/event/lancaster-county-farmers-market-2-2025-06-18/2026-11-20/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b52e9d77-dd16-4ac8-9e9e-8ba8856cef3c.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Nov 20 - Nov 21",
-      "nextDate": "2026-11-20",
-      "dates": [
-        "2026-11-20",
-        "2026-11-21"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-newtown-square-ms-musical-performance-04144b",
-      "name": "MS Musical Performance",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "MS Musical Performance at Theater - Lobby in Newtown Square.",
-      "address": "Theater - Lobby, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98768,
-      "lng": -75.38274,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-20",
-      "endDate": "2026-11-21",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a5bb07a2-7451-461c-a708-a4ee484b5c26.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Nov 20 - Nov 21",
-      "nextDate": "2026-11-20",
-      "dates": [
-        "2026-11-20",
-        "2026-11-21"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-drexel-hill-murder-mystery-co-dinner-theater-sho-fe3e2e",
-      "name": "Murder Mystery Co. Dinner Theater Show at Casey's Drexel Hill",
-      "category": "events",
-      "subcategories": [
-        "comedy",
-        "food",
-        "food-drink",
-        "nightlife"
-      ],
-      "shortDescription": "Join the murder mystery experience that puts YOU in the spotlight in Metro Philadelphia.",
-      "address": "Casey's Drexel Hill, Drexel Hill, PA",
-      "town": "Drexel Hill",
-      "lat": 39.959937,
-      "lng": -75.288952,
-      "priceTier": 3,
-      "tags": [
-        "group",
-        "open-late"
-      ],
-      "hours": {},
-      "startDate": "2026-11-20",
-      "endDate": "2026-12-12",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.murdermysteryco.com/?utm_source=discovery&utm_medium=listing&utm_campaign=46138",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/zmtLZIFCRkyyEqRoFjZsmQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "2 dates, Nov 20 - Dec 12",
-      "nextDate": "2026-11-20",
-      "dates": [
-        "2026-11-20",
-        "2026-12-12"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-newtown-square-newtown-post-mindfulness-morning-db7ca1",
-      "name": "Newtown Post - Mindfulness Morning",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Newtown Post - Mindfulness Morning",
-      "address": "Newtown Post, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 20",
-      "nextDate": "2026-11-20",
-      "dates": [
-        "2026-11-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-sing-along-with-dani-b-9fbaed",
-      "name": "Sing Along with Dani B!",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Winsor Room - No registration required - Ages birth-6 years Join local children's entertainer, Dani B, for a fun, interactive music session filled with singing,...",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17816154",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/29285568-7de3-428e-a16d-3491ad349d9e.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 20",
-      "nextDate": "2026-11-20",
-      "dates": [
-        "2026-11-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-slainte-a-stand-up-comedy-show-98f807",
-      "name": "Slainte: a Stand Up Comedy Show",
-      "category": "events",
-      "subcategories": [
-        "comedy",
-        "performing-arts"
-      ],
-      "shortDescription": "Get ready to laugh until your sides hurt at Slainte: a Stand Up Comedy Show, where the jokes are as smooth as the Guinness.",
-      "address": "Sligo Irish Pub, Media, PA",
-      "town": "Media",
-      "lat": 39.918417,
-      "lng": -75.39154,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/slainte-a-stand-up-comedy-show-tickets-2003517509805",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3pZySB3jSkehzYG3gAhSUw.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 20",
-      "nextDate": "2026-11-20",
-      "dates": [
-        "2026-11-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-smash-palace-at-118-north-052361",
-      "name": "Smash Palace at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Smash Palace at 118 North with Brother Starling Friday, November 20, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1726651705125034/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cea12030-43ea-45fc-844c-25f5ae066f75.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 20",
-      "nextDate": "2026-11-20",
-      "dates": [
-        "2026-11-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-standalone-withheld-midnights-in-octob-2f185e",
-      "name": "Standalone, Withheld & Midnights in October",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Dive into Standalone, Withheld & Midnights this October for a chill, in-person vibe you won’t wanna miss!",
-      "address": "Medley Arts Center, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.02467,
-      "lng": -75.326,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/standalone-withheld-midnights-in-october-tickets-2002673194435",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/6_F-x1-djUOeblAPJg4mdQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 20",
-      "nextDate": "2026-11-20",
-      "dates": [
-        "2026-11-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-swim-dive-kickoff-dinner-233db6",
-      "name": "Swim & Dive Kickoff Dinner",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink",
-        "outdoor-recreation",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Swim & Dive Kickoff Dinner",
-      "address": "Tierney Dining Hall, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98768,
-      "lng": -75.38274,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group",
-        "outdoor"
-      ],
-      "hours": {},
-      "startDate": "2026-11-20",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/018303ac-f872-419b-86e8-d64b71af256b.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fri, Nov 20",
-      "nextDate": "2026-11-20",
-      "dates": [
-        "2026-11-20"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-broomall-the-nutcracker-presented-by-pennsylvani-fc98dc",
-      "name": "The Nutcracker, Presented by Pennsylvania Academy of Ballet",
-      "category": "events",
-      "subcategories": [
-        "christmas",
-        "dance",
-        "holiday",
-        "music"
-      ],
-      "shortDescription": "Dates: November 20–22, 2025 Showtimes: Friday at 7:00 p.m.; Saturday & Sunday at 11:00 a.m.",
-      "address": "Upper Darby School District Performing Arts Center, Broomall, PA",
-      "town": "Broomall",
-      "lat": 39.95457,
-      "lng": -75.35919,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-20",
-      "endDate": "2026-11-22",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://paacademyofballet.com/Nutcracker",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/AxGdh6HaCUOXH1qcKdQ7NQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Nov 20 - Nov 22",
-      "nextDate": "2026-11-20",
-      "dates": [
-        "2026-11-20",
-        "2026-11-21",
-        "2026-11-22"
-      ],
-      "occurrences": 3
-    },
-    {
-      "id": "ev-bryn-mawr-youth-one-time-classes-90569b",
-      "name": "Youth One-Time Classes",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "special-audience",
-        "visual-arts"
-      ],
-      "shortDescription": "$80 Per Person / Ages 9 and up Friday, Oct 2, 2026 / 5:30 PM - 7:00 PM (EDT) Join our one time class to learn the basics of wheel throwing!",
-      "address": "Blue Skies Pottery, Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.023544,
-      "lng": -75.322036,
-      "priceTier": 3,
-      "tags": [
-        "family",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-20",
-      "endDate": "2026-11-27",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://eventvesta.com/events/160853/t/tickets",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pbI4ypXkz062b8lEfv8Ztg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Fridays, Nov 20 - Nov 27",
-      "nextDate": "2026-11-20",
-      "dates": [
-        "2026-11-20",
-        "2026-11-27"
-      ],
-      "occurrences": 2
-    },
     {
       "id": "ev-aston-aston-mills-arts-annual-art-show-and-sale-3d03bc",
       "name": "Aston Mills Arts Annual Art Show and Sale",
@@ -856,6 +204,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-lancaster-county-farmers-market-1b0e48",
+      "name": "Lancaster County Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "farmers-market",
+        "markets"
+      ],
+      "shortDescription": "389 W. Lancaster Ave., Wayne. Wed., Fri., Sat., 6 to 4. 610-688-9856. LancasterCountyFarmersMarket.com.",
+      "address": "Lancaster County Farmers Market, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044908,
+      "lng": -75.400304,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-21",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://countylinesmagazine.com/event/lancaster-county-farmers-market-2-2025-06-18/2026-11-21/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b52e9d77-dd16-4ac8-9e9e-8ba8856cef3c.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 21",
+      "nextDate": "2026-11-21",
+      "dates": [
+        "2026-11-21"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "lansdowne-farmers-market-lansdowne",
       "name": "Lansdowne Farmers Market",
       "category": "events",
@@ -922,6 +308,44 @@
       "website": "https://www.bandsintown.com/e/108607059?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8JW7zylMvEOZxkJ-A8JqOg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 21",
+      "nextDate": "2026-11-21",
+      "dates": [
+        "2026-11-21"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-ms-musical-performance-04144b",
+      "name": "MS Musical Performance",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "MS Musical Performance at Theater - Lobby in Newtown Square.",
+      "address": "Theater - Lobby, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98768,
+      "lng": -75.38274,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-21",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a5bb07a2-7451-461c-a708-a4ee484b5c26.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -1238,6 +662,46 @@
         "2026-11-21"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-broomall-the-nutcracker-presented-by-pennsylvani-fc98dc",
+      "name": "The Nutcracker, Presented by Pennsylvania Academy of Ballet",
+      "category": "events",
+      "subcategories": [
+        "christmas",
+        "dance",
+        "holiday",
+        "music"
+      ],
+      "shortDescription": "Dates: November 20–22, 2025 Showtimes: Friday at 7:00 p.m.; Saturday & Sunday at 11:00 a.m.",
+      "address": "Upper Darby School District Performing Arts Center, Broomall, PA",
+      "town": "Broomall",
+      "lat": 39.95457,
+      "lng": -75.35919,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-22",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://paacademyofballet.com/Nutcracker",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/AxGdh6HaCUOXH1qcKdQ7NQ.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Nov 21 - Nov 22",
+      "nextDate": "2026-11-21",
+      "dates": [
+        "2026-11-21",
+        "2026-11-22"
+      ],
+      "occurrences": 2
     },
     {
       "id": "ev-wayne-wanderlust-at-118-north-60373c",
@@ -2581,6 +2045,46 @@
       "website": "https://www.eventbrite.com/e/the-speakeasy-at-bluesouth-tickets-2004504365517",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/AXsauMZwL0Km7oRxbOZUGw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Nov 27",
+      "nextDate": "2026-11-27",
+      "dates": [
+        "2026-11-27"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-bryn-mawr-youth-one-time-classes-90569b",
+      "name": "Youth One-Time Classes",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "special-audience",
+        "visual-arts"
+      ],
+      "shortDescription": "$80 Per Person / Ages 9 and up Friday, Oct 2, 2026 / 5:30 PM - 7:00 PM (EDT) Join our one time class to learn the basics of wheel throwing!",
+      "address": "Blue Skies Pottery, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.023544,
+      "lng": -75.322036,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-27",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://eventvesta.com/events/160853/t/tickets",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pbI4ypXkz062b8lEfv8Ztg.medium.jpg",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -5928,6 +5432,46 @@
       "website": "https://www.mediaborough.com/calendar.aspx?EID=2934",
       "images": [],
       "imageUrl": "",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Dec 12",
+      "nextDate": "2026-12-12",
+      "dates": [
+        "2026-12-12"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-drexel-hill-murder-mystery-co-dinner-theater-sho-fe3e2e",
+      "name": "Murder Mystery Co. Dinner Theater Show at Casey's Drexel Hill",
+      "category": "events",
+      "subcategories": [
+        "comedy",
+        "food",
+        "food-drink",
+        "nightlife"
+      ],
+      "shortDescription": "Join the murder mystery experience that puts YOU in the spotlight in Metro Philadelphia.",
+      "address": "Casey's Drexel Hill, Drexel Hill, PA",
+      "town": "Drexel Hill",
+      "lat": 39.959937,
+      "lng": -75.288952,
+      "priceTier": 3,
+      "tags": [
+        "group",
+        "open-late"
+      ],
+      "hours": {},
+      "startDate": "2026-12-12",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.murdermysteryco.com/?utm_source=discovery&utm_medium=listing&utm_campaign=46138",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/zmtLZIFCRkyyEqRoFjZsmQ.medium.jpg",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -16996,6 +16540,41 @@
       "occurrences": 1
     },
     {
+      "id": "ev-newtown-square-k-field-trip-91f8f6",
+      "name": "K Field Trip",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "K Field Trip at a Delco venue in Newtown Square.",
+      "address": "Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-05-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/bbbbd562-8dd2-4c7f-9a4b-dbe81f083ecd.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, May 6",
+      "nextDate": "2027-05-06",
+      "dates": [
+        "2027-05-06"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-springfield-b-flats-our-community-cup-coffeehous-1859f0",
       "name": "B-Flats: Our Community Cup Coffeehouse",
       "category": "events",
@@ -17923,6 +17502,44 @@
       "occurrences": 1,
       "dates": [
         "2027-10-25"
+      ]
+    },
+    {
+      "id": "holidays-at-brandywine-chadds-ford",
+      "name": "Holidays at Brandywine (Brandywine Railroad)",
+      "category": "events",
+      "subcategories": [
+        "holiday",
+        "seasonal"
+      ],
+      "shortDescription": "The Brandywine Museum's beloved model railroad and holiday exhibits run from mid-November through early January in Chadds Ford.",
+      "schedule": "Mid-November through early January",
+      "recurring": "seasonal",
+      "nextDate": "2027-11-20",
+      "address": "Brandywine Museum of Art, 1 Hoffmans Mill Rd, Chadds Ford, PA 19317",
+      "town": "Chadds Ford",
+      "lat": 39.8676,
+      "lng": -75.5883,
+      "priceTier": 2,
+      "tags": [
+        "family",
+        "indoor",
+        "kid-friendly",
+        "date"
+      ],
+      "featured": true,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2027-11-20"
       ]
     },
     {
