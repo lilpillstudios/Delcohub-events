@@ -1,786 +1,9 @@
 {
   "version": 1,
-  "scraped_at": "2026-11-21T16:51:21.785939+00:00",
+  "scraped_at": "2026-11-22T17:14:39.883424+00:00",
   "horizon_days": 180,
-  "event_count": 453,
+  "event_count": 445,
   "listings": [
-    {
-      "id": "ev-aston-aston-mills-arts-annual-art-show-and-sale-3d03bc",
-      "name": "Aston Mills Arts Annual Art Show and Sale",
-      "category": "events",
-      "subcategories": [
-        "markets",
-        "visual-arts"
-      ],
-      "shortDescription": "Public show: November 14 & 15, 21 & 22, 11am-4pm Step inside 10,000 square feet of working fine art studios and galleries at our Annual Art Show & Sale.",
-      "address": "Aston Mills Arts, Aston, PA",
-      "town": "Aston",
-      "lat": 39.884953,
-      "lng": -75.444995,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-21",
-      "endDate": "2026-11-22",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.astonmillsarts.com/events/z67fnfkdrsywtzalcmde6r3y8t5x9c",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/uWxpGPmEmEKSCvuKSWlR1Q.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Nov 21 - Nov 22",
-      "nextDate": "2026-11-21",
-      "dates": [
-        "2026-11-21",
-        "2026-11-22"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-chester-brian-posehn-87e1c6",
-      "name": "Brian Posehn",
-      "category": "events",
-      "subcategories": [
-        "comedy",
-        "performing-arts"
-      ],
-      "shortDescription": "Brian Posehn is a writer, actor, and comedian known from THE BIG BANG THEORY and multiple acclaimed stand-up specials.",
-      "address": "The Block at Harrah's Philadelphia, Chester, PA",
-      "town": "Chester",
-      "lat": 39.851082,
-      "lng": -75.348369,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-21",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/AkcuK2qZPEygRGcfqWZM-Q.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 21",
-      "nextDate": "2026-11-21",
-      "dates": [
-        "2026-11-21"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-culinary-workshop-kids-cook-thanksgiving-s-6ef660",
-      "name": "Culinary Workshop: Kids Cook Thanksgiving - Sweet Desserts",
-      "category": "events",
-      "subcategories": [
-        "food",
-        "food-drink",
-        "holiday",
-        "kids"
-      ],
-      "shortDescription": "Kids Cook Thanksgiving - Sweet Saturday with Chef Birgit Raders-Eichinger",
-      "address": "Wayne Art Center, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.03894,
-      "lng": -75.394446,
-      "priceTier": 3,
-      "tags": [
-        "family",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-11-21",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://wayneart.org/events/2190/culinary-workshop-kids-cook-thanksgiving-sweet-desserts",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Ky24qCbCs06bRU_7XpHgWQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 21",
-      "nextDate": "2026-11-21",
-      "dates": [
-        "2026-11-21"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-eagles-autism-skate-at-flight-on-ba1e3f",
-      "name": "Eagles Autism Skate at Flight on Ice",
-      "category": "events",
-      "subcategories": [
-        "health-wellness",
-        "lifestyle",
-        "special-audience",
-        "sports"
-      ],
-      "shortDescription": "Join us for a fun-filled day of skating at Eagles Autism Skate at Flight on Ice!",
-      "address": "Flight on Ice at Energy Transfer Veterans Memorial Rink (Opens Nov 21st 2026!), Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.975444,
-      "lng": -75.443546,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-21",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/-OTW3gO6TEKdoB7m0nWQRQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 21",
-      "nextDate": "2026-11-21",
-      "dates": [
-        "2026-11-21"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-family-day-of-clay-festive-holiday-pie-dis-57f6b5",
-      "name": "Family Day of Clay: Festive Holiday Pie Dish",
-      "category": "events",
-      "subcategories": [
-        "family",
-        "food",
-        "food-drink",
-        "special-audience"
-      ],
-      "shortDescription": "There's always room for pie! Join your child for a fun afternoon of clay as you create an adorable ceramic holiday pie pot in your favorite \"flavor,\" complete with a...",
-      "address": "Wayne Art Center, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.03894,
-      "lng": -75.394446,
-      "priceTier": 3,
-      "tags": [
-        "family",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-21",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://wayneart.org/events/2173/family-day-of-clay-festive-holiday-pie-dish",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Aj7nql2MXkypklMVeL0UgQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 21",
-      "nextDate": "2026-11-21",
-      "dates": [
-        "2026-11-21"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-lancaster-county-farmers-market-1b0e48",
-      "name": "Lancaster County Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "farmers-market",
-        "markets"
-      ],
-      "shortDescription": "389 W. Lancaster Ave., Wayne. Wed., Fri., Sat., 6 to 4. 610-688-9856. LancasterCountyFarmersMarket.com.",
-      "address": "Lancaster County Farmers Market, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044908,
-      "lng": -75.400304,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-21",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://countylinesmagazine.com/event/lancaster-county-farmers-market-2-2025-06-18/2026-11-21/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b52e9d77-dd16-4ac8-9e9e-8ba8856cef3c.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 21",
-      "nextDate": "2026-11-21",
-      "dates": [
-        "2026-11-21"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "lansdowne-farmers-market-lansdowne",
-      "name": "Lansdowne Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "farmers market",
-        "seasonal"
-      ],
-      "shortDescription": "Seasonal Saturday farmers market in Lansdowne selling local produce, baked goods, and handmade items.",
-      "address": "N Lansdowne Ave, Lansdowne, PA 19050",
-      "town": "Lansdowne",
-      "lat": 39.9385,
-      "lng": -75.2725,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "group"
-      ],
-      "featured": true,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "schedule": "Saturdays, summer-fall",
-      "recurring": "weekly",
-      "nextDate": "2026-11-21",
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-11-21"
-      ]
-    },
-    {
-      "id": "ev-lansdowne-lauren-minear-12eab3",
-      "name": "Lauren Minear",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Nashville-raised, New York-based indie-folk pop artist Lauren Minear has a unique ability to craft songs that capture the depth of the human condition.",
-      "address": "Jamey's House of Music, Lansdowne, PA",
-      "town": "Lansdowne",
-      "lat": 39.937344,
-      "lng": -75.274493,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-21",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/108607059?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/8JW7zylMvEOZxkJ-A8JqOg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 21",
-      "nextDate": "2026-11-21",
-      "dates": [
-        "2026-11-21"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-newtown-square-ms-musical-performance-04144b",
-      "name": "MS Musical Performance",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "MS Musical Performance at Theater - Lobby in Newtown Square.",
-      "address": "Theater - Lobby, Newtown Square, PA",
-      "town": "Newtown Square",
-      "lat": 39.98768,
-      "lng": -75.38274,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-21",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.episcopalacademy.org/calendar",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a5bb07a2-7451-461c-a708-a4ee484b5c26.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 21",
-      "nextDate": "2026-11-21",
-      "dates": [
-        "2026-11-21"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ridley-park-farmers-market",
-      "name": "Ridley Park Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "market",
-        "seasonal"
-      ],
-      "shortDescription": "Seasonal Saturday market in Ridley Park selling produce, baked goods, and local products through the warmer months.",
-      "schedule": "Saturdays, June-October",
-      "recurring": "weekly",
-      "nextDate": "2026-11-21",
-      "address": "105 E Ward St, Ridley Park, PA 19078",
-      "town": "Ridley Park",
-      "lat": 39.8815,
-      "lng": -75.3238,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "kid-friendly"
-      ],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-11-21"
-      ]
-    },
-    {
-      "id": "ev-folsom-rocks-this-way-aerosmith-tribute-9dbba5",
-      "name": "Rocks This Way - Aerosmith Tribute",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "live-music",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Three Bands on Night: Remedy, Rocks This Way and Lady Zeppelin!",
-      "address": "Tom N Jerry's, Folsom, PA",
-      "town": "Folsom",
-      "lat": 39.880547,
-      "lng": -75.340887,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-21",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.bandsintown.com/e/108923762?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0lljAX9pWE6pJ86xFXHe-w.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 21",
-      "nextDate": "2026-11-21",
-      "dates": [
-        "2026-11-21"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-seeing-the-big-picture-in-landscape-painti-39da98",
-      "name": "Seeing The Big Picture in Landscape Painting with Claire Haik",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "learning",
-        "visual-arts"
-      ],
-      "shortDescription": "This class breaks down the landscape into three essential zones: foreground, middle ground, and background.",
-      "address": "Wayne Art Center, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.03894,
-      "lng": -75.394446,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-21",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://wayneart.org/events/2121/seeing-the-big-picture-in-landscape-painting-with-claire-haik",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/E1Bh1Dl6z0C6ti33lflpfA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 21",
-      "nextDate": "2026-11-21",
-      "dates": [
-        "2026-11-21"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "springfield-farmers-market",
-      "name": "Springfield Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "market",
-        "seasonal"
-      ],
-      "shortDescription": "Springfield's seasonal outdoor market offers fresh produce, flowers, and local goods on weekends through summer and fall.",
-      "schedule": "Weekends, summer-fall",
-      "recurring": "weekly",
-      "nextDate": "2026-11-21",
-      "address": "Springfield, PA 19064",
-      "town": "Springfield",
-      "lat": 39.9312,
-      "lng": -75.3479,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "kid-friendly"
-      ],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-11-21"
-      ]
-    },
-    {
-      "id": "ev-clifton-heights-stand-up-for-cancer-4f0bdb",
-      "name": "Stand up for CANCER!",
-      "category": "events",
-      "subcategories": [
-        "comedy",
-        "health-wellness",
-        "lifestyle",
-        "performing-arts"
-      ],
-      "shortDescription": "Dwon has been bravely battling cancer. Recently, after the disease spread, Dwon had to undergo a life-changing surgery.",
-      "address": "Murray's Bar & Grille, Clifton Heights, PA",
-      "town": "Clifton Heights",
-      "lat": 39.932935,
-      "lng": -75.288193,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-21",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/stand-up-for-cancer-tickets-2003721923211",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cnPo8WT1nEWA-en94iUUOA.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 21",
-      "nextDate": "2026-11-21",
-      "dates": [
-        "2026-11-21"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-lansdowne-stories-we-carry-time-capsule-building-8dfcfc",
-      "name": "Stories We Carry Time Capsule Building",
-      "category": "events",
-      "subcategories": [
-        "literary-arts"
-      ],
-      "shortDescription": "We invite neighbors and friends to take part in a Time Capsule building workshop.",
-      "address": "2020 Gallery, Lansdowne, PA",
-      "town": "Lansdowne",
-      "lat": 39.93547,
-      "lng": -75.2724,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-21",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/stories-we-carry-time-capsule-building-tickets-2002349712893",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/YMCSIu53CEmucQukgH1SZQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 21",
-      "nextDate": "2026-11-21",
-      "dates": [
-        "2026-11-21"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "swarthmore-farmers-market-swarthmore",
-      "name": "Swarthmore Farmers Market",
-      "category": "events",
-      "subcategories": [
-        "farmers market",
-        "seasonal"
-      ],
-      "shortDescription": "Weekly warm-season market in Swarthmore featuring regional farmers, food vendors, and live music.",
-      "address": "Swarthmore Town Center, Swarthmore, PA 19081",
-      "town": "Swarthmore",
-      "lat": 39.903,
-      "lng": -75.349,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "family",
-        "outdoor",
-        "group"
-      ],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "hours": {},
-      "phone": "",
-      "website": "",
-      "images": [],
-      "schedule": "Saturdays, warm season",
-      "recurring": "weekly",
-      "nextDate": "2026-11-21",
-      "venueId": "",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-11-21"
-      ]
-    },
-    {
-      "id": "ev-wayne-the-miners-at-118-north-ca8474",
-      "name": "The Miners at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "The Miners at 118 North Saturday, November 21, 2026 Doors: 7:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-21",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1052176837666590/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/220822T170928%7ClKsv8fGYLU63z_7088ejxQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 21",
-      "nextDate": "2026-11-21",
-      "dates": [
-        "2026-11-21"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-broomall-the-nutcracker-presented-by-pennsylvani-fc98dc",
-      "name": "The Nutcracker, Presented by Pennsylvania Academy of Ballet",
-      "category": "events",
-      "subcategories": [
-        "christmas",
-        "dance",
-        "holiday",
-        "music"
-      ],
-      "shortDescription": "Dates: November 20–22, 2025 Showtimes: Friday at 7:00 p.m.; Saturday & Sunday at 11:00 a.m.",
-      "address": "Upper Darby School District Performing Arts Center, Broomall, PA",
-      "town": "Broomall",
-      "lat": 39.95457,
-      "lng": -75.35919,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-21",
-      "endDate": "2026-11-22",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://paacademyofballet.com/Nutcracker",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/AxGdh6HaCUOXH1qcKdQ7NQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Daily, Nov 21 - Nov 22",
-      "nextDate": "2026-11-21",
-      "dates": [
-        "2026-11-21",
-        "2026-11-22"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-wayne-wanderlust-at-118-north-60373c",
-      "name": "Wanderlust at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Wanderlust at 118 North Saturday, November 21, 2026 Doors: 3:00 PM | Show: 4:00 PM 21+ Tickets >> https://tixr.com/pr/social/199184",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-21",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1733877447628786/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5af9f2f8-f9da-4a1c-aa81-ff6d64b2cf67.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 21",
-      "nextDate": "2026-11-21",
-      "dates": [
-        "2026-11-21"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-chester-widener-pride-women-s-basketball-vs-ursi-b83a5a",
-      "name": "Widener Pride: Women's Basketball vs Ursinus",
-      "category": "events",
-      "subcategories": [
-        "special-audience",
-        "sports",
-        "sports-outdoors"
-      ],
-      "shortDescription": "Women's Basketball vs Ursinus Streaming Video: https://gomacsports.tv/widenerpride/",
-      "address": "Schwartz Center, Chester, PA",
-      "town": "Chester",
-      "lat": 39.84956,
-      "lng": -75.35575,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-21",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://widenerpride.com/calendar.aspx?game_id=14618&amp;sport_id=8",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/eea3008d-a0ef-4003-9897-ba4228e0a5e2.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sat, Nov 21",
-      "nextDate": "2026-11-21",
-      "dates": [
-        "2026-11-21"
-      ],
-      "occurrences": 1
-    },
     {
       "id": "ev-wayne-all-the-color-in-white-with-maggie-siner-5f12a2",
       "name": "All The Color in White with Maggie Siner",
@@ -807,6 +30,44 @@
       "website": "https://wayneart.org/events/2104/all-the-color-in-white-with-maggie-siner",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/x3FV_uuBQ0iC3BZT5WSzUQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Nov 22",
+      "nextDate": "2026-11-22",
+      "dates": [
+        "2026-11-22"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-aston-aston-mills-arts-annual-art-show-and-sale-3d03bc",
+      "name": "Aston Mills Arts Annual Art Show and Sale",
+      "category": "events",
+      "subcategories": [
+        "markets",
+        "visual-arts"
+      ],
+      "shortDescription": "Public show: November 14 & 15, 21 & 22, 11am-4pm Step inside 10,000 square feet of working fine art studios and galleries at our Annual Art Show & Sale.",
+      "address": "Aston Mills Arts, Aston, PA",
+      "town": "Aston",
+      "lat": 39.884953,
+      "lng": -75.444995,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-22",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.astonmillsarts.com/events/z67fnfkdrsywtzalcmde6r3y8t5x9c",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/uWxpGPmEmEKSCvuKSWlR1Q.medium.jpg",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -883,6 +144,45 @@
       "website": "https://www.facebook.com/events/4610565232500179/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ae3b5cbf-d92f-4c24-96b9-cf5c90b02fac.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Nov 22",
+      "nextDate": "2026-11-22",
+      "dates": [
+        "2026-11-22"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-broomall-the-nutcracker-presented-by-pennsylvani-fc98dc",
+      "name": "The Nutcracker, Presented by Pennsylvania Academy of Ballet",
+      "category": "events",
+      "subcategories": [
+        "christmas",
+        "dance",
+        "holiday",
+        "music"
+      ],
+      "shortDescription": "Dates: November 20–22, 2025 Showtimes: Friday at 7:00 p.m.; Saturday & Sunday at 11:00 a.m.",
+      "address": "Upper Darby School District Performing Arts Center, Broomall, PA",
+      "town": "Broomall",
+      "lat": 39.95457,
+      "lng": -75.35919,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-22",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://paacademyofballet.com/Nutcracker",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/AxGdh6HaCUOXH1qcKdQ7NQ.medium.jpg",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -1713,6 +1013,45 @@
       ]
     },
     {
+      "id": "ev-wayne-friendsgiving-happy-hour-at-pomelo-rooftop-0ced7f",
+      "name": "Friendsgiving Happy Hour at Pomelo Rooftop Terrace",
+      "category": "events",
+      "subcategories": [
+        "drinks",
+        "food-drink",
+        "holiday"
+      ],
+      "shortDescription": "Celebrate being home for the holidays at Pomelo Rooftop Terrace’s Friendsgiving Happy Hour on Wednesday, November 25, from 4–10 PM.",
+      "address": "Pomelo Rooftop Terrance, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.041394,
+      "lng": -75.354926,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-25",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.opentable.com/booking/restref/availability?lang=en-US&correlationId=4722de26-5607-44a7-b7f7-caeb4f1a9b7c&restRef=1498306&otSource=Restaurant*20website__;JQ!!FOfmI8qiWcWBHqypJtzENF0!3ycbdSd7qAFSwBLThXL5meV5g4k3XNTYTEzpE4hdTgD2n85_mGNrgPwA1KFCPC0apLEdrUytibwKXWe42zqrfw&adobe_mc=MCMID=75818640424559991784336667698384791420%7CMCORGID=1C1238B352785AA60A490D4C@AdobeOrg%7CTS=1795014368",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/xgJe-Fs4pkycoO3zOBChGA.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Nov 25",
+      "nextDate": "2026-11-25",
+      "dates": [
+        "2026-11-25"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-ea-turkey-trot-af8197",
       "name": "EA Turkey Trot",
       "category": "events",
@@ -1809,7 +1148,7 @@
       ],
       "hours": {},
       "startDate": "2026-11-26",
-      "endDate": "2027-05-13",
+      "endDate": "2027-05-20",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -1820,7 +1159,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Thursdays, Nov 26 - May 13",
+      "schedule": "Thursdays, Nov 26 - May 20",
       "nextDate": "2026-11-26",
       "dates": [
         "2026-11-26",
@@ -1847,9 +1186,10 @@
         "2027-04-22",
         "2027-04-29",
         "2027-05-06",
-        "2027-05-13"
+        "2027-05-13",
+        "2027-05-20"
       ],
-      "occurrences": 25
+      "occurrences": 26
     },
     {
       "id": "ev-lansdowne-a-bit-of-the-arts-376b6d",
@@ -2371,6 +1711,44 @@
       "occurrences": 1
     },
     {
+      "id": "lansdowne-farmers-market-lansdowne",
+      "name": "Lansdowne Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "farmers market",
+        "seasonal"
+      ],
+      "shortDescription": "Seasonal Saturday farmers market in Lansdowne selling local produce, baked goods, and handmade items.",
+      "address": "N Lansdowne Ave, Lansdowne, PA 19050",
+      "town": "Lansdowne",
+      "lat": 39.9385,
+      "lng": -75.2725,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "group"
+      ],
+      "featured": true,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "schedule": "Saturdays, summer-fall",
+      "recurring": "weekly",
+      "nextDate": "2026-11-28",
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-11-28"
+      ]
+    },
+    {
       "id": "ev-chester-new-england-revolution-at-philadelphia-u-39d85f",
       "name": "New England Revolution at Philadelphia Union: Eastern Conference Round One (Home Game 1)",
       "category": "events",
@@ -2409,6 +1787,120 @@
         "2026-11-28"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ridley-park-farmers-market",
+      "name": "Ridley Park Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "market",
+        "seasonal"
+      ],
+      "shortDescription": "Seasonal Saturday market in Ridley Park selling produce, baked goods, and local products through the warmer months.",
+      "schedule": "Saturdays, June-October",
+      "recurring": "weekly",
+      "nextDate": "2026-11-28",
+      "address": "105 E Ward St, Ridley Park, PA 19078",
+      "town": "Ridley Park",
+      "lat": 39.8815,
+      "lng": -75.3238,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "kid-friendly"
+      ],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-11-28"
+      ]
+    },
+    {
+      "id": "springfield-farmers-market",
+      "name": "Springfield Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "market",
+        "seasonal"
+      ],
+      "shortDescription": "Springfield's seasonal outdoor market offers fresh produce, flowers, and local goods on weekends through summer and fall.",
+      "schedule": "Weekends, summer-fall",
+      "recurring": "weekly",
+      "nextDate": "2026-11-28",
+      "address": "Springfield, PA 19064",
+      "town": "Springfield",
+      "lat": 39.9312,
+      "lng": -75.3479,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "kid-friendly"
+      ],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-11-28"
+      ]
+    },
+    {
+      "id": "swarthmore-farmers-market-swarthmore",
+      "name": "Swarthmore Farmers Market",
+      "category": "events",
+      "subcategories": [
+        "farmers market",
+        "seasonal"
+      ],
+      "shortDescription": "Weekly warm-season market in Swarthmore featuring regional farmers, food vendors, and live music.",
+      "address": "Swarthmore Town Center, Swarthmore, PA 19081",
+      "town": "Swarthmore",
+      "lat": 39.903,
+      "lng": -75.349,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "family",
+        "outdoor",
+        "group"
+      ],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "hours": {},
+      "phone": "",
+      "website": "",
+      "images": [],
+      "schedule": "Saturdays, warm season",
+      "recurring": "weekly",
+      "nextDate": "2026-11-28",
+      "venueId": "",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-11-28"
+      ]
     },
     {
       "id": "ev-newtown-square-us-squash-silver-tournament-cca163",
@@ -4167,17 +3659,17 @@
       "occurrences": 2
     },
     {
-      "id": "ev-newtown-square-ms-play-auditions-dfe5cc",
+      "id": "ev-newtown-square-ms-play-auditions-167a20",
       "name": "MS Play Auditions",
       "category": "events",
       "subcategories": [
         "performing-arts"
       ],
-      "shortDescription": "MS Play Auditions at Black Box-Ridgway Theater in Newtown Square.",
-      "address": "Black Box-Ridgway Theater, Newtown Square, PA",
+      "shortDescription": "MS Play Auditions at Black Box in Newtown Square.",
+      "address": "Black Box, Newtown Square, PA",
       "town": "Newtown Square",
-      "lat": 39.98678,
-      "lng": -75.40103,
+      "lat": 39.986873,
+      "lng": -75.400724,
       "priceTier": 0,
       "tags": [
         "free",
@@ -9776,12 +9268,12 @@
       "occurrences": 1
     },
     {
-      "id": "ev-newtown-square-squash-ms-girls-a-vf-te-4fb3a1",
+      "id": "ev-newtown-square-squash-ms-girls-a-vf-te-597f6e",
       "name": "Squash - MS Girls A @ VF/TE",
       "category": "events",
       "subcategories": [],
       "shortDescription": "Squash - MS Girls A @ VF/TE",
-      "address": "Valley Forge Middle School, Newtown Square, PA",
+      "address": "Berwyn Squash & Fitness Club, Newtown Square, PA",
       "town": "Newtown Square",
       "lat": 39.98678,
       "lng": -75.40103,
@@ -10352,6 +9844,44 @@
       "nextDate": "2027-01-18",
       "dates": [
         "2027-01-18"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-basketball-ms-girls-c-baldwin-b4c536",
+      "name": "Basketball - MS Girls C @ Baldwin",
+      "category": "events",
+      "subcategories": [
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Basketball - MS Girls C @ Baldwin",
+      "address": "The Baldwin School, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-19",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/94f14392-5a57-4160-b378-7b637cfb697d.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Jan 19",
+      "nextDate": "2027-01-19",
+      "dates": [
+        "2027-01-19"
       ],
       "occurrences": 1
     },
@@ -11312,6 +10842,46 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/94f14392-5a57-4160-b378-7b637cfb697d.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Jan 26",
+      "nextDate": "2027-01-26",
+      "dates": [
+        "2027-01-26"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-parent-webinar-how-to-talk-to-you-58c474",
+      "name": "Parent Webinar: How to Talk to Young People About AI",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "lifestyle",
+        "talks-lectures"
+      ],
+      "shortDescription": "Parent Webinar: How to Talk to Young People About AI",
+      "address": "Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-26",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b0dfad5e-919b-40f7-8e41-614587da9149.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -14691,6 +14261,42 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-photography-on-location-with-laura-duccesc-abacac",
+      "name": "Photography on Location with Laura Ducceschi",
+      "category": "events",
+      "subcategories": [
+        "visual-arts"
+      ],
+      "shortDescription": "Join us to photograph the beautiful fall season! Classes will alternate between out on location and in the studio to discuss techniques, share images and compare notes.",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-10",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2214/photography-on-location-with-laura-ducceschi",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Mcx5uqkRVEGXzVVDZRNzmQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Mar 10",
+      "nextDate": "2027-03-10",
+      "dates": [
+        "2027-03-10"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-ms-spring-play-performance-d0c52e",
       "name": "MS Spring Play Performance",
       "category": "events",
@@ -15158,6 +14764,44 @@
       "nextDate": "2027-03-17",
       "dates": [
         "2027-03-17"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-alla-prima-painting-4-fridays-with-georgan-11bb00",
+      "name": "Alla Prima Painting 4 Fridays with Georganna Lenssen",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "visual-arts"
+      ],
+      "shortDescription": "Alla prima painting asks you to answer what is in front of you before the mind can explain it away.",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-19",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2215/alla-prima-painting-4-fridays-with-georganna-lenssen",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/hqwDWgnZ_E61dDBpiL20pA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Mar 19",
+      "nextDate": "2027-03-19",
+      "dates": [
+        "2027-03-19"
       ],
       "occurrences": 1
     },
@@ -16920,6 +16564,44 @@
       "nextDate": "2027-05-18",
       "dates": [
         "2027-05-18"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-eapa-annual-spring-luncheon-0d6fc6",
+      "name": "EAPA Annual Spring Luncheon",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink"
+      ],
+      "shortDescription": "EAPA Annual Spring Luncheon",
+      "address": "Lowry House, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-05-20",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5e4d2df2-1cbd-4030-a569-52ca21405ba2.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, May 20",
+      "nextDate": "2027-05-20",
+      "dates": [
+        "2027-05-20"
       ],
       "occurrences": 1
     },
