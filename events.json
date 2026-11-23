@@ -1,237 +1,9 @@
 {
   "version": 1,
-  "scraped_at": "2026-11-22T17:14:39.883424+00:00",
+  "scraped_at": "2026-11-23T21:32:40.234030+00:00",
   "horizon_days": 180,
-  "event_count": 445,
+  "event_count": 482,
   "listings": [
-    {
-      "id": "ev-wayne-all-the-color-in-white-with-maggie-siner-5f12a2",
-      "name": "All The Color in White with Maggie Siner",
-      "category": "events",
-      "subcategories": [
-        "learning",
-        "talks-lectures"
-      ],
-      "shortDescription": "Lecture: Thursday, November 19",
-      "address": "Wayne Art Center, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.03894,
-      "lng": -75.394446,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://wayneart.org/events/2104/all-the-color-in-white-with-maggie-siner",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/x3FV_uuBQ0iC3BZT5WSzUQ.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 22",
-      "nextDate": "2026-11-22",
-      "dates": [
-        "2026-11-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-aston-aston-mills-arts-annual-art-show-and-sale-3d03bc",
-      "name": "Aston Mills Arts Annual Art Show and Sale",
-      "category": "events",
-      "subcategories": [
-        "markets",
-        "visual-arts"
-      ],
-      "shortDescription": "Public show: November 14 & 15, 21 & 22, 11am-4pm Step inside 10,000 square feet of working fine art studios and galleries at our Annual Art Show & Sale.",
-      "address": "Aston Mills Arts, Aston, PA",
-      "town": "Aston",
-      "lat": 39.884953,
-      "lng": -75.444995,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.astonmillsarts.com/events/z67fnfkdrsywtzalcmde6r3y8t5x9c",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/uWxpGPmEmEKSCvuKSWlR1Q.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 22",
-      "nextDate": "2026-11-22",
-      "dates": [
-        "2026-11-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-bryn-mawr-ensemble-le-parnasse-33e699",
-      "name": "Ensemble Le Parnasse",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Le Petit théâtre du monde",
-      "address": "Bryn Mawr, PA",
-      "town": "Bryn Mawr",
-      "lat": 40.00273,
-      "lng": -75.36424,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/ensemble-le-parnasse-tickets-2000083550741",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/GoThcol_M0SrT0U6lelc5w.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 22",
-      "nextDate": "2026-11-22",
-      "dates": [
-        "2026-11-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-michael-mcdermott-at-118-north-e9a470",
-      "name": "Michael McDermott at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "Michael McDermott at 118 North Sunday, November 22, 2026 Doors: 5:30 PM | Show: 7:30 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/4610565232500179/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/ae3b5cbf-d92f-4c24-96b9-cf5c90b02fac.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 22",
-      "nextDate": "2026-11-22",
-      "dates": [
-        "2026-11-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-broomall-the-nutcracker-presented-by-pennsylvani-fc98dc",
-      "name": "The Nutcracker, Presented by Pennsylvania Academy of Ballet",
-      "category": "events",
-      "subcategories": [
-        "christmas",
-        "dance",
-        "holiday",
-        "music"
-      ],
-      "shortDescription": "Dates: November 20–22, 2025 Showtimes: Friday at 7:00 p.m.; Saturday & Sunday at 11:00 a.m.",
-      "address": "Upper Darby School District Performing Arts Center, Broomall, PA",
-      "town": "Broomall",
-      "lat": 39.95457,
-      "lng": -75.35919,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://paacademyofballet.com/Nutcracker",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/AxGdh6HaCUOXH1qcKdQ7NQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 22",
-      "nextDate": "2026-11-22",
-      "dates": [
-        "2026-11-22"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-devon-tri-county-concerts-presents-violinist-tim-67d56f",
-      "name": "Tri-County Concerts presents violinist Timothy Chooi & marimbist Ji Su Jung",
-      "category": "events",
-      "subcategories": [
-        "concert",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "We're delighted to present an exciting and unusual duo: violinist Timothy Chooi and marimbist Ji Su Jung on Sunday, November 22 at 3 pm at Main Line Unitarian Church,...",
-      "address": "Main Line Unitarian Church, Devon, PA",
-      "town": "Devon",
-      "lat": 40.029923,
-      "lng": -75.407229,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-22",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.tricountyconcerts.org/emerging_artists",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/278mqP1-Nke9zm1lYK5EGQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Sun, Nov 22",
-      "nextDate": "2026-11-22",
-      "dates": [
-        "2026-11-22"
-      ],
-      "occurrences": 1
-    },
     {
       "id": "ev-wayne-3d-printer-for-teens-b6e34c",
       "name": "3D Printer for Teens",
@@ -1013,6 +785,43 @@
       ]
     },
     {
+      "id": "ev-drexel-hill-drinksgiving-rush-hour-edition-00a0cf",
+      "name": "Drinksgiving \"Rush Hour Edition\"",
+      "category": "events",
+      "subcategories": [
+        "drinks",
+        "food-drink"
+      ],
+      "shortDescription": "Drinksgiving Rush Hour Edition.. The Biggest Drinking Day Of The Year.. Come Drink With The Hottest Happy Hour In The Tristate",
+      "address": "Casey's Drexel Hill, Drexel Hill, PA",
+      "town": "Drexel Hill",
+      "lat": 39.959937,
+      "lng": -75.288952,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-25",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/drinksgiving-rush-hour-edition-tickets-2004862036320",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/waBmJGXtr0GyrGolme42-A.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Nov 25",
+      "nextDate": "2026-11-25",
+      "dates": [
+        "2026-11-25"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-friendsgiving-happy-hour-at-pomelo-rooftop-0ced7f",
       "name": "Friendsgiving Happy Hour at Pomelo Rooftop Terrace",
       "category": "events",
@@ -1050,6 +859,66 @@
         "2026-11-25"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-media-the-old-man-and-the-old-moon-14c52d",
+      "name": "The Old Man and the Old Moon",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "The Old Man and the Old Moon November 25 - January 3 Book, music, and lyrics by PigPen Theatre Co.",
+      "address": "Hedgerow Theatre, Media, PA",
+      "town": "Media",
+      "lat": 39.897539,
+      "lng": -75.386668,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-25",
+      "endDate": "2027-01-02",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "(610) 565-4211",
+      "website": "https://www.hedgerowtheatre.org/the-old-man-and-the-old-moon",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cTqYWIjOmkGxO2PJB_YgHg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "23 dates, Nov 25 - Jan 2",
+      "nextDate": "2026-11-25",
+      "dates": [
+        "2026-11-25",
+        "2026-11-27",
+        "2026-11-28",
+        "2026-11-29",
+        "2026-12-03",
+        "2026-12-04",
+        "2026-12-05",
+        "2026-12-06",
+        "2026-12-10",
+        "2026-12-11",
+        "2026-12-12",
+        "2026-12-17",
+        "2026-12-18",
+        "2026-12-19",
+        "2026-12-20",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-26",
+        "2026-12-27",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31",
+        "2027-01-02"
+      ],
+      "occurrences": 23
     },
     {
       "id": "ev-newtown-square-ea-turkey-trot-af8197",
@@ -2018,6 +1887,43 @@
       "occurrences": 1
     },
     {
+      "id": "ev-media-join-the-delaware-county-historical-societ-c65923",
+      "name": "Join the Delaware County Historical Society!",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Join the Delaware County Historical Society! at Delaware County Historical Society in Media.",
+      "address": "Delaware County Historical Society, Media, PA",
+      "town": "Media",
+      "lat": 39.919238,
+      "lng": -75.389521,
+      "priceTier": 2,
+      "tags": [
+        "group",
+        "historic"
+      ],
+      "hours": {},
+      "startDate": "2026-11-30",
+      "endDate": "2026-12-12",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-750-0622",
+      "website": "https://www.DelawareOhioHistory.org/volunteer/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/IORB2Tb4jEyOPS7exGuQdA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mon, Sat, Nov 30 - Dec 12",
+      "nextDate": "2026-11-30",
+      "dates": [
+        "2026-11-30",
+        "2026-12-05",
+        "2026-12-12"
+      ],
+      "occurrences": 3
+    },
+    {
       "id": "ev-newtown-square-basketball-boys-jv-v-pennington-s-0cb082",
       "name": "Basketball - Boys JV v Pennington - Scrimmage",
       "category": "events",
@@ -2211,6 +2117,45 @@
         "2026-12-23"
       ],
       "occurrences": 4
+    },
+    {
+      "id": "ev-chester-pre-kwanzaa-celebration-8170d4",
+      "name": "Pre-Kwanzaa Celebration",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "holiday",
+        "lifestyle"
+      ],
+      "shortDescription": "Come enjoy fellowship and learn about this cultural tradition!",
+      "address": "Michelle M. Davis Belonging Lounge, Chester, PA",
+      "town": "Chester",
+      "lat": 39.84956,
+      "lng": -75.35575,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-02",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.widener.edu/events/pre-kwanzaa-celebration",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3e539077-7473-4b1e-88e9-cd12f3ba6917.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Dec 2",
+      "nextDate": "2026-12-02",
+      "dates": [
+        "2026-12-02"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-wayne-the-wonton-soups-at-118-north-c3c637",
@@ -2482,6 +2427,45 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-lecture-the-language-of-painting-fabric-as-ff1c58",
+      "name": "Lecture: The Language of Painting Fabric as a Vehicle for Gesture with Maggie Siner",
+      "category": "events",
+      "subcategories": [
+        "learning",
+        "lifestyle",
+        "multicultural",
+        "talks-lectures"
+      ],
+      "shortDescription": "Maggie Siner, accomplished painter and inspiring teacher will lead you on a voyage into the inner world of the artist's visual thinking focusing on drapery as an...",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-03",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2184/lecture-the-language-of-painting-fabric-as-a-vehicle-for-gesture-with-maggie-siner",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/aVttpEaaF0CqSFxV0mWt4w.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Dec 3",
+      "nextDate": "2026-12-03",
+      "dates": [
+        "2026-12-03"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-tail-waggin-tutors-70c78c",
       "name": "Tail Waggin' Tutors",
       "category": "events",
@@ -2557,6 +2541,45 @@
       "nextDate": "2026-12-03",
       "dates": [
         "2026-12-03"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-3rd-sunday-collaboration-choir-dc6e76",
+      "name": "3rd Sunday Collaboration Choir",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "concert",
+        "fundraiser",
+        "music"
+      ],
+      "shortDescription": "6th Anniversary & Benefit concert supporting Upcoming Album Recording & Community Outreach Holiday Dinner Giveaways & Homeless Survival Kits",
+      "address": "St. Luke Community Christian Church, Chester, PA",
+      "town": "Chester",
+      "lat": 39.839459,
+      "lng": -75.378225,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-04",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/3rd-sunday-collaboration-choir-tickets-2004950454782",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/qpagp-NNLUuCuxBOTnaQ0Q.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Dec 4",
+      "nextDate": "2026-12-04",
+      "dates": [
+        "2026-12-04"
       ],
       "occurrences": 1
     },
@@ -2675,6 +2698,48 @@
         "2026-12-06"
       ],
       "occurrences": 3
+    },
+    {
+      "id": "ev-wayne-christmas-in-wayne-tree-lighting-ice-rink-a76094",
+      "name": "Christmas in Wayne - Tree Lighting, Ice Rink, Trolley Rides",
+      "category": "events",
+      "subcategories": [
+        "carnival",
+        "christmas",
+        "destinations",
+        "family"
+      ],
+      "shortDescription": "Christmas in Wayne: A Hometown Holiday Celebration Wayne Business Association Annual Christmas in Wayne, presented by @Cocoon Remodeling.Fun for the whole...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04505,
+      "lng": -75.39125,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-12-04",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://waynebusiness.com/event/christmas-in-wayne-2/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yxf2HwvSr0Ofz6CaAqi9OQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Dec 4",
+      "nextDate": "2026-12-04",
+      "dates": [
+        "2026-12-04"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-chester-dse-live-at-bats-0eb512",
@@ -2952,6 +3017,85 @@
       "occurrences": 1
     },
     {
+      "id": "ev-villanova-5th-annual-crimson-and-cream-christmas-6c430e",
+      "name": "5th Annual Crimson and Cream Christmas Gala",
+      "category": "events",
+      "subcategories": [
+        "christmas",
+        "destinations",
+        "holiday"
+      ],
+      "shortDescription": "The Prestigious Upsilon Tau Chapter of Delta Sigma Theta Sorority Inc. invites you to our 5th Annual Crimson and Cream Christmas Gala",
+      "address": "Picotte Hall at Dundale, Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.036706,
+      "lng": -75.344557,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-05",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/5th-annual-crimson-and-cream-christmas-gala-tickets-2004461871416",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/lF9nRkJZ7E-aC_LGZyFCfQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Dec 5",
+      "nextDate": "2026-12-05",
+      "dates": [
+        "2026-12-05"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-christmas-in-wayne-santa-parade-70d4fb",
+      "name": "Christmas in Wayne - Santa Parade",
+      "category": "events",
+      "subcategories": [
+        "christmas",
+        "destinations",
+        "festival",
+        "fitness"
+      ],
+      "shortDescription": "The Celebration Continues: A Saturday with Santa in Wayne!The holiday magic continues on Saturday with a festive 5k, a joyful parade, and a personal visit with Santa...",
+      "address": "Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.04505,
+      "lng": -75.39125,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-12-05",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://waynebusiness.com/event/christmas-in-wayne-santa-parade/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yxf2HwvSr0Ofz6CaAqi9OQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Dec 5",
+      "nextDate": "2026-12-05",
+      "dates": [
+        "2026-12-05"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-family-day-of-clay-elf-planter-d87910",
       "name": "Family Day of Clay: Elf Planter",
       "category": "events",
@@ -3111,6 +3255,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-bryn-mawr-main-line-mixtape-medley-arts-center-78fcd5",
+      "name": "Main Line Mixtape @ Medley Arts Center",
+      "category": "events",
+      "subcategories": [
+        "live-music",
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "Three local bands, live music, dancing, local brews, and good vibes — all in support of the new Medley Arts Center in Bryn Mawr!",
+      "address": "Medley Arts Center, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.02467,
+      "lng": -75.326,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-05",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/main-line-mixtape-medley-arts-center-tickets-2004673013949",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/iQjDZcghyUKFny_qNCfnMA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Dec 5",
+      "nextDate": "2026-12-05",
+      "dates": [
+        "2026-12-05"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-wayne-s-carey-solo-with-strings-at-118-north-a0fc89",
       "name": "S. Carey - Solo with Strings at 118 North",
       "category": "events",
@@ -3229,6 +3411,47 @@
         "2026-12-05"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-wayne-oratorio-society-concert-messiah-750e30",
+      "name": "Wayne Oratorio Society Concert: Messiah",
+      "category": "events",
+      "subcategories": [
+        "concert",
+        "faith",
+        "lifestyle",
+        "music"
+      ],
+      "shortDescription": "Join us in the Sanctuary on Saturday, December 5 and Sunday, December 6 at 7:00PM for an annual seasonal favorite, not to be missed.",
+      "address": "Wayne Presbyterian Church, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044478,
+      "lng": -75.386927,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-06",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://waynebusiness.com/event/wayne-oratorio-society-concert-messiah/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/tymy98F8JUKQdHWlmv7G2Q.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Daily, Dec 5 - Dec 6",
+      "nextDate": "2026-12-05",
+      "dates": [
+        "2026-12-05",
+        "2026-12-06"
+      ],
+      "occurrences": 2
     },
     {
       "id": "ev-newtown-square-winter-track-boys-lawrenceville-727569",
@@ -3606,6 +3829,44 @@
       "website": "https://www.facebook.com/events/978973984499689/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/220822T170928%7CbjIHd-6H7ESsQvJa7BAe4A.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Dec 6",
+      "nextDate": "2026-12-06",
+      "dates": [
+        "2026-12-06"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-darby-volunteer-fall-planting-day-8c8ef3",
+      "name": "Volunteer: Fall Planting Day",
+      "category": "events",
+      "subcategories": [
+        "civic",
+        "volunteering"
+      ],
+      "shortDescription": "A sunset volunteer opportunity. Help us plant for next season's bounty.",
+      "address": "New County Park, Darby, PA",
+      "town": "Darby",
+      "lat": 39.923215,
+      "lng": -75.273636,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/volunteer-fall-planting-day-registration-2004963354365",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9VlrlauyzkmN0g5lQNKXtw.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -4622,6 +4883,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-wine-d-through-wayne-happy-holidays-f67145",
+      "name": "Wine'd Through Wayne - Happy Holidays",
+      "category": "events",
+      "subcategories": [
+        "christmas",
+        "food",
+        "food-drink",
+        "games"
+      ],
+      "shortDescription": "Join us for an evening filled with delicious drinks, holiday cheer, and good company.",
+      "address": "Eagle Village Shops, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.045835,
+      "lng": -75.401785,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-10",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://waynebusiness.com/event/wined-through-wayne-happy-holidays/",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/kXbLZj-LZUyp2ydvIkAYiA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Dec 10",
+      "nextDate": "2026-12-10",
+      "dates": [
+        "2026-12-10"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-media-dead-flowers-rolling-stones-tribuite-2c47eb",
       "name": "Dead Flowers - Rolling Stones Tribuite",
       "category": "events",
@@ -4686,6 +4987,45 @@
       "website": "https://www.etix.com/ticket/p/98897703/home-for-the-holidaysall4onesheena-eastonruben-studdardand-lindsey-webster-lansdowne-lansdowne-theater",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/yczAGsRl50yipXvV417FFQ.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Dec 11",
+      "nextDate": "2026-12-11",
+      "dates": [
+        "2026-12-11"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-mistletoe-and-mocktails-singles-affair-55-0d6211",
+      "name": "Mistletoe and Mocktails Singles Affair | 55+",
+      "category": "events",
+      "subcategories": [
+        "christmas",
+        "holiday",
+        "special-audience"
+      ],
+      "shortDescription": "Mix, mingle, and sip festive mocktails with other fun singles 55+ looking for some holiday cheer and maybe more!",
+      "address": "Wayne Presbyterian Church, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.044478,
+      "lng": -75.386927,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-11",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/mistletoe-and-mocktails-singles-affair-55-tickets-2004493442847",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/vaa1bk9IFUq9-eY_uX3COQ.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -4936,6 +5276,44 @@
       "occurrences": 1
     },
     {
+      "id": "ev-villanova-mount-90-s-grads-christmas-party-d9db1e",
+      "name": "Mount 90's Grads Christmas Party",
+      "category": "events",
+      "subcategories": [
+        "christmas",
+        "destinations",
+        "holiday"
+      ],
+      "shortDescription": "It’s the Mount Christmas dance, all grown up. Less Milwaukee’s Best and plaid taffeta, same legendary crew!",
+      "address": "Overbrook Golf Club, Villanova, PA",
+      "town": "Villanova",
+      "lat": 40.011598,
+      "lng": -75.373443,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-12",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/mount-90s-grads-christmas-party-tickets-2004684196396",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d09-Xdbypk6MyOMSNhaqRQ.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Dec 12",
+      "nextDate": "2026-12-12",
+      "dates": [
+        "2026-12-12"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-drexel-hill-murder-mystery-co-dinner-theater-sho-fe3e2e",
       "name": "Murder Mystery Co. Dinner Theater Show at Casey's Drexel Hill",
       "category": "events",
@@ -5159,6 +5537,43 @@
       "website": "https://www.facebook.com/events/1590144455970831/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/18caf438-0328-4dfd-b12a-748c4252b5ac.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Dec 12",
+      "nextDate": "2026-12-12",
+      "dates": [
+        "2026-12-12"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-garnet-valley-troop-191-breakfast-with-the-grinc-021d28",
+      "name": "Troop 191 Breakfast With The Grinch!",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink"
+      ],
+      "shortDescription": "Start your day with some holiday fun and a mischievous Grinch at this cozy troop breakfast bash!",
+      "address": "Siloam United Methodist Church, Garnet Valley, PA",
+      "town": "Garnet Valley",
+      "lat": 39.83834,
+      "lng": -75.495112,
+      "priceTier": 1,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-12",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/troop-191-breakfast-with-the-grinch-tickets-2004930875219",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/VM7UBFDND0SXzjPzqHv-Jw.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -6359,6 +6774,45 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5b5aeea4-791b-4732-b870-55f870e5cb21.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Dec 18",
+      "nextDate": "2026-12-18",
+      "dates": [
+        "2026-12-18"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-bryn-mawr-found-wandering-christmas-concert-w-sp-1579ee",
+      "name": "Found Wandering Christmas Concert w/ special guests The Midnighters",
+      "category": "events",
+      "subcategories": [
+        "christmas",
+        "concert",
+        "holiday",
+        "music"
+      ],
+      "shortDescription": "An intimate evening of music. Two show times (5:30pm & 8:00pm)",
+      "address": "Medley Arts Center, Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.02467,
+      "lng": -75.326,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-18",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/found-wandering-christmas-concert-w-special-guests-the-midnighters-tickets-2004917088984",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/LSWOWKk_4EGe23JRCb82IQ.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -7908,6 +8362,46 @@
       "website": "https://www.episcopalacademy.org/calendar",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7a283148-c0a7-4b68-b1e1-ee4e292920a7.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Jan 5",
+      "nextDate": "2027-01-05",
+      "dates": [
+        "2027-01-05"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-swim-dive-varsity-boys-v-malvern-ff053d",
+      "name": "Swim & Dive - Varsity Boys v Malvern",
+      "category": "events",
+      "subcategories": [
+        "outdoor-recreation",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Swim & Dive - Varsity Boys v Malvern",
+      "address": "Burke Natatorium, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98678,
+      "lng": -75.40103,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2027-01-05",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c3bed831-7dd2-4403-9b71-811f4d28946d.medium.PNG",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -9615,6 +10109,45 @@
       "occurrences": 1
     },
     {
+      "id": "ev-springfield-c-s-i-mystery-dinner-theatre-42471f",
+      "name": "C.S.I. Mystery Dinner Theatre",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink",
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "Enjoy dinner and detective fun as bumbling meter maids chase suburbia’s biggest crime in this live murder mystery comedy.",
+      "address": "Yosemite Burrito, Springfield, PA",
+      "town": "Springfield",
+      "lat": 39.928255,
+      "lng": -75.333862,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-16",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/csi-mystery-dinner-theatre-tickets-2004815623498",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fW4uEI2MiUywi96nYLgTMA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Jan 16",
+      "nextDate": "2027-01-16",
+      "dates": [
+        "2027-01-16"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-springfield-township-crafty-s-big-comedy-show-292a31",
       "name": "Crafty's Big Comedy Show",
       "category": "events",
@@ -9677,6 +10210,46 @@
       "website": "https://brepresents.com/event/david-brightons-space-oddity-lansdowne-2027-01-16/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/kChHNoR99kuN01ChRXpd4Q.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Jan 16",
+      "nextDate": "2027-01-16",
+      "dates": [
+        "2027-01-16"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-widener-pride-men-s-swimming-vs-arcadia-e014b2",
+      "name": "Widener Pride: Men's Swimming vs Arcadia",
+      "category": "events",
+      "subcategories": [
+        "outdoor-recreation",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Men's Swimming vs Arcadia Streaming Video: https://gomacsports.tv/widenerpride/",
+      "address": "Schwartz Center, Chester, PA",
+      "town": "Chester",
+      "lat": 39.84956,
+      "lng": -75.35575,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2027-01-16",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://widenerpride.com/calendar.aspx?game_id=14358&amp;sport_id=17",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1f74c753-7d98-4252-a509-9773b638e300.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -9803,6 +10376,44 @@
       "nextDate": "2027-01-17",
       "dates": [
         "2027-01-17"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-dse-winter-showcase-2027-f2d6da",
+      "name": "DSE Winter Showcase 2027",
+      "category": "events",
+      "subcategories": [
+        "fitness",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Darhower Softball Events brings to you a Winter Workout for 8-12th grade softball players. This is a college recruiting event.",
+      "address": "East 17th Street, Chester, PA",
+      "town": "Chester",
+      "lat": 39.84956,
+      "lng": -75.35575,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-18",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/dse-winter-showcase-2027-tickets-2004831344520",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/PeV9ysxC10KvSATRKP2HHg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mon, Jan 18",
+      "nextDate": "2027-01-18",
+      "dates": [
+        "2027-01-18"
       ],
       "occurrences": 1
     },
@@ -10111,6 +10722,48 @@
       "website": "https://widenerpride.com/calendar.aspx?game_id=14360&amp;sport_id=17",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7f2e5f57-6cdc-46ea-91da-fcdfb7fec699.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Wed, Jan 20",
+      "nextDate": "2027-01-20",
+      "dates": [
+        "2027-01-20"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-chester-widener-pride-women-s-swimming-vs-bryn-m-37a135",
+      "name": "Widener Pride: Women's Swimming vs Bryn Mawr",
+      "category": "events",
+      "subcategories": [
+        "outdoor-recreation",
+        "special-audience",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Women's Swimming vs Bryn Mawr Streaming Video: https://gomacsports.tv/widenerpride/",
+      "address": "Schwartz Center, Chester, PA",
+      "town": "Chester",
+      "lat": 39.84956,
+      "lng": -75.35575,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2027-01-20",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://widenerpride.com/calendar.aspx?game_id=14347&amp;sport_id=18",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d099ecf7-937f-493e-8931-dc069d1c9915.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -11852,6 +12505,42 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chester-undergraduate-admitted-student-day-6a64f6",
+      "name": "Undergraduate Admitted Student Day",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Walk the red carpet at Admitted Student Day.",
+      "address": "University Center, Chester, PA",
+      "town": "Chester",
+      "lat": 39.84956,
+      "lng": -75.35575,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-01-31",
+      "endDate": "2027-04-17",
+      "recurring": "seasonal",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.widener.edu/events/admitted-student-day-1",
+      "images": [],
+      "imageUrl": "",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Select dates, Jan 31 - Apr 17",
+      "nextDate": "2027-01-31",
+      "dates": [
+        "2027-01-31",
+        "2027-04-17"
+      ],
+      "occurrences": 2
+    },
+    {
       "id": "ev-chester-ceu-the-weight-of-pain-rethinking-suicid-a1b747",
       "name": "CEU: The Weight of Pain: Rethinking Suicide",
       "category": "events",
@@ -12536,6 +13225,124 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-culinary-family-workshop-valentine-s-straw-d87edb",
+      "name": "Culinary Family Workshop: Valentine's Strawberry Roll",
+      "category": "events",
+      "subcategories": [
+        "family",
+        "holiday",
+        "lifestyle",
+        "special-audience"
+      ],
+      "shortDescription": "Let's bake, create, and celebrate the love this Valentine's Day!",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-02-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2223/culinary-family-workshop-valentines-strawberry-roll",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/uzNK5Qr780qa0LHU83NK0w.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Feb 6",
+      "nextDate": "2027-02-06",
+      "dates": [
+        "2027-02-06"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-drawing-workshop-the-art-of-fantasy-ab3414",
+      "name": "Drawing Workshop: The Art of Fantasy",
+      "category": "events",
+      "subcategories": [
+        "learning",
+        "visual-arts",
+        "workshop"
+      ],
+      "shortDescription": "Learn how to draw fantastical beasts, wizards, and Wookies in this workshop inspired by Harry Potter, Star Wars and more.",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-02-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2220/drawing-workshop-the-art-of-fantasy",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/1AZJFx93YEqP-uZSmQZlFg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Feb 6",
+      "nextDate": "2027-02-06",
+      "dates": [
+        "2027-02-06"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-family-day-of-clay-love-notes-94f111",
+      "name": "Family Day of Clay: Love Notes",
+      "category": "events",
+      "subcategories": [
+        "family",
+        "lifestyle",
+        "special-audience",
+        "visual-arts"
+      ],
+      "shortDescription": "Join your child creating a unique valentine message that's full of charm and sure to make everyone smile.",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-02-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2217/family-day-of-clay-love-notes",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/w25ZuHhzsEORkTzBgvdk0A.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Feb 6",
+      "nextDate": "2027-02-06",
+      "dates": [
+        "2027-02-06"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-lansdowne-marshall-charloff-purple-xperience-7497c7",
       "name": "Marshall Charloff & Purple xPeRIeNCE",
       "category": "events",
@@ -13037,6 +13844,80 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-valentines-dinner-with-wine-pairing-with-c-52ed9b",
+      "name": "Valentines Dinner with Wine Pairing with Chef Karen Bentz",
+      "category": "events",
+      "subcategories": [
+        "food",
+        "food-drink",
+        "holiday"
+      ],
+      "shortDescription": "Join us at Wayne Art Center for a hands-on Valentines dinner with wine pairing with Chef Karen Bentz.",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-02-11",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2211/valentines-dinner-with-wine-pairing-with-chef-karen-bentz",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/g18IgvR_RU60pYki40iKfw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Thu, Feb 11",
+      "nextDate": "2027-02-11",
+      "dates": [
+        "2027-02-11"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-adding-simple-impressionistic-people-in-ou-f50fed",
+      "name": "Adding Simple Impressionistic People in Our Paintings with Mick McAndrews",
+      "category": "events",
+      "subcategories": [
+        "visual-arts"
+      ],
+      "shortDescription": "Adding Simple Impressionistic People in Our Paintings",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-02-12",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2195/adding-simple-impressionistic-people-in-our-paintings-with-mick-mcandrews",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/KGH2MEk-cUW8EmB5duhWeg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Feb 12",
+      "nextDate": "2027-02-12",
+      "dates": [
+        "2027-02-12"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-newtown-square-basketball-boys-3rds-v-haverford-8eee7d",
       "name": "Basketball - Boys 3rds v Haverford",
       "category": "events",
@@ -13223,6 +14104,45 @@
       "nextDate": "2027-02-12",
       "dates": [
         "2027-02-12"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-havertown-cupid-s-chase-5k-havertown-542c4c",
+      "name": "Cupid's Chase 5K Havertown",
+      "category": "events",
+      "subcategories": [
+        "fitness",
+        "running",
+        "sports",
+        "sports-outdoors"
+      ],
+      "shortDescription": "Lace up your shoes and spread the love! Whether you're a seasoned runner or just looking for a good time this event is perfect for everyone!",
+      "address": "Haverford High School, Havertown, PA",
+      "town": "Havertown",
+      "lat": 39.983714,
+      "lng": -75.3016,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-02-13",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/cupids-chase-5k-havertown-registration-2005052404717",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/zHGbKlozskWVtpbB1Q5xtA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Feb 13",
+      "nextDate": "2027-02-13",
+      "dates": [
+        "2027-02-13"
       ],
       "occurrences": 1
     },
@@ -13812,6 +14732,46 @@
       "occurrences": 1
     },
     {
+      "id": "ev-bryn-mawr-reverie-baroque-winter-dreams-remember-e61f9d",
+      "name": "Reverie Baroque: Winter Dreams Remembered",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "musical",
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "Allow yourselves to be transported into a musical reverie through the grand works of German masters Johann Sebastian Bach and Georg Philipp",
+      "address": "Bryn Mawr, PA",
+      "town": "Bryn Mawr",
+      "lat": 40.00273,
+      "lng": -75.36424,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-02-21",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/reverie-baroque-winter-dreams-remembered-tickets-2000229412016",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/0NOVylocY0-y_kp0Gm1I0A.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Feb 21",
+      "nextDate": "2027-02-21",
+      "dates": [
+        "2027-02-21"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-lansdowne-joe-crookston-at-lansdowne-folk-club-86ba6f",
       "name": "Joe Crookston at Lansdowne Folk Club",
       "category": "events",
@@ -13883,6 +14843,42 @@
       "nextDate": "2027-02-26",
       "dates": [
         "2027-02-26"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-wet-felting-vessel-with-sue-fox-mitrano-cb6b19",
+      "name": "Wet Felting Vessel with Sue Fox Mitrano",
+      "category": "events",
+      "subcategories": [
+        "crafts"
+      ],
+      "shortDescription": "Create a lovely vessel or bowl using colorful wool roving, yarn, and pieces of shimmery viscose!",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-02-27",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2197/wet-felting-vessel-with-sue-fox-mitrano",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/mrWk2c-fQ0O4uCMTSSAuaA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Feb 27",
+      "nextDate": "2027-02-27",
+      "dates": [
+        "2027-02-27"
       ],
       "occurrences": 1
     },
@@ -14111,6 +15107,87 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-drawing-workshop-superhero-saturday-57e3d7",
+      "name": "Drawing Workshop: Superhero Saturday",
+      "category": "events",
+      "subcategories": [
+        "comic-con",
+        "destinations",
+        "festival",
+        "learning"
+      ],
+      "shortDescription": "Whether it's Superman, Wonder Woman or the Hulk, learn how to draw your favorite comic book hero and discover the tips and tricks that will make your Superheroes come...",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 3,
+      "tags": [
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2027-03-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2221/drawing-workshop-superhero-saturday",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/reUVxQ9oNESwZofgRFb7wA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Mar 6",
+      "nextDate": "2027-03-06",
+      "dates": [
+        "2027-03-06"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-family-day-of-clay-mushroom-plaque-dfe009",
+      "name": "Family Day of Clay: Mushroom Plaque",
+      "category": "events",
+      "subcategories": [
+        "family",
+        "kids",
+        "special-audience",
+        "visual-arts"
+      ],
+      "shortDescription": "Learn the basics of working with kiln-fired clay and colorful glazes while you make one project together with your child.",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2027-03-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2218/family-day-of-clay-mushroom-plaque",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/xMHgZ1cdr0C9XE3skoKCog.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Mar 6",
+      "nextDate": "2027-03-06",
+      "dates": [
+        "2027-03-06"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-media-hotlanta-the-allman-brothers-experience-c73a04",
       "name": "Hotlanta - THE Allman Brothers Experience",
       "category": "events",
@@ -14177,6 +15254,42 @@
       "website": "https://www.facebook.com/events/1153172410633776/",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/e358f975-c9b4-4299-92a5-67f6f6335fc7.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Mar 6",
+      "nextDate": "2027-03-06",
+      "dates": [
+        "2027-03-06"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-portrait-painting-with-watercolor-with-mic-9dff6c",
+      "name": "Portrait Painting with Watercolor with Michael Adams",
+      "category": "events",
+      "subcategories": [
+        "visual-arts"
+      ],
+      "shortDescription": "Painting a portrait, particularly of a loved one or friend...",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-06",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2202/portrait-painting-with-watercolor-with-michael-adams",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/XwISivKTp0i1GFWLH9zJIw.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -14659,6 +15772,41 @@
       "occurrences": 1
     },
     {
+      "id": "ev-chester-ceu-but-how-do-you-actually-do-ketamine-06903c",
+      "name": "CEU: But How Do You Actually Do Ketamine",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Psychedelic-assisted psychotherapy has captured the imagination of cli",
+      "address": "Chester, PA",
+      "town": "Chester",
+      "lat": 39.84956,
+      "lng": -75.35575,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-16",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.widener.edu/events/ceu-how-do-you-actually-do-ketamine-assisted-psychotherapy-three-clients-three-treatment-protocols",
+      "images": [],
+      "imageUrl": "",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Tue, Mar 16",
+      "nextDate": "2027-03-16",
+      "dates": [
+        "2027-03-16"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "media-restaurant-week",
       "name": "Media Restaurant Week",
       "category": "events",
@@ -14806,6 +15954,78 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-painting-winter-in-watercolor-with-mick-mc-671fd7",
+      "name": "Painting Winter in Watercolor with Mick McAndrews",
+      "category": "events",
+      "subcategories": [
+        "visual-arts"
+      ],
+      "shortDescription": "Painting Winter in Watercolor with Mick McAndrews at Wayne Art Center in Wayne.",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-19",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2213/painting-winter-in-watercolor-with-mick-mcandrews",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/jeZv1EgOj0KP38ct7j8M6g.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, Mar 19",
+      "nextDate": "2027-03-19",
+      "dates": [
+        "2027-03-19"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-bud-break-spring-on-the-branch-with-margar-f65115",
+      "name": "Bud Break: Spring on the Branch with Margaret Saylor",
+      "category": "events",
+      "subcategories": [
+        "visual-arts"
+      ],
+      "shortDescription": "Spring shows up on the branch before it shows up anywhere else.",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-20",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2206/bud-break-spring-on-the-branch-with-margaret-saylor",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/rKCsbcdk2UGLbk_OWkJjzw.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Mar 20",
+      "nextDate": "2027-03-20",
+      "dates": [
+        "2027-03-20"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-lansdowne-debra-devi-929355",
       "name": "Debra Devi",
       "category": "events",
@@ -14842,6 +16062,42 @@
       "nextDate": "2027-03-20",
       "dates": [
         "2027-03-20"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-indirect-painting-techniques-with-jon-redm-a5a97d",
+      "name": "Indirect Painting Techniques with Jon Redmond",
+      "category": "events",
+      "subcategories": [
+        "visual-arts"
+      ],
+      "shortDescription": "This workshop will cover indirect methods of working on paintings.",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-03-21",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2212/indirect-painting-techniques-with-jon-redmond",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/d2mT-p3kg0u4iWamEk30jg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Mar 21",
+      "nextDate": "2027-03-21",
+      "dates": [
+        "2027-03-21"
       ],
       "occurrences": 1
     },
@@ -15020,6 +16276,127 @@
       "website": "https://www.eventbrite.com/e/bowling-party-fundraiser-tickets-2003713244252",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/xHgbf-Q3i0S3CI7MpIJbRA.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Apr 3",
+      "nextDate": "2027-04-03",
+      "dates": [
+        "2027-04-03"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-culinary-family-workshop-spring-cupcakes-4869e0",
+      "name": "Culinary Family Workshop: Spring Cupcakes",
+      "category": "events",
+      "subcategories": [
+        "family",
+        "food",
+        "food-drink",
+        "kids"
+      ],
+      "shortDescription": "Bake up some spring magic! This hands-on parent-child workshop celebrates spring with beautifully decorated cupcakes featuring edible butterflies.",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2027-04-03",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2224/culinary-family-workshop-spring-cupcakes",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/wHACBiH-7E-9HFpdonSc4Q.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Apr 3",
+      "nextDate": "2027-04-03",
+      "dates": [
+        "2027-04-03"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-drawing-workshop-manga-mania-b58188",
+      "name": "Drawing Workshop: Manga Mania!",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "learning",
+        "literary-arts",
+        "visual-arts"
+      ],
+      "shortDescription": "Discover the popular Manga style of cartooning or improve your skills if you are already a Manga artist!",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-04-03",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2222/drawing-workshop-manga-mania",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/LDFNq3p9NUiLD8wUuYdTBg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Apr 3",
+      "nextDate": "2027-04-03",
+      "dates": [
+        "2027-04-03"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-family-day-of-clay-flower-pot-a50296",
+      "name": "Family Day of Clay: Flower Pot",
+      "category": "events",
+      "subcategories": [
+        "family",
+        "lifestyle",
+        "special-audience",
+        "visual-arts"
+      ],
+      "shortDescription": "Join your child creating a fabulous flower pot, just in time for spring.",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 3,
+      "tags": [
+        "family",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-04-03",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2219/family-day-of-clay-flower-pot",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3Wl4iTZ3-EuEbbj8-ftNGg.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -15477,6 +16854,40 @@
       "website": "https://www.bandsintown.com/e/108392925?app_id=pkvts0on0m&came_from=287&utm_medium=api&utm_source=partner_api&utm_campaign=event",
       "images": [],
       "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/r435Xw52zkmwsLToP_-Ymg.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sun, Apr 18",
+      "nextDate": "2027-04-18",
+      "dates": [
+        "2027-04-18"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-still-life-with-peter-van-dyck-f10639",
+      "name": "Still Life with Peter Van Dyck",
+      "category": "events",
+      "subcategories": [],
+      "shortDescription": "Still-life in the Interior (or Still-life in Context) This workshop will focus on the problem of combining the genres of still-life and interior painting into a single...",
+      "address": "Wayne Art Center, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.03894,
+      "lng": -75.394446,
+      "priceTier": 3,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-04-18",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://wayneart.org/events/2210/still-life-with-peter-van-dyck",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/O-ZVRmmGGkydyPOXbGTt6w.medium.png",
       "featured": false,
       "localsGuide": false,
       "source": "delcotimes.com",
@@ -16277,7 +17688,7 @@
       ],
       "hours": {},
       "startDate": "2027-05-07",
-      "endDate": "2027-05-16",
+      "endDate": "2027-05-21",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -16288,7 +17699,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Fri, Sat, Sun, May 7 - May 16",
+      "schedule": "Fri, Sat, Sun, May 7 - May 21",
       "nextDate": "2027-05-07",
       "dates": [
         "2027-05-07",
@@ -16296,9 +17707,10 @@
         "2027-05-09",
         "2027-05-14",
         "2027-05-15",
-        "2027-05-16"
+        "2027-05-16",
+        "2027-05-21"
       ],
-      "occurrences": 6
+      "occurrences": 7
     },
     {
       "id": "ev-newtown-square-episcopal-academy-golf-tournament-9cd0b5",
@@ -16602,6 +18014,44 @@
       "nextDate": "2027-05-20",
       "dates": [
         "2027-05-20"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-newtown-square-ls-musical-performance-3911ac",
+      "name": "LS Musical Performance",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts"
+      ],
+      "shortDescription": "LS Musical Performance at Theater - Lobby in Newtown Square.",
+      "address": "Theater - Lobby, Newtown Square, PA",
+      "town": "Newtown Square",
+      "lat": 39.98768,
+      "lng": -75.38274,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2027-05-21",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.episcopalacademy.org/calendar",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5af9f2f8-f9da-4a1c-aa81-ff6d64b2cf67.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Fri, May 21",
+      "nextDate": "2027-05-21",
+      "dates": [
+        "2027-05-21"
       ],
       "occurrences": 1
     },
