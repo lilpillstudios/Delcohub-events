@@ -1,316 +1,9 @@
 {
   "version": 1,
-  "scraped_at": "2026-11-23T21:32:40.234030+00:00",
+  "scraped_at": "2026-11-24T20:14:11.025593+00:00",
   "horizon_days": 180,
-  "event_count": 482,
+  "event_count": 481,
   "listings": [
-    {
-      "id": "ev-wayne-3d-printer-for-teens-b6e34c",
-      "name": "3D Printer for Teens",
-      "category": "events",
-      "subcategories": [
-        "special-audience"
-      ],
-      "shortDescription": "Drop in to use the 3D printer. First come, first served. For grades 6-12. Teen Room",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-23",
-      "endDate": "2026-11-30",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17945052",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c9315526-eea5-4cdc-b9eb-4ffa8188ea57.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mondays, Nov 23 - Nov 30",
-      "nextDate": "2026-11-23",
-      "dates": [
-        "2026-11-23",
-        "2026-11-30"
-      ],
-      "occurrences": 2
-    },
-    {
-      "id": "ev-aston-dcs-symphony-explorers-da8136",
-      "name": "DCS Symphony Explorers",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "DCS Symphony Explorers A FREE introduction to symphonic music for elementary and middle school age students accompanied by a parent or guardian.",
-      "address": "Neumann University, Aston, PA",
-      "town": "Aston",
-      "lat": 39.875322,
-      "lng": -75.440804,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-23",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.dcsmusic.org/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/EmrGf5EKHUWT9bAJiqccUQ.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Nov 23",
-      "nextDate": "2026-11-23",
-      "dates": [
-        "2026-11-23"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-havertown-delaware-county-camera-club-meeting-64c172",
-      "name": "Delaware County Camera Club Meeting",
-      "category": "events",
-      "subcategories": [
-        "visual-arts"
-      ],
-      "shortDescription": ". Founded in 1937, the club offers a space for local photographers to connect, learn, and showcase their work. Visit delcocameraclub.org for more information.",
-      "address": "Trinity Lutheran Church, Havertown, PA",
-      "town": "Havertown",
-      "lat": 39.972622,
-      "lng": -75.316142,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-23",
-      "endDate": "2027-05-10",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "http://www.delcocameraclub.org",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b15ba93f-e46c-4836-a2f4-7d636c24ab78.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mondays, Nov 23 - May 10",
-      "nextDate": "2026-11-23",
-      "dates": [
-        "2026-11-23",
-        "2026-11-30",
-        "2027-01-11",
-        "2027-01-18",
-        "2027-01-25",
-        "2027-02-01",
-        "2027-02-08",
-        "2027-02-15",
-        "2027-02-22",
-        "2027-03-01",
-        "2027-03-08",
-        "2027-03-15",
-        "2027-03-22",
-        "2027-03-29",
-        "2027-04-05",
-        "2027-04-12",
-        "2027-04-19",
-        "2027-04-26",
-        "2027-05-03",
-        "2027-05-10"
-      ],
-      "occurrences": 20
-    },
-    {
-      "id": "ev-glenolden-monday-trivia-night-at-the-fainting-go-c68d01",
-      "name": "Monday Trivia Night at The Fainting Goat (Glenolden - Delaware County",
-      "category": "events",
-      "subcategories": [
-        "animals",
-        "destinations",
-        "farms",
-        "games"
-      ],
-      "shortDescription": "Monday Night Trivia Starts at 7pm at the Fainting Goat in Glenolden, PA. $50 gift card for 1st Place team and $25 for 2nd Place.",
-      "address": "The Fainting Goat Bar and Restaurant, Glenolden, PA",
-      "town": "Glenolden",
-      "lat": 39.903658,
-      "lng": -75.29411,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-23",
-      "endDate": "2026-12-28",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/monday-trivia-night-at-the-fainting-goat-glenolden-delaware-county-pa-tickets-1106985927709",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QD52Na3--EGn6QKh_-aT8g.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mondays, Nov 23 - Dec 28",
-      "nextDate": "2026-11-23",
-      "dates": [
-        "2026-11-23",
-        "2026-11-30",
-        "2026-12-07",
-        "2026-12-14",
-        "2026-12-21",
-        "2026-12-28"
-      ],
-      "occurrences": 6
-    },
-    {
-      "id": "ev-wayne-sprouts-a-student-led-botany-course-b15e98",
-      "name": "Sprouts: A Student-Led Botany Course",
-      "category": "events",
-      "subcategories": [
-        "civic",
-        "classes",
-        "learning",
-        "special-audience"
-      ],
-      "shortDescription": "Winsor Room - Registration required Grades 1st-5th Led by students from The Baldwin School and Conestoga High School, the Sprouts course is a botany-based,...",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-23",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17420329",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/7c0541b1-573c-44ea-a228-c018d23d6096.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mon, Nov 23",
-      "nextDate": "2026-11-23",
-      "dates": [
-        "2026-11-23"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-toddler-storytime-ages-2-3-years-67d052",
-      "name": "Toddler Storytime (Ages 2 - 3 years)",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "kids",
-        "learning",
-        "lifestyle"
-      ],
-      "shortDescription": "Ages 2 - 3 years - Winsor Room Stories, songs, and movement activities to help your young child engage with literature in a safe, social setting.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group",
-        "kid-friendly"
-      ],
-      "hours": {},
-      "startDate": "2026-11-23",
-      "endDate": "2026-12-17",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17721352",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fe5023d6-7e53-42a2-b2aa-b93e19cac158.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "5 dates, Nov 23 - Dec 17",
-      "nextDate": "2026-11-23",
-      "dates": [
-        "2026-11-23",
-        "2026-12-07",
-        "2026-12-10",
-        "2026-12-14",
-        "2026-12-17"
-      ],
-      "occurrences": 5
-    },
-    {
-      "id": "ev-wayne-yoga-for-all-ages-10d418",
-      "name": "Yoga For All Ages",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "family",
-        "fitness",
-        "learning"
-      ],
-      "shortDescription": "Yoga for all ages Mondays, 9/28, 10/26, 11/23, 12/28 7:00pm-8:00pm Winsor Room Class is free!",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "family",
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-23",
-      "endDate": "2026-12-28",
-      "recurring": "weekly",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17559968",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b1998c8e-1669-4f37-a93a-b60812435940.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Mondays, Nov 23 - Dec 28",
-      "nextDate": "2026-11-23",
-      "dates": [
-        "2026-11-23",
-        "2026-12-28"
-      ],
-      "occurrences": 2
-    },
     {
       "id": "ev-chester-delco-revive-free-bls-cpr-3a3670",
       "name": "Delco Revive! Free BLS CPR",
@@ -1502,6 +1195,48 @@
       ]
     },
     {
+      "id": "ev-havertown-grange-estate-winterfest-82c808",
+      "name": "Grange Estate Winterfest",
+      "category": "events",
+      "subcategories": [
+        "destinations",
+        "family",
+        "festival",
+        "holiday"
+      ],
+      "shortDescription": "Winterfest at The Grange Estate November 28 | 1:00–6:00 PM 143 Myrtle Avenue, Havertown Celebrate the magic of the holiday season at Winterfest at The Grange Estate!",
+      "address": "Historic Grange Estate, Havertown, PA",
+      "town": "Havertown",
+      "lat": 39.976839,
+      "lng": -75.284743,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "outdoor"
+      ],
+      "hours": {},
+      "startDate": "2026-11-28",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "",
+      "website": "https://thegrangeestate.net",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/spPAi_cwtUOsmeHyhwGvJw.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Sat, Nov 28",
+      "nextDate": "2026-11-28",
+      "dates": [
+        "2026-11-28"
+      ],
+      "occurrences": 1
+    },
+    {
       "id": "ev-glen-mills-habitat-stewards-7411d3",
       "name": "Habitat Stewards",
       "category": "events",
@@ -1887,6 +1622,99 @@
       "occurrences": 1
     },
     {
+      "id": "ev-wayne-3d-printer-for-teens-b6e34c",
+      "name": "3D Printer for Teens",
+      "category": "events",
+      "subcategories": [
+        "special-audience"
+      ],
+      "shortDescription": "Drop in to use the 3D printer. First come, first served. For grades 6-12. Teen Room",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-30",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17945057",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c9315526-eea5-4cdc-b9eb-4ffa8188ea57.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mon, Nov 30",
+      "nextDate": "2026-11-30",
+      "dates": [
+        "2026-11-30"
+      ],
+      "occurrences": 1
+    },
+    {
+      "id": "ev-havertown-delaware-county-camera-club-meeting-64c172",
+      "name": "Delaware County Camera Club Meeting",
+      "category": "events",
+      "subcategories": [
+        "visual-arts"
+      ],
+      "shortDescription": ". Founded in 1937, the club offers a space for local photographers to connect, learn, and showcase their work. Visit delcocameraclub.org for more information.",
+      "address": "Trinity Lutheran Church, Havertown, PA",
+      "town": "Havertown",
+      "lat": 39.972622,
+      "lng": -75.316142,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-30",
+      "endDate": "2027-05-10",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "http://www.delcocameraclub.org",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b15ba93f-e46c-4836-a2f4-7d636c24ab78.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mondays, Nov 30 - May 10",
+      "nextDate": "2026-11-30",
+      "dates": [
+        "2026-11-30",
+        "2027-01-11",
+        "2027-01-18",
+        "2027-01-25",
+        "2027-02-01",
+        "2027-02-08",
+        "2027-02-15",
+        "2027-02-22",
+        "2027-03-01",
+        "2027-03-08",
+        "2027-03-15",
+        "2027-03-22",
+        "2027-03-29",
+        "2027-04-05",
+        "2027-04-12",
+        "2027-04-19",
+        "2027-04-26",
+        "2027-05-03",
+        "2027-05-10"
+      ],
+      "occurrences": 19
+    },
+    {
       "id": "ev-media-join-the-delaware-county-historical-societ-c65923",
       "name": "Join the Delaware County Historical Society!",
       "category": "events",
@@ -1922,6 +1750,50 @@
         "2026-12-12"
       ],
       "occurrences": 3
+    },
+    {
+      "id": "ev-glenolden-monday-trivia-night-at-the-fainting-go-c68d01",
+      "name": "Monday Trivia Night at The Fainting Goat (Glenolden - Delaware County",
+      "category": "events",
+      "subcategories": [
+        "animals",
+        "destinations",
+        "farms",
+        "games"
+      ],
+      "shortDescription": "Monday Night Trivia Starts at 7pm at the Fainting Goat in Glenolden, PA. $50 gift card for 1st Place team and $25 for 2nd Place.",
+      "address": "The Fainting Goat Bar and Restaurant, Glenolden, PA",
+      "town": "Glenolden",
+      "lat": 39.903658,
+      "lng": -75.29411,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-30",
+      "endDate": "2026-12-28",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "",
+      "website": "https://www.eventbrite.com/e/monday-trivia-night-at-the-fainting-goat-glenolden-delaware-county-pa-tickets-1106985927709",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/QD52Na3--EGn6QKh_-aT8g.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mondays, Nov 30 - Dec 28",
+      "nextDate": "2026-11-30",
+      "dates": [
+        "2026-11-30",
+        "2026-12-07",
+        "2026-12-14",
+        "2026-12-21",
+        "2026-12-28"
+      ],
+      "occurrences": 5
     },
     {
       "id": "ev-newtown-square-basketball-boys-jv-v-pennington-s-0cb082",
@@ -3992,6 +3864,51 @@
         "2026-12-07"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-wayne-toddler-storytime-ages-2-3-years-67d052",
+      "name": "Toddler Storytime (Ages 2 - 3 years)",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "kids",
+        "learning",
+        "lifestyle"
+      ],
+      "shortDescription": "Ages 2 - 3 years - Winsor Room Stories, songs, and movement activities to help your young child engage with literature in a safe, social setting.",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group",
+        "kid-friendly"
+      ],
+      "hours": {},
+      "startDate": "2026-12-07",
+      "endDate": "2026-12-17",
+      "recurring": "weekly",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17721354",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/fe5023d6-7e53-42a2-b2aa-b93e19cac158.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mon, Thu, Dec 7 - Dec 17",
+      "nextDate": "2026-12-07",
+      "dates": [
+        "2026-12-07",
+        "2026-12-10",
+        "2026-12-14",
+        "2026-12-17"
+      ],
+      "occurrences": 4
     },
     {
       "id": "ev-boothwyn-wilmington-women-s-connection-luncheon-37f6e9",
@@ -7756,6 +7673,47 @@
         "2026-12-30"
       ],
       "occurrences": 3
+    },
+    {
+      "id": "ev-wayne-yoga-for-all-ages-10d418",
+      "name": "Yoga For All Ages",
+      "category": "events",
+      "subcategories": [
+        "classes",
+        "family",
+        "fitness",
+        "learning"
+      ],
+      "shortDescription": "Yoga for all ages Mondays, 9/28, 10/26, 11/23, 12/28 7:00pm-8:00pm Winsor Room Class is free!",
+      "address": "Radnor Memorial Library, Wayne, PA",
+      "town": "Wayne",
+      "lat": 40.042952,
+      "lng": -75.389088,
+      "priceTier": 0,
+      "tags": [
+        "family",
+        "free",
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-12-28",
+      "endDate": "",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "+1 610-687-1124",
+      "website": "https://delcolibraries.libcal.com/event/17559988",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b1998c8e-1669-4f37-a93a-b60812435940.medium.png",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "Mon, Dec 28",
+      "nextDate": "2026-12-28",
+      "dates": [
+        "2026-12-28"
+      ],
+      "occurrences": 1
     },
     {
       "id": "ev-wayne-open-play-in-the-library-5e7250",
@@ -17688,7 +17646,7 @@
       ],
       "hours": {},
       "startDate": "2027-05-07",
-      "endDate": "2027-05-21",
+      "endDate": "2027-05-22",
       "recurring": "weekly",
       "venueId": "",
       "phone": "",
@@ -17699,7 +17657,7 @@
       "localsGuide": false,
       "source": "delcotimes.com",
       "needsVerify": false,
-      "schedule": "Fri, Sat, Sun, May 7 - May 21",
+      "schedule": "Fri, Sat, Sun, May 7 - May 22",
       "nextDate": "2027-05-07",
       "dates": [
         "2027-05-07",
@@ -17708,9 +17666,10 @@
         "2027-05-14",
         "2027-05-15",
         "2027-05-16",
-        "2027-05-21"
+        "2027-05-21",
+        "2027-05-22"
       ],
-      "occurrences": 7
+      "occurrences": 8
     },
     {
       "id": "ev-newtown-square-episcopal-academy-golf-tournament-9cd0b5",
