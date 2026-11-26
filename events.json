@@ -1,336 +1,9 @@
 {
   "version": 1,
-  "scraped_at": "2026-11-25T19:26:15.065653+00:00",
+  "scraped_at": "2026-11-26T19:09:02.694246+00:00",
   "horizon_days": 180,
-  "event_count": 480,
+  "event_count": 474,
   "listings": [
-    {
-      "id": "ev-media-act-247-december-review-application-submis-ce20f2",
-      "name": "Act 247 December Review Application Submission Deadline",
-      "category": "events",
-      "subcategories": [],
-      "shortDescription": "Act 247 December Review Application Submission Deadline at a Delco venue in Media.",
-      "address": "Media, PA",
-      "town": "Media",
-      "lat": 39.91678,
-      "lng": -75.38769,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.delcopa.gov/node/3449",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/YP98VR5oBEevXvFM39fLEg.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 25",
-      "nextDate": "2026-11-25",
-      "dates": [
-        "2026-11-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-concrete-charlie-thanksgiving-eve-throwdow-9acde4",
-      "name": "CONCRETE CHARLIE: Thanksgiving Eve Throwdown at 118 North",
-      "category": "events",
-      "subcategories": [
-        "holiday",
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "CONCRETE CHARLIE: Thanksgiving Eve Throwdown at 118 North Wednesday, November 25, 2026 Doors: 6:00 PM | Show: 8:00 PM 21+ Unless Accompanied by Parent or Legal Guardian...",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1988017951834254/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/822044a4-859a-47eb-80e9-fcfc8d892ddd.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 25",
-      "nextDate": "2026-11-25",
-      "dates": [
-        "2026-11-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-chess-club-2-4pm-this-076cbd",
-      "name": "Chess Club (2-4pm this",
-      "category": "events",
-      "subcategories": [
-        "classes",
-        "games",
-        "learning"
-      ],
-      "shortDescription": "Delaware Valley Chess Club meets at RML, weekly on Wednesdays.",
-      "address": "Radnor Memorial Library, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.042952,
-      "lng": -75.389088,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "+1 610-687-1124",
-      "website": "https://delcolibraries.libcal.com/event/17971833",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/9d48df85-6e30-413d-93b1-5323ff4de85b.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 25",
-      "nextDate": "2026-11-25",
-      "dates": [
-        "2026-11-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-dj-hurricane-larue-at-118-north-e288eb",
-      "name": "DJ Hurricane LaRue at 118 North",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts"
-      ],
-      "shortDescription": "DJ Hurricane LaRue at 118 North Wednesday, November 25, 2026 Show: 11:00 PM 21+ Unless Accompanied by Parent or Legal Guardian Tickets >>...",
-      "address": "118 NORTH, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.044905,
-      "lng": -75.388148,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.facebook.com/events/1659709445718049/",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b07cc5f2-7c7d-4c00-8834-65f09a2595be.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 25",
-      "nextDate": "2026-11-25",
-      "dates": [
-        "2026-11-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "media-dining-under-the-stars",
-      "name": "Dining Under the Stars",
-      "category": "events",
-      "subcategories": [
-        "food-festival",
-        "street-dining"
-      ],
-      "shortDescription": "Media's signature warm-weather event closing State Street so restaurants serve al fresco dinners under string lights.",
-      "address": "State St, Media, PA 19063",
-      "town": "Media",
-      "lat": 39.9166,
-      "lng": -75.388,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "date",
-        "group",
-        "family"
-      ],
-      "hours": {},
-      "startDate": "",
-      "endDate": "",
-      "recurring": "weekly",
-      "venueId": "media-state-street-district",
-      "phone": "",
-      "website": "",
-      "images": [],
-      "featured": false,
-      "localsGuide": false,
-      "source": "visitdelco.com",
-      "needsVerify": true,
-      "schedule": "Wednesdays, June-August",
-      "nextDate": "2026-11-25",
-      "imageUrl": "",
-      "occurrences": 1,
-      "dates": [
-        "2026-11-25"
-      ]
-    },
-    {
-      "id": "ev-drexel-hill-drinksgiving-rush-hour-edition-00a0cf",
-      "name": "Drinksgiving \"Rush Hour Edition\"",
-      "category": "events",
-      "subcategories": [
-        "drinks",
-        "food-drink"
-      ],
-      "shortDescription": "Drinksgiving Rush Hour Edition.. The Biggest Drinking Day Of The Year.. Come Drink With The Hottest Happy Hour In The Tristate",
-      "address": "Casey's Drexel Hill, Drexel Hill, PA",
-      "town": "Drexel Hill",
-      "lat": 39.959937,
-      "lng": -75.288952,
-      "priceTier": 3,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.eventbrite.com/e/drinksgiving-rush-hour-edition-tickets-2004862036320",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/waBmJGXtr0GyrGolme42-A.medium.png",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 25",
-      "nextDate": "2026-11-25",
-      "dates": [
-        "2026-11-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-wayne-friendsgiving-happy-hour-at-pomelo-rooftop-0ced7f",
-      "name": "Friendsgiving Happy Hour at Pomelo Rooftop Terrace",
-      "category": "events",
-      "subcategories": [
-        "drinks",
-        "food-drink",
-        "holiday"
-      ],
-      "shortDescription": "Celebrate being home for the holidays at Pomelo Rooftop Terrace’s Friendsgiving Happy Hour on Wednesday, November 25, from 4–10 PM.",
-      "address": "Pomelo Rooftop Terrance, Wayne, PA",
-      "town": "Wayne",
-      "lat": 40.041394,
-      "lng": -75.354926,
-      "priceTier": 0,
-      "tags": [
-        "free",
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-25",
-      "endDate": "",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "",
-      "website": "https://www.opentable.com/booking/restref/availability?lang=en-US&correlationId=4722de26-5607-44a7-b7f7-caeb4f1a9b7c&restRef=1498306&otSource=Restaurant*20website__;JQ!!FOfmI8qiWcWBHqypJtzENF0!3ycbdSd7qAFSwBLThXL5meV5g4k3XNTYTEzpE4hdTgD2n85_mGNrgPwA1KFCPC0apLEdrUytibwKXWe42zqrfw&adobe_mc=MCMID=75818640424559991784336667698384791420%7CMCORGID=1C1238B352785AA60A490D4C@AdobeOrg%7CTS=1795014368",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/xgJe-Fs4pkycoO3zOBChGA.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "Wed, Nov 25",
-      "nextDate": "2026-11-25",
-      "dates": [
-        "2026-11-25"
-      ],
-      "occurrences": 1
-    },
-    {
-      "id": "ev-media-the-old-man-and-the-old-moon-14c52d",
-      "name": "The Old Man and the Old Moon",
-      "category": "events",
-      "subcategories": [
-        "music",
-        "performing-arts",
-        "theater"
-      ],
-      "shortDescription": "The Old Man and the Old Moon November 25 - January 3 Book, music, and lyrics by PigPen Theatre Co.",
-      "address": "Hedgerow Theatre, Media, PA",
-      "town": "Media",
-      "lat": 39.897539,
-      "lng": -75.386668,
-      "priceTier": 2,
-      "tags": [
-        "group"
-      ],
-      "hours": {},
-      "startDate": "2026-11-25",
-      "endDate": "2027-01-02",
-      "recurring": "none",
-      "venueId": "",
-      "phone": "(610) 565-4211",
-      "website": "https://www.hedgerowtheatre.org/the-old-man-and-the-old-moon",
-      "images": [],
-      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cTqYWIjOmkGxO2PJB_YgHg.medium.jpg",
-      "featured": false,
-      "localsGuide": false,
-      "source": "delcotimes.com",
-      "needsVerify": false,
-      "schedule": "23 dates, Nov 25 - Jan 2",
-      "nextDate": "2026-11-25",
-      "dates": [
-        "2026-11-25",
-        "2026-11-27",
-        "2026-11-28",
-        "2026-11-29",
-        "2026-12-03",
-        "2026-12-04",
-        "2026-12-05",
-        "2026-12-06",
-        "2026-12-10",
-        "2026-12-11",
-        "2026-12-12",
-        "2026-12-17",
-        "2026-12-18",
-        "2026-12-19",
-        "2026-12-20",
-        "2026-12-22",
-        "2026-12-23",
-        "2026-12-26",
-        "2026-12-27",
-        "2026-12-29",
-        "2026-12-30",
-        "2026-12-31",
-        "2027-01-02"
-      ],
-      "occurrences": 23
-    },
     {
       "id": "ev-newtown-square-ea-turkey-trot-af8197",
       "name": "EA Turkey Trot",
@@ -638,6 +311,65 @@
         "2026-11-27"
       ],
       "occurrences": 1
+    },
+    {
+      "id": "ev-media-the-old-man-and-the-old-moon-14c52d",
+      "name": "The Old Man and the Old Moon",
+      "category": "events",
+      "subcategories": [
+        "music",
+        "performing-arts",
+        "theater"
+      ],
+      "shortDescription": "The Old Man and the Old Moon November 25 - January 3 Book, music, and lyrics by PigPen Theatre Co.",
+      "address": "Hedgerow Theatre, Media, PA",
+      "town": "Media",
+      "lat": 39.897539,
+      "lng": -75.386668,
+      "priceTier": 2,
+      "tags": [
+        "group"
+      ],
+      "hours": {},
+      "startDate": "2026-11-27",
+      "endDate": "2027-01-02",
+      "recurring": "none",
+      "venueId": "",
+      "phone": "(610) 565-4211",
+      "website": "https://www.hedgerowtheatre.org/the-old-man-and-the-old-moon",
+      "images": [],
+      "imageUrl": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/cTqYWIjOmkGxO2PJB_YgHg.medium.jpg",
+      "featured": false,
+      "localsGuide": false,
+      "source": "delcotimes.com",
+      "needsVerify": false,
+      "schedule": "22 dates, Nov 27 - Jan 2",
+      "nextDate": "2026-11-27",
+      "dates": [
+        "2026-11-27",
+        "2026-11-28",
+        "2026-11-29",
+        "2026-12-03",
+        "2026-12-04",
+        "2026-12-05",
+        "2026-12-06",
+        "2026-12-10",
+        "2026-12-11",
+        "2026-12-12",
+        "2026-12-17",
+        "2026-12-18",
+        "2026-12-19",
+        "2026-12-20",
+        "2026-12-22",
+        "2026-12-23",
+        "2026-12-26",
+        "2026-12-27",
+        "2026-12-29",
+        "2026-12-30",
+        "2026-12-31",
+        "2027-01-02"
+      ],
+      "occurrences": 22
     },
     {
       "id": "ev-lansdowne-the-speakeasy-at-bluesouth-9a0b19",
@@ -1827,6 +1559,46 @@
         "2026-12-23"
       ],
       "occurrences": 4
+    },
+    {
+      "id": "media-dining-under-the-stars",
+      "name": "Dining Under the Stars",
+      "category": "events",
+      "subcategories": [
+        "food-festival",
+        "street-dining"
+      ],
+      "shortDescription": "Media's signature warm-weather event closing State Street so restaurants serve al fresco dinners under string lights.",
+      "address": "State St, Media, PA 19063",
+      "town": "Media",
+      "lat": 39.9166,
+      "lng": -75.388,
+      "priceTier": 0,
+      "tags": [
+        "free",
+        "date",
+        "group",
+        "family"
+      ],
+      "hours": {},
+      "startDate": "",
+      "endDate": "",
+      "recurring": "weekly",
+      "venueId": "media-state-street-district",
+      "phone": "",
+      "website": "",
+      "images": [],
+      "featured": false,
+      "localsGuide": false,
+      "source": "visitdelco.com",
+      "needsVerify": true,
+      "schedule": "Wednesdays, June-August",
+      "nextDate": "2026-12-02",
+      "imageUrl": "",
+      "occurrences": 1,
+      "dates": [
+        "2026-12-02"
+      ]
     },
     {
       "id": "ev-chester-pre-kwanzaa-celebration-8170d4",
